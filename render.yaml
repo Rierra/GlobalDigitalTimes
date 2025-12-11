@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: globaldigitaltimes
+    env: static
+    staticPublishPath: ./revived_site
+    buildCommand: null
+    headers:
+      - path: /*
+        name: Cache-Control
+        value: public, max-age=3600
