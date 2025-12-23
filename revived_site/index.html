@@ -4890,36 +4890,91 @@ Published By : mrjim.eu.org
     </div>
   </div>
   <!-- footer nav menu -->
+  <style>
+    /* Flashy Footer Effects */
+    @keyframes glow-pulse {
+
+      0%,
+      100% {
+        text-shadow: 0 0 5px #ff0080, 0 0 10px #ff0080, 0 0 20px #ff0080;
+      }
+
+      50% {
+        text-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff, 0 0 40px #00ffff;
+      }
+    }
+
+    @keyframes rainbow-shift {
+      0% {
+        color: #ff0080;
+      }
+
+      25% {
+        color: #00ff80;
+      }
+
+      50% {
+        color: #00ffff;
+      }
+
+      75% {
+        color: #8000ff;
+      }
+
+      100% {
+        color: #ff0080;
+      }
+    }
+
+    #footer-navmenu {
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+      padding: 30px 15px;
+      border-top: 2px solid #ff0080;
+      border-bottom: 2px solid #00ffff;
+    }
+
+    #footer-navmenu .widget-content ul li a {
+      color: #ffffff;
+      font-weight: bold;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      padding: 8px 15px;
+      margin: 5px;
+      display: inline-block;
+      border-radius: 25px;
+      background: linear-gradient(45deg, rgba(255, 0, 128, 0.2), rgba(0, 255, 255, 0.2));
+      border: 1px solid rgba(255, 255, 255, 0.3);
+      transition: all 0.3s ease;
+    }
+
+    #footer-navmenu .widget-content ul li a:hover {
+      animation: glow-pulse 1s ease-in-out infinite, rainbow-shift 2s linear infinite;
+      transform: scale(1.1) translateY(-3px);
+      background: linear-gradient(45deg, rgba(255, 0, 128, 0.5), rgba(0, 255, 255, 0.5));
+      box-shadow: 0 5px 20px rgba(255, 0, 128, 0.4);
+    }
+
+    #footer-navmenu h2.title {
+      display: block !important;
+      color: #00ffff;
+      font-size: 18px;
+      text-transform: uppercase;
+      letter-spacing: 3px;
+      margin-bottom: 20px;
+      animation: glow-pulse 3s ease-in-out infinite;
+    }
+  </style>
   <div class="footer-navmenu section" id="footer-navmenu">
     <div class="widget PageList" data-version="2" id="PageList1">
-      <h2 class="title">Footer Menu</h2>
+      <h2 class="title">✨ Quick Links ✨</h2>
       <div class="widget-content">
         <ul>
-          <li>
-            <a href="index.html">Home</a>
-          </li>
-          <li>
-            <a href="p/contact.html">Contact</a>
-          </li>
-          <li>
-            <a href="p/about.html">About</a>
-          </li>
-          <li>
-            <a href="p/sitemap.html">Sitemap</a>
-          </li>
-          <li>
-            <a href="p/privacy.html">Privacy</a>
-          </li>
-          <li>
-            <a href="p/disclaimer.html">Disclaimer</a>
-          </li>
-          <li>
-            <a href="https://www.reddit.com/r/vpns/comments/1id9vpr/best_free_vpn/" rel="noopener" target="_blank">Free
-              Vpn</a>
-          </li>
-          <a href="https://www.reddit.com/r/vpns/comments/1id9vpr/best_free_vpn/" rel="noopener" target="_blank">Free
-            Vpn</a>
-          </li>
+          <li><a href="index.html">🏠 Home</a></li>
+          <li><a href="p/contact.html">📧 Contact</a></li>
+          <li><a href="p/about.html">ℹ️ About</a></li>
+          <li><a href="p/privacy.html">🔒 Privacy</a></li>
+          <li><a href="https://www.reddit.com/r/vpns/comments/1id9vpr/best_free_vpn/" rel="noopener" target="_blank">🔐
+              Free VPN</a></li>
         </ul>
       </div>
     </div>
