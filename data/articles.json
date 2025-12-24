@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "d465e7d72906",
+      "title": "Transforming Transportation: Waymo's Gemini AI Assistant Unveiled with 1200+ Capabilities",
+      "slug": "waymo-gemini-ai-transforming-transportation",
+      "original_link": "https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2025-12-24T17:36:32.040542+00:00",
+      "word_count": 969
+    },
+    {
+      "id": "7c123c1b4448",
+      "title": "7,000 Dark Stoplights No Match for Waymo's Robotaxis Technology",
+      "slug": "waymo-robotaxis-dark-stoplights",
+      "original_link": "https://techcrunch.com/2025/12/24/waymo-explains-why-its-robotaxis-got-stuck-during-the-sf-blackout/",
+      "original_source": "TechCrunch",
+      "topic": "Robotics",
+      "generated_at": "2025-12-24T17:36:18.593255+00:00",
+      "word_count": 1135
+    },
+    {
       "id": "ea7de2c0be13",
       "title": "Breaking: Italy Tells Meta to Halt WhatsApp AI Chatbot Restrictions Within 10 Days",
       "slug": "italy-orders-meta-to-halt-whatsapp-ai-chatbot-restrictions",
@@ -31,6 +51,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2025-12-24T16:27:29.379283+00:00",
+  "last_updated": "2025-12-24T17:36:32.338350+00:00",
   "version": "1.0.0"
 }
