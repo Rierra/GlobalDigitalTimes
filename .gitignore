@@ -1,4 +1,14 @@
+# Auto-generated files
+.env
 __pycache__/
+*.pyc
+data/generated_images/
 *.log
-*.tmp
-debug_*.html
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
