@@ -126,9 +126,9 @@ GROQ_CONFIG = {
 # LEONARDO AI SETTINGS
 # =============================================================================
 LEONARDO_CONFIG = {
-    "model_id": "6bef9f1b-29cb-40c7-b9df-32b51c1f67d3",  # Leonardo Creative
-    "width": 1200,
-    "height": 630,  # OG image size
+    "model_id": "de7d3faf-762f-48e0-b3b7-9d0ac3a3fcf3",  # Leonardo Phoenix 1.0
+    "width": 1472,   # Must be multiple of 8, close to 16:9 for OG images
+    "height": 832,   # Must be multiple of 8
     "num_images": 1
 }
 

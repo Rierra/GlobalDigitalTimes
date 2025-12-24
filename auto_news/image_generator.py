@@ -63,11 +63,13 @@ def create_generation(prompt: str) -> Optional[str]:
         "width": LEONARDO_CONFIG['width'],
         "height": LEONARDO_CONFIG['height'],
         "num_images": LEONARDO_CONFIG['num_images'],
-        "promptMagic": True,
-        "public": False
+        "alchemy": True,  # Use Alchemy for better quality
+        "public": False,
+        "presetStyle": "DYNAMIC"  # Good for tech/photorealistic images
     }
     
     try:
+        logger.info(f"Sending request to Leonardo AI with model: {LEONARDO_CONFIG['model_id']}")
         response = requests.post(url, headers=get_headers(), json=payload)
         response.raise_for_status()
         
@@ -77,6 +79,10 @@ def create_generation(prompt: str) -> Optional[str]:
         logger.info(f"Started image generation: {generation_id}")
         return generation_id
         
+    except requests.exceptions.HTTPError as e:
+        logger.error(f"HTTP Error starting image generation: {e}")
+        logger.error(f"Response: {e.response.text if hasattr(e, 'response') else 'No response'}")
+        return None
     except Exception as e:
         logger.error(f"Error starting image generation: {e}")
         return None
