@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "0557b670b572",
+      "title": "Unlock 10 AI Coding Secrets: Boosting Productivity with Agents",
+      "slug": "unlock-ai-coding-secrets",
+      "original_link": "https://arstechnica.com/information-technology/2025/12/how-do-ai-coding-agents-work-we-look-under-the-hood/",
+      "original_source": "Ars Technica",
+      "topic": "AI",
+      "generated_at": "2025-12-24T14:41:03.501618+00:00",
+      "word_count": 1261
+    },
+    {
       "id": "f569b05700da",
       "title": "2025: The Year AI Revolutionized Gaming Forever with 90% Adoption",
       "slug": "ai-revolutionizes-gaming-2025",
@@ -11,6 +21,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2025-12-24T14:07:33.119821+00:00",
+  "last_updated": "2025-12-24T14:41:03.523395+00:00",
   "version": "1.0.0"
 }
