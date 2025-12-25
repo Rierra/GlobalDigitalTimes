@@ -25,25 +25,30 @@ def get_headers() -> Dict:
     }
 
 
-def generate_image_prompt(article: Dict) -> str:
+def get_legacy_image_prompt(article: Dict) -> str:
     """
-    Generate a descriptive prompt for the featured image.
+    LEGACY: Generate a descriptive prompt for the featured image.
+    Only used as ultimate fallback when article has no image_prompt data.
+    
+    NOTE: These prompts are deprecated - article_generator.py now provides
+    better prompts via generate_image_prompt() function.
     """
     topic = article.get('classification', {}).get('primary_topic', 'Technology')
     title = article.get('title', '')
     
+    # Updated fallback prompts - PHOTOREALISTIC style, no neon/circuits
     base_prompts = {
-        "AI": "Futuristic artificial intelligence concept, neural networks, digital brain visualization, glowing blue and purple circuits, professional tech blog style",
-        "Robotics": "Advanced robotics technology, humanoid robot, mechanical precision, sleek metallic design, futuristic laboratory, professional tech photography",
-        "Tech Policy": "Technology and government regulation concept, digital scales of justice, cybersecurity symbols, professional corporate style, blue tones"
+        "AI": "Close-up of a developer's hands typing on a laptop in a quiet co-working space, code editor on screen, soft window light, shallow depth of field, realistic candid photography.",
+        "Robotics": "Medium shot of a self-driving car at a city intersection, dashboard sensors visible, calm passenger in back seat, natural dusk lighting, photorealistic — no neon.",
+        "Tech Policy": "Wide shot of a modern corporate headquarters building exterior under overcast skies, employees entering lobby, documentary photography style.",
+        "Gaming": "Medium shot of a focused gamer with headphones in a dimly lit room, multiple monitors showing gameplay, subtle RGB lighting, candid moment, realistic photography.",
+        "Mobile": "Close-up of hands holding a smartphone in a coffee shop, natural daylight from window, screen showing app, shallow depth of field, authentic lifestyle photography.",
+        "Cybersecurity": "Medium shot of a security analyst at workstation with monitors showing dashboards, focused expression, office ambient lighting, realistic workplace photography."
     }
     
-    base = base_prompts.get(topic, "Modern technology concept, digital innovation, professional tech blog style, blue gradient")
+    base = base_prompts.get(topic, "Medium shot of a modern open-plan tech office, employees at standing desks, large windows with natural light, authentic workplace photography — no staged poses.")
     
-    # Add title context
-    prompt = f"{base}, representing '{title[:50]}', 16:9 aspect ratio, high quality, photorealistic"
-    
-    return prompt
+    return base
 
 
 def create_generation(prompt: str) -> Optional[str]:
@@ -65,7 +70,7 @@ def create_generation(prompt: str) -> Optional[str]:
         "num_images": LEONARDO_CONFIG['num_images'],
         "alchemy": True,  # Use Alchemy for better quality
         "public": False,
-        "presetStyle": "DYNAMIC"  # Good for tech/photorealistic images
+        "presetStyle": "PHOTOREALISTIC"  # CHANGED: Natural, believable imagery (was DYNAMIC)
     }
     
     try:
@@ -155,6 +160,10 @@ def download_image(url: str, filename: str) -> Optional[Path]:
 def generate_featured_image(article: Dict) -> Optional[Dict]:
     """
     Main function: Generate and download a featured image for an article.
+    
+    Hybrid approach:
+    1. If article contains image_prompt data from Groq, use that (preferred)
+    2. Else fall back to legacy prompt generation
     """
     if not LEONARDO_API_KEY:
         logger.warning("Leonardo API key not set. Using placeholder.")
@@ -162,9 +171,20 @@ def generate_featured_image(article: Dict) -> Optional[Dict]:
     
     logger.info(f"Generating image for: {article.get('title', '')[:50]}...")
     
-    # Generate prompt
-    prompt = generate_image_prompt(article)
-    logger.info(f"Image prompt: {prompt[:100]}...")
+    # Check if article has pre-generated image prompt (from Groq)
+    image_prompt_data = article.get('image_prompt', {})
+    
+    if image_prompt_data and image_prompt_data.get('prompt'):
+        # Use the Groq-generated or fallback prompt from article_generator
+        prompt = image_prompt_data['prompt']
+        prompt_source = image_prompt_data.get('source', 'article')
+        suggested_filename = image_prompt_data.get('filename', None)
+        logger.info(f"Using {prompt_source} image prompt: {prompt[:80]}...")
+    else:
+        # Ultimate fallback: use legacy prompt generation
+        prompt = get_legacy_image_prompt(article)
+        suggested_filename = None
+        logger.info(f"Using legacy image prompt: {prompt[:80]}...")
     
     # Start generation
     generation_id = create_generation(prompt)
@@ -176,9 +196,14 @@ def generate_featured_image(article: Dict) -> Optional[Dict]:
     if not image_url:
         return create_placeholder_result(article)
     
-    # Download image
-    slug = article.get('metadata', {}).get('slug', article.get('id', 'article'))
-    filename = f"{slug}.png"
+    # Determine filename
+    if suggested_filename:
+        # Use suggested filename from prompt generator
+        filename = f"{suggested_filename}.png"
+    else:
+        # Fall back to slug-based filename
+        slug = article.get('metadata', {}).get('slug', article.get('id', 'article'))
+        filename = f"{slug}.png"
     
     filepath = download_image(image_url, filename)
     if not filepath:
@@ -190,7 +215,8 @@ def generate_featured_image(article: Dict) -> Optional[Dict]:
         "url": image_url,
         "local_path": str(filepath),
         "filename": filename,
-        "assets_path": f"assets/{filename}"
+        "assets_path": f"assets/{filename}",
+        "prompt_source": image_prompt_data.get('source', 'legacy')
     }
 
 

@@ -285,6 +285,152 @@ Only respond with JSON."""
         }
 
 
+def generate_image_prompt(client: Groq, article: Dict, title: str, topic: str) -> Dict:
+    """
+    Generate a Leonardo AI-ready image prompt using Groq.
+    Returns: {prompt, filename, alt_text, confidence}
+    
+    Uses PHOTOREALISTIC style guidelines for natural, believable imagery.
+    Falls back to static prompts if confidence is low.
+    """
+    summary = article.get('summary', title)[:500]
+    
+    system_prompt = """You are an expert visual director for a tech news publication.
+Generate PHOTOREALISTIC image prompts for Leonardo AI.
+
+STRICT RULES:
+- 1-2 sentences only
+- No neon colors, no abstract circuit brains, no text overlays, no CGI look
+- Prioritize realism, natural lighting, real-world materials
+- Include human presence only if it naturally fits the story
+- Use emotional realism: concern, focus, calm, urgency — never staged smiles
+- Specify framing (close-up / medium / wide)
+- Mention lighting condition (window light, dusk, overcast, office LED, etc.)
+- AVOID buzzwords like "futuristic", "cyberpunk", "AI glow", "holographic"
+
+Human context rules by topic:
+- Autonomous vehicles / consumer tech: Yes — user, passenger, worker
+- Regulation / corporate lawsuits: Only if it adds meaning
+- Infrastructure / cyber incidents: Environment first
+- Software releases / backend tools: Device or screen focus, no people
+
+Output JSON only."""
+
+    user_prompt = f"""Generate a Leonardo PHOTOREALISTIC image prompt for this article:
+
+TITLE: {title}
+TOPIC: {topic}
+SUMMARY: {summary}
+
+Respond with JSON:
+{{
+    "prompt": "1-2 sentence Leonardo prompt",
+    "filename": "lowercase-hyphenated-filename",
+    "alt_text": "One sentence alt text with main keyword",
+    "confidence": 0.0-1.0 (how confident you are this prompt will produce a good, unique image)
+}}
+
+Only respond with JSON."""
+
+    try:
+        response = client.chat.completions.create(
+            model=GROQ_CONFIG['model'],
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt}
+            ],
+            temperature=0.7,
+            max_tokens=500
+        )
+        
+        result_text = response.choices[0].message.content.strip()
+        
+        if result_text.startswith('```'):
+            result_text = result_text.split('\n', 1)[1]
+            result_text = result_text.rsplit('```', 1)[0]
+        
+        result = json.loads(result_text)
+        
+        # Ensure confidence is a float
+        result['confidence'] = float(result.get('confidence', 0.5))
+        
+        # If confidence is high enough, use the generated prompt
+        if result['confidence'] >= 0.75:
+            logger.info(f"Using Groq-generated image prompt (confidence: {result['confidence']:.2f})")
+            result['source'] = 'groq'
+            return result
+        else:
+            logger.info(f"Low confidence ({result['confidence']:.2f}), using fallback prompt")
+            return get_fallback_image_prompt(topic, title)
+        
+    except Exception as e:
+        logger.error(f"Image prompt generation error: {e}")
+        return get_fallback_image_prompt(topic, title)
+
+
+def get_fallback_image_prompt(topic: str, title: str) -> Dict:
+    """
+    Get a static fallback image prompt based on topic category.
+    These are pre-designed PHOTOREALISTIC prompts that avoid the "AI brain" look.
+    """
+    fallback_prompts = {
+        "AI": {
+            "prompt": "Close-up of a developer's hands typing on a laptop in a quiet co-working space, code editor open on screen, soft window light, shallow depth of field, realistic candid photography — no stylization.",
+            "filename": "ai-software-development",
+            "alt_text": "Developer working on AI software in modern office"
+        },
+        "Robotics": {
+            "prompt": "Medium shot of a self-driving car paused at a city intersection, dashboard sensors visible, one calm passenger in the back seat, street lamps reflecting on wet asphalt, natural dusk lighting, photorealistic — no neon, no text.",
+            "filename": "autonomous-vehicle-city",
+            "alt_text": "Self-driving vehicle navigating urban intersection"
+        },
+        "Tech Policy": {
+            "prompt": "Wide shot of a modern corporate headquarters building exterior under overcast skies, employees entering the lobby, natural urban environment, documentary photography style — no dramatic lighting.",
+            "filename": "tech-company-headquarters",
+            "alt_text": "Technology company headquarters following regulatory announcement"
+        },
+        "Gaming": {
+            "prompt": "Medium shot of a focused gamer with headphones in a dimly lit room, multiple monitors showing gameplay, subtle RGB lighting from peripherals, natural candid moment, realistic photography — no exaggerated effects.",
+            "filename": "gaming-setup-player",
+            "alt_text": "Gamer playing on high-end gaming setup"
+        },
+        "Mobile": {
+            "prompt": "Close-up of hands holding a smartphone in a coffee shop, natural daylight from window, screen showing app interface, shallow depth of field with blurred background, authentic lifestyle photography.",
+            "filename": "smartphone-user-lifestyle",
+            "alt_text": "Person using smartphone application in everyday setting"
+        },
+        "Cloud": {
+            "prompt": "Wide shot of a modern data center interior, rows of servers with subtle blue LED indicators, technician walking between aisles, industrial lighting, documentary style photography — no sci-fi effects.",
+            "filename": "data-center-infrastructure",
+            "alt_text": "Cloud infrastructure data center facility"
+        },
+        "Cybersecurity": {
+            "prompt": "Medium shot of a security analyst at a workstation with multiple monitors showing dashboards, focused expression, office environment with ambient lighting, realistic workplace photography.",
+            "filename": "cybersecurity-analyst",
+            "alt_text": "Cybersecurity professional monitoring threat dashboard"
+        },
+        "Default": {
+            "prompt": "Medium shot of a modern open-plan tech office, employees collaborating at standing desks, large windows with natural light, plants and minimalist decor, authentic workplace photography — no staged poses.",
+            "filename": "tech-office-workspace",
+            "alt_text": "Modern technology company workspace"
+        }
+    }
+    
+    # Get the appropriate fallback or use default
+    fallback = fallback_prompts.get(topic, fallback_prompts["Default"])
+    
+    # Customize filename with title keywords
+    slug_title = slugify(title)[:30]
+    
+    return {
+        "prompt": fallback["prompt"],
+        "filename": f"{fallback['filename']}-{slug_title}",
+        "alt_text": fallback["alt_text"],
+        "confidence": 0.6,  # Static prompts get moderate confidence
+        "source": "fallback"
+    }
+
+
 def generate_full_article(article: Dict) -> Optional[Dict]:
     """
     Main function: Generate a complete article with all components.
@@ -310,6 +456,10 @@ def generate_full_article(article: Dict) -> Optional[Dict]:
     # Step 4: Generate SEO metadata
     metadata = generate_seo_metadata(client, article, selected_title, content)
     
+    # Step 5: Generate image prompt (NEW - hybrid Groq + fallback)
+    topic = article.get('classification', {}).get('primary_topic', 'Technology')
+    image_prompt_data = generate_image_prompt(client, article, selected_title, topic)
+    
     # Compile final article
     generated_article = {
         "id": article['id'],
@@ -323,10 +473,11 @@ def generate_full_article(article: Dict) -> Optional[Dict]:
         "metadata": metadata,
         "classification": article.get('classification', {}),
         "generated_at": datetime.now(timezone.utc).isoformat(),
-        "word_count": len(content.split())
+        "word_count": len(content.split()),
+        "image_prompt": image_prompt_data  # NEW: Contains prompt, filename, alt_text, confidence, source
     }
     
-    logger.info(f"Article generation complete: {metadata['slug']}")
+    logger.info(f"Article generation complete: {metadata['slug']} (image prompt source: {image_prompt_data.get('source', 'unknown')})")
     return generated_article
 
 
