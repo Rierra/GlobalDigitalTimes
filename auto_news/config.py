@@ -35,7 +35,7 @@ LEONARDO_API_KEY = os.getenv("LEONARDO_API_KEY", "")
 # SITE CONFIGURATION
 # =============================================================================
 SITE_NAME = os.getenv("SITE_NAME", "Global Digital Times")
-SITE_URL = os.getenv("SITE_URL", "https://globaldigitaltimes.onrender.com")
+SITE_URL = os.getenv("SITE_URL", "https://www.globaldigitaltimes.com")
 AUTHOR_NAME = "Global Digital Times"
 
 # =============================================================================

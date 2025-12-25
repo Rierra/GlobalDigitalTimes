@@ -4,49 +4,49 @@
   
   <!-- Homepage -->
   <url>
-    <loc>https://globaldigitaltimes.onrender.com/</loc>
+    <loc>https://www.globaldigitaltimes.com/</loc>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <!-- Articles -->
   <url>
-    <loc>https://globaldigitaltimes.onrender.com/articles/nvidia-1-billion-ai-bet-groq-acquisition.html</loc>
+    <loc>https://www.globaldigitaltimes.com/articles/nvidia-1-billion-ai-bet-groq-acquisition.html</loc>
     <lastmod>2025-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://globaldigitaltimes.onrender.com/articles/waymo-gemini-ai-transforming-transportation.html</loc>
+    <loc>https://www.globaldigitaltimes.com/articles/waymo-gemini-ai-transforming-transportation.html</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://globaldigitaltimes.onrender.com/articles/waymo-robotaxis-dark-stoplights.html</loc>
+    <loc>https://www.globaldigitaltimes.com/articles/waymo-robotaxis-dark-stoplights.html</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://globaldigitaltimes.onrender.com/articles/italy-orders-meta-to-halt-whatsapp-ai-chatbot-restrictions.html</loc>
+    <loc>https://www.globaldigitaltimes.com/articles/italy-orders-meta-to-halt-whatsapp-ai-chatbot-restrictions.html</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://globaldigitaltimes.onrender.com/articles/unlock-ai-coding-secrets.html</loc>
+    <loc>https://www.globaldigitaltimes.com/articles/unlock-ai-coding-secrets.html</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://globaldigitaltimes.onrender.com/articles/ai-revolutionizes-gaming-2025.html</loc>
+    <loc>https://www.globaldigitaltimes.com/articles/ai-revolutionizes-gaming-2025.html</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -54,21 +54,22 @@
 
   <!-- Trust Pages -->
   <url>
-    <loc>https://globaldigitaltimes.onrender.com/about.html</loc>
+    <loc>https://www.globaldigitaltimes.com/about.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
 
   <url>
-    <loc>https://globaldigitaltimes.onrender.com/privacy.html</loc>
+    <loc>https://www.globaldigitaltimes.com/privacy.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
 
   <url>
-    <loc>https://globaldigitaltimes.onrender.com/editorial-policy.html</loc>
+    <loc>https://www.globaldigitaltimes.com/editorial-policy.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
 
 </urlset>
+
