@@ -6,6 +6,7 @@ Uses Groq to generate SEO-optimized articles from news sources.
 import logging
 import json
 import random
+import time
 from typing import Dict, List, Optional
 from datetime import datetime, timezone
 from slugify import slugify
@@ -14,6 +15,49 @@ from groq import Groq
 from .config import GROQ_API_KEY, GROQ_CONFIG, SITE_NAME, ARTICLE_CONFIG
 
 logger = logging.getLogger(__name__)
+
+# Rate limiting settings - tuned for Groq free tier
+API_CALL_DELAY = 5.0  # Seconds between API calls (increased for free tier)
+MAX_RETRIES = 3
+RETRY_BACKOFF = 15  # Initial backoff seconds, doubles each retry
+
+
+def rate_limited_api_call(func):
+    """
+    Decorator for rate-limited API calls with exponential backoff retry.
+    Prevents 429 errors by adding delays and automatic retries.
+    """
+    def wrapper(*args, **kwargs):
+        retries = 0
+        last_error = None
+        
+        while retries <= MAX_RETRIES:
+            try:
+                # Add delay before each call to prevent rate limiting
+                if retries > 0:
+                    backoff_time = RETRY_BACKOFF * (2 ** (retries - 1))
+                    logger.warning(f"Rate limit retry {retries}/{MAX_RETRIES}, waiting {backoff_time}s...")
+                    time.sleep(backoff_time)
+                else:
+                    time.sleep(API_CALL_DELAY)
+                
+                return func(*args, **kwargs)
+                
+            except Exception as e:
+                error_str = str(e)
+                if "429" in error_str or "rate_limit" in error_str.lower():
+                    retries += 1
+                    last_error = e
+                    logger.warning(f"Rate limit hit: {e}")
+                else:
+                    # Non-rate-limit error, re-raise immediately
+                    raise e
+        
+        # All retries exhausted
+        logger.error(f"Rate limit retries exhausted: {last_error}")
+        raise last_error
+    
+    return wrapper
 
 
 def get_groq_client() -> Optional[Groq]:
