@@ -368,13 +368,13 @@ Only respond with JSON."""
         # Ensure confidence is a float
         result['confidence'] = float(result.get('confidence', 0.5))
         
-        # If confidence is high enough, use the generated prompt
-        if result['confidence'] >= 0.75:
+        # LOWER THRESHOLD to 0.5 - use Groq prompts more aggressively for variety
+        if result['confidence'] >= 0.5:
             logger.info(f"Using Groq-generated image prompt (confidence: {result['confidence']:.2f})")
             result['source'] = 'groq'
             return result
         else:
-            logger.info(f"Low confidence ({result['confidence']:.2f}), using fallback prompt")
+            logger.info(f"Very low confidence ({result['confidence']:.2f}), using fallback prompt")
             return get_fallback_image_prompt(topic, title)
         
     except Exception as e:
@@ -382,74 +382,71 @@ Only respond with JSON."""
         return get_fallback_image_prompt(topic, title)
 
 
-def get_fallback_image_prompt(topic: str, title: str) -> Dict:
-    """
-    Get a static fallback image prompt based on topic category.
-    These are pre-designed PHOTOREALISTIC prompts that avoid the "AI brain" look.
-    """
-    fallback_prompts = {
-        "AI": {
-            "prompt": "Close-up of a developer's hands typing on a laptop in a quiet co-working space, code editor open on screen, soft window light, shallow depth of field, realistic candid photography — no stylization.",
-            "filename": "ai-software-development",
-            "alt_text": "Developer working on AI software in modern office"
-        },
-        "Robotics": {
-            "prompt": "Medium shot of a self-driving car paused at a city intersection, dashboard sensors visible, one calm passenger in the back seat, street lamps reflecting on wet asphalt, natural dusk lighting, photorealistic — no neon, no text.",
-            "filename": "autonomous-vehicle-city",
-            "alt_text": "Self-driving vehicle navigating urban intersection"
-        },
-        "Tech Policy": {
-            "prompt": "Wide shot of a modern corporate headquarters building exterior under overcast skies, employees entering the lobby, natural urban environment, documentary photography style — no dramatic lighting.",
-            "filename": "tech-company-headquarters",
-            "alt_text": "Technology company headquarters following regulatory announcement"
-        },
-        "Gaming": {
-            "prompt": "Medium shot of a focused gamer with headphones in a dimly lit room, multiple monitors showing gameplay, subtle RGB lighting from peripherals, natural candid moment, realistic photography — no exaggerated effects.",
-            "filename": "gaming-setup-player",
-            "alt_text": "Gamer playing on high-end gaming setup"
-        },
-        "Big Tech": {
-            "prompt": "Wide shot of a modern glass-facade tech campus building, employees walking on landscaped pathways, overcast sky, clean corporate architecture, documentary style photography — no dramatic effects.",
-            "filename": "big-tech-campus",
-            "alt_text": "Major technology company headquarters campus"
-        },
-        "Mobile": {
-            "prompt": "Close-up of hands holding a smartphone in a coffee shop, natural daylight from window, screen showing app interface, shallow depth of field with blurred background, authentic lifestyle photography.",
-            "filename": "smartphone-user-lifestyle",
-            "alt_text": "Person using smartphone application in everyday setting"
-        },
-        "Cloud": {
-            "prompt": "Wide shot of a modern data center interior, rows of servers with subtle blue LED indicators, technician walking between aisles, industrial lighting, documentary style photography — no sci-fi effects.",
-            "filename": "data-center-infrastructure",
-            "alt_text": "Cloud infrastructure data center facility"
-        },
-        "Cybersecurity": {
-            "prompt": "Medium shot of a security analyst at a workstation with multiple monitors showing dashboards, focused expression, office environment with ambient lighting, realistic workplace photography.",
-            "filename": "cybersecurity-analyst",
-            "alt_text": "Cybersecurity professional monitoring threat dashboard"
-        },
-        "Startups": {
-            "prompt": "Medium shot of a small team collaborating around a whiteboard in a minimalist office, laptops open, natural daylight, casual startup atmosphere, candid documentary photography — no staged poses.",
-            "filename": "startup-team-meeting",
-            "alt_text": "Startup team collaborating in modern office"
-        },
-        "Default": {
-            "prompt": "Medium shot of a modern open-plan tech office, employees collaborating at standing desks, large windows with natural light, plants and minimalist decor, authentic workplace photography — no staged poses.",
-            "filename": "tech-office-workspace",
-            "alt_text": "Modern technology company workspace"
-        }
+    import random
+    
+    # Multiple prompt variations per topic for variety
+    prompt_variations = {
+        "AI": [
+            "Close-up of a neural network visualization on a large monitor screen, code reflected on a developer's glasses, dimly lit office, natural ambient lighting.",
+            "Medium shot of a GPU cluster cooling system in a modern data center, blue LED strip lights, industrial photography style, clean and minimal.",
+            "Wide shot of researchers discussing around a whiteboard filled with machine learning diagrams, natural window light, candid documentary photography.",
+            "Close-up of a robotic arm with precise mechanical components, factory floor background, industrial lighting, photorealistic — no sci-fi effects.",
+        ],
+        "Robotics": [
+            "Medium shot of an autonomous delivery robot navigating a sidewalk, urban environment, natural daylight, documentary photography style.",
+            "Wide shot of warehouse automation robots moving packages on conveyor systems, industrial lighting, clean perspective.",
+            "Close-up of a robotic gripper arm in a manufacturing environment, precision machinery, natural factory lighting.",
+            "Medium shot of a self-driving car's LIDAR sensors on the roof, parking lot background, overcast lighting.",
+        ],
+        "Tech Policy": [
+            "Wide shot of a government building's exterior with modern glass facade, overcast sky, documentary photography — no people.",
+            "Medium shot of a press conference room setup, empty podium with microphones, warm lighting, clean composition.",
+            "Close-up of legal documents on a desk with a laptop, natural window light, shallow depth of field.",
+            "Wide shot of a European parliament style building entrance, cloudy sky, architectural photography.",
+        ],
+        "Gaming": [
+            "Close-up of a high-end gaming keyboard with RGB lighting, hands visible in action, dimly lit room, authentic gaming setup.",
+            "Medium shot of a VR headset on a desk next to gaming controllers, natural room lighting, lifestyle photography.",
+            "Wide shot of an esports arena with multiple gaming stations, ambient purple and blue lighting, documentary style.",
+        ],
+        "Big Tech": [
+            "Wide shot of a modern glass and steel corporate campus, landscaped grounds, overcast sky, architectural photography.",
+            "Medium shot of smartphones displayed in a retail store, clean product photography, natural store lighting.",
+            "Close-up of a server rack with fiber optic cables, data center environment, subtle blue LED lighting.",
+        ],
+        "Cybersecurity": [
+            "Close-up of a lock icon on a computer screen, security dashboard in background, dim office lighting.",
+            "Medium shot of a security operations center with multiple monitors, analyst silhouette, ambient screen glow.",
+            "Wide shot of network cables connected to a firewall appliance, data center lighting, technical photography.",
+        ],
+        "Startups": [
+            "Medium shot of a small team in a modern co-working space, standing meeting around a laptop, natural daylight.",
+            "Close-up of sticky notes on a glass wall, startup brainstorming session, natural office lighting.",
+            "Wide shot of an open-plan office with bean bags and standing desks, casual atmosphere, window light.",
+        ],
+        "Cloud": [
+            "Wide shot of server racks in a modern data center, blue LED indicators, industrial lighting.",
+            "Close-up of network cables and fiber connections, data center infrastructure, technical photography.",
+            "Medium shot of cooling systems in a server room, minimal industrial aesthetic, ambient lighting.",
+        ],
+        "Default": [
+            "Medium shot of a modern tech office with employees at standing desks, large windows, natural daylight.",
+            "Close-up of a laptop on a clean desk, code on screen, minimalist workspace, soft window light.",
+            "Wide shot of a conference room with video call on a large screen, modern corporate environment.",
+        ]
     }
     
-    # Get the appropriate fallback or use default
-    fallback = fallback_prompts.get(topic, fallback_prompts["Default"])
+    # Get prompts for topic or use default
+    topic_prompts = prompt_variations.get(topic, prompt_variations["Default"])
+    selected_prompt = random.choice(topic_prompts)
     
     # Customize filename with title keywords
     slug_title = slugify(title)[:30]
     
     return {
-        "prompt": fallback["prompt"],
-        "filename": f"{fallback['filename']}-{slug_title}",
-        "alt_text": fallback["alt_text"],
+        "prompt": selected_prompt,
+        "filename": f"{topic.lower().replace(' ', '-')}-{slug_title}",
+        "alt_text": f"Illustration for article about {title[:50]}",
         "confidence": 0.6,  # Static prompts get moderate confidence
         "source": "fallback"
     }
