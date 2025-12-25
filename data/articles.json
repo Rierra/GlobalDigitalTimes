@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "bc52d4d41e63",
+      "title": "Nvidia's $1 Billion Bet on AI: Groq Acquisition and CEO Hire",
+      "slug": "nvidia-1-billion-ai-bet-groq-acquisition",
+      "original_link": "https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2025-12-25T01:44:21.811018+00:00",
+      "word_count": 1029
+    },
+    {
       "id": "d465e7d72906",
       "title": "Transforming Transportation: Waymo's Gemini AI Assistant Unveiled with 1200+ Capabilities",
       "slug": "waymo-gemini-ai-transforming-transportation",
@@ -51,6 +61,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2025-12-24T17:36:32.338350+00:00",
+  "last_updated": "2025-12-25T01:44:39.106225+00:00",
   "version": "1.0.0"
 }
