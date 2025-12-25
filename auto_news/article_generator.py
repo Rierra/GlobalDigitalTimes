@@ -383,7 +383,11 @@ Only respond with JSON."""
         return get_fallback_image_prompt(topic, title)
 
 
-
+def get_fallback_image_prompt(topic: str, title: str) -> Dict:
+    """
+    Get a fallback image prompt with multiple variations per topic for variety.
+    Randomly selects from variations to avoid repetitive images.
+    """
     # Multiple prompt variations per topic for variety
     prompt_variations = {
         "AI": [
