@@ -243,10 +243,10 @@ def get_index_article_entry(article: Dict) -> str:
               <div class="post-outer">
                 <article class="post">
                   <div class="img-thumbnail-wrap">
-                    <div class="img-thumbnail">
+                    <div class="img-thumbnail" style="overflow: hidden; display: flex; align-items: center; justify-content: center;">
                       <a href="articles/{slug}.html">
-                        <img alt="{article.get('title', '')}" class="" height="162" src="{image.get('assets_path', 'assets/GD.PNG')}"
-                          title="{article.get('title', '')}" width="288">
+                        <img alt="{article.get('title', '')}" style="width: 100%; height: 162px; object-fit: cover; object-position: center;" src="{image.get('assets_path', 'assets/GD.PNG')}"
+                          title="{article.get('title', '')}">
                         <div class="lazy-loading"></div>
                       </a>
                     </div>
