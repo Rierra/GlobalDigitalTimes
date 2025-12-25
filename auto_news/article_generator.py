@@ -5,6 +5,7 @@ Uses Groq to generate SEO-optimized articles from news sources.
 
 import logging
 import json
+import random
 from typing import Dict, List, Optional
 from datetime import datetime, timezone
 from slugify import slugify
@@ -382,8 +383,7 @@ Only respond with JSON."""
         return get_fallback_image_prompt(topic, title)
 
 
-    import random
-    
+
     # Multiple prompt variations per topic for variety
     prompt_variations = {
         "AI": [
