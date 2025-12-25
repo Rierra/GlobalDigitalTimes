@@ -15,6 +15,7 @@ from .config import LOG_FILE, LOG_LEVEL, ARTICLE_CONFIG
 from .rss_fetcher import fetch_and_process_feeds
 from .classifier import classify_articles, filter_relevant_articles
 from .event_classifier import classify_article, get_publishing_queues
+from .fast_sources import get_all_trending_signals, boost_viral_articles
 from .article_generator import generate_full_article
 from .image_generator import generate_image_for_article
 from .publisher import publish_articles, article_exists
@@ -121,6 +122,20 @@ def run_pipeline(
         logger.info("\n⚡ Step 4: Classifying by EVENT TYPE...")
         for article in new_articles:
             classify_article(article, use_groq=True)
+        
+        # Step 4.5: VIRAL BOOST - Check against trending signals
+        logger.info("\n🔥 Step 4.5: Checking trending signals (Reddit/HN/GitHub)...")
+        try:
+            signals = get_all_trending_signals()
+            new_articles = boost_viral_articles(new_articles, signals)
+            results["trending_signals"] = {
+                "reddit": len(signals.get("reddit", [])),
+                "hackernews": len(signals.get("hackernews", [])),
+                "github": len(signals.get("github", []))
+            }
+        except Exception as e:
+            logger.warning(f"Fast sources check failed (continuing without): {e}")
+            results["trending_signals"] = {"error": str(e)}
         
         # Step 5: Organize into priority queues
         logger.info("\n📊 Step 5: Organizing priority queues...")
