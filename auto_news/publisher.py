@@ -386,6 +386,14 @@ def publish_articles(articles: List[Dict]) -> int:
     # Update index page
     if published_articles:
         update_index_page(published_articles)
+        
+        # Update sitemap.xml
+        try:
+            from .sitemap_generator import update_sitemap
+            update_sitemap()
+            logger.info("Sitemap updated")
+        except Exception as e:
+            logger.warning(f"Sitemap update failed: {e}")
     
     logger.info(f"Published {published_count} articles")
     return published_count

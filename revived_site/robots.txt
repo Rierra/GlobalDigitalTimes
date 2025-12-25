@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://globaldigitaltimes.onrender.com/sitemap.xml
+
+# Allow all crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Block low-value pages
+Disallow: /p/
+Disallow: /2024/04/
+
+# Allow assets
+Allow: /assets/
+Allow: /articles/
