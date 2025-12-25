@@ -27,19 +27,33 @@ def generate_seo_titles(client: Groq, article: Dict) -> List[Dict]:
     """
     Generate 5 SEO-optimized title options for the article.
     Returns list of titles with scores.
+    
+    NEW: Focus on SEARCH-INTENT headlines that people would actually Google.
     """
-    prompt = f"""Based on this news article, generate 5 SEO-optimized blog title ideas.
+    prompt = f"""Generate 5 headline options that pass this test:
+"Would someone type this EXACT phrase into Google?"
 
 ORIGINAL TITLE: {article['title']}
 SUMMARY: {article['summary']}
 TOPIC: {article.get('classification', {}).get('primary_topic', 'Technology')}
 
-Requirements:
-- Long-tail SEO friendly (8-12 words)
-- Include power words that drive clicks
-- Include numbers when appropriate
-- Target search intent
-- Make it compelling and unique
+BAD HEADLINES (marketing-speak, no one Googles these):
+- "Transforming Transportation: Waymo's Gemini AI Assistant Unveiled"
+- "The Future of AI: Revolutionary Breakthroughs Await"
+- "Unlock the Power of Machine Learning Today"
+
+GOOD HEADLINES (search-intent, people actually Google these):
+- "Waymo robotaxis now use Gemini AI — here's what changed"
+- "OpenAI GPT-5 release date and new features explained"
+- "Google Gemini vs ChatGPT: which AI is better in 2025"
+
+RULES:
+1. Lead with the product/company name (most important keyword first)
+2. Use "now", "today", "just", "finally" for breaking news
+3. Use conversational phrasing, NOT marketing buzzwords
+4. 8-12 words max
+5. Include the ACTUAL thing people will search for
+6. Avoid: "revolutionary", "game-changing", "unlock", "transform", "power of"
 
 Respond with JSON array:
 [
@@ -47,7 +61,7 @@ Respond with JSON array:
     ...
 ]
 
-Rank by uniqueness and expected performance (score 0-100).
+Rank by SEARCHABILITY - how likely someone would Google this exact phrase.
 Only respond with the JSON array, no other text."""
 
     try:
