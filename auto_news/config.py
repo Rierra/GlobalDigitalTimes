@@ -75,31 +75,76 @@ RSS_FEEDS = [
 ]
 
 # =============================================================================
-# TOPIC CONFIGURATION
+# TOPIC CONFIGURATION - Expanded for broader tech coverage
 # =============================================================================
 TARGET_TOPICS = [
-    "artificial intelligence",
-    "AI",
-    "machine learning",
-    "robotics",
-    "automation",
-    "tech policy",
-    "regulation",
-    "OpenAI",
-    "Google AI",
-    "ChatGPT",
-    "GPT",
-    "neural network",
-    "deep learning",
-    "LLM",
-    "large language model"
+    # AI & ML
+    "artificial intelligence", "AI", "machine learning", "deep learning",
+    "neural network", "OpenAI", "ChatGPT", "GPT", "LLM", "Gemini", "Claude",
+    "Anthropic", "Mistral", "generative AI", "large language model",
+    
+    # Robotics & Automation
+    "robotics", "automation", "robot", "autonomous", "self-driving",
+    "Waymo", "Tesla", "drone", "Boston Dynamics",
+    
+    # Tech Policy & Regulation
+    "tech policy", "regulation", "antitrust", "privacy", "GDPR", "EU",
+    "FTC", "lawsuit", "investigation", "ban",
+    
+    # Big Tech
+    "Google", "Apple", "Microsoft", "Meta", "Amazon", "Nvidia", "Tesla",
+    "Facebook", "Instagram", "WhatsApp", "iPhone", "Android",
+    
+    # Gaming
+    "gaming", "PlayStation", "Xbox", "Nintendo", "Steam", "Valve",
+    "Epic Games", "video game", "esports",
+    
+    # Cybersecurity
+    "cybersecurity", "hacking", "breach", "ransomware", "vulnerability",
+    "security flaw", "data leak", "password",
+    
+    # Cloud & Infrastructure
+    "cloud", "AWS", "Azure", "data center", "outage", "downtime",
+    
+    # Startups & Business
+    "startup", "funding", "acquisition", "IPO", "valuation", "layoffs",
+    "Series A", "Series B", "venture capital", "Y Combinator"
 ]
 
 TOPIC_CATEGORIES = {
-    "AI": ["artificial intelligence", "AI", "machine learning", "deep learning", 
-           "neural network", "OpenAI", "ChatGPT", "GPT", "LLM", "large language model"],
-    "Robotics": ["robotics", "automation", "robot", "autonomous"],
-    "Tech Policy": ["policy", "regulation", "law", "government", "privacy", "antitrust"]
+    "AI": [
+        "artificial intelligence", "AI", "machine learning", "deep learning",
+        "neural network", "OpenAI", "ChatGPT", "GPT", "LLM", "Gemini", "Claude",
+        "Anthropic", "Mistral", "generative AI", "large language model", "Groq"
+    ],
+    "Robotics": [
+        "robotics", "automation", "robot", "autonomous", "self-driving",
+        "Waymo", "Tesla Autopilot", "drone", "Boston Dynamics", "robotaxi"
+    ],
+    "Tech Policy": [
+        "policy", "regulation", "law", "government", "privacy", "antitrust",
+        "GDPR", "EU", "FTC", "lawsuit", "court", "investigation", "ban"
+    ],
+    "Big Tech": [
+        "Google", "Apple", "Microsoft", "Meta", "Amazon", "Nvidia",
+        "Facebook", "Instagram", "WhatsApp", "iPhone", "Android", "iOS"
+    ],
+    "Gaming": [
+        "gaming", "PlayStation", "Xbox", "Nintendo", "Steam", "Valve",
+        "Epic Games", "video game", "esports", "Twitch", "game release"
+    ],
+    "Cybersecurity": [
+        "cybersecurity", "hacking", "breach", "ransomware", "vulnerability",
+        "security", "data leak", "password", "malware", "phishing"
+    ],
+    "Cloud": [
+        "cloud", "AWS", "Azure", "Google Cloud", "data center", "outage",
+        "downtime", "infrastructure", "server"
+    ],
+    "Startups": [
+        "startup", "funding", "acquisition", "IPO", "valuation", "layoffs",
+        "Series A", "Series B", "venture capital", "Y Combinator", "raises"
+    ]
 }
 
 # =============================================================================

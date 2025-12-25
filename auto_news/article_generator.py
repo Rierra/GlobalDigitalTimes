@@ -408,6 +408,11 @@ def get_fallback_image_prompt(topic: str, title: str) -> Dict:
             "filename": "gaming-setup-player",
             "alt_text": "Gamer playing on high-end gaming setup"
         },
+        "Big Tech": {
+            "prompt": "Wide shot of a modern glass-facade tech campus building, employees walking on landscaped pathways, overcast sky, clean corporate architecture, documentary style photography — no dramatic effects.",
+            "filename": "big-tech-campus",
+            "alt_text": "Major technology company headquarters campus"
+        },
         "Mobile": {
             "prompt": "Close-up of hands holding a smartphone in a coffee shop, natural daylight from window, screen showing app interface, shallow depth of field with blurred background, authentic lifestyle photography.",
             "filename": "smartphone-user-lifestyle",
@@ -422,6 +427,11 @@ def get_fallback_image_prompt(topic: str, title: str) -> Dict:
             "prompt": "Medium shot of a security analyst at a workstation with multiple monitors showing dashboards, focused expression, office environment with ambient lighting, realistic workplace photography.",
             "filename": "cybersecurity-analyst",
             "alt_text": "Cybersecurity professional monitoring threat dashboard"
+        },
+        "Startups": {
+            "prompt": "Medium shot of a small team collaborating around a whiteboard in a minimalist office, laptops open, natural daylight, casual startup atmosphere, candid documentary photography — no staged poses.",
+            "filename": "startup-team-meeting",
+            "alt_text": "Startup team collaborating in modern office"
         },
         "Default": {
             "prompt": "Medium shot of a modern open-plan tech office, employees collaborating at standing desks, large windows with natural light, plants and minimalist decor, authentic workplace photography — no staged poses.",
