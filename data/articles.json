@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "cded9a028dc7",
+      "title": "The 9 top cybersecurity startups from Disrupt Startup Battlefield",
+      "slug": "the-9-top-cybersecurity-startups-from-disrupt-startup-battlefield",
+      "original_link": "https://techcrunch.com/2025/12/26/the-9-top-cybersecurity-startups-from-disrupt-startup-battlefield/",
+      "original_source": "TechCrunch",
+      "topic": "Other",
+      "generated_at": "2025-12-26T16:44:47.539344+00:00",
+      "word_count": 37
+    },
+    {
       "id": "039505e67b41",
       "title": "LG teases a new chore-completing home robot",
       "slug": "lg-teases-a-new-chore-completing-home-robot",
@@ -111,6 +121,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2025-12-26T15:12:22.559097+00:00",
+  "last_updated": "2025-12-26T16:44:59.441640+00:00",
   "version": "1.0.0"
 }
