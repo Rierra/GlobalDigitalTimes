@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "d237074d5be7",
+      "title": "Sam Altman is hiring someone to worry about the dangers of AI",
+      "slug": "sam-altman-is-hiring-someone-to-worry-about-the-dangers-of-ai",
+      "original_link": "https://www.theverge.com/news/850537/sam-altman-openai-head-of-preparedness",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2025-12-27T19:08:57.957380+00:00",
+      "word_count": 72
+    },
+    {
       "id": "95db951afb87",
       "title": "Meet the team that investigates when journalists and activists get hacked with government spyware",
       "slug": "meet-the-team-that-investigates-when-journalists-and-activists-get-hacked-with-government-spyware",
@@ -171,6 +181,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2025-12-27T18:17:08.159186+00:00",
+  "last_updated": "2025-12-27T19:09:10.234997+00:00",
   "version": "1.0.0"
 }
