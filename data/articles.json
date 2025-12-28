@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "3d939e29841a",
+      "title": "Billion-Dollar Data Centers Are Taking Over the World",
+      "slug": "billion-dollar-data-centers-are-taking-over-the-world",
+      "original_link": "https://www.wired.com/story/expired-tired-wired-data-centers/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2025-12-28T11:09:40.268672+00:00",
+      "word_count": 28
+    },
+    {
       "id": "d237074d5be7",
       "title": "Sam Altman is hiring someone to worry about the dangers of AI",
       "slug": "sam-altman-is-hiring-someone-to-worry-about-the-dangers-of-ai",
@@ -181,6 +191,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2025-12-27T19:09:10.234997+00:00",
+  "last_updated": "2025-12-28T11:09:53.042602+00:00",
   "version": "1.0.0"
 }
