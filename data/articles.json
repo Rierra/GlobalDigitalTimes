@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "cb23a085f2b6",
+      "title": "LG announces new UltraGear evo gaming monitors with AI upscaling",
+      "slug": "lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling",
+      "original_link": "https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2025-12-28T22:11:36.950722+00:00",
+      "word_count": 70
+    },
+    {
       "id": "564264856787",
       "title": "Ubisoft shuts down \u2018Rainbow Six Siege\u2019 servers following hack",
       "slug": "ubisoft-shuts-down-rainbow-six-siege-servers-following-hack",
@@ -221,6 +231,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2025-12-28T16:46:37.312501+00:00",
+  "last_updated": "2025-12-28T22:11:48.893592+00:00",
   "version": "1.0.0"
 }
