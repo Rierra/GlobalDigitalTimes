@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "87fd3ccf24df",
+      "title": "You\u2019ve been targeted by government spyware. Now what?",
+      "slug": "youve-been-targeted-by-government-spyware-now-what",
+      "original_link": "https://techcrunch.com/2025/12/29/youve-been-targeted-by-government-spyware-now-what/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2025-12-29T10:14:46.697833+00:00",
+      "word_count": 43
+    },
+    {
       "id": "cb23a085f2b6",
       "title": "LG announces new UltraGear evo gaming monitors with AI upscaling",
       "slug": "lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling",
@@ -231,6 +241,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2025-12-28T22:11:48.893592+00:00",
+  "last_updated": "2025-12-29T10:15:03.569770+00:00",
   "version": "1.0.0"
 }
