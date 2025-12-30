@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "566d545b5a8d",
+      "title": "China plans AI rules to protect children and tackle suicide risks",
+      "slug": "china-plans-ai-rules-to-protect-children-and-tackle-suicide-risks",
+      "original_link": "https://www.bbc.com/news/articles/c8dydlmenvro?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "AI",
+      "generated_at": "2025-12-30T02:52:07.481362+00:00",
+      "word_count": 33
+    },
+    {
       "id": "4d0f0d435b04",
       "title": "How to tweak your online platform algorithms",
       "slug": "how-to-tweak-your-online-platform-algorithms",
@@ -351,6 +361,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2025-12-30T00:56:57.206700+00:00",
+  "last_updated": "2025-12-30T02:52:24.870160+00:00",
   "version": "1.0.0"
 }
