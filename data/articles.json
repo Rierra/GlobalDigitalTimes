@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "320f19e131e4",
+      "title": "Here\u2019s what you should know about the US TikTok deal",
+      "slug": "heres-what-you-should-know-about-the-us-tiktok-deal",
+      "original_link": "https://techcrunch.com/2025/12/30/heres-whats-you-should-know-about-the-us-tiktok-deal/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2025-12-30T14:13:45.611707+00:00",
+      "word_count": 48
+    },
+    {
       "id": "525b76ece518",
       "title": "Free speech\u2019s great leap backwards",
       "slug": "free-speechs-great-leap-backwards",
@@ -391,6 +401,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2025-12-30T13:10:19.538461+00:00",
+  "last_updated": "2025-12-30T14:14:03.383135+00:00",
   "version": "1.0.0"
 }
