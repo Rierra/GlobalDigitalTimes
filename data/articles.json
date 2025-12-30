@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "fe36edfaf2a4",
+      "title": "VCs predict enterprises will spend more on AI in 2026 \u2014 through fewer vendors",
+      "slug": "vcs-predict-enterprises-will-spend-more-on-ai-in-2026-through-fewer-vendors",
+      "original_link": "https://techcrunch.com/2025/12/30/vcs-predict-enterprises-will-spend-more-on-ai-in-2026-through-fewer-vendors/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2025-12-30T15:42:46.443661+00:00",
+      "word_count": 38
+    },
+    {
       "id": "320f19e131e4",
       "title": "Here\u2019s what you should know about the US TikTok deal",
       "slug": "heres-what-you-should-know-about-the-us-tiktok-deal",
@@ -401,6 +411,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2025-12-30T14:14:03.383135+00:00",
+  "last_updated": "2025-12-30T15:42:59.435994+00:00",
   "version": "1.0.0"
 }
