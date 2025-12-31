@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "0b93791f42c9",
+      "title": "AI-Powered Dating Is All Hype. IRL Cruising Is the Future",
+      "slug": "ai-powered-dating-is-all-hype-irl-cruising-is-the-future",
+      "original_link": "https://www.wired.com/story/expired-tired-wired-ai-powered-dating/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2025-12-31T11:12:46.377670+00:00",
+      "word_count": 34
+    },
+    {
+      "id": "6b378faefbbe",
+      "title": "Fears Mount That US Federal Cybersecurity Is Stagnating\u2014or Worse",
+      "slug": "fears-mount-that-us-federal-cybersecurity-is-stagnating-or-worse",
+      "original_link": "https://www.wired.com/story/expired-tired-wired-federal-cybersecurity/",
+      "original_source": "Wired",
+      "topic": "Tech Policy",
+      "generated_at": "2025-12-31T11:12:34.005932+00:00",
+      "word_count": 31
+    },
+    {
       "id": "ea16ae6eb62f",
       "title": "A wave paralysed me but AI could help me walk again",
       "slug": "a-wave-paralysed-me-but-ai-could-help-me-walk-again",
@@ -461,6 +481,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2025-12-31T10:13:52.340574+00:00",
+  "last_updated": "2025-12-31T11:13:03.359011+00:00",
   "version": "1.0.0"
 }
