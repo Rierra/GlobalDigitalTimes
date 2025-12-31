@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "99a94448277f",
+      "title": "Net neutrality was back, until it wasn\u2019t",
+      "slug": "net-neutrality-was-back-until-it-wasnt",
+      "original_link": "https://www.theverge.com/report/851629/net-neutrality-fcc-retrospective-2025",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2025-12-31T15:12:15.697948+00:00",
+      "word_count": 67
+    },
+    {
       "id": "8d04d820ae08",
       "title": "Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025",
       "slug": "supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025",
@@ -511,6 +521,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2025-12-31T14:42:37.387070+00:00",
+  "last_updated": "2025-12-31T15:12:32.688848+00:00",
   "version": "1.0.0"
 }
