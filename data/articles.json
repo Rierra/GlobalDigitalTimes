@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "ea16ae6eb62f",
+      "title": "A wave paralysed me but AI could help me walk again",
+      "slug": "a-wave-paralysed-me-but-ai-could-help-me-walk-again",
+      "original_link": "https://www.bbc.com/news/articles/cqjgx1xkjg7o?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "AI",
+      "generated_at": "2025-12-31T10:13:34.516471+00:00",
+      "word_count": 32
+    },
+    {
       "id": "d1e5db37465d",
       "title": "Two cybersecurity employees plead guilty to carrying out ransomware attacks",
       "slug": "two-cybersecurity-employees-plead-guilty-to-carrying-out-ransomware-attacks",
@@ -451,6 +461,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2025-12-30T18:52:02.441200+00:00",
+  "last_updated": "2025-12-31T10:13:52.340574+00:00",
   "version": "1.0.0"
 }
