@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "69e1443b9f07",
+      "title": "European banks plan to cut 200,000 jobs as AI takes hold",
+      "slug": "european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold",
+      "original_link": "https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-01T20:42:23.857324+00:00",
+      "word_count": 26
+    },
+    {
       "id": "25d813caf29d",
       "title": "LG\u2019s new karaoke-ready party speaker uses AI to remove song vocals",
       "slug": "lgs-new-karaoke-ready-party-speaker-uses-ai-to-remove-song-vocals",
@@ -611,6 +621,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-01T19:10:33.499826+00:00",
+  "last_updated": "2026-01-01T20:42:36.210679+00:00",
   "version": "1.0.0"
 }
