@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "1c5452ec78cd",
+      "title": "OpenAI bets big on audio as Silicon Valley declares war on screens",
+      "slug": "openai-bets-big-on-audio-as-silicon-valley-declares-war-on-screens",
+      "original_link": "https://techcrunch.com/2026/01/01/openai-bets-big-on-audio-as-silicon-valley-declares-war-on-screens/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-01T18:49:52.830930+00:00",
+      "word_count": 48
+    },
+    {
       "id": "70038d764d77",
       "title": "Meet the new tech laws of 2026",
       "slug": "meet-the-new-tech-laws-of-2026",
@@ -591,6 +601,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-01T15:12:15.861017+00:00",
+  "last_updated": "2026-01-01T18:50:11.154371+00:00",
   "version": "1.0.0"
 }
