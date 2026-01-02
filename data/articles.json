@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "008fe6c4d8ae",
+      "title": "Elon Musk's Grok AI alters images of women to digitally remove their clothes",
+      "slug": "elon-musk-s-grok-ai-alters-images-of-women-to-digitally-remove-their-clothes",
+      "original_link": "https://www.bbc.com/news/articles/c98p1r4e6m8o?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "AI",
+      "generated_at": "2026-01-02T16:14:10.174184+00:00",
+      "word_count": 36
+    },
+    {
+      "id": "a07fcb1cc154",
+      "title": "Nvidia\u2019s AI empire: A look at its top startup investments",
+      "slug": "nvidias-ai-empire-a-look-at-its-top-startup-investments",
+      "original_link": "https://techcrunch.com/2026/01/02/nvidias-ai-empire-a-look-at-its-top-startup-investments/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-02T16:13:57.902441+00:00",
+      "word_count": 38
+    },
+    {
       "id": "aa5afc86bae4",
       "title": "Microsoft CEO Satya Nadella is now blogging about AI slop",
       "slug": "microsoft-ceo-satya-nadella-is-now-blogging-about-ai-slop",
@@ -651,6 +671,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-02T15:42:18.406699+00:00",
+  "last_updated": "2026-01-02T16:14:21.848344+00:00",
   "version": "1.0.0"
 }
