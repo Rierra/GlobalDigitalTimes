@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "f240d2ff423b",
+      "title": "OpenAI plans new voice model in early 2026, audio-based hardware in 2027",
+      "slug": "openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027",
+      "original_link": "https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/",
+      "original_source": "Ars Technica",
+      "topic": "AI",
+      "generated_at": "2026-01-02T21:35:22.287843+00:00",
+      "word_count": 28
+    },
+    {
       "id": "18df960031a3",
       "title": "Grok is undressing anyone, including minors",
       "slug": "grok-is-undressing-anyone-including-minors",
@@ -701,6 +711,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-02T20:13:51.966737+00:00",
+  "last_updated": "2026-01-02T21:35:33.664837+00:00",
   "version": "1.0.0"
 }
