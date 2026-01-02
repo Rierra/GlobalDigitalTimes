@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "18df960031a3",
+      "title": "Grok is undressing anyone, including minors",
+      "slug": "grok-is-undressing-anyone-including-minors",
+      "original_link": "https://www.theverge.com/news/853191/grok-explicit-bikini-pictures-minors",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-02T20:13:39.890645+00:00",
+      "word_count": 66
+    },
+    {
       "id": "ba29c20d1b93",
       "title": "India orders Musk\u2019s X to fix Grok over \u201cobscene\u201d AI content",
       "slug": "india-orders-musks-x-to-fix-grok-over-obscene-ai-content",
@@ -691,6 +701,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-02T18:50:50.896108+00:00",
+  "last_updated": "2026-01-02T20:13:51.966737+00:00",
   "version": "1.0.0"
 }
