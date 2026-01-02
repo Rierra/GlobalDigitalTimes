@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "2549ba4e555b",
+      "title": "AI teachers and cybernetics - what could the world look like in 2050?",
+      "slug": "ai-teachers-and-cybernetics-what-could-the-world-look-like-in-2050",
+      "original_link": "https://www.bbc.com/news/articles/c865n800d5jo?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "AI",
+      "generated_at": "2026-01-02T22:42:29.251789+00:00",
+      "word_count": 30
+    },
+    {
       "id": "f240d2ff423b",
       "title": "OpenAI plans new voice model in early 2026, audio-based hardware in 2027",
       "slug": "openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027",
@@ -711,6 +721,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-02T21:35:33.664837+00:00",
+  "last_updated": "2026-01-02T22:42:41.015821+00:00",
   "version": "1.0.0"
 }
