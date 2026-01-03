@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "dde32759f455",
+      "title": "No, Grok can\u2019t really \u201capologize\u201d for posting non-consensual sexual images",
+      "slug": "no-grok-cant-really-apologize-for-posting-non-consensual-sexual-images",
+      "original_link": "https://arstechnica.com/ai/2026/01/no-grok-cant-really-apologize-for-posting-non-consensual-sexual-images/",
+      "original_source": "Ars Technica",
+      "topic": "AI",
+      "generated_at": "2026-01-03T00:53:48.651649+00:00",
+      "word_count": 27
+    },
+    {
       "id": "2549ba4e555b",
       "title": "AI teachers and cybernetics - what could the world look like in 2050?",
       "slug": "ai-teachers-and-cybernetics-what-could-the-world-look-like-in-2050",
@@ -721,6 +731,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-02T22:42:41.015821+00:00",
+  "last_updated": "2026-01-03T00:54:06.057262+00:00",
   "version": "1.0.0"
 }
