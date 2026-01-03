@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "e3d74d8972a6",
+      "title": "How to Protect Your iPhone or Android Device From Spyware",
+      "slug": "how-to-protect-your-iphone-or-android-device-from-spyware",
+      "original_link": "https://www.wired.com/story/how-to-protect-your-iphone-or-android-device-from-spyware/",
+      "original_source": "Wired",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-03T10:12:01.445971+00:00",
+      "word_count": 38
+    },
+    {
       "id": "47febd3494ae",
       "title": "In 2026, AI will move from hype to pragmatism",
       "slug": "in-2026-ai-will-move-from-hype-to-pragmatism",
@@ -741,6 +751,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-03T02:46:06.335151+00:00",
+  "last_updated": "2026-01-03T10:12:18.114677+00:00",
   "version": "1.0.0"
 }
