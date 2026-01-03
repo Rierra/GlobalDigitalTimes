@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "1cd41c8c16ee",
+      "title": "Disinformation Floods Social Media After Nicol\u00e1s Maduro's Capture",
+      "slug": "disinformation-floods-social-media-after-nicolas-maduro-s-capture",
+      "original_link": "https://www.wired.com/story/disinformation-floods-social-media-after-nicolas-maduros-capture/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-03T18:47:53.554875+00:00",
+      "word_count": 41
+    },
+    {
       "id": "071252fc0a79",
       "title": "The US Invaded Venezuela and Captured Nicol\u00e1s Maduro. ChatGPT Disagrees",
       "slug": "the-us-invaded-venezuela-and-captured-nicolas-maduro-chatgpt-disagrees",
@@ -781,6 +791,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-03T16:13:48.581711+00:00",
+  "last_updated": "2026-01-03T18:48:05.570252+00:00",
   "version": "1.0.0"
 }
