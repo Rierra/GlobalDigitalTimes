@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "47febd3494ae",
+      "title": "In 2026, AI will move from hype to pragmatism",
+      "slug": "in-2026-ai-will-move-from-hype-to-pragmatism",
+      "original_link": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-03T02:45:54.430529+00:00",
+      "word_count": 39
+    },
+    {
       "id": "dde32759f455",
       "title": "No, Grok can\u2019t really \u201capologize\u201d for posting non-consensual sexual images",
       "slug": "no-grok-cant-really-apologize-for-posting-non-consensual-sexual-images",
@@ -731,6 +741,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-03T00:54:06.057262+00:00",
+  "last_updated": "2026-01-03T02:46:06.335151+00:00",
   "version": "1.0.0"
 }
