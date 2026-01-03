@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "4568d06b4445",
+      "title": "Stop Using Your Keyboard and Start Using Handy, a Free Speech-to-Text App",
+      "slug": "stop-using-your-keyboard-and-start-using-handy-a-free-speech-to-text-app",
+      "original_link": "https://www.wired.com/story/handy-free-speech-to-text-app/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-03T12:21:01.163556+00:00",
+      "word_count": 33
+    },
+    {
       "id": "e3d74d8972a6",
       "title": "How to Protect Your iPhone or Android Device From Spyware",
       "slug": "how-to-protect-your-iphone-or-android-device-from-spyware",
@@ -751,6 +761,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-03T10:12:18.114677+00:00",
+  "last_updated": "2026-01-03T12:21:18.809243+00:00",
   "version": "1.0.0"
 }
