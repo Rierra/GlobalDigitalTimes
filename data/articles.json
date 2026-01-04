@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "57b7d0aaef42",
+      "title": "Plaud launches a new AI pin and a desktop meeting notetaker",
+      "slug": "plaud-launches-a-new-ai-pin-and-a-desktop-meeting-notetaker",
+      "original_link": "https://techcrunch.com/2026/01/04/plaud-launches-a-new-ai-pin-and-a-desktop-meeting-notetaker/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-04T16:45:42.890850+00:00",
+      "word_count": 31
+    },
+    {
       "id": "1a74d946559a",
       "title": "Narwal\u2019s Flow 2 robovac might help you find that earring you lost",
       "slug": "narwals-flow-2-robovac-might-help-you-find-that-earring-you-lost",
@@ -831,6 +841,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-04T14:39:56.197275+00:00",
+  "last_updated": "2026-01-04T16:45:54.775692+00:00",
   "version": "1.0.0"
 }
