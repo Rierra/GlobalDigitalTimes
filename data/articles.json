@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "74ed19530eac",
+      "title": "French and Malaysian authorities are investigating Grok for generating sexualized deepfakes",
+      "slug": "french-and-malaysian-authorities-are-investigating-grok-for-generating-sexualized-deepfakes",
+      "original_link": "https://techcrunch.com/2026/01/04/french-and-malaysian-authorities-are-investigating-grok-for-generating-sexualized-deepfakes/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-04T17:09:37.899427+00:00",
+      "word_count": 31
+    },
+    {
       "id": "57b7d0aaef42",
       "title": "Plaud launches a new AI pin and a desktop meeting notetaker",
       "slug": "plaud-launches-a-new-ai-pin-and-a-desktop-meeting-notetaker",
@@ -841,6 +851,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-04T16:45:54.775692+00:00",
+  "last_updated": "2026-01-04T17:09:50.493408+00:00",
   "version": "1.0.0"
 }
