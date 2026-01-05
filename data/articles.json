@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "4ce92c534026",
+      "title": "Boston Dynamics\u2019s next-gen humanoid robot will have Google DeepMind DNA",
+      "slug": "boston-dynamicss-next-gen-humanoid-robot-will-have-google-deepmind-dna",
+      "original_link": "https://techcrunch.com/2026/01/05/boston-dynamicss-next-gen-humanoid-robot-will-have-google-deepmind-dna/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-05T22:43:54.673117+00:00",
+      "word_count": 30
+    },
+    {
+      "id": "19d35d007f61",
+      "title": "Nvidia launches powerful new Rubin chip architecture",
+      "slug": "nvidia-launches-powerful-new-rubin-chip-architecture",
+      "original_link": "https://techcrunch.com/2026/01/05/nvidia-launches-powerful-new-rubin-chip-architecture/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-05T22:43:36.423560+00:00",
+      "word_count": 34
+    },
+    {
       "id": "5a0dda37bfc5",
       "title": "Amazon Alexa+ released to the general public via an early access website",
       "slug": "amazon-alexa-released-to-the-general-public-via-an-early-access-website",
@@ -1181,6 +1201,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-05T22:13:32.484517+00:00",
+  "last_updated": "2026-01-05T22:44:06.663384+00:00",
   "version": "1.0.0"
 }
