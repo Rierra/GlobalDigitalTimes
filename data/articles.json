@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "d4efcbbd5ab1",
+      "title": "Amazon\u2019s AI assistant comes to the web with Alexa.com",
+      "slug": "amazons-ai-assistant-comes-to-the-web-with-alexa-com",
+      "original_link": "https://techcrunch.com/2026/01/05/alexa-without-an-echo-amazons-ai-chatbot-comes-to-the-web-and-a-revamped-alexa-app/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-05T15:15:28.525289+00:00",
+      "word_count": 38
+    },
+    {
+      "id": "f27ad24d5ed6",
+      "title": "The Alexa Plus website is now available to everyone in early access",
+      "slug": "the-alexa-plus-website-is-now-available-to-everyone-in-early-access",
+      "original_link": "https://www.theverge.com/tech/853535/alexa-plus-website-now-available",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-05T15:15:16.290844+00:00",
+      "word_count": 72
+    },
+    {
       "id": "37609e59ba6d",
       "title": "Hands off! An on-the-road demo of Mercedes\u2019 advanced new driver assist",
       "slug": "hands-off-an-on-the-road-demo-of-mercedes-advanced-new-driver-assist",
@@ -1021,6 +1041,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-05T14:49:08.450033+00:00",
+  "last_updated": "2026-01-05T15:15:40.345718+00:00",
   "version": "1.0.0"
 }
