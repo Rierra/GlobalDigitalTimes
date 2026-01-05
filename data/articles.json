@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "8ed1e83a6f2b",
+      "title": "This is Uber\u2019s new robotaxi from Lucid and Nuro",
+      "slug": "this-is-ubers-new-robotaxi-from-lucid-and-nuro",
+      "original_link": "https://techcrunch.com/2026/01/05/this-is-ubers-new-robotaxi-from-lucid-and-nuro/",
+      "original_source": "TechCrunch",
+      "topic": "Robotics",
+      "generated_at": "2026-01-05T23:39:34.328087+00:00",
+      "word_count": 35
+    },
+    {
+      "id": "8508386bf812",
+      "title": "Nvidia wants to be the Android of generalist robotics",
+      "slug": "nvidia-wants-to-be-the-android-of-generalist-robotics",
+      "original_link": "https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/",
+      "original_source": "TechCrunch",
+      "topic": "Robotics",
+      "generated_at": "2026-01-05T23:39:22.049267+00:00",
+      "word_count": 37
+    },
+    {
       "id": "c94a69b04c59",
       "title": "Microsoft\u2019s Nadella wants us to stop thinking of AI as \u2018slop\u2019",
       "slug": "microsofts-nadella-wants-us-to-stop-thinking-of-ai-as-slop",
@@ -1221,6 +1241,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-05T23:12:24.462771+00:00",
+  "last_updated": "2026-01-05T23:39:46.289391+00:00",
   "version": "1.0.0"
 }
