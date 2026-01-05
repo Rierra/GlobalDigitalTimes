@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "f382ae95b9fa",
+      "title": "Google Gemini Is Taking Control of Humanoid Robots on Auto Factory Floors",
+      "slug": "google-gemini-is-taking-control-of-humanoid-robots-on-auto-factory-floors",
+      "original_link": "https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/",
+      "original_source": "Wired",
+      "topic": "Robotics",
+      "generated_at": "2026-01-05T21:12:09.023077+00:00",
+      "word_count": 32
+    },
+    {
       "id": "d61a4691f8b5",
       "title": "Hacktivist deletes white supremacist websites live on stage during hacker conference",
       "slug": "hacktivist-deletes-white-supremacist-websites-live-on-stage-during-hacker-conference",
@@ -1141,6 +1151,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-05T19:15:40.997069+00:00",
+  "last_updated": "2026-01-05T21:12:21.271106+00:00",
   "version": "1.0.0"
 }
