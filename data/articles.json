@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "5cd0c816963e",
+      "title": "Boston Dynamics\u2019 Tesla Bot rival Atlas will start building Hyundai cars in 2028",
+      "slug": "boston-dynamics-tesla-bot-rival-atlas-will-start-building-hyundai-cars-in-2028",
+      "original_link": "https://www.theverge.com/news/853973/hyundai-boston-dynamics-atlas-robot-factory-2028",
+      "original_source": "The Verge",
+      "topic": "Robotics",
+      "generated_at": "2026-01-05T21:40:26.768893+00:00",
+      "word_count": 73
+    },
+    {
       "id": "f382ae95b9fa",
       "title": "Google Gemini Is Taking Control of Humanoid Robots on Auto Factory Floors",
       "slug": "google-gemini-is-taking-control-of-humanoid-robots-on-auto-factory-floors",
@@ -1151,6 +1161,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-05T21:12:21.271106+00:00",
+  "last_updated": "2026-01-05T21:40:38.947382+00:00",
   "version": "1.0.0"
 }
