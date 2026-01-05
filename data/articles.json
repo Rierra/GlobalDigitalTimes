@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "37609e59ba6d",
+      "title": "Hands off! An on-the-road demo of Mercedes\u2019 advanced new driver assist",
+      "slug": "hands-off-an-on-the-road-demo-of-mercedes-advanced-new-driver-assist",
+      "original_link": "https://arstechnica.com/cars/2026/01/mercedes-teaches-its-driver-assist-how-to-handle-surface-streets/",
+      "original_source": "Ars Technica",
+      "topic": "AI",
+      "generated_at": "2026-01-05T14:48:56.550339+00:00",
+      "word_count": 29
+    },
+    {
+      "id": "7075b6aec7b1",
+      "title": "The best tech announced at CES 2026 so far",
+      "slug": "the-best-tech-announced-at-ces-2026-so-far",
+      "original_link": "https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home",
+      "original_source": "The Verge",
+      "topic": "Other",
+      "generated_at": "2026-01-05T14:48:44.226080+00:00",
+      "word_count": 69
+    },
+    {
       "id": "d5be75fd48dd",
       "title": "Google previews new Gemini features for TV at CES 2026",
       "slug": "google-previews-new-gemini-features-for-tv-at-ces-2026",
@@ -1001,6 +1021,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-05T14:15:57.246009+00:00",
+  "last_updated": "2026-01-05T14:49:08.450033+00:00",
   "version": "1.0.0"
 }
