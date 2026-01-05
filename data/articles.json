@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "d40056582cdb",
+      "title": "The new Ultraloq smart lock uses both your face and your palm to let you in",
+      "slug": "the-new-ultraloq-smart-lock-uses-both-your-face-and-your-palm-to-let-you-in",
+      "original_link": "https://www.theverge.com/tech/853844/ultraloq-ces-smart-lock-face-palm-reading",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-05T03:25:22.297893+00:00",
+      "word_count": 76
+    },
+    {
+      "id": "a6e779c22cdc",
+      "title": "Shut the fridge door!",
+      "slug": "shut-the-fridge-door",
+      "original_link": "https://www.theverge.com/tech/853758/shut-the-fridge-door",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-05T03:25:09.596722+00:00",
+      "word_count": 64
+    },
+    {
       "id": "0be6ec2bd367",
       "title": "Mammotion\u2019s flagship robot lawnmower now uses lidar to map your yard",
       "slug": "mammotions-flagship-robot-lawnmower-now-uses-lidar-to-map-your-yard",
@@ -901,6 +921,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-05T01:02:17.211394+00:00",
+  "last_updated": "2026-01-05T03:25:39.419272+00:00",
   "version": "1.0.0"
 }
