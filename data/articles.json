@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "de551f4c05dc",
+      "title": "LG&#8217;s CLOiD robot can load the washer for you, slowly",
+      "slug": "lg-s-cloid-robot-can-load-the-washer-for-you-slowly",
+      "original_link": "https://www.theverge.com/tech/855233/lg-cloid-robot-laundry-ces-2026-keynote",
+      "original_source": "The Verge",
+      "topic": "Robotics",
+      "generated_at": "2026-01-05T18:20:51.713853+00:00",
+      "word_count": 70
+    },
+    {
+      "id": "6be81edc5f7a",
+      "title": "China\u2019s Hesai will double production as lidar sensor industry shakes out",
+      "slug": "chinas-hesai-will-double-production-as-lidar-sensor-industry-shakes-out",
+      "original_link": "https://techcrunch.com/2026/01/05/chinas-hesai-will-double-production-as-lidar-sensor-industry-shakes-out/",
+      "original_source": "TechCrunch",
+      "topic": "Robotics",
+      "generated_at": "2026-01-05T18:20:39.213805+00:00",
+      "word_count": 48
+    },
+    {
       "id": "9b931a53f36a",
       "title": "Bosch\u2019s fancy coffee machine is getting Alexa Plus",
       "slug": "boschs-fancy-coffee-machine-is-getting-alexa-plus",
@@ -1091,6 +1111,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-05T17:44:37.113079+00:00",
+  "last_updated": "2026-01-05T18:21:03.378091+00:00",
   "version": "1.0.0"
 }
