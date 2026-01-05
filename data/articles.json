@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "ad253b3cb163",
+      "title": "The 2026 BMW iX3 voice assistant will be powered by Alexa+",
+      "slug": "the-2026-bmw-ix3-voice-assistant-will-be-powered-by-alexa",
+      "original_link": "https://techcrunch.com/2026/01/05/the-2026-bmw-ix3-voice-assistant-will-be-powered-by-alexa/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-05T17:15:42.704923+00:00",
+      "word_count": 70
+    },
+    {
       "id": "bbe435ad28b7",
       "title": "Anker\u2019s powerful new Eufy S2 robot vacuum doubles as an aromatherapy diffuser",
       "slug": "ankers-powerful-new-eufy-s2-robot-vacuum-doubles-as-an-aromatherapy-diffuser",
@@ -1071,6 +1081,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-05T16:18:08.045396+00:00",
+  "last_updated": "2026-01-05T17:15:59.921004+00:00",
   "version": "1.0.0"
 }
