@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "183d7b24fbb8",
+      "title": "That viral Reddit post about food delivery apps was an AI scam",
+      "slug": "that-viral-reddit-post-about-food-delivery-apps-was-an-ai-scam",
+      "original_link": "https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-05T18:53:21.322445+00:00",
+      "word_count": 72
+    },
+    {
       "id": "de551f4c05dc",
       "title": "LG&#8217;s CLOiD robot can load the washer for you, slowly",
       "slug": "lg-s-cloid-robot-can-load-the-washer-for-you-slowly",
@@ -1111,6 +1121,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-05T18:21:03.378091+00:00",
+  "last_updated": "2026-01-05T18:53:38.727050+00:00",
   "version": "1.0.0"
 }
