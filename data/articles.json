@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "8bdc2f5ab58f",
+      "title": "What\u2019s next for AI in 2026",
+      "slug": "whats-next-for-ai-in-2026",
+      "original_link": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
+      "original_source": "MIT Technology Review",
+      "topic": "AI",
+      "generated_at": "2026-01-05T12:25:44.163905+00:00",
+      "word_count": 66
+    },
+    {
+      "id": "4918dee8c3d3",
+      "title": "Teradar reveals its first terahertz-band vision sensor for cars",
+      "slug": "teradar-reveals-its-first-terahertz-band-vision-sensor-for-cars",
+      "original_link": "https://techcrunch.com/2026/01/05/teradar-reveals-its-first-terahertz-band-vision-sensor-for-cars/",
+      "original_source": "TechCrunch",
+      "topic": "Robotics",
+      "generated_at": "2026-01-05T12:25:26.399262+00:00",
+      "word_count": 36
+    },
+    {
       "id": "f19e4e9c5597",
       "title": "AI Deepfakes Are Impersonating Pastors to Try to Scam Their Congregations",
       "slug": "ai-deepfakes-are-impersonating-pastors-to-try-to-scam-their-congregations",
@@ -971,6 +991,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-05T11:39:31.745057+00:00",
+  "last_updated": "2026-01-05T12:25:56.015957+00:00",
   "version": "1.0.0"
 }
