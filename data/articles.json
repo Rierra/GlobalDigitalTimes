@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "40498a329738",
+      "title": "Meta is adding a teleprompter and virtual writing to its Ray-Ban Display glasses",
+      "slug": "meta-is-adding-a-teleprompter-and-virtual-writing-to-its-ray-ban-display-glasses",
+      "original_link": "https://www.theverge.com/news/856422/meta-ray-ban-display-emg-handwriting-teleprompter",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-06T15:13:34.482636+00:00",
+      "word_count": 73
+    },
+    {
       "id": "e8c52270ca66",
       "title": "Government demands Musk's X deals with 'appalling' Grok AI deepfakes",
       "slug": "government-demands-musk-s-x-deals-with-appalling-grok-ai-deepfakes",
@@ -1421,6 +1431,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-06T14:46:45.869301+00:00",
+  "last_updated": "2026-01-06T15:13:35.132151+00:00",
   "version": "1.0.0"
 }
