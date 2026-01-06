@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "b573af3e3cfb",
+      "title": "This desktop charger turns your iPhone into a robotic AI assistant",
+      "slug": "this-desktop-charger-turns-your-iphone-into-a-robotic-ai-assistant",
+      "original_link": "https://www.theverge.com/tech/856077/yoona-deskmate-iphone-robot-companion-ai-assistant",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-06T08:52:32.409161+00:00",
+      "word_count": 71
+    },
+    {
       "id": "e2137ec569d8",
       "title": "CES Live Blog, Day 2: More of the Coolest Tech From Las Vegas",
       "slug": "ces-live-blog-day-2-more-of-the-coolest-tech-from-las-vegas",
@@ -1341,6 +1351,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-06T08:18:17.912431+00:00",
+  "last_updated": "2026-01-06T08:52:44.098621+00:00",
   "version": "1.0.0"
 }
