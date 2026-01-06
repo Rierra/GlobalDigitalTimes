@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "0dbfaae77343",
+      "title": "Narwal adds AI to its vacuum cleaners to monitor pets and find jewelry",
+      "slug": "narwal-adds-ai-to-its-vacuum-cleaners-to-monitor-pets-and-find-jewelry",
+      "original_link": "https://techcrunch.com/2026/01/05/narwal-adds-ai-to-its-vacuum-cleaners-to-monitor-pets-and-find-jewelry/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-06T07:19:09.708920+00:00",
+      "word_count": 29
+    },
+    {
       "id": "3c4b56035b26",
       "title": "Emerson\u2019s SmartVoice devices follow verbal instructions without Wi-Fi or a hub",
       "slug": "emersons-smartvoice-devices-follow-verbal-instructions-without-wi-fi-or-a-hub",
@@ -1321,6 +1331,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-06T05:17:46.906346+00:00",
+  "last_updated": "2026-01-06T07:19:22.134667+00:00",
   "version": "1.0.0"
 }
