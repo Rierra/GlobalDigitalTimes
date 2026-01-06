@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "d7963d823f9b",
+      "title": "The biggest Nvidia announcements at CES 2026",
+      "slug": "the-biggest-nvidia-announcements-at-ces-2026",
+      "original_link": "https://www.theverge.com/tech/856439/nvidia-ces-2026-announcements-roundup",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-06T19:36:25.673536+00:00",
+      "word_count": 67
+    },
+    {
+      "id": "13d470287c6f",
+      "title": "LMArena lands $1.7B valuation four months after launching its product",
+      "slug": "lmarena-lands-1-7b-valuation-four-months-after-launching-its-product",
+      "original_link": "https://techcrunch.com/2026/01/06/lmarena-lands-1-7b-valuation-four-months-after-launching-its-product/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-06T19:36:24.825191+00:00",
+      "word_count": 36
+    },
+    {
       "id": "66ffc06a3cbd",
       "title": "News orgs want OpenAI to dig up millions of deleted ChatGPT logs",
       "slug": "news-orgs-want-openai-to-dig-up-millions-of-deleted-chatgpt-logs",
@@ -1471,6 +1491,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-06T19:09:44.888179+00:00",
+  "last_updated": "2026-01-06T19:36:26.191267+00:00",
   "version": "1.0.0"
 }
