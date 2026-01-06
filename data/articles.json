@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "2f38a12a7228",
+      "title": "Grok Is Pushing AI \u2018Undressing\u2019 Mainstream",
+      "slug": "grok-is-pushing-ai-undressing-mainstream",
+      "original_link": "https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-06T22:44:13.422387+00:00",
+      "word_count": 41
+    },
+    {
+      "id": "95a2e6a0d029",
+      "title": "A viral Reddit post alleging fraud from a food delivery app turned out to be AI-generated",
+      "slug": "a-viral-reddit-post-alleging-fraud-from-a-food-delivery-app-turned-out-to-be-ai-generated",
+      "original_link": "https://techcrunch.com/2026/01/06/a-viral-reddit-post-alleging-fraud-from-a-food-delivery-app-turned-out-to-be-ai-generated/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-06T22:44:12.463805+00:00",
+      "word_count": 36
+    },
+    {
       "id": "572082de5e57",
       "title": "Letting prisons jam contraband phones is a bad idea, phone companies tell FCC",
       "slug": "letting-prisons-jam-contraband-phones-is-a-bad-idea-phone-companies-tell-fcc",
@@ -1561,6 +1581,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-06T21:40:28.339278+00:00",
+  "last_updated": "2026-01-06T22:44:13.785978+00:00",
   "version": "1.0.0"
 }
