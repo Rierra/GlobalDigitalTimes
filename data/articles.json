@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "00e9736cf0c9",
+      "title": "AMD Ryzen AI 400 official: Will these laptop chips maintain AMD\u2019s lead?",
+      "slug": "amd-ryzen-ai-400-official-will-these-laptop-chips-maintain-amds-lead",
+      "original_link": "https://www.theverge.com/tech/855343/amd-ryzen-ai-400-release-date",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-06T03:58:57.648072+00:00",
+      "word_count": 72
+    },
+    {
+      "id": "62e2e3306e56",
+      "title": "This $300 hybrid robovac comes with a self-empyting docking station",
+      "slug": "this-300-hybrid-robovac-comes-with-a-self-empyting-docking-station",
+      "original_link": "https://www.theverge.com/news/850979/eureka-e10-evo-plus-docking-station-ces-2026",
+      "original_source": "The Verge",
+      "topic": "Robotics",
+      "generated_at": "2026-01-06T03:58:45.636417+00:00",
+      "word_count": 70
+    },
+    {
+      "id": "71008efe7134",
+      "title": "AMD unveils new AI PC processors for general use and gaming at CES",
+      "slug": "amd-unveils-new-ai-pc-processors-for-general-use-and-gaming-at-ces",
+      "original_link": "https://techcrunch.com/2026/01/05/amd-unveils-new-ai-pc-processors-for-general-use-and-gaming-at-ces/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-06T03:58:33.398670+00:00",
+      "word_count": 39
+    },
+    {
       "id": "bbeb231a0123",
       "title": "The nation\u2019s strictest privacy law just took effect, to data brokers\u2019 chagrin",
       "slug": "the-nations-strictest-privacy-law-just-took-effect-to-data-brokers-chagrin",
@@ -1261,6 +1291,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-06T02:55:13.621407+00:00",
+  "last_updated": "2026-01-06T03:59:09.235869+00:00",
   "version": "1.0.0"
 }
