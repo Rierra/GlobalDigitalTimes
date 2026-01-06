@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "3c4b56035b26",
+      "title": "Emerson\u2019s SmartVoice devices follow verbal instructions without Wi-Fi or a hub",
+      "slug": "emersons-smartvoice-devices-follow-verbal-instructions-without-wi-fi-or-a-hub",
+      "original_link": "https://www.theverge.com/tech/850919/smart-appliance-emerson-smartvoice-ces",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-06T05:17:35.310617+00:00",
+      "word_count": 71
+    },
+    {
+      "id": "b7a4c375cde9",
+      "title": "Nvidia announces DLSS 4.5 with 6x Frame Generation and improved image quality",
+      "slug": "nvidia-announces-dlss-4-5-with-6x-frame-generation-and-improved-image-quality",
+      "original_link": "https://www.theverge.com/tech/854610/nvidia-dlss-4-5-announcement-multi-frame-generation-6x-specs",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-06T05:17:23.289446+00:00",
+      "word_count": 72
+    },
+    {
       "id": "83b76b489260",
       "title": "Car giant Hyundai to use human-like robots in factories",
       "slug": "car-giant-hyundai-to-use-human-like-robots-in-factories",
@@ -1301,6 +1321,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-06T04:39:24.583881+00:00",
+  "last_updated": "2026-01-06T05:17:46.906346+00:00",
   "version": "1.0.0"
 }
