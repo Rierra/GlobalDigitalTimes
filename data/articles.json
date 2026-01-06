@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "e8c52270ca66",
+      "title": "Government demands Musk's X deals with 'appalling' Grok AI deepfakes",
+      "slug": "government-demands-musk-s-x-deals-with-appalling-grok-ai-deepfakes",
+      "original_link": "https://www.bbc.com/news/articles/crrn054nxe7o?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "AI",
+      "generated_at": "2026-01-06T14:46:45.425456+00:00",
+      "word_count": 29
+    },
+    {
       "id": "64e3dae8da8a",
       "title": "The Download: our predictions for AI, and good climate news",
       "slug": "the-download-our-predictions-for-ai-and-good-climate-news",
@@ -1411,6 +1421,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-06T13:53:13.391548+00:00",
+  "last_updated": "2026-01-06T14:46:45.869301+00:00",
   "version": "1.0.0"
 }
