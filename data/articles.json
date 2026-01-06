@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "21d8c0c2df7c",
+      "title": "At CES, EVs take a backseat to robotaxis and AI",
+      "slug": "at-ces-evs-take-a-backseat-to-robotaxis-and-ai",
+      "original_link": "https://www.theverge.com/tech/856503/ces-2026-robotaxi-ai-ev-car-concepts",
+      "original_source": "The Verge",
+      "topic": "Robotics",
+      "generated_at": "2026-01-06T20:44:26.427197+00:00",
+      "word_count": 70
+    },
+    {
+      "id": "6d9eea432c5a",
+      "title": "California lawmaker proposes a four-year ban on AI chatbots in kid\u2019s toys",
+      "slug": "california-lawmaker-proposes-a-four-year-ban-on-ai-chatbots-in-kids-toys",
+      "original_link": "https://techcrunch.com/2026/01/06/california-lawmaker-proposes-a-four-year-ban-on-ai-chatbots-in-kids-toys/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-06T20:44:25.667344+00:00",
+      "word_count": 49
+    },
+    {
       "id": "77ce4ab9823e",
       "title": "Grok is undressing children \u2014 can the law stop it?",
       "slug": "grok-is-undressing-children-can-the-law-stop-it",
@@ -1511,6 +1531,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-06T20:13:50.795518+00:00",
+  "last_updated": "2026-01-06T20:44:26.714285+00:00",
   "version": "1.0.0"
 }
