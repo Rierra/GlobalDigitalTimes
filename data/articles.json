@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "64e3dae8da8a",
+      "title": "The Download: our predictions for AI, and good climate news",
+      "slug": "the-download-our-predictions-for-ai-and-good-climate-news",
+      "original_link": "https://www.technologyreview.com/2026/01/06/1130744/the-download-our-predictions-for-ai-and-good-climate-news/",
+      "original_source": "MIT Technology Review",
+      "topic": "AI",
+      "generated_at": "2026-01-06T13:53:13.111541+00:00",
+      "word_count": 72
+    },
+    {
+      "id": "39783ec6b685",
+      "title": "TP-Link brings an AI assistant to its smart home and home networking apps",
+      "slug": "tp-link-brings-an-ai-assistant-to-its-smart-home-and-home-networking-apps",
+      "original_link": "https://www.theverge.com/tech/854017/tp-link-brings-an-ai-assistant-to-its-smart-home-and-home-networking-apps",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-06T13:53:12.348697+00:00",
+      "word_count": 73
+    },
+    {
       "id": "15c06519703f",
       "title": "Ugreen is now selling an AI NAS with more RAM than my desktop",
       "slug": "ugreen-is-now-selling-an-ai-nas-with-more-ram-than-my-desktop",
@@ -1391,6 +1411,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-06T13:11:31.616630+00:00",
+  "last_updated": "2026-01-06T13:53:13.391548+00:00",
   "version": "1.0.0"
 }
