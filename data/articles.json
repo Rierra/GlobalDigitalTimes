@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "83b76b489260",
+      "title": "Car giant Hyundai to use human-like robots in factories",
+      "slug": "car-giant-hyundai-to-use-human-like-robots-in-factories",
+      "original_link": "https://www.bbc.com/news/articles/cvgjm5x54ldo?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "Robotics",
+      "generated_at": "2026-01-06T04:39:12.279111+00:00",
+      "word_count": 34
+    },
+    {
       "id": "00e9736cf0c9",
       "title": "AMD Ryzen AI 400 official: Will these laptop chips maintain AMD\u2019s lead?",
       "slug": "amd-ryzen-ai-400-official-will-these-laptop-chips-maintain-amds-lead",
@@ -1291,6 +1301,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-06T03:59:09.235869+00:00",
+  "last_updated": "2026-01-06T04:39:24.583881+00:00",
   "version": "1.0.0"
 }
