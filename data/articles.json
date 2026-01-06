@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "77ce4ab9823e",
+      "title": "Grok is undressing children \u2014 can the law stop it?",
+      "slug": "grok-is-undressing-children-can-the-law-stop-it",
+      "original_link": "https://www.theverge.com/ai-artificial-intelligence/855832/grok-undressing-children-csam-law-x-elon-musk",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-06T20:13:50.443247+00:00",
+      "word_count": 70
+    },
+    {
+      "id": "66d0b2147836",
+      "title": "Universal Music signs a new AI deal with Nvidia",
+      "slug": "universal-music-signs-a-new-ai-deal-with-nvidia",
+      "original_link": "https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-06T20:13:49.689900+00:00",
+      "word_count": 69
+    },
+    {
       "id": "d7963d823f9b",
       "title": "The biggest Nvidia announcements at CES 2026",
       "slug": "the-biggest-nvidia-announcements-at-ces-2026",
@@ -1491,6 +1511,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-06T19:36:26.191267+00:00",
+  "last_updated": "2026-01-06T20:13:50.795518+00:00",
   "version": "1.0.0"
 }
