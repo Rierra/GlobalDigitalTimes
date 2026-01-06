@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "28b46423c3db",
+      "title": "Roborock\u2019s Rover walks, jumps, and vacuums your stairs",
+      "slug": "roborocks-rover-walks-jumps-and-vacuums-your-stairs",
+      "original_link": "https://www.theverge.com/tech/852121/roborock-saros-rover-stair-climbing-robot-vacuum-ces-2026",
+      "original_source": "The Verge",
+      "topic": "Robotics",
+      "generated_at": "2026-01-06T17:16:21.567564+00:00",
+      "word_count": 68
+    },
+    {
+      "id": "cb4625a0b24b",
+      "title": "Roborock launches its first robot lawn mower in the US",
+      "slug": "roborock-launches-its-first-robot-lawn-mower-in-the-us",
+      "original_link": "https://www.theverge.com/news/851696/roborock-launches-its-first-robot-lawnmower-in-the-us",
+      "original_source": "The Verge",
+      "topic": "Robotics",
+      "generated_at": "2026-01-06T17:16:20.833738+00:00",
+      "word_count": 70
+    },
+    {
       "id": "40498a329738",
       "title": "Meta is adding a teleprompter and virtual writing to its Ray-Ban Display glasses",
       "slug": "meta-is-adding-a-teleprompter-and-virtual-writing-to-its-ray-ban-display-glasses",
@@ -1431,6 +1451,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-06T15:13:35.132151+00:00",
+  "last_updated": "2026-01-06T17:16:21.859516+00:00",
   "version": "1.0.0"
 }
