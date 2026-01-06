@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "74dfd6991b19",
+      "title": "xAI says it raised $20B in Series E funding",
+      "slug": "xai-says-it-raised-20b-in-series-e-funding",
+      "original_link": "https://techcrunch.com/2026/01/06/xai-says-it-raised-20b-in-series-e-funding/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-06T21:12:26.819406+00:00",
+      "word_count": 34
+    },
+    {
+      "id": "bbd264029a7d",
+      "title": "Mobileye acquires humanoid robot startup Mentee Robotics for $900M",
+      "slug": "mobileye-acquires-humanoid-robot-startup-mentee-robotics-for-900m",
+      "original_link": "https://techcrunch.com/2026/01/06/mobileye-acquires-humanoid-robot-startup-mentee-robotics-for-900m/",
+      "original_source": "TechCrunch",
+      "topic": "Robotics",
+      "generated_at": "2026-01-06T21:12:25.898252+00:00",
+      "word_count": 21
+    },
+    {
       "id": "21d8c0c2df7c",
       "title": "At CES, EVs take a backseat to robotaxis and AI",
       "slug": "at-ces-evs-take-a-backseat-to-robotaxis-and-ai",
@@ -1531,6 +1551,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-06T20:44:26.714285+00:00",
+  "last_updated": "2026-01-06T21:12:27.170158+00:00",
   "version": "1.0.0"
 }
