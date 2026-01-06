@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "66ffc06a3cbd",
+      "title": "News orgs want OpenAI to dig up millions of deleted ChatGPT logs",
+      "slug": "news-orgs-want-openai-to-dig-up-millions-of-deleted-chatgpt-logs",
+      "original_link": "https://arstechnica.com/ai/2026/01/news-orgs-want-openai-to-dig-up-millions-of-deleted-chatgpt-logs/",
+      "original_source": "Ars Technica",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-06T19:09:44.439949+00:00",
+      "word_count": 29
+    },
+    {
       "id": "b1aea39d3f64",
       "title": "Nvidia to accelerate Siemens chip-design tools using its GPUs",
       "slug": "nvidia-to-accelerate-siemens-chip-design-tools-using-its-gpus",
@@ -1461,6 +1471,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-06T18:51:46.359668+00:00",
+  "last_updated": "2026-01-06T19:09:44.888179+00:00",
   "version": "1.0.0"
 }
