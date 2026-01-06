@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "b1aea39d3f64",
+      "title": "Nvidia to accelerate Siemens chip-design tools using its GPUs",
+      "slug": "nvidia-to-accelerate-siemens-chip-design-tools-using-its-gpus",
+      "original_link": "https://techcrunch.com/2026/01/06/nvidia-to-accelerate-siemens-chip-design-tools-using-its-gpus/",
+      "original_source": "TechCrunch",
+      "topic": "Other",
+      "generated_at": "2026-01-06T18:51:45.807267+00:00",
+      "word_count": 68
+    },
+    {
       "id": "28b46423c3db",
       "title": "Roborock\u2019s Rover walks, jumps, and vacuums your stairs",
       "slug": "roborocks-rover-walks-jumps-and-vacuums-your-stairs",
@@ -1451,6 +1461,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-06T17:16:21.859516+00:00",
+  "last_updated": "2026-01-06T18:51:46.359668+00:00",
   "version": "1.0.0"
 }
