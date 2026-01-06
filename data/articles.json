@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "572082de5e57",
+      "title": "Letting prisons jam contraband phones is a bad idea, phone companies tell FCC",
+      "slug": "letting-prisons-jam-contraband-phones-is-a-bad-idea-phone-companies-tell-fcc",
+      "original_link": "https://arstechnica.com/tech-policy/2026/01/letting-prisons-jam-contraband-phones-is-a-bad-idea-phone-companies-tell-fcc/",
+      "original_source": "Ars Technica",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-06T21:40:27.843488+00:00",
+      "word_count": 28
+    },
+    {
       "id": "74dfd6991b19",
       "title": "xAI says it raised $20B in Series E funding",
       "slug": "xai-says-it-raised-20b-in-series-e-funding",
@@ -1551,6 +1561,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-06T21:12:27.170158+00:00",
+  "last_updated": "2026-01-06T21:40:28.339278+00:00",
   "version": "1.0.0"
 }
