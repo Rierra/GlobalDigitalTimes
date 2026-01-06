@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "bbeb231a0123",
+      "title": "The nation\u2019s strictest privacy law just took effect, to data brokers\u2019 chagrin",
+      "slug": "the-nations-strictest-privacy-law-just-took-effect-to-data-brokers-chagrin",
+      "original_link": "https://arstechnica.com/tech-policy/2026/01/data-broker-hoarding-is-rampant-new-law-lets-consumers-fight-back/",
+      "original_source": "Ars Technica",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-06T02:55:01.570334+00:00",
+      "word_count": 28
+    },
+    {
       "id": "c8389da8c0b3",
       "title": "Ecovacs adds a mop cover to its flagship robot vacuum",
       "slug": "ecovacs-adds-a-mop-cover-to-its-flagship-robot-vacuum",
@@ -1251,6 +1261,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-06T00:57:50.375653+00:00",
+  "last_updated": "2026-01-06T02:55:13.621407+00:00",
   "version": "1.0.0"
 }
