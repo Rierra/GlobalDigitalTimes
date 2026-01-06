@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "f78d66b89432",
+      "title": "Jake Sullivan is furious that Trump destroyed his AI foreign policy",
+      "slug": "jake-sullivan-is-furious-that-trump-destroyed-his-ai-foreign-policy",
+      "original_link": "https://www.theverge.com/policy/856815/jake-sullivan-interview-ai-chips-nvidia-trump",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-06T23:12:23.070865+00:00",
+      "word_count": 71
+    },
+    {
+      "id": "7a7932357744",
+      "title": "CES 2026: Everything revealed, from Nvidia\u2019s debuts to AMD\u2019s new chips to Razer\u2019s AI oddities",
+      "slug": "ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities",
+      "original_link": "https://techcrunch.com/2026/01/06/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-06T23:12:22.372838+00:00",
+      "word_count": 74
+    },
+    {
       "id": "2f38a12a7228",
       "title": "Grok Is Pushing AI \u2018Undressing\u2019 Mainstream",
       "slug": "grok-is-pushing-ai-undressing-mainstream",
@@ -1581,6 +1601,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-06T22:44:13.785978+00:00",
+  "last_updated": "2026-01-06T23:12:23.334964+00:00",
   "version": "1.0.0"
 }
