@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "38c767d7d1c8",
+      "title": "Lenovo\u2019s joining the bandwagon with concept AI glasses",
+      "slug": "lenovos-joining-the-bandwagon-with-concept-ai-glasses",
+      "original_link": "https://www.theverge.com/tech/853434/ces-2026-lenovo-concept-ai-glasses-wearables",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-07T02:56:18.464481+00:00",
+      "word_count": 68
+    },
+    {
+      "id": "998965d49952",
+      "title": "Lenovo is building an AI assistant that \u2018can act on your behalf\u2019",
+      "slug": "lenovo-is-building-an-ai-assistant-that-can-act-on-your-behalf",
+      "original_link": "https://www.theverge.com/column/857053/lenovo-ai-assistant-qira",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-07T02:56:17.916546+00:00",
+      "word_count": 72
+    },
+    {
+      "id": "6b10952ba6cb",
+      "title": "Meta\u2019s Manus news is getting different receptions in Washington and Beijing",
+      "slug": "metas-manus-news-is-getting-different-receptions-in-washington-and-beijing",
+      "original_link": "https://techcrunch.com/2026/01/06/metas-manus-news-is-getting-different-receptions-in-washington-and-beijing/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-07T02:56:17.067009+00:00",
+      "word_count": 37
+    },
+    {
       "id": "763bcf0a317e",
       "title": "Listening to battery failure",
       "slug": "listening-to-battery-failure",
@@ -1611,6 +1641,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-07T00:58:02.529276+00:00",
+  "last_updated": "2026-01-07T02:56:18.701694+00:00",
   "version": "1.0.0"
 }
