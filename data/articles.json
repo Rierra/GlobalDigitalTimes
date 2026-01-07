@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "4c5d12aa7939",
+      "title": "X\u2019s deepfake machine is infuriating policymakers around the globe",
+      "slug": "xs-deepfake-machine-is-infuriating-policymakers-around-the-globe",
+      "original_link": "https://www.theverge.com/policy/857924/x-grok-ai-chatbot-bikini-images-regulators-congress",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-07T21:11:49.496481+00:00",
+      "word_count": 69
+    },
+    {
+      "id": "14278f0d6ea2",
+      "title": "OpenAI unveils ChatGPT Health, says 230 million users ask about health each week",
+      "slug": "openai-unveils-chatgpt-health-says-230-million-users-ask-about-health-each-week",
+      "original_link": "https://techcrunch.com/2026/01/07/openai-unveils-chatgpt-health-says-230-million-users-ask-about-health-each-week/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-07T21:11:48.827129+00:00",
+      "word_count": 39
+    },
+    {
       "id": "2bacb0436d18",
       "title": "Lux Capital lands $1.5 billion for its largest fund ever",
       "slug": "lux-capital-lands-1-5-billion-for-its-largest-fund-ever",
@@ -1801,6 +1821,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-07T20:14:28.082019+00:00",
+  "last_updated": "2026-01-07T21:11:49.770622+00:00",
   "version": "1.0.0"
 }
