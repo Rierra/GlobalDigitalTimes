@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "5d991b338f1d",
+      "title": "Grok Is Generating Sexual Content Far More Graphic Than What's on X",
+      "slug": "grok-is-generating-sexual-content-far-more-graphic-than-what-s-on-x",
+      "original_link": "https://www.wired.com/story/grok-is-generating-sexual-content-far-more-graphic-than-whats-on-x/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-07T22:12:04.678695+00:00",
+      "word_count": 44
+    },
+    {
+      "id": "78079e46dfd1",
+      "title": "Yes, LinkedIn banned AI agent startup Artisan, but now it\u2019s back",
+      "slug": "yes-linkedin-banned-ai-agent-startup-artisan-but-now-its-back",
+      "original_link": "https://techcrunch.com/2026/01/07/yes-linkedin-banned-ai-agent-startup-artisan-but-now-its-back/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-07T22:12:03.951622+00:00",
+      "word_count": 34
+    },
+    {
       "id": "4c5d12aa7939",
       "title": "X\u2019s deepfake machine is infuriating policymakers around the globe",
       "slug": "xs-deepfake-machine-is-infuriating-policymakers-around-the-globe",
@@ -1821,6 +1841,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-07T21:11:49.770622+00:00",
+  "last_updated": "2026-01-07T22:12:04.964472+00:00",
   "version": "1.0.0"
 }
