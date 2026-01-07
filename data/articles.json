@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "58bd791a39ab",
+      "title": "AI Models Are Starting to Learn by Asking Themselves Questions",
+      "slug": "ai-models-are-starting-to-learn-by-asking-themselves-questions",
+      "original_link": "https://www.wired.com/story/ai-models-keep-learning-after-training-research/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-07T19:14:07.325950+00:00",
+      "word_count": 31
+    },
+    {
       "id": "28d719d82ce6",
       "title": "Where VCs think AI startups can win, even with OpenAI in the game",
       "slug": "where-vcs-think-ai-startups-can-win-even-with-openai-in-the-game",
@@ -1761,6 +1771,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-07T18:54:21.213289+00:00",
+  "last_updated": "2026-01-07T19:14:07.837167+00:00",
   "version": "1.0.0"
 }
