@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "7fda5255b00a",
+      "title": "Deploying a hybrid approach to Web3 in the AI era",
+      "slug": "deploying-a-hybrid-approach-to-web3-in-the-ai-era",
+      "original_link": "https://www.technologyreview.com/2026/01/07/1129490/deploying-a-hybrid-approach-to-web3-in-the-ai-era/",
+      "original_source": "MIT Technology Review",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-07T14:47:37.944093+00:00",
+      "word_count": 70
+    },
+    {
       "id": "df6cb3d8545f",
       "title": "The Download: war in Europe, and the company that wants to cool the planet",
       "slug": "the-download-war-in-europe-and-the-company-that-wants-to-cool-the-planet",
@@ -1701,6 +1711,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-07T13:55:28.527021+00:00",
+  "last_updated": "2026-01-07T14:47:38.482459+00:00",
   "version": "1.0.0"
 }
