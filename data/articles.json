@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "8025fb57286e",
+      "title": "McKinsey and General Catalyst execs say the era of \u2018learn once, work forever\u2019 is over",
+      "slug": "mckinsey-and-general-catalyst-execs-say-the-era-of-learn-once-work-forever-is-over",
+      "original_link": "https://techcrunch.com/2026/01/06/mckinsey-and-general-catalyst-execs-say-the-era-of-learn-once-work-forever-is-over/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-07T03:59:12.920579+00:00",
+      "word_count": 35
+    },
+    {
       "id": "38c767d7d1c8",
       "title": "Lenovo\u2019s joining the bandwagon with concept AI glasses",
       "slug": "lenovos-joining-the-bandwagon-with-concept-ai-glasses",
@@ -1641,6 +1651,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-07T02:56:18.701694+00:00",
+  "last_updated": "2026-01-07T03:59:13.519768+00:00",
   "version": "1.0.0"
 }
