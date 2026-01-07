@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "763bcf0a317e",
+      "title": "Listening to battery failure",
+      "slug": "listening-to-battery-failure",
+      "original_link": "https://www.technologyreview.com/2026/01/06/1129007/listening-to-battery-failure/",
+      "original_source": "MIT Technology Review",
+      "topic": "Other",
+      "generated_at": "2026-01-07T00:58:01.836192+00:00",
+      "word_count": 64
+    },
+    {
       "id": "f78d66b89432",
       "title": "Jake Sullivan is furious that Trump destroyed his AI foreign policy",
       "slug": "jake-sullivan-is-furious-that-trump-destroyed-his-ai-foreign-policy",
@@ -1601,6 +1611,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-06T23:12:23.334964+00:00",
+  "last_updated": "2026-01-07T00:58:02.529276+00:00",
   "version": "1.0.0"
 }
