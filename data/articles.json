@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "f6fcb93e7285",
+      "title": "Character.AI and Google settle teen suicide and self-harm suits",
+      "slug": "character-ai-and-google-settle-teen-suicide-and-self-harm-suits",
+      "original_link": "https://www.theverge.com/news/858102/characterai-google-teen-suicide-settlement",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-07T22:43:09.770286+00:00",
+      "word_count": 69
+    },
+    {
       "id": "5d991b338f1d",
       "title": "Grok Is Generating Sexual Content Far More Graphic Than What's on X",
       "slug": "grok-is-generating-sexual-content-far-more-graphic-than-what-s-on-x",
@@ -1841,6 +1851,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-07T22:12:04.964472+00:00",
+  "last_updated": "2026-01-07T22:43:10.197172+00:00",
   "version": "1.0.0"
 }
