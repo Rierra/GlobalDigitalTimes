@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "3e88753fd292",
+      "title": "Samsung&#8217;s Ballie robot is probably never coming out",
+      "slug": "samsung-s-ballie-robot-is-probably-never-coming-out",
+      "original_link": "https://www.theverge.com/news/857864/samsung-ballie-robot-shelved-ces-2026",
+      "original_source": "The Verge",
+      "topic": "Robotics",
+      "generated_at": "2026-01-07T19:39:37.354954+00:00",
+      "word_count": 68
+    },
+    {
+      "id": "85cda80a8b22",
+      "title": "OpenAI launches ChatGPT Health, encouraging users to connect their medical records",
+      "slug": "openai-launches-chatgpt-health-encouraging-users-to-connect-their-medical-records",
+      "original_link": "https://www.theverge.com/ai-artificial-intelligence/857640/openai-launches-chatgpt-health-connect-medical-records",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-07T19:39:36.286661+00:00",
+      "word_count": 71
+    },
+    {
       "id": "58bd791a39ab",
       "title": "AI Models Are Starting to Learn by Asking Themselves Questions",
       "slug": "ai-models-are-starting-to-learn-by-asking-themselves-questions",
@@ -1771,6 +1791,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-07T19:14:07.837167+00:00",
+  "last_updated": "2026-01-07T19:39:37.653814+00:00",
   "version": "1.0.0"
 }
