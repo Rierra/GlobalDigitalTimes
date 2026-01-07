@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "28d719d82ce6",
+      "title": "Where VCs think AI startups can win, even with OpenAI in the game",
+      "slug": "where-vcs-think-ai-startups-can-win-even-with-openai-in-the-game",
+      "original_link": "https://techcrunch.com/video/where-vcs-think-ai-startups-can-win-even-with-openai-in-the-game/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-07T18:54:20.742922+00:00",
+      "word_count": 72
+    },
+    {
+      "id": "08aaf4efb417",
+      "title": "Anthropic reportedly raising $10B at $350B valuation",
+      "slug": "anthropic-reportedly-raising-10b-at-350b-valuation",
+      "original_link": "https://techcrunch.com/2026/01/07/anthropic-reportedly-raising-10b-at-350b-valuation/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-07T18:54:19.967065+00:00",
+      "word_count": 31
+    },
+    {
       "id": "71ffec5a08aa",
       "title": "Google Classroom\u2019s new tool uses Gemini to transform lessons into podcast episodes",
       "slug": "google-classrooms-new-tool-uses-gemini-to-transform-lessons-into-podcast-episodes",
@@ -1741,6 +1761,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-07T18:19:07.916917+00:00",
+  "last_updated": "2026-01-07T18:54:21.213289+00:00",
   "version": "1.0.0"
 }
