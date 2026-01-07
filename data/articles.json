@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "2bacb0436d18",
+      "title": "Lux Capital lands $1.5 billion for its largest fund ever",
+      "slug": "lux-capital-lands-1-5-billion-for-its-largest-fund-ever",
+      "original_link": "https://techcrunch.com/2026/01/07/lux-capital-lands-1-5-billion-for-its-largest-fund-ever/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-07T20:14:27.683619+00:00",
+      "word_count": 27
+    },
+    {
       "id": "3e88753fd292",
       "title": "Samsung&#8217;s Ballie robot is probably never coming out",
       "slug": "samsung-s-ballie-robot-is-probably-never-coming-out",
@@ -1791,6 +1801,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-07T19:39:37.653814+00:00",
+  "last_updated": "2026-01-07T20:14:28.082019+00:00",
   "version": "1.0.0"
 }
