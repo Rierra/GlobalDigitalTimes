@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "5286710d3719",
+      "title": "Most dubious uses of AI at CES 2026",
+      "slug": "most-dubious-uses-of-ai-at-ces-2026",
+      "original_link": "https://www.theverge.com/tech/858315/most-dubious-ai-tech-ces-2026",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-08T18:16:42.412320+00:00",
+      "word_count": 68
+    },
+    {
+      "id": "5845d7831707",
+      "title": "OpenAI to acquire the team behind executive coaching AI tool Convogo",
+      "slug": "openai-to-acquire-the-team-behind-executive-coaching-ai-tool-convogo",
+      "original_link": "https://techcrunch.com/2026/01/08/openai-to-acquire-the-team-behind-executive-coaching-ai-tool-convogo/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-08T18:16:41.666282+00:00",
+      "word_count": 35
+    },
+    {
       "id": "d751e5b2a942",
       "title": "Nvidia\u2019s reportedly asking Chinese customers to pay upfront for its H200 AI chips",
       "slug": "nvidias-reportedly-asking-chinese-customers-to-pay-upfront-for-its-h200-ai-chips",
@@ -2051,6 +2071,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-08T17:49:14.330703+00:00",
+  "last_updated": "2026-01-08T18:16:42.795099+00:00",
   "version": "1.0.0"
 }
