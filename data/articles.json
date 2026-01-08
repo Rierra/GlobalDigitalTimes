@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "3194a326d7c0",
+      "title": "Government accused of dragging its heels on deepfake law over Grok AI",
+      "slug": "government-accused-of-dragging-its-heels-on-deepfake-law-over-grok-ai",
+      "original_link": "https://www.bbc.com/news/articles/cp9jxvx0zjmo?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-08T14:16:44.238382+00:00",
+      "word_count": 34
+    },
+    {
       "id": "3ab3203c7761",
       "title": "Google is taking over your Gmail inbox with AI",
       "slug": "google-is-taking-over-your-gmail-inbox-with-ai",
@@ -1951,6 +1961,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-08T13:55:16.630762+00:00",
+  "last_updated": "2026-01-08T14:16:45.033776+00:00",
   "version": "1.0.0"
 }
