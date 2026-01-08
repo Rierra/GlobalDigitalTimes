@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "52e617c3b607",
+      "title": "AI Devices Are Coming. Will Your Favorite Apps Be Along for the Ride?",
+      "slug": "ai-devices-are-coming-will-your-favorite-apps-be-along-for-the-ride",
+      "original_link": "https://www.wired.com/story/openai-amazon-operating-system-ai-apps-ads/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-08T19:13:03.328530+00:00",
+      "word_count": 39
+    },
+    {
       "id": "72c20e8e726f",
       "title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
       "slug": "chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up",
@@ -2081,6 +2091,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-08T18:51:09.429768+00:00",
+  "last_updated": "2026-01-08T19:13:03.902958+00:00",
   "version": "1.0.0"
 }
