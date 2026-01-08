@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "a34eb419c694",
+      "title": "UK Prime Minister says &#8216;we will take action&#8217; on Grok&#8217;s disgusting deepfakes",
+      "slug": "uk-prime-minister-says-we-will-take-action-on-grok-s-disgusting-deepfakes",
+      "original_link": "https://www.theverge.com/news/859107/uk-prime-minister-x-ai-grok-deepfakes",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-08T23:37:09.132651+00:00",
+      "word_count": 72
+    },
+    {
       "id": "63be1ef0df75",
       "title": "Wi-Fi advocates get win from FCC with vote to allow higher-power devices",
       "slug": "wi-fi-advocates-get-win-from-fcc-with-vote-to-allow-higher-power-devices",
@@ -2181,6 +2191,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-08T22:44:00.613886+00:00",
+  "last_updated": "2026-01-08T23:37:09.525480+00:00",
   "version": "1.0.0"
 }
