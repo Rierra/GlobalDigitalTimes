@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "5a68ce35a238",
+      "title": "Is it even worth mentioning that Elon Musk blew past his own Full Self-Driving goals again?",
+      "slug": "is-it-even-worth-mentioning-that-elon-musk-blew-past-his-own-full-self-driving-goals-again",
+      "original_link": "https://www.theverge.com/news/858782/elon-musk-tesla-fsd-unsupervised-missed-goals",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-08T19:38:08.920704+00:00",
+      "word_count": 76
+    },
+    {
+      "id": "fe1196bbc806",
+      "title": "Critics pan spyware maker NSO\u2019s transparency claims amid its push to enter US market",
+      "slug": "critics-pan-spyware-maker-nsos-transparency-claims-amid-its-push-to-enter-us-market",
+      "original_link": "https://techcrunch.com/2026/01/08/critics-pan-spyware-maker-nsos-transparency-claims-amid-its-push-to-enter-us-market/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-08T19:38:08.168438+00:00",
+      "word_count": 47
+    },
+    {
       "id": "52e617c3b607",
       "title": "AI Devices Are Coming. Will Your Favorite Apps Be Along for the Ride?",
       "slug": "ai-devices-are-coming-will-your-favorite-apps-be-along-for-the-ride",
@@ -2091,6 +2111,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-08T19:13:03.902958+00:00",
+  "last_updated": "2026-01-08T19:38:09.206196+00:00",
   "version": "1.0.0"
 }
