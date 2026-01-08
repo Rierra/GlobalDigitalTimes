@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "27377e21363b",
+      "title": "Google Is Adding an \u2018AI Inbox\u2019 to Gmail That Summarizes Emails",
+      "slug": "google-is-adding-an-ai-inbox-to-gmail-that-summarizes-emails",
+      "original_link": "https://www.wired.com/story/google-ai-inbox-gmail/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-08T13:13:07.291889+00:00",
+      "word_count": 39
+    },
+    {
+      "id": "cff5e87bf16e",
+      "title": "Former Bolt CEO Maju Kuruvilla\u2019s startup triples to $100M valuation",
+      "slug": "former-bolt-ceo-maju-kuruvillas-startup-triples-to-100m-valuation",
+      "original_link": "https://techcrunch.com/2026/01/08/former-bolt-ceo-maju-kuruvillas-startup-triples-to-100m-valuation/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-08T13:13:06.584503+00:00",
+      "word_count": 29
+    },
+    {
       "id": "b0fbb7b5bfa8",
       "title": "Ford has an AI assistant and new hands-free BlueCruise tech on the way",
       "slug": "ford-has-an-ai-assistant-and-new-hands-free-bluecruise-tech-on-the-way",
@@ -1921,6 +1941,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-08T05:16:54.453607+00:00",
+  "last_updated": "2026-01-08T13:13:07.652875+00:00",
   "version": "1.0.0"
 }
