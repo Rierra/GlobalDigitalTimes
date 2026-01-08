@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "3ab3203c7761",
+      "title": "Google is taking over your Gmail inbox with AI",
+      "slug": "google-is-taking-over-your-gmail-inbox-with-ai",
+      "original_link": "https://www.theverge.com/news/857883/google-gmail-ai-inbox-overviews",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-08T13:55:16.308947+00:00",
+      "word_count": 69
+    },
+    {
       "id": "27377e21363b",
       "title": "Google Is Adding an \u2018AI Inbox\u2019 to Gmail That Summarizes Emails",
       "slug": "google-is-adding-an-ai-inbox-to-gmail-that-summarizes-emails",
@@ -1941,6 +1951,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-08T13:13:07.652875+00:00",
+  "last_updated": "2026-01-08T13:55:16.630762+00:00",
   "version": "1.0.0"
 }
