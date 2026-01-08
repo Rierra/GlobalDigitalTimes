@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "8bb0f0ec1be7",
+      "title": "Snowflake announces its intent to buy observability platform Observe",
+      "slug": "snowflake-announces-its-intent-to-buy-observability-platform-observe",
+      "original_link": "https://techcrunch.com/2026/01/08/snowflake-announces-its-intent-to-buy-observability-platform-observe/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-08T17:19:48.734000+00:00",
+      "word_count": 34
+    },
+    {
+      "id": "ad9ed04fa6fc",
+      "title": "Microsoft will put buy buttons directly in Copilot",
+      "slug": "microsoft-will-put-buy-buttons-directly-in-copilot",
+      "original_link": "https://www.theverge.com/news/858664/microsoft-copilot-ai-checkout-buy-products",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-08T17:19:48.005145+00:00",
+      "word_count": 68
+    },
+    {
+      "id": "5e11e47e1468",
+      "title": "OpenAI launches ChatGPT Health to review your medical records",
+      "slug": "openai-launches-chatgpt-health-to-review-your-medical-records",
+      "original_link": "https://www.bbc.com/news/articles/cpqy29d0yjgo?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "AI",
+      "generated_at": "2026-01-08T17:19:47.010408+00:00",
+      "word_count": 29
+    },
+    {
       "id": "252ab550ea80",
       "title": "People Are Using AI to Falsely Identify the Federal Agent Who Shot Renee Good",
       "slug": "people-are-using-ai-to-falsely-identify-the-federal-agent-who-shot-renee-good",
@@ -2011,6 +2041,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-08T16:54:00.629130+00:00",
+  "last_updated": "2026-01-08T17:19:49.189699+00:00",
   "version": "1.0.0"
 }
