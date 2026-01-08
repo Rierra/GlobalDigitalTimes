@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "63be1ef0df75",
+      "title": "Wi-Fi advocates get win from FCC with vote to allow higher-power devices",
+      "slug": "wi-fi-advocates-get-win-from-fcc-with-vote-to-allow-higher-power-devices",
+      "original_link": "https://arstechnica.com/tech-policy/2026/01/fcc-to-authorize-more-powerful-wireless-devices-in-6-ghz-wi-fi-band/",
+      "original_source": "Ars Technica",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-08T22:44:00.249606+00:00",
+      "word_count": 29
+    },
+    {
+      "id": "7cf3d8847847",
+      "title": "Michigan man learns the hard way that \u201ccatch a cheater\u201d spyware apps aren\u2019t legal",
+      "slug": "michigan-man-learns-the-hard-way-that-catch-a-cheater-spyware-apps-arent-legal",
+      "original_link": "https://arstechnica.com/security/2026/01/michigan-man-learns-the-hard-way-that-catch-a-cheater-spyware-apps-arent-legal/",
+      "original_source": "Ars Technica",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-08T22:43:59.321335+00:00",
+      "word_count": 28
+    },
+    {
       "id": "0de9ad8c725e",
       "title": "Governments grapple with the flood of non-consensual nudity on X",
       "slug": "governments-grapple-with-the-flood-of-non-consensual-nudity-on-x",
@@ -2161,6 +2181,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-08T22:13:01.412620+00:00",
+  "last_updated": "2026-01-08T22:44:00.613886+00:00",
   "version": "1.0.0"
 }
