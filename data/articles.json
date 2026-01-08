@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "c7128a4af670",
+      "title": "Ford\u2019s AI voice assistant is coming later this year, L3 driving in 2028",
+      "slug": "fords-ai-voice-assistant-is-coming-later-this-year-l3-driving-in-2028",
+      "original_link": "https://www.theverge.com/transportation/857400/ford-ai-assistant-level-3-automation-ces-2026",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-08T04:38:12.993161+00:00",
+      "word_count": 73
+    },
+    {
       "id": "5f3962113f3f",
       "title": "Ford is getting ready to put AI assistants in its cars",
       "slug": "ford-is-getting-ready-to-put-ai-assistants-in-its-cars",
@@ -1901,6 +1911,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-08T03:58:58.624534+00:00",
+  "last_updated": "2026-01-08T04:38:13.431619+00:00",
   "version": "1.0.0"
 }
