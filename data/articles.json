@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "2866684fc952",
+      "title": "No, Grok hasn&#8217;t paywalled its deepfake image feature",
+      "slug": "no-grok-hasn-t-paywalled-its-deepfake-image-feature",
+      "original_link": "https://www.theverge.com/news/859309/grok-undressing-limit-access-gaslighting",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-09T13:11:56.952497+00:00",
+      "word_count": 68
+    },
+    {
       "id": "e7945daffb79",
       "title": "The Verge Awards at CES 2026",
       "slug": "the-verge-awards-at-ces-2026",
@@ -2251,6 +2261,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-09T12:23:27.173077+00:00",
+  "last_updated": "2026-01-09T13:11:57.465677+00:00",
   "version": "1.0.0"
 }
