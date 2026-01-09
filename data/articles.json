@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "db9a1bf7d732",
+      "title": "Meta expands nuclear power ambitions to include Bill Gates&#8217; startup",
+      "slug": "meta-expands-nuclear-power-ambitions-to-include-bill-gates-startup",
+      "original_link": "https://www.theverge.com/news/859751/meta-nuclear-energy-plant-agreements-ai-data-centers",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-09T19:14:46.762374+00:00",
+      "word_count": 70
+    },
+    {
       "id": "2a21fbe1d2db",
       "title": "Baldur&#8217;s Gate 3 studio says it won&#8217;t use AI for concept art or writing",
       "slug": "baldur-s-gate-3-studio-says-it-won-t-use-ai-for-concept-art-or-writing",
@@ -2341,6 +2351,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-09T18:52:50.879527+00:00",
+  "last_updated": "2026-01-09T19:14:47.250514+00:00",
   "version": "1.0.0"
 }
