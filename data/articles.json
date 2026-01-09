@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "cfde5c341033",
+      "title": "X Didn't Fix Grok's \u2018Undressing\u2019 Problem. It Just Makes People Pay for It",
+      "slug": "x-didn-t-fix-grok-s-undressing-problem-it-just-makes-people-pay-for-it",
+      "original_link": "https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-09T15:45:00.522537+00:00",
+      "word_count": 45
+    },
+    {
       "id": "e45c6e472eb6",
       "title": "The Vergecast Live at CES 2026: What is the point of a robot that falls over?",
       "slug": "the-vergecast-live-at-ces-2026-what-is-the-point-of-a-robot-that-falls-over",
@@ -2291,6 +2301,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-09T14:47:29.143545+00:00",
+  "last_updated": "2026-01-09T15:45:00.924832+00:00",
   "version": "1.0.0"
 }
