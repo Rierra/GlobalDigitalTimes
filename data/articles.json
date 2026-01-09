@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "9b38d78a056b",
+      "title": "Democrats ask Apple and Google to remove X\u2019s undressing bot from their app stores",
+      "slug": "democrats-ask-apple-and-google-to-remove-xs-undressing-bot-from-their-app-stores",
+      "original_link": "https://www.theverge.com/news/859631/democrats-x-grok-apple-google-app-store",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-09T17:15:57.888987+00:00",
+      "word_count": 74
+    },
+    {
       "id": "cfde5c341033",
       "title": "X Didn't Fix Grok's \u2018Undressing\u2019 Problem. It Just Makes People Pay for It",
       "slug": "x-didn-t-fix-grok-s-undressing-problem-it-just-makes-people-pay-for-it",
@@ -2301,6 +2311,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-09T15:45:00.924832+00:00",
+  "last_updated": "2026-01-09T17:15:58.568729+00:00",
   "version": "1.0.0"
 }
