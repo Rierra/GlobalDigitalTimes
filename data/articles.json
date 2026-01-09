@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "46a647d8cb19",
+      "title": "Tim Cook and Sundar Pichai are cowards",
+      "slug": "tim-cook-and-sundar-pichai-are-cowards",
+      "original_link": "https://www.theverge.com/policy/859902/apple-google-run-by-cowards",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-09T21:39:37.368086+00:00",
+      "word_count": 67
+    },
+    {
       "id": "e4049fda810e",
       "title": "Cloudflare defies Italy\u2019s Piracy Shield, won\u2019t block websites on 1.1.1.1 DNS",
       "slug": "cloudflare-defies-italys-piracy-shield-wont-block-websites-on-1-1-1-1-dns",
@@ -2381,6 +2391,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-09T20:44:31.993773+00:00",
+  "last_updated": "2026-01-09T21:39:37.962987+00:00",
   "version": "1.0.0"
 }
