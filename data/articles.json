@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "d40a04bc6e63",
+      "title": "Elon Musk's Grok AI image editing limited to paid users after deepfakes",
+      "slug": "elon-musk-s-grok-ai-image-editing-limited-to-paid-users-after-deepfakes",
+      "original_link": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "AI",
+      "generated_at": "2026-01-09T09:18:53.264684+00:00",
+      "word_count": 38
+    },
+    {
+      "id": "7c96940739c9",
+      "title": "Anthropic adds Allianz to growing list of enterprise wins",
+      "slug": "anthropic-adds-allianz-to-growing-list-of-enterprise-wins",
+      "original_link": "https://techcrunch.com/2026/01/09/anthropic-adds-allianz-to-growing-list-of-enterprise-wins/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-09T09:18:52.499567+00:00",
+      "word_count": 32
+    },
+    {
       "id": "571709e3e171",
       "title": "I watched LG\u2019s new home robot CLOid do laundry but I have questions",
       "slug": "i-watched-lgs-new-home-robot-cloid-do-laundry-but-i-have-questions",
@@ -2211,6 +2231,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-09T02:55:56.099748+00:00",
+  "last_updated": "2026-01-09T09:18:53.678714+00:00",
   "version": "1.0.0"
 }
