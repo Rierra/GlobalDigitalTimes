@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "e45c6e472eb6",
+      "title": "The Vergecast Live at CES 2026: What is the point of a robot that falls over?",
+      "slug": "the-vergecast-live-at-ces-2026-what-is-the-point-of-a-robot-that-falls-over",
+      "original_link": "https://www.theverge.com/podcast/859370/ces-2026-best-tech-vergecast",
+      "original_source": "The Verge",
+      "topic": "Robotics",
+      "generated_at": "2026-01-09T14:47:28.512702+00:00",
+      "word_count": 76
+    },
+    {
       "id": "60ea0b0cbb9c",
       "title": "X restricts Grok\u2019s image generation to paying subscribers only after drawing the world\u2019s ire",
       "slug": "x-restricts-groks-image-generation-to-paying-subscribers-only-after-drawing-the-worlds-ire",
@@ -2281,6 +2291,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-09T14:15:19.500484+00:00",
+  "last_updated": "2026-01-09T14:47:29.143545+00:00",
   "version": "1.0.0"
 }
