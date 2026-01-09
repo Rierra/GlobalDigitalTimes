@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "2a21fbe1d2db",
+      "title": "Baldur&#8217;s Gate 3 studio says it won&#8217;t use AI for concept art or writing",
+      "slug": "baldur-s-gate-3-studio-says-it-won-t-use-ai-for-concept-art-or-writing",
+      "original_link": "https://www.theverge.com/games/859551/baldurs-gate-3-larian-studios-gen-ai-concept-art-reddit-ama",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-09T18:52:50.449835+00:00",
+      "word_count": 74
+    },
+    {
       "id": "0ab2178ad54d",
       "title": "Black Mirror has been renewed for another season",
       "slug": "black-mirror-has-been-renewed-for-another-season",
@@ -2331,6 +2341,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-09T18:18:38.440834+00:00",
+  "last_updated": "2026-01-09T18:52:50.879527+00:00",
   "version": "1.0.0"
 }
