@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "17d831bddacf",
+      "title": "\u2018Physical AI\u2019 Is Coming for Your Car",
+      "slug": "physical-ai-is-coming-for-your-car",
+      "original_link": "https://www.wired.com/story/physical-ai-is-coming-for-your-car/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-09T11:38:39.926201+00:00",
+      "word_count": 23
+    },
+    {
       "id": "d40a04bc6e63",
       "title": "Elon Musk's Grok AI image editing limited to paid users after deepfakes",
       "slug": "elon-musk-s-grok-ai-image-editing-limited-to-paid-users-after-deepfakes",
@@ -2231,6 +2241,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-09T09:18:53.678714+00:00",
+  "last_updated": "2026-01-09T11:38:40.487385+00:00",
   "version": "1.0.0"
 }
