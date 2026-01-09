@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "bb1620397c03",
+      "title": "CES 2026: Everything revealed, from Nvidia\u2019s debuts to AMD\u2019s new chips to Razer\u2019s AI oddities",
+      "slug": "ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities",
+      "original_link": "https://techcrunch.com/2026/01/08/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-09T00:57:43.399554+00:00",
+      "word_count": 59
+    },
+    {
       "id": "a34eb419c694",
       "title": "UK Prime Minister says &#8216;we will take action&#8217; on Grok&#8217;s disgusting deepfakes",
       "slug": "uk-prime-minister-says-we-will-take-action-on-grok-s-disgusting-deepfakes",
@@ -2191,6 +2201,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-08T23:37:09.525480+00:00",
+  "last_updated": "2026-01-09T00:57:43.875050+00:00",
   "version": "1.0.0"
 }
