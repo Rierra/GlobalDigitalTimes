@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "571709e3e171",
+      "title": "I watched LG\u2019s new home robot CLOid do laundry but I have questions",
+      "slug": "i-watched-lgs-new-home-robot-cloid-do-laundry-but-i-have-questions",
+      "original_link": "https://techcrunch.com/2026/01/08/i-watched-lgs-new-home-robot-cloid-do-laundry-but-i-have-questions/",
+      "original_source": "TechCrunch",
+      "topic": "Robotics",
+      "generated_at": "2026-01-09T02:55:55.761438+00:00",
+      "word_count": 50
+    },
+    {
       "id": "bb1620397c03",
       "title": "CES 2026: Everything revealed, from Nvidia\u2019s debuts to AMD\u2019s new chips to Razer\u2019s AI oddities",
       "slug": "ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities",
@@ -2201,6 +2211,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-09T00:57:43.875050+00:00",
+  "last_updated": "2026-01-09T02:55:56.099748+00:00",
   "version": "1.0.0"
 }
