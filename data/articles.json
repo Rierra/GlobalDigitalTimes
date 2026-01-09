@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "62443e6d24a7",
+      "title": "CES 2026: Everything revealed, from Nvidia\u2019s debuts to AMD\u2019s new chips to Razer\u2019s AI oddities",
+      "slug": "ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities",
+      "original_link": "https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-09T22:42:54.074939+00:00",
+      "word_count": 59
+    },
+    {
       "id": "46a647d8cb19",
       "title": "Tim Cook and Sundar Pichai are cowards",
       "slug": "tim-cook-and-sundar-pichai-are-cowards",
@@ -2391,6 +2401,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-09T21:39:37.962987+00:00",
+  "last_updated": "2026-01-09T22:42:54.911491+00:00",
   "version": "1.0.0"
 }
