@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "39dcf8e0d217",
+      "title": "SpaceX gets FCC approval to launch 7,500 more Starlink satellites",
+      "slug": "spacex-gets-fcc-approval-to-launch-7500-more-starlink-satellites",
+      "original_link": "https://techcrunch.com/2026/01/10/spacex-gets-fcc-approval-to-launch-7500-more-starlink-satellites/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-10T22:41:58.021490+00:00",
+      "word_count": 31
+    },
+    {
       "id": "59fd0bb6ff27",
       "title": "Musk says he&#8217;s going to open-source the new X algorithm next week",
       "slug": "musk-says-he-s-going-to-open-source-the-new-x-algorithm-next-week",
@@ -2551,6 +2561,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-10T22:11:08.840145+00:00",
+  "last_updated": "2026-01-10T22:41:58.444407+00:00",
   "version": "1.0.0"
 }
