@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "8a1ffd87729e",
+      "title": "The FCC is letting SpaceX launch 7,500 more Starlink satellites",
+      "slug": "the-fcc-is-letting-spacex-launch-7500-more-starlink-satellites",
+      "original_link": "https://www.theverge.com/news/860210/fcc-spacex-7500-more-starlink-satellites",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-10T21:10:22.438874+00:00",
+      "word_count": 70
+    },
+    {
       "id": "4b72cad440c3",
       "title": "Indonesia blocks Grok over non-consensual, sexualized deepfakes",
       "slug": "indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes",
@@ -2511,6 +2521,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-10T20:12:23.974712+00:00",
+  "last_updated": "2026-01-10T21:10:23.011510+00:00",
   "version": "1.0.0"
 }
