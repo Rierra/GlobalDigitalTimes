@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "f2fc705b8d6d",
+      "title": "Google: Don\u2019t make \u201cbite-sized\u201d content for LLMs if you care about search rank",
+      "slug": "google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank",
+      "original_link": "https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/",
+      "original_source": "Ars Technica",
+      "topic": "AI",
+      "generated_at": "2026-01-10T00:55:35.513030+00:00",
+      "word_count": 30
+    },
+    {
+      "id": "8844480850dc",
+      "title": "Google moonshot spinout SandboxAQ claims an ex-exec is attempting \u2018extortion\u2019",
+      "slug": "google-moonshot-spinout-sandboxaq-claims-an-ex-exec-is-attempting-extortion",
+      "original_link": "https://techcrunch.com/2026/01/09/google-moonshot-spinout-sandboxaq-claims-an-ex-exec-is-attempting-extortion/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-10T00:55:34.794199+00:00",
+      "word_count": 32
+    },
+    {
       "id": "2fb033e952de",
       "title": "AI is coming for collectibles next",
       "slug": "ai-is-coming-for-collectibles-next",
@@ -2421,6 +2441,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-09T23:38:49.092480+00:00",
+  "last_updated": "2026-01-10T00:55:35.826536+00:00",
   "version": "1.0.0"
 }
