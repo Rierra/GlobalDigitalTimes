@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "5dead23e3b26",
+      "title": "Security News This Week: ICE Can Now Spy on Every Phone in Your Neighborhood",
+      "slug": "security-news-this-week-ice-can-now-spy-on-every-phone-in-your-neighborhood",
+      "original_link": "https://www.wired.com/story/security-news-this-week-ice-can-now-spy-on-every-phone-in-your-neighborhood/",
+      "original_source": "Wired",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-10T12:20:51.049468+00:00",
+      "word_count": 36
+    },
+    {
       "id": "274ac2228a57",
       "title": "SpaceX gets FCC permission to launch another 7,500 Starlink satellites",
       "slug": "spacex-gets-fcc-permission-to-launch-another-7500-starlink-satellites",
@@ -2481,6 +2491,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-10T04:52:09.298346+00:00",
+  "last_updated": "2026-01-10T12:20:51.449732+00:00",
   "version": "1.0.0"
 }
