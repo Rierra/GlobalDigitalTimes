@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "745db865b4c2",
+      "title": "Indonesia and Malaysia block Grok over non-consensual, sexualized deepfakes",
+      "slug": "indonesia-and-malaysia-block-grok-over-non-consensual-sexualized-deepfakes",
+      "original_link": "https://techcrunch.com/2026/01/11/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-11T15:11:26.987646+00:00",
+      "word_count": 26
+    },
+    {
+      "id": "53480a5b0552",
+      "title": "Google announces a new protocol to facilitate commerce using AI agents",
+      "slug": "google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents",
+      "original_link": "https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-11T15:11:26.137646+00:00",
+      "word_count": 29
+    },
+    {
       "id": "301bafb1ffa5",
       "title": "Will you have to show your ID at the app store?",
       "slug": "will-you-have-to-show-your-id-at-the-app-store",
@@ -2581,6 +2601,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-11T13:05:31.532177+00:00",
+  "last_updated": "2026-01-11T15:11:27.355963+00:00",
   "version": "1.0.0"
 }
