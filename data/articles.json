@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "9a66dc0dbf63",
+      "title": "Google pulls AI overviews for some medical searches",
+      "slug": "google-pulls-ai-overviews-for-some-medical-searches",
+      "original_link": "https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-11T19:34:19.695415+00:00",
+      "word_count": 68
+    },
+    {
       "id": "01a97c6a708d",
       "title": "Google removes AI Overviews for certain medical queries",
       "slug": "google-removes-ai-overviews-for-certain-medical-queries",
@@ -2641,6 +2651,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-11T18:17:11.677550+00:00",
+  "last_updated": "2026-01-11T19:34:20.399049+00:00",
   "version": "1.0.0"
 }
