@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "01a97c6a708d",
+      "title": "Google removes AI Overviews for certain medical queries",
+      "slug": "google-removes-ai-overviews-for-certain-medical-queries",
+      "original_link": "https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-11T18:17:11.107537+00:00",
+      "word_count": 32
+    },
+    {
       "id": "703787a49803",
       "title": "Wing\u2019s drone delivery is coming to 150 more Walmarts",
       "slug": "wings-drone-delivery-is-coming-to-150-more-walmarts",
@@ -2631,6 +2641,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-11T16:45:11.077472+00:00",
+  "last_updated": "2026-01-11T18:17:11.677550+00:00",
   "version": "1.0.0"
 }
