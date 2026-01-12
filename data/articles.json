@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "f8cff1cc5f8d",
+      "title": "Luminar lines up $22 million bidder for its lidar business",
+      "slug": "luminar-lines-up-22-million-bidder-for-its-lidar-business",
+      "original_link": "https://techcrunch.com/2026/01/12/luminar-lines-up-22-million-bidder-for-its-lidar-business/",
+      "original_source": "TechCrunch",
+      "topic": "Robotics",
+      "generated_at": "2026-01-12T15:47:42.283862+00:00",
+      "word_count": 37
+    },
+    {
+      "id": "7db9cda93b11",
+      "title": "Apple picks Google\u2019s Gemini AI for its big Siri upgrade",
+      "slug": "apple-picks-googles-gemini-ai-for-its-big-siri-upgrade",
+      "original_link": "https://www.theverge.com/news/860521/apple-siri-google-gemini-ai-personalization",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-12T15:47:41.620815+00:00",
+      "word_count": 70
+    },
+    {
       "id": "cda2af2dbe82",
       "title": "Securing digital assets as crypto crime surges",
       "slug": "securing-digital-assets-as-crypto-crime-surges",
@@ -2731,6 +2751,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-12T14:18:54.228000+00:00",
+  "last_updated": "2026-01-12T15:47:42.561793+00:00",
   "version": "1.0.0"
 }
