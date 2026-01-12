@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "57fec8b95ce6",
+      "title": "A New Jersey lawsuit shows how hard it is to fight deepfake porn",
+      "slug": "a-new-jersey-lawsuit-shows-how-hard-it-is-to-fight-deepfake-porn",
+      "original_link": "https://techcrunch.com/2026/01/12/a-new-jersey-lawsuit-shows-how-hard-it-is-to-fight-deepfake-porn/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-12T16:51:12.331366+00:00",
+      "word_count": 72
+    },
+    {
+      "id": "d8c3c1edd587",
+      "title": "Amazon has started automatically upgrading Prime members to Alexa Plus",
+      "slug": "amazon-has-started-automatically-upgrading-prime-members-to-alexa-plus",
+      "original_link": "https://www.theverge.com/news/860581/amazon-prime-alexa-plus-automatic-upgrade",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-12T16:51:11.003190+00:00",
+      "word_count": 70
+    },
+    {
       "id": "f8cff1cc5f8d",
       "title": "Luminar lines up $22 million bidder for its lidar business",
       "slug": "luminar-lines-up-22-million-bidder-for-its-lidar-business",
@@ -2751,6 +2771,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-12T15:47:42.561793+00:00",
+  "last_updated": "2026-01-12T16:51:12.780817+00:00",
   "version": "1.0.0"
 }
