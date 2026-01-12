@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "bb4a26666710",
+      "title": "GoFundMe Ignores Own Rules by Hosting a Legal-Defense Fund for the ICE Agent Who Killed Renee Good",
+      "slug": "gofundme-ignores-own-rules-by-hosting-a-legal-defense-fund-for-the-ice-agent-who-killed-renee-good",
+      "original_link": "https://www.wired.com/story/gofundme-ice-jonathan-ross-renee-good-fundraiser/",
+      "original_source": "Wired",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-12T19:14:05.664375+00:00",
+      "word_count": 48
+    },
+    {
       "id": "f2224fbe9b50",
       "title": "Democrats should reject tech influence to win elections, Warren says",
       "slug": "democrats-should-reject-tech-influence-to-win-elections-warren-says",
@@ -2801,6 +2811,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-12T18:54:07.687014+00:00",
+  "last_updated": "2026-01-12T19:14:06.895789+00:00",
   "version": "1.0.0"
 }
