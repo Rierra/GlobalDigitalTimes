@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "865073813275",
+      "title": "Google brings buy buttons to Gemini and AI search",
+      "slug": "google-brings-buy-buttons-to-gemini-and-ai-search",
+      "original_link": "https://www.theverge.com/news/860446/google-ai-shopping-standard-buy-button-gemini",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-12T13:13:57.825178+00:00",
+      "word_count": 69
+    },
+    {
       "id": "9c767a967928",
       "title": "10 Breakthrough Technologies 2026",
       "slug": "10-breakthrough-technologies-2026",
@@ -2691,6 +2701,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-12T12:25:51.116171+00:00",
+  "last_updated": "2026-01-12T13:13:58.195621+00:00",
   "version": "1.0.0"
 }
