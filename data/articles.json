@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "d1a70383d526",
+      "title": "Mark Zuckerberg says Meta is launching its own AI infrastructure initiative",
+      "slug": "mark-zuckerberg-says-meta-is-launching-its-own-ai-infrastructure-initiative",
+      "original_link": "https://techcrunch.com/2026/01/12/mark-zuckerberg-says-meta-is-launching-its-own-ai-infrastructure-initiative/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-12T22:12:37.490734+00:00",
+      "word_count": 26
+    },
+    {
+      "id": "1d916b38eadf",
+      "title": "Why Amazon bought Bee, an AI wearable",
+      "slug": "why-amazon-bought-bee-an-ai-wearable",
+      "original_link": "https://techcrunch.com/2026/01/12/why-amazon-bought-bee-an-ai-wearable/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-12T22:12:36.352263+00:00",
+      "word_count": 25
+    },
+    {
       "id": "873bd0217e04",
       "title": "Supreme Court takes case that could strip FCC of authority to issue fines",
       "slug": "supreme-court-takes-case-that-could-strip-fcc-of-authority-to-issue-fines",
@@ -2881,6 +2901,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-12T21:12:13.944579+00:00",
+  "last_updated": "2026-01-12T22:12:37.871265+00:00",
   "version": "1.0.0"
 }
