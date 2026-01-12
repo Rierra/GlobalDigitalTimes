@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "cda2af2dbe82",
+      "title": "Securing digital assets as crypto crime surges",
+      "slug": "securing-digital-assets-as-crypto-crime-surges",
+      "original_link": "https://www.technologyreview.com/2026/01/12/1129479/securing-digital-assets-as-crypto-crime-surges/",
+      "original_source": "MIT Technology Review",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-12T14:18:53.965116+00:00",
+      "word_count": 67
+    },
+    {
+      "id": "dae3c3589bd7",
+      "title": "Harmattan AI raises $200M Series B led by Dassault Aviation, becomes defense unicorn",
+      "slug": "harmattan-ai-raises-200m-series-b-led-by-dassault-aviation-becomes-defense-unicorn",
+      "original_link": "https://techcrunch.com/2026/01/12/harmattan-ai-raises-200m-series-b-led-by-dassault-aviation-becomes-defense-unicorn/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-12T14:18:53.206483+00:00",
+      "word_count": 50
+    },
+    {
       "id": "8d58b3755dbd",
       "title": "The Download: introducing this year\u2019s 10 Breakthrough Technologies",
       "slug": "the-download-introducing-this-years-10-breakthrough-technologies",
@@ -2711,6 +2731,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-12T13:56:27.236643+00:00",
+  "last_updated": "2026-01-12T14:18:54.228000+00:00",
   "version": "1.0.0"
 }
