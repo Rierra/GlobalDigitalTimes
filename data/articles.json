@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "ece729d08ad6",
+      "title": "Grok banned over explicit deepfakes today",
+      "slug": "grok-banned-over-explicit-deepfakes-today",
+      "original_link": "https://www.bbc.com/news/articles/cg7y10xm4x2o?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "AI",
+      "generated_at": "2026-01-12T03:08:11.105732+00:00",
+      "word_count": 25
+    },
+    {
       "id": "bf615d203336",
       "title": "Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service",
       "slug": "motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service",
@@ -2661,6 +2671,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-12T01:00:22.660486+00:00",
+  "last_updated": "2026-01-12T03:08:11.586025+00:00",
   "version": "1.0.0"
 }
