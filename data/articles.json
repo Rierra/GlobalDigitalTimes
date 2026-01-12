@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "873bd0217e04",
+      "title": "Supreme Court takes case that could strip FCC of authority to issue fines",
+      "slug": "supreme-court-takes-case-that-could-strip-fcc-of-authority-to-issue-fines",
+      "original_link": "https://arstechnica.com/tech-policy/2026/01/supreme-court-takes-case-that-could-strip-fcc-of-authority-to-issue-fines/",
+      "original_source": "Ars Technica",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-12T21:12:13.549383+00:00",
+      "word_count": 31
+    },
+    {
+      "id": "b0530c6cf851",
+      "title": "Anthropic announces Claude for Healthcare following OpenAI\u2019s ChatGPT Health reveal",
+      "slug": "anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal",
+      "original_link": "https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-12T21:12:12.579866+00:00",
+      "word_count": 29
+    },
+    {
       "id": "8f551ee4c3ca",
       "title": "UK pushes up a law criminalizing deepfake nudes in response to Grok",
       "slug": "uk-pushes-up-a-law-criminalizing-deepfake-nudes-in-response-to-grok",
@@ -2861,6 +2881,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-12T20:14:54.231972+00:00",
+  "last_updated": "2026-01-12T21:12:13.944579+00:00",
   "version": "1.0.0"
 }
