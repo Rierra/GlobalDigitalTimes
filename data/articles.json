@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "b1f3edad3e46",
+      "title": "Slackbot is an AI agent now",
+      "slug": "slackbot-is-an-ai-agent-now",
+      "original_link": "https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-13T13:13:27.322717+00:00",
+      "word_count": 28
+    },
+    {
+      "id": "0d3b40b02310",
+      "title": "Apple turns to Google to power AI upgrade for Siri",
+      "slug": "apple-turns-to-google-to-power-ai-upgrade-for-siri",
+      "original_link": "https://www.bbc.com/news/articles/czdqvp2zqezo?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "AI",
+      "generated_at": "2026-01-13T13:13:26.598866+00:00",
+      "word_count": 36
+    },
+    {
       "id": "202e9a418096",
       "title": "Brazil orders Meta to suspend policy banning third-party AI chatbots from WhatsApp",
       "slug": "brazil-orders-meta-to-suspend-policy-banning-third-party-ai-chatbots-from-whatsapp",
@@ -3021,6 +3041,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-13T12:26:16.547489+00:00",
+  "last_updated": "2026-01-13T13:13:27.726821+00:00",
   "version": "1.0.0"
 }
