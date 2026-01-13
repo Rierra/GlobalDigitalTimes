@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "9cbfd41edd4e",
+      "title": "Deepgram raises $130M at $1.3B valuation and buys a YC AI startup",
+      "slug": "deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup",
+      "original_link": "https://techcrunch.com/2026/01/13/deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-13T13:56:41.216597+00:00",
+      "word_count": 27
+    },
+    {
       "id": "b1f3edad3e46",
       "title": "Slackbot is an AI agent now",
       "slug": "slackbot-is-an-ai-agent-now",
@@ -3041,6 +3051,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-13T13:13:27.726821+00:00",
+  "last_updated": "2026-01-13T13:56:41.667560+00:00",
   "version": "1.0.0"
 }
