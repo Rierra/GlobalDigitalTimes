@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "e8332ce9d1ef",
+      "title": "Google removes some AI health summaries after investigation finds \u201cdangerous\u201d flaws",
+      "slug": "google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws",
+      "original_link": "https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/",
+      "original_source": "Ars Technica",
+      "topic": "AI",
+      "generated_at": "2026-01-13T00:53:38.003089+00:00",
+      "word_count": 25
+    },
+    {
+      "id": "eb6e4d1d5d20",
+      "title": "OpenAI buys tiny health records startup Torch for, reportedly, $100M",
+      "slug": "openai-buys-tiny-health-records-startup-torch-for-reportedly-100m",
+      "original_link": "https://techcrunch.com/2026/01/12/openai-buys-tiny-health-records-startup-torch-for-reportedly-100m/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-13T00:53:37.263497+00:00",
+      "word_count": 33
+    },
+    {
       "id": "90beb882bef1",
       "title": "Verizon to stop automatic unlocking of phones as FCC ends 60-day unlock rule",
       "slug": "verizon-to-stop-automatic-unlocking-of-phones-as-fcc-ends-60-day-unlock-rule",
@@ -2921,6 +2941,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-12T22:42:14.203509+00:00",
+  "last_updated": "2026-01-13T00:53:38.345241+00:00",
   "version": "1.0.0"
 }
