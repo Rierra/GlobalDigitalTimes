@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "9f981d177ae3",
+      "title": "Never-before-seen Linux malware is \u201cfar more advanced than typical\u201d",
+      "slug": "never-before-seen-linux-malware-is-far-more-advanced-than-typical",
+      "original_link": "https://arstechnica.com/security/2026/01/never-before-seen-linux-malware-is-far-more-advanced-than-typical/",
+      "original_source": "Ars Technica",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-13T22:44:39.905908+00:00",
+      "word_count": 23
+    },
+    {
+      "id": "4d73c28dd876",
+      "title": "Lawsuit: DHS wants \u201cunlimited subpoena authority\u201d to unmask ICE critics",
+      "slug": "lawsuit-dhs-wants-unlimited-subpoena-authority-to-unmask-ice-critics",
+      "original_link": "https://arstechnica.com/tech-policy/2026/01/instagram-user-fights-dhs-for-the-right-to-post-ice-sightings-anonymously/",
+      "original_source": "Ars Technica",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-13T22:44:39.043332+00:00",
+      "word_count": 28
+    },
+    {
       "id": "f13ccd6ac3f4",
       "title": "Hegseth wants to integrate Musk\u2019s Grok AI into military networks this month",
       "slug": "hegseth-wants-to-integrate-musks-grok-ai-into-military-networks-this-month",
@@ -3231,6 +3251,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-13T22:12:52.792154+00:00",
+  "last_updated": "2026-01-13T22:44:40.261780+00:00",
   "version": "1.0.0"
 }
