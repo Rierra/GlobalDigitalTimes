@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "976be633f125",
+      "title": "Roblox\u2019s AI-Powered Age Verification Is a Complete Mess",
+      "slug": "robloxs-ai-powered-age-verification-is-a-complete-mess",
+      "original_link": "https://www.wired.com/story/robloxs-ai-powered-age-verification-is-a-complete-mess/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-13T19:37:29.309101+00:00",
+      "word_count": 28
+    },
+    {
       "id": "b85c7387702c",
       "title": "Ring founder details the camera company\u2019s \u2018intelligent assistant\u2019 era",
       "slug": "ring-founder-details-the-camera-companys-intelligent-assistant-era",
@@ -3161,6 +3171,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-13T19:13:49.143169+00:00",
+  "last_updated": "2026-01-13T19:37:29.841330+00:00",
   "version": "1.0.0"
 }
