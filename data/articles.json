@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "774ef43e1813",
+      "title": "New Proposed Legislation Would Let Self-Driving Cars Operate in New York State",
+      "slug": "new-proposed-legislation-would-let-self-driving-cars-operate-in-new-york-state",
+      "original_link": "https://www.wired.com/story/proposed-legislation-self-driving-cars-in-new-york-state/",
+      "original_source": "Wired",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-13T04:38:52.305834+00:00",
+      "word_count": 40
+    },
+    {
+      "id": "7fd351027cb1",
+      "title": "Meta-backed Hupo finds growth after pivot to AI sales coaching from mental wellness",
+      "slug": "meta-backed-hupo-finds-growth-after-pivot-to-ai-sales-coaching-from-mental-wellness",
+      "original_link": "https://techcrunch.com/2026/01/12/meta-backed-hupo-finds-growth-after-pivot-to-ai-sales-coaching-from-mental-wellness/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-13T04:38:50.543884+00:00",
+      "word_count": 42
+    },
+    {
       "id": "72f2e3bc1ac9",
       "title": "Hands-on with Bee, Amazon\u2019s latest AI wearable",
       "slug": "hands-on-with-bee-amazons-latest-ai-wearable",
@@ -2981,6 +3001,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-13T03:59:06.432421+00:00",
+  "last_updated": "2026-01-13T04:38:52.595044+00:00",
   "version": "1.0.0"
 }
