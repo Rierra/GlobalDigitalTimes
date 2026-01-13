@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "d076ec9b2ae2",
+      "title": "Google\u2019s Veo now turns portrait images into vertical AI videos",
+      "slug": "googles-veo-now-turns-portrait-images-into-vertical-ai-videos",
+      "original_link": "https://www.theverge.com/news/861257/google-veo-3-1-ai-video-ingredients-vertical-update",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-13T17:19:14.601827+00:00",
+      "word_count": 70
+    },
+    {
+      "id": "d61d9737bbd9",
+      "title": "Neo humanoid maker 1X releases world model to help bots learn what they see",
+      "slug": "neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see",
+      "original_link": "https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-13T17:19:13.785008+00:00",
+      "word_count": 40
+    },
+    {
       "id": "80aec1053e22",
       "title": "ElevenLabs CEO says the voice AI startup crossed $330 million ARR last year",
       "slug": "elevenlabs-ceo-says-the-voice-ai-startup-crossed-330-million-arr-last-year",
@@ -3091,6 +3111,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-13T16:19:18.311830+00:00",
+  "last_updated": "2026-01-13T17:19:15.151910+00:00",
   "version": "1.0.0"
 }
