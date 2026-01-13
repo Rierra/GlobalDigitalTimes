@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "d7d4f21ae91d",
+      "title": "The best robot vacuums we\u2019ve tested for 2026",
+      "slug": "the-best-robot-vacuums-weve-tested-for-2026",
+      "original_link": "https://www.theverge.com/22997597/best-robot-vacuum-cleaner",
+      "original_source": "The Verge",
+      "topic": "Robotics",
+      "generated_at": "2026-01-13T02:51:31.500713+00:00",
+      "word_count": 68
+    },
+    {
+      "id": "fb8b5d450705",
+      "title": "Anthropic launches Cowork, a Claude Code-like for general computing",
+      "slug": "anthropic-launches-cowork-a-claude-code-like-for-general-computing",
+      "original_link": "https://arstechnica.com/ai/2026/01/anthropic-launches-cowork-a-claude-code-like-for-general-computing/",
+      "original_source": "Ars Technica",
+      "topic": "AI",
+      "generated_at": "2026-01-13T02:51:30.846407+00:00",
+      "word_count": 29
+    },
+    {
       "id": "e8332ce9d1ef",
       "title": "Google removes some AI health summaries after investigation finds \u201cdangerous\u201d flaws",
       "slug": "google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws",
@@ -2941,6 +2961,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-13T00:53:38.345241+00:00",
+  "last_updated": "2026-01-13T02:51:31.754540+00:00",
   "version": "1.0.0"
 }
