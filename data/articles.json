@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "04f475d7ae94",
+      "title": "Mercedes temporarily scraps its Level 3 \u2018eyes-off\u2019 driving feature",
+      "slug": "mercedes-temporarily-scraps-its-level-3-eyes-off-driving-feature",
+      "original_link": "https://www.theverge.com/transportation/860935/mercedes-drive-pilot-level-3-scrapped",
+      "original_source": "The Verge",
+      "topic": "Automation",
+      "generated_at": "2026-01-13T18:20:32.456331+00:00",
+      "word_count": 69
+    },
+    {
       "id": "7b0bacc554f3",
       "title": "Verizon gets FCC permission to end 60-day phone unlocking rule",
       "slug": "verizon-gets-fcc-permission-to-end-60-day-phone-unlocking-rule",
@@ -3121,6 +3131,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-13T17:49:28.341512+00:00",
+  "last_updated": "2026-01-13T18:20:32.812135+00:00",
   "version": "1.0.0"
 }
