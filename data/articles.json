@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "0a0996fd31ed",
+      "title": "Doctors think AI has a place in healthcare \u2013 but maybe not as a chatbot",
+      "slug": "doctors-think-ai-has-a-place-in-healthcare-but-maybe-not-as-a-chatbot",
+      "original_link": "https://techcrunch.com/2026/01/13/doctors-think-ai-has-a-place-in-healthcare-but-maybe-not-as-a-chatbot/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-13T18:52:48.866858+00:00",
+      "word_count": 30
+    },
+    {
       "id": "04f475d7ae94",
       "title": "Mercedes temporarily scraps its Level 3 \u2018eyes-off\u2019 driving feature",
       "slug": "mercedes-temporarily-scraps-its-level-3-eyes-off-driving-feature",
@@ -3131,6 +3141,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-13T18:20:32.812135+00:00",
+  "last_updated": "2026-01-13T18:52:49.574832+00:00",
   "version": "1.0.0"
 }
