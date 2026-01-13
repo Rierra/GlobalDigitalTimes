@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "202e9a418096",
+      "title": "Brazil orders Meta to suspend policy banning third-party AI chatbots from WhatsApp",
+      "slug": "brazil-orders-meta-to-suspend-policy-banning-third-party-ai-chatbots-from-whatsapp",
+      "original_link": "https://techcrunch.com/2026/01/13/brazil-orders-meta-to-suspend-policy-banning-third-party-ai-chatbots-from-whatsapp/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-13T12:26:16.124727+00:00",
+      "word_count": 60
+    },
+    {
       "id": "be0961601284",
       "title": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
       "slug": "converge-bio-raises-25m-backed-by-bessemer-and-execs-from-meta-openai-wiz",
@@ -3011,6 +3021,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-13T11:39:49.492834+00:00",
+  "last_updated": "2026-01-13T12:26:16.547489+00:00",
   "version": "1.0.0"
 }
