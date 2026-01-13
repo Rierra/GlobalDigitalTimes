@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "54ba0c24b54d",
+      "title": "Microsoft scrambles to quell fury around its new AI data centers",
+      "slug": "microsoft-scrambles-to-quell-fury-around-its-new-ai-data-centers",
+      "original_link": "https://www.theverge.com/news/861080/microsoft-ai-data-center-infrastructure-electricity-rates",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-13T15:47:34.987443+00:00",
+      "word_count": 71
+    },
+    {
       "id": "27d0ac245ca7",
       "title": "We tried CES 2026\u2019s best and weirdest products, ask us anything!",
       "slug": "we-tried-ces-2026s-best-and-weirdest-products-ask-us-anything",
@@ -3071,6 +3081,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-13T15:16:04.597207+00:00",
+  "last_updated": "2026-01-13T15:47:35.439667+00:00",
   "version": "1.0.0"
 }
