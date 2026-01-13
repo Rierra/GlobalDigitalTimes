@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "f13ccd6ac3f4",
+      "title": "Hegseth wants to integrate Musk\u2019s Grok AI into military networks this month",
+      "slug": "hegseth-wants-to-integrate-musks-grok-ai-into-military-networks-this-month",
+      "original_link": "https://arstechnica.com/ai/2026/01/hegseth-wants-to-integrate-musks-grok-ai-into-military-networks-this-month/",
+      "original_source": "Ars Technica",
+      "topic": "AI",
+      "generated_at": "2026-01-13T22:12:52.398220+00:00",
+      "word_count": 26
+    },
+    {
+      "id": "9046a726b4c1",
+      "title": "New York governor clears path for robotaxis everywhere, with one notable exception",
+      "slug": "new-york-governor-clears-path-for-robotaxis-everywhere-with-one-notable-exception",
+      "original_link": "https://techcrunch.com/2026/01/13/new-york-governor-clears-path-for-robotaxis-everywhere-with-one-notable-exception/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-13T22:12:51.350134+00:00",
+      "word_count": 33
+    },
+    {
       "id": "3a516d320107",
       "title": "Senate passes a bill that would let nonconsensual deepfake victims sue",
       "slug": "senate-passes-a-bill-that-would-let-nonconsensual-deepfake-victims-sue",
@@ -3211,6 +3231,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-13T21:13:02.747230+00:00",
+  "last_updated": "2026-01-13T22:12:52.792154+00:00",
   "version": "1.0.0"
 }
