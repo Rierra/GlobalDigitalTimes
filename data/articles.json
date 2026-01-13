@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "be0961601284",
+      "title": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
+      "slug": "converge-bio-raises-25m-backed-by-bessemer-and-execs-from-meta-openai-wiz",
+      "original_link": "https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-13T11:39:49.099152+00:00",
+      "word_count": 44
+    },
+    {
       "id": "774ef43e1813",
       "title": "New Proposed Legislation Would Let Self-Driving Cars Operate in New York State",
       "slug": "new-proposed-legislation-would-let-self-driving-cars-operate-in-new-york-state",
@@ -3001,6 +3011,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-13T04:38:52.595044+00:00",
+  "last_updated": "2026-01-13T11:39:49.492834+00:00",
   "version": "1.0.0"
 }
