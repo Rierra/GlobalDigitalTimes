@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "03126f06795f",
+      "title": "What Apple and Google\u2019s Gemini deal means for both companies",
+      "slug": "what-apple-and-googles-gemini-deal-means-for-both-companies",
+      "original_link": "https://www.theverge.com/ai-artificial-intelligence/860989/apple-google-gemini-siri-ai-deal-what-it-means",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-13T14:49:45.326251+00:00",
+      "word_count": 70
+    },
+    {
       "id": "9cbfd41edd4e",
       "title": "Deepgram raises $130M at $1.3B valuation and buys a YC AI startup",
       "slug": "deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup",
@@ -3051,6 +3061,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-13T13:56:41.667560+00:00",
+  "last_updated": "2026-01-13T14:49:45.844620+00:00",
   "version": "1.0.0"
 }
