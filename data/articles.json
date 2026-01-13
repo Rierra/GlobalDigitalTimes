@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "72f2e3bc1ac9",
+      "title": "Hands-on with Bee, Amazon\u2019s latest AI wearable",
+      "slug": "hands-on-with-bee-amazons-latest-ai-wearable",
+      "original_link": "https://techcrunch.com/2026/01/12/hands-on-with-bee-amazons-latest-ai-wearable/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-13T03:59:06.156471+00:00",
+      "word_count": 30
+    },
+    {
+      "id": "b3b9b695a1ce",
+      "title": "More than 100 new tech unicorns were minted in 2025 \u2014 here they are",
+      "slug": "more-than-100-new-tech-unicorns-were-minted-in-2025-here-they-are",
+      "original_link": "https://techcrunch.com/2026/01/12/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/",
+      "original_source": "TechCrunch",
+      "topic": "Other",
+      "generated_at": "2026-01-13T03:59:05.503555+00:00",
+      "word_count": 36
+    },
+    {
       "id": "d7d4f21ae91d",
       "title": "The best robot vacuums we\u2019ve tested for 2026",
       "slug": "the-best-robot-vacuums-weve-tested-for-2026",
@@ -2961,6 +2981,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-13T02:51:31.754540+00:00",
+  "last_updated": "2026-01-13T03:59:06.432421+00:00",
   "version": "1.0.0"
 }
