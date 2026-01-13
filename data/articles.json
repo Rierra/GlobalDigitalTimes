@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "dac1a2b2fba0",
+      "title": "Anthropic shakes up C-suite to expand its internal incubator",
+      "slug": "anthropic-shakes-up-c-suite-to-expand-its-internal-incubator",
+      "original_link": "https://www.theverge.com/ai-artificial-intelligence/861475/anthropic-ai-c-suite-internal-incubator-labs-team-mike-krieger",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-13T20:45:31.135109+00:00",
+      "word_count": 69
+    },
+    {
+      "id": "294e33cdd65a",
+      "title": "Microsoft announces glut of new data centers but says it won\u2019t let your electricity bill go up",
+      "slug": "microsoft-announces-glut-of-new-data-centers-but-says-it-wont-let-your-electricity-bill-go-up",
+      "original_link": "https://techcrunch.com/2026/01/13/microsoft-announces-glut-of-new-data-centers-but-says-it-wont-let-your-electricity-bill-go-up/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-13T20:45:30.305597+00:00",
+      "word_count": 41
+    },
+    {
       "id": "9df0d0477eae",
       "title": "A consumer watchdog issued a warning about Google\u2019s AI agent shopping protocol \u2014 Google says she\u2019s wrong",
       "slug": "a-consumer-watchdog-issued-a-warning-about-googles-ai-agent-shopping-protocol-google-says-shes-wrong",
@@ -3181,6 +3201,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-13T20:15:11.403179+00:00",
+  "last_updated": "2026-01-13T20:45:31.468379+00:00",
   "version": "1.0.0"
 }
