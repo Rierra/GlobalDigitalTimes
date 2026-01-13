@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "b85c7387702c",
+      "title": "Ring founder details the camera company\u2019s \u2018intelligent assistant\u2019 era",
+      "slug": "ring-founder-details-the-camera-companys-intelligent-assistant-era",
+      "original_link": "https://techcrunch.com/2026/01/13/ring-founder-details-the-camera-companys-intelligent-assistant-era/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-13T19:13:48.903443+00:00",
+      "word_count": 31
+    },
+    {
+      "id": "af4a93109b49",
+      "title": "Man to plead guilty to hacking US Supreme Court filing system",
+      "slug": "man-to-plead-guilty-to-hacking-us-supreme-court-filing-system",
+      "original_link": "https://techcrunch.com/2026/01/13/man-to-plead-guilty-to-hacking-us-supreme-court-filing-system/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-13T19:13:47.985282+00:00",
+      "word_count": 37
+    },
+    {
       "id": "0a0996fd31ed",
       "title": "Doctors think AI has a place in healthcare \u2013 but maybe not as a chatbot",
       "slug": "doctors-think-ai-has-a-place-in-healthcare-but-maybe-not-as-a-chatbot",
@@ -3141,6 +3161,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-13T18:52:49.574832+00:00",
+  "last_updated": "2026-01-13T19:13:49.143169+00:00",
   "version": "1.0.0"
 }
