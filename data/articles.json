@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "8a69a9d6291c",
+      "title": "US cargo tech company publicly exposed its shipping systems and customer data to the web",
+      "slug": "us-cargo-tech-company-publicly-exposed-its-shipping-systems-and-customer-data-to-the-web",
+      "original_link": "https://techcrunch.com/2026/01/14/us-cargo-tech-company-publicly-exposed-its-shipping-systems-and-customer-data-to-the-web/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-14T15:47:31.630406+00:00",
+      "word_count": 47
+    },
+    {
       "id": "595ceaecf833",
       "title": "Tesla will only offer subscriptions for Full Self-Driving (Supervised) going forward",
       "slug": "tesla-will-only-offer-subscriptions-for-full-self-driving-supervised-going-forward",
@@ -3381,6 +3391,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-14T15:16:28.109939+00:00",
+  "last_updated": "2026-01-14T15:47:32.001524+00:00",
   "version": "1.0.0"
 }
