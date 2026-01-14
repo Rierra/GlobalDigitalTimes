@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "12099131344d",
+      "title": "Gemini\u2019s new beta feature provides proactive responses based on your photos, emails, and more",
+      "slug": "geminis-new-beta-feature-provides-proactive-responses-based-on-your-photos-emails-and-more",
+      "original_link": "https://techcrunch.com/2026/01/14/geminis-new-beta-feature-provides-proactive-responses-based-on-your-photos-emails-and-more/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-14T16:54:05.950589+00:00",
+      "word_count": 42
+    },
+    {
+      "id": "b2546d8d61d6",
+      "title": "Deny, deny, admit: UK police used Copilot AI \u201challucination\u201d when banning football fans",
+      "slug": "deny-deny-admit-uk-police-used-copilot-ai-hallucination-when-banning-football-fans",
+      "original_link": "https://arstechnica.com/ai/2026/01/deny-deny-admit-uk-police-used-copilot-ai-hallucination-when-banning-football-fans/",
+      "original_source": "Ars Technica",
+      "topic": "AI",
+      "generated_at": "2026-01-14T16:54:05.049771+00:00",
+      "word_count": 27
+    },
+    {
       "id": "95a723630878",
       "title": "Google\u2019s Gemini AI will use what it knows about you from Gmail, Search, and YouTube",
       "slug": "googles-gemini-ai-will-use-what-it-knows-about-you-from-gmail-search-and-youtube",
@@ -3411,6 +3431,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-14T16:18:05.515665+00:00",
+  "last_updated": "2026-01-14T16:54:06.238579+00:00",
   "version": "1.0.0"
 }
