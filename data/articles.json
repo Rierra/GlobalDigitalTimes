@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "8a3accf71675",
+      "title": "Musk denies awareness of Grok sexual underage images as California AG launches probe",
+      "slug": "musk-denies-awareness-of-grok-sexual-underage-images-as-california-ag-launches-probe",
+      "original_link": "https://techcrunch.com/2026/01/14/musk-denies-awareness-of-grok-sexual-underage-images-as-california-ag-launches-probe/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-14T22:44:44.328217+00:00",
+      "word_count": 44
+    },
+    {
+      "id": "a76f321c389d",
+      "title": "OpenAI signs deal, worth $10 billion, for compute from Cerebras",
+      "slug": "openai-signs-deal-worth-10-billion-for-compute-from-cerebras",
+      "original_link": "https://techcrunch.com/2026/01/14/openai-signs-deal-reportedly-worth-10-billion-for-compute-from-cerebras/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-14T22:44:43.540829+00:00",
+      "word_count": 33
+    },
+    {
       "id": "bc268ad6a1a7",
       "title": "AI\u2019s Hacking Skills Are Approaching an \u2018Inflection Point\u2019",
       "slug": "ais-hacking-skills-are-approaching-an-inflection-point",
@@ -3511,6 +3531,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-14T19:12:29.946401+00:00",
+  "last_updated": "2026-01-14T22:44:44.660773+00:00",
   "version": "1.0.0"
 }
