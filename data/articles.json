@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "2a4f46edadf2",
+      "title": "Nvidia\u2019s new app update includes DLSS 4.5 and more Control Panel features",
+      "slug": "nvidias-new-app-update-includes-dlss-4-5-and-more-control-panel-features",
+      "original_link": "https://www.theverge.com/news/861640/nvidia-dlss-4-5-app-update-available-download",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-14T14:17:30.325838+00:00",
+      "word_count": 72
+    },
+    {
+      "id": "4558d2cad063",
+      "title": "Tesla to stop selling FSD as a standalone package and switch to subscription only",
+      "slug": "tesla-to-stop-selling-fsd-as-a-standalone-package-and-switch-to-subscription-only",
+      "original_link": "https://www.theverge.com/news/861705/tesla-fsd-stop-selling-standalone-subscription-only",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-14T14:17:29.309600+00:00",
+      "word_count": 74
+    },
+    {
       "id": "2a1295e97f87",
       "title": "X to comply with UK law over Grok deepfakes, Starmer says",
       "slug": "x-to-comply-with-uk-law-over-grok-deepfakes-starmer-says",
@@ -3341,6 +3361,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-14T13:55:08.271210+00:00",
+  "last_updated": "2026-01-14T14:17:30.671083+00:00",
   "version": "1.0.0"
 }
