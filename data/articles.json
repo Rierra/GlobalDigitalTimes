@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "bb01371c2697",
+      "title": "Data centers are amazing. Everyone hates them.",
+      "slug": "data-centers-are-amazing-everyone-hates-them",
+      "original_link": "https://www.technologyreview.com/2026/01/14/1131253/data-centers-are-amazing-everyone-hates-them/",
+      "original_source": "MIT Technology Review",
+      "topic": "AI",
+      "generated_at": "2026-01-14T13:13:09.847921+00:00",
+      "word_count": 67
+    },
+    {
+      "id": "a7fa4573b32d",
+      "title": "UK police blame Microsoft Copilot for intelligence mistake",
+      "slug": "uk-police-blame-microsoft-copilot-for-intelligence-mistake",
+      "original_link": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-14T13:13:08.933366+00:00",
+      "word_count": 68
+    },
+    {
       "id": "8d6eaeeb6d60",
       "title": "How AI Companies Got Caught Up in US Military Efforts",
       "slug": "how-ai-companies-got-caught-up-in-us-military-efforts",
@@ -3311,6 +3331,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-14T12:23:55.348722+00:00",
+  "last_updated": "2026-01-14T13:13:10.278033+00:00",
   "version": "1.0.0"
 }
