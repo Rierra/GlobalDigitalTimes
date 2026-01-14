@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "8927d204a1ff",
+      "title": "NBC Sports\u2019 new real-time player tracking lets viewers focus on their favorite athletes",
+      "slug": "nbc-sports-new-real-time-player-tracking-lets-viewers-focus-on-their-favorite-athletes",
+      "original_link": "https://www.theverge.com/tech/861715/nbc-sports-nippon-television-ai-viztrick-aidi-player-tracking-mobile-viewing",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-14T14:49:54.419393+00:00",
+      "word_count": 73
+    },
+    {
       "id": "2a4f46edadf2",
       "title": "Nvidia\u2019s new app update includes DLSS 4.5 and more Control Panel features",
       "slug": "nvidias-new-app-update-includes-dlss-4-5-and-more-control-panel-features",
@@ -3361,6 +3371,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-14T14:17:30.671083+00:00",
+  "last_updated": "2026-01-14T14:49:55.104956+00:00",
   "version": "1.0.0"
 }
