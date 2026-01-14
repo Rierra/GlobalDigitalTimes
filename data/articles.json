@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "55d68343dc91",
+      "title": "Google\u2019s Trends Explore page gets new Gemini capabilities",
+      "slug": "googles-trends-explore-page-gets-new-gemini-capabilities",
+      "original_link": "https://techcrunch.com/2026/01/14/googles-trends-explore-page-gets-new-gemini-capabilities/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-14T18:55:38.376860+00:00",
+      "word_count": 36
+    },
+    {
       "id": "e3223c3c83d9",
       "title": "Gemini is winning",
       "slug": "gemini-is-winning",
@@ -3481,6 +3491,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-14T18:20:04.189149+00:00",
+  "last_updated": "2026-01-14T18:55:38.777815+00:00",
   "version": "1.0.0"
 }
