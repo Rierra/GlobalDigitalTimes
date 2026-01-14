@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "730bec9b77dc",
+      "title": "Bandcamp takes a stand against AI music, banning it from the platform",
+      "slug": "bandcamp-takes-a-stand-against-ai-music-banning-it-from-the-platform",
+      "original_link": "https://techcrunch.com/2026/01/14/bandcamp-takes-a-stand-against-ai-music-banning-it-from-the-platform/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-14T17:20:16.383698+00:00",
+      "word_count": 42
+    },
+    {
       "id": "12099131344d",
       "title": "Gemini\u2019s new beta feature provides proactive responses based on your photos, emails, and more",
       "slug": "geminis-new-beta-feature-provides-proactive-responses-based-on-your-photos-emails-and-more",
@@ -3431,6 +3441,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-14T16:54:06.238579+00:00",
+  "last_updated": "2026-01-14T17:20:16.925749+00:00",
   "version": "1.0.0"
 }
