@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "000c8b233032",
+      "title": "UK digital ID plans will no longer be mandatory",
+      "slug": "uk-digital-id-plans-will-no-longer-be-mandatory",
+      "original_link": "https://www.theverge.com/news/861890/uk-backpeddles-mandatory-digital-id-requirements",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-14T17:49:09.132872+00:00",
+      "word_count": 69
+    },
+    {
+      "id": "3fb5ef8f1656",
+      "title": "X hasn&#8217;t really stopped Grok AI from undressing women in the UK",
+      "slug": "x-hasn-t-really-stopped-grok-ai-from-undressing-women-in-the-uk",
+      "original_link": "https://www.theverge.com/news/861894/grok-still-undressing-in-uk",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-14T17:49:08.564290+00:00",
+      "word_count": 72
+    },
+    {
+      "id": "d532fd23d14d",
+      "title": "The Atlantic, Penske, and Vox Media have all sued Google for antitrust violations",
+      "slug": "the-atlantic-penske-and-vox-media-have-all-sued-google-for-antitrust-violations",
+      "original_link": "https://www.theverge.com/news/861897/atlantic-penske-vox-google-ad-tech-antitrust-lawsuits",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-14T17:49:07.792413+00:00",
+      "word_count": 73
+    },
+    {
       "id": "730bec9b77dc",
       "title": "Bandcamp takes a stand against AI music, banning it from the platform",
       "slug": "bandcamp-takes-a-stand-against-ai-music-banning-it-from-the-platform",
@@ -3441,6 +3471,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-14T17:20:16.925749+00:00",
+  "last_updated": "2026-01-14T17:49:09.401749+00:00",
   "version": "1.0.0"
 }
