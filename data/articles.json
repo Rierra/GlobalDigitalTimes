@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "48590be95c1d",
+      "title": "TikTok Shop Showed Me Search Suggestions for Products With Nazi Symbolism",
+      "slug": "tiktok-shop-showed-me-search-suggestions-for-products-with-nazi-symbolism",
+      "original_link": "https://www.wired.com/story/tiktok-shop-nazi-symbolism/",
+      "original_source": "Wired",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-14T11:41:23.036592+00:00",
+      "word_count": 43
+    },
+    {
+      "id": "7a279161af85",
+      "title": "SkyFi raises $12.7M to turn satellite images into insights",
+      "slug": "skyfi-raises-12-7m-to-turn-satellite-images-into-insights",
+      "original_link": "https://techcrunch.com/2026/01/14/skyfi-raises-12-7m-to-turn-satellite-images-into-insights/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-14T11:41:22.276702+00:00",
+      "word_count": 24
+    },
+    {
       "id": "11733c15ca57",
       "title": "The Fight on Capitol Hill to Make It Easier to Fix Your Car",
       "slug": "the-fight-on-capitol-hill-to-make-it-easier-to-fix-your-car",
@@ -3281,6 +3301,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-14T04:31:28.562545+00:00",
+  "last_updated": "2026-01-14T11:41:23.396561+00:00",
   "version": "1.0.0"
 }
