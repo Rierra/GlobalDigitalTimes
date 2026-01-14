@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "595ceaecf833",
+      "title": "Tesla will only offer subscriptions for Full Self-Driving (Supervised) going forward",
+      "slug": "tesla-will-only-offer-subscriptions-for-full-self-driving-supervised-going-forward",
+      "original_link": "https://techcrunch.com/2026/01/14/tesla-will-only-offer-subscriptions-for-full-self-driving-supervised-going-forward/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-14T15:16:27.465011+00:00",
+      "word_count": 37
+    },
+    {
       "id": "8927d204a1ff",
       "title": "NBC Sports\u2019 new real-time player tracking lets viewers focus on their favorite athletes",
       "slug": "nbc-sports-new-real-time-player-tracking-lets-viewers-focus-on-their-favorite-athletes",
@@ -3371,6 +3381,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-14T14:49:55.104956+00:00",
+  "last_updated": "2026-01-14T15:16:28.109939+00:00",
   "version": "1.0.0"
 }
