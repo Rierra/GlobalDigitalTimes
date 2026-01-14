@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "8d6eaeeb6d60",
+      "title": "How AI Companies Got Caught Up in US Military Efforts",
+      "slug": "how-ai-companies-got-caught-up-in-us-military-efforts",
+      "original_link": "https://www.wired.com/story/book-excerpt-silicon-empires-nick-srnicek/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-14T12:23:54.807666+00:00",
+      "word_count": 35
+    },
+    {
       "id": "48590be95c1d",
       "title": "TikTok Shop Showed Me Search Suggestions for Products With Nazi Symbolism",
       "slug": "tiktok-shop-showed-me-search-suggestions-for-products-with-nazi-symbolism",
@@ -3301,6 +3311,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-14T11:41:23.396561+00:00",
+  "last_updated": "2026-01-14T12:23:55.348722+00:00",
   "version": "1.0.0"
 }
