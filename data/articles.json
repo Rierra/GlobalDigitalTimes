@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "f45e5cdd4b1a",
+      "title": "The Real AI Talent War Is for Plumbers and Electricians",
+      "slug": "the-real-ai-talent-war-is-for-plumbers-and-electricians",
+      "original_link": "https://www.wired.com/story/why-there-arent-enough-electricians-and-plumbers-to-build-ai-data-centers/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-15T11:39:41.408769+00:00",
+      "word_count": 37
+    },
+    {
+      "id": "8842eb757e54",
+      "title": "OpenAI\u2019s ChatGPT translator challenges Google Translate",
+      "slug": "openais-chatgpt-translator-challenges-google-translate",
+      "original_link": "https://www.theverge.com/news/862448/openai-chatgpt-translate-tool-launch-website",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-15T11:39:40.794551+00:00",
+      "word_count": 66
+    },
+    {
       "id": "c557ce4c4912",
       "title": "Wikipedia\u2019s Existential Threats Feel Greater Than Ever",
       "slug": "wikipedias-existential-threats-feel-greater-than-ever",
@@ -3641,6 +3661,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-15T10:47:08.675584+00:00",
+  "last_updated": "2026-01-15T11:39:41.680986+00:00",
   "version": "1.0.0"
 }
