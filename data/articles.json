@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "e79d4e9f2497",
+      "title": "Taiwan to invest $250B in US semiconductor manufacturing",
+      "slug": "taiwan-to-invest-250b-in-us-semiconductor-manufacturing",
+      "original_link": "https://techcrunch.com/2026/01/15/taiwan-to-invest-250b-in-us-semiconductor-manufacturing/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-15T21:12:53.985207+00:00",
+      "word_count": 29
+    },
+    {
+      "id": "73fc83e38843",
+      "title": "The US claims it just strongarmed Taiwan into spending $250 billion on American chip manufacturing",
+      "slug": "the-us-claims-it-just-strongarmed-taiwan-into-spending-250-billion-on-american-chip-manufacturing",
+      "original_link": "https://www.theverge.com/news/862938/us-taiwan-chipmaking-deal-250-billion-investment-tsmc",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-15T21:12:53.130982+00:00",
+      "word_count": 75
+    },
+    {
       "id": "59310fea5d02",
       "title": "ChatGPT wrote \u201cGoodnight Moon\u201d suicide lullaby for man who later killed himself",
       "slug": "chatgpt-wrote-goodnight-moon-suicide-lullaby-for-man-who-later-killed-himself",
@@ -3841,6 +3861,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-15T20:14:37.173543+00:00",
+  "last_updated": "2026-01-15T21:12:54.410509+00:00",
   "version": "1.0.0"
 }
