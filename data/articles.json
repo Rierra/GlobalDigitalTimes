@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "19ecf4acfc17",
+      "title": "US senators demand answers from X, Meta, Alphabet on sexualized deepfakes",
+      "slug": "us-senators-demand-answers-from-x-meta-alphabet-on-sexualized-deepfakes",
+      "original_link": "https://techcrunch.com/2026/01/15/us-senators-demand-answers-from-x-meta-alphabet-on-sexualized-deepfakes/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-15T15:15:25.244710+00:00",
+      "word_count": 60
+    },
+    {
       "id": "08621709ab9d",
       "title": "RAM price hikes: the latest on the global memory shortage",
       "slug": "ram-price-hikes-the-latest-on-the-global-memory-shortage",
@@ -3701,6 +3711,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-15T13:55:43.675368+00:00",
+  "last_updated": "2026-01-15T15:15:25.870360+00:00",
   "version": "1.0.0"
 }
