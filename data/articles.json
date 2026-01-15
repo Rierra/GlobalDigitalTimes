@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "27e7f274fa8a",
+      "title": "Mira Murati\u2019s startup, Thinking Machines Lab, is losing two of its co-founders to OpenAI",
+      "slug": "mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai",
+      "original_link": "https://techcrunch.com/2026/01/14/mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-15T04:01:35.598730+00:00",
+      "word_count": 34
+    },
+    {
+      "id": "3d8f8211cccd",
+      "title": "X to stop Grok AI from undressing images of real people after backlash",
+      "slug": "x-to-stop-grok-ai-from-undressing-images-of-real-people-after-backlash",
+      "original_link": "https://www.bbc.com/news/articles/ce8gz8g2qnlo?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "AI",
+      "generated_at": "2026-01-15T04:01:34.725624+00:00",
+      "word_count": 37
+    },
+    {
       "id": "f55c13d01a92",
       "title": "Two Thinking Machines Lab Cofounders Are Leaving to Rejoin OpenAI",
       "slug": "two-thinking-machines-lab-cofounders-are-leaving-to-rejoin-openai",
@@ -3571,6 +3591,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-15T02:54:06.945158+00:00",
+  "last_updated": "2026-01-15T04:01:35.847710+00:00",
   "version": "1.0.0"
 }
