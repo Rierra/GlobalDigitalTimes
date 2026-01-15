@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "7550cefc90ae",
+      "title": "Raspberry Pi&#8217;s new add-on board has 8GB of RAM for running gen AI models",
+      "slug": "raspberry-pi-s-new-add-on-board-has-8gb-of-ram-for-running-gen-ai-models",
+      "original_link": "https://www.theverge.com/news/862748/raspberry-pi-ai-hat-2-gen-ai-ram",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-15T18:24:05.813053+00:00",
+      "word_count": 74
+    },
+    {
       "id": "7a807279e1cd",
       "title": "OpenAI invests in Sam Altman\u2019s brain computer interface startup Merge Labs",
       "slug": "openai-invests-in-sam-altmans-brain-computer-interface-startup-merge-labs",
@@ -3761,6 +3771,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-15T17:55:46.130530+00:00",
+  "last_updated": "2026-01-15T18:24:06.378964+00:00",
   "version": "1.0.0"
 }
