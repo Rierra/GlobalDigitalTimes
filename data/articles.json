@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "c557ce4c4912",
+      "title": "Wikipedia\u2019s Existential Threats Feel Greater Than Ever",
+      "slug": "wikipedias-existential-threats-feel-greater-than-ever",
+      "original_link": "https://www.wired.com/story/wikipedias-existential-threats-have-never-been-greater/",
+      "original_source": "Wired",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-15T10:47:08.099847+00:00",
+      "word_count": 36
+    },
+    {
       "id": "2d68b102fa9f",
       "title": "A car you can chat with and that gets you? Volvo dishes on AI-wielding EX60.",
       "slug": "a-car-you-can-chat-with-and-that-gets-you-volvo-dishes-on-ai-wielding-ex60",
@@ -3631,6 +3641,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-15T08:51:45.715585+00:00",
+  "last_updated": "2026-01-15T10:47:08.675584+00:00",
   "version": "1.0.0"
 }
