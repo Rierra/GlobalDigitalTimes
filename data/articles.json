@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "ce55b509d763",
+      "title": "Apple lost the AI race \u2014 now the real challenge starts",
+      "slug": "apple-lost-the-ai-race-now-the-real-challenge-starts",
+      "original_link": "https://www.theverge.com/tech/861957/google-apple-ai-deal-iphone-gemini",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-15T19:24:35.579347+00:00",
+      "word_count": 71
+    },
+    {
+      "id": "861485d47a80",
+      "title": "Democrats push FTC to investigate Trump Mobile",
+      "slug": "democrats-push-ftc-to-investigate-trump-mobile",
+      "original_link": "https://www.theverge.com/news/862821/democrats-elizabeth-warren-aoc-ftc-trump-mobile-investigation-letter",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-15T19:24:34.832756+00:00",
+      "word_count": 67
+    },
+    {
       "id": "17da7f3da4b8",
       "title": "Iran\u2019s internet shutdown is now one of its longest ever, as protests continue",
       "slug": "irans-internet-shutdown-is-now-one-of-its-longest-ever-as-protests-continue",
@@ -3791,6 +3811,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-15T18:59:29.158219+00:00",
+  "last_updated": "2026-01-15T19:24:35.953988+00:00",
   "version": "1.0.0"
 }
