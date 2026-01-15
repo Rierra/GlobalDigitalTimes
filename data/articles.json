@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "e4957f02e289",
+      "title": "India\u2019s Emversity doubles valuation as it scales workers AI can\u2019t replace",
+      "slug": "indias-emversity-doubles-valuation-as-it-scales-workers-ai-cant-replace",
+      "original_link": "https://techcrunch.com/2026/01/14/indias-emversity-doubles-valuation-as-it-scales-workers-ai-cant-replace/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-15T00:55:50.539838+00:00",
+      "word_count": 30
+    },
+    {
+      "id": "38d29a5660f2",
+      "title": "The FTC\u2019s data-sharing order against GM is finally settled",
+      "slug": "the-ftcs-data-sharing-order-against-gm-is-finally-settled",
+      "original_link": "https://techcrunch.com/2026/01/14/the-ftcs-data-sharing-order-against-gm-is-finally-settled/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-15T00:55:49.801654+00:00",
+      "word_count": 37
+    },
+    {
       "id": "aef7add46c29",
       "title": "Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet",
       "slug": "tech-workers-are-condemning-ice-even-as-their-ceos-stay-quiet",
@@ -3541,6 +3561,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-14T23:11:18.363522+00:00",
+  "last_updated": "2026-01-15T00:55:50.934608+00:00",
   "version": "1.0.0"
 }
