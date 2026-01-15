@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "94ba56f995a9",
+      "title": "Wikimedia Foundation announces new AI partnerships with Amazon, Meta, Microsoft, Perplexity and others",
+      "slug": "wikimedia-foundation-announces-new-ai-partnerships-with-amazon-meta-microsoft-perplexity-and-others",
+      "original_link": "https://techcrunch.com/2026/01/15/wikimedia-foundation-announces-new-ai-partnerships-with-amazon-meta-microsoft-perplexity-and-others/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-15T15:51:24.130410+00:00",
+      "word_count": 30
+    },
+    {
       "id": "19ecf4acfc17",
       "title": "US senators demand answers from X, Meta, Alphabet on sexualized deepfakes",
       "slug": "us-senators-demand-answers-from-x-meta-alphabet-on-sexualized-deepfakes",
@@ -3711,6 +3721,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-15T15:15:25.870360+00:00",
+  "last_updated": "2026-01-15T15:51:24.848982+00:00",
   "version": "1.0.0"
 }
