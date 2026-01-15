@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "59310fea5d02",
+      "title": "ChatGPT wrote \u201cGoodnight Moon\u201d suicide lullaby for man who later killed himself",
+      "slug": "chatgpt-wrote-goodnight-moon-suicide-lullaby-for-man-who-later-killed-himself",
+      "original_link": "https://arstechnica.com/tech-policy/2026/01/chatgpt-wrote-goodnight-moon-suicide-lullaby-for-man-who-later-killed-himself/",
+      "original_source": "Ars Technica",
+      "topic": "AI",
+      "generated_at": "2026-01-15T20:14:36.659586+00:00",
+      "word_count": 27
+    },
+    {
       "id": "9430923ef6f4",
       "title": "Elon Musk\u2019s Grok \u2018Undressing\u2019 Problem Isn\u2019t Fixed",
       "slug": "elon-musks-grok-undressing-problem-isnt-fixed",
@@ -3831,6 +3841,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-15T19:43:05.388998+00:00",
+  "last_updated": "2026-01-15T20:14:37.173543+00:00",
   "version": "1.0.0"
 }
