@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "04f9278e0168",
+      "title": "X claims it has stopped Grok from undressing people, but of course it hasn\u2019t",
+      "slug": "x-claims-it-has-stopped-grok-from-undressing-people-but-of-course-it-hasnt",
+      "original_link": "https://www.theverge.com/news/862372/x-grok-ai-policy-update-deepfake-bikini-poses",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-15T05:23:12.711205+00:00",
+      "word_count": 74
+    },
+    {
       "id": "5e8c349d25df",
       "title": "Musk and Hegseth vow to \u201cmake Star Trek real\u201d but miss the show\u2019s lessons",
       "slug": "musk-and-hegseth-vow-to-make-star-trek-real-but-miss-the-shows-lessons",
@@ -3601,6 +3611,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-15T04:57:25.129988+00:00",
+  "last_updated": "2026-01-15T05:23:13.482427+00:00",
   "version": "1.0.0"
 }
