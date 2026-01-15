@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "7a807279e1cd",
+      "title": "OpenAI invests in Sam Altman\u2019s brain computer interface startup Merge Labs",
+      "slug": "openai-invests-in-sam-altmans-brain-computer-interface-startup-merge-labs",
+      "original_link": "https://techcrunch.com/2026/01/15/openai-invests-in-sam-altmans-brain-computer-interface-startup-merge-labs/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-15T17:55:45.749882+00:00",
+      "word_count": 48
+    },
+    {
+      "id": "e1f58bc1ea5d",
+      "title": "Hands On With Anthropic\u2019s Claude Cowork, an AI Agent That Actually Works",
+      "slug": "hands-on-with-anthropics-claude-cowork-an-ai-agent-that-actually-works",
+      "original_link": "https://www.wired.com/story/anthropic-claude-cowork-agent/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-15T17:55:44.661001+00:00",
+      "word_count": 42
+    },
+    {
       "id": "222ea94452d3",
       "title": "The US imposes 25% tariff on Nvidia\u2019s H200 AI chips headed to China",
       "slug": "the-us-imposes-25-tariff-on-nvidias-h200-ai-chips-headed-to-china",
@@ -3741,6 +3761,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-15T17:01:01.662028+00:00",
+  "last_updated": "2026-01-15T17:55:46.130530+00:00",
   "version": "1.0.0"
 }
