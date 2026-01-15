@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "84dde6af7195",
+      "title": "Hundreds of Millions of Audio Devices Need a Patch to Prevent Wireless Hacking and Tracking",
+      "slug": "hundreds-of-millions-of-audio-devices-need-a-patch-to-prevent-wireless-hacking-and-tracking",
+      "original_link": "https://www.wired.com/story/google-fast-pair-bluetooth-audio-accessories-vulnerability-patches/",
+      "original_source": "Wired",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-15T12:24:16.714284+00:00",
+      "word_count": 42
+    },
+    {
+      "id": "be6b93d3c243",
+      "title": "After Italy, WhatsApp excludes Brazil from rival chatbot ban",
+      "slug": "after-italy-whatsapp-excludes-brazil-from-rival-chatbot-ban",
+      "original_link": "https://techcrunch.com/2026/01/15/after-italy-whatsapp-excludes-brazil-from-rival-chatbot-ban/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-15T12:24:15.917408+00:00",
+      "word_count": 48
+    },
+    {
       "id": "f45e5cdd4b1a",
       "title": "The Real AI Talent War Is for Plumbers and Electricians",
       "slug": "the-real-ai-talent-war-is-for-plumbers-and-electricians",
@@ -3661,6 +3681,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-15T11:39:41.680986+00:00",
+  "last_updated": "2026-01-15T12:24:17.060580+00:00",
   "version": "1.0.0"
 }
