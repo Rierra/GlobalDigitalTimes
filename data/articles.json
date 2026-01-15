@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "17da7f3da4b8",
+      "title": "Iran\u2019s internet shutdown is now one of its longest ever, as protests continue",
+      "slug": "irans-internet-shutdown-is-now-one-of-its-longest-ever-as-protests-continue",
+      "original_link": "https://techcrunch.com/2026/01/15/irans-internet-shutdown-is-now-one-of-its-longest-ever-as-protests-continue/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-15T18:59:28.788074+00:00",
+      "word_count": 32
+    },
+    {
+      "id": "18c0108cbbfb",
+      "title": "OpenAI Invests in Sam Altman\u2019s New Brain-Tech Startup Merge Labs",
+      "slug": "openai-invests-in-sam-altmans-new-brain-tech-startup-merge-labs",
+      "original_link": "https://www.wired.com/story/openai-invests-in-sam-altmans-new-brain-tech-startup-merge-labs/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-15T18:59:27.804786+00:00",
+      "word_count": 41
+    },
+    {
       "id": "7550cefc90ae",
       "title": "Raspberry Pi&#8217;s new add-on board has 8GB of RAM for running gen AI models",
       "slug": "raspberry-pi-s-new-add-on-board-has-8gb-of-ram-for-running-gen-ai-models",
@@ -3771,6 +3791,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-15T18:24:06.378964+00:00",
+  "last_updated": "2026-01-15T18:59:29.158219+00:00",
   "version": "1.0.0"
 }
