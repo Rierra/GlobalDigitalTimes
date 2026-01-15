@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "5e8c349d25df",
+      "title": "Musk and Hegseth vow to \u201cmake Star Trek real\u201d but miss the show\u2019s lessons",
+      "slug": "musk-and-hegseth-vow-to-make-star-trek-real-but-miss-the-shows-lessons",
+      "original_link": "https://arstechnica.com/culture/2026/01/pentagons-arsenal-of-freedom-tour-borrows-name-from-star-trek-episode-about-killer-ai/",
+      "original_source": "Ars Technica",
+      "topic": "AI",
+      "generated_at": "2026-01-15T04:57:24.713316+00:00",
+      "word_count": 25
+    },
+    {
       "id": "27e7f274fa8a",
       "title": "Mira Murati\u2019s startup, Thinking Machines Lab, is losing two of its co-founders to OpenAI",
       "slug": "mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai",
@@ -3591,6 +3601,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-15T04:01:35.847710+00:00",
+  "last_updated": "2026-01-15T04:57:25.129988+00:00",
   "version": "1.0.0"
 }
