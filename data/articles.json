@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "f55c13d01a92",
+      "title": "Two Thinking Machines Lab Cofounders Are Leaving to Rejoin OpenAI",
+      "slug": "two-thinking-machines-lab-cofounders-are-leaving-to-rejoin-openai",
+      "original_link": "https://www.wired.com/story/thinking-machines-lab-cofounders-leave-for-openai/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-15T02:54:06.423910+00:00",
+      "word_count": 30
+    },
+    {
       "id": "e4957f02e289",
       "title": "India\u2019s Emversity doubles valuation as it scales workers AI can\u2019t replace",
       "slug": "indias-emversity-doubles-valuation-as-it-scales-workers-ai-cant-replace",
@@ -3561,6 +3571,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-15T00:55:50.934608+00:00",
+  "last_updated": "2026-01-15T02:54:06.945158+00:00",
   "version": "1.0.0"
 }
