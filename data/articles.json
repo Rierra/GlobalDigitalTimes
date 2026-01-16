@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "2e92b636ead9",
+      "title": "Italy investigates Activision Blizzard for pushing in-game purchases",
+      "slug": "italy-investigates-activision-blizzard-for-pushing-in-game-purchases",
+      "original_link": "https://techcrunch.com/2026/01/16/italy-investigates-activision-blizzard-for-pushing-in-game-purchases/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-16T15:14:30.212392+00:00",
+      "word_count": 39
+    },
+    {
       "id": "4483ea1fbe29",
       "title": "Mother of one of Elon Musk\u2019s offspring sues xAI over sexualized deepfakes",
       "slug": "mother-of-one-of-elon-musks-offspring-sues-xai-over-sexualized-deepfakes",
@@ -4051,6 +4061,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-16T14:46:40.444688+00:00",
+  "last_updated": "2026-01-16T15:14:30.720085+00:00",
   "version": "1.0.0"
 }
