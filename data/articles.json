@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "c9d3230771fa",
+      "title": "Sony, Anker, and other headphones have a serious Google Fast Pair security vulnerability",
+      "slug": "sony-anker-and-other-headphones-have-a-serious-google-fast-pair-security-vulnerability",
+      "original_link": "https://www.theverge.com/tech/863338/google-fast-pair-whisperpair-security-vulnerability-bluetooth-headphones-speakers",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-16T14:15:07.683996+00:00",
+      "word_count": 73
+    },
+    {
+      "id": "32c117243487",
+      "title": "Mother of Elon Musk's child sues xAI over Grok deepfakes",
+      "slug": "mother-of-elon-musk-s-child-sues-xai-over-grok-deepfakes",
+      "original_link": "https://www.bbc.com/news/articles/cp37erw0zwwo?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "AI",
+      "generated_at": "2026-01-16T14:15:06.834820+00:00",
+      "word_count": 33
+    },
+    {
       "id": "3f82b28d9ee4",
       "title": "The Download: cut through AI coding hype, and biotech trends to watch",
       "slug": "the-download-cut-through-ai-coding-hype-and-biotech-trends-to-watch",
@@ -4011,6 +4031,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-16T13:53:56.713704+00:00",
+  "last_updated": "2026-01-16T14:15:08.072185+00:00",
   "version": "1.0.0"
 }
