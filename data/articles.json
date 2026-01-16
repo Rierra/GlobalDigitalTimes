@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "29a3b3c293e8",
+      "title": "ChatGPT users are about to get hit with targeted ads",
+      "slug": "chatgpt-users-are-about-to-get-hit-with-targeted-ads",
+      "original_link": "https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-16T20:40:54.558471+00:00",
+      "word_count": 29
+    },
+    {
+      "id": "75a6a1136561",
+      "title": "From OpenAI\u2019s offices to a deal with Eli Lilly \u2014 how Chai Discovery became one of the flashiest names in AI drug development",
+      "slug": "from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development",
+      "original_link": "https://techcrunch.com/2026/01/16/from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-16T20:40:53.741759+00:00",
+      "word_count": 45
+    },
+    {
       "id": "63b1ff00e8a1",
       "title": "Calif. counters FCC attack on DEI with conditions on Verizon/Frontier merger",
       "slug": "calif-counters-fcc-attack-on-dei-with-conditions-on-verizon-frontier-merger",
@@ -4171,6 +4191,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-16T20:13:14.031283+00:00",
+  "last_updated": "2026-01-16T20:40:54.860132+00:00",
   "version": "1.0.0"
 }
