@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "26a4c5e34882",
+      "title": "Former USDS Leaders Launch Tech Reform Project to Fix What DOGE Broke",
+      "slug": "former-usds-leaders-launch-tech-reform-project-to-fix-what-doge-broke",
+      "original_link": "https://www.wired.com/story/former-usds-leaders-launch-tech-reform-project-doge/",
+      "original_source": "Wired",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-16T16:17:12.028300+00:00",
+      "word_count": 32
+    },
+    {
       "id": "2e92b636ead9",
       "title": "Italy investigates Activision Blizzard for pushing in-game purchases",
       "slug": "italy-investigates-activision-blizzard-for-pushing-in-game-purchases",
@@ -4061,6 +4071,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-16T15:14:30.720085+00:00",
+  "last_updated": "2026-01-16T16:17:12.677797+00:00",
   "version": "1.0.0"
 }
