@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "9e6f7768889b",
+      "title": "Trump and Mid-Atlantic governors want tech companies to pay for new power plants",
+      "slug": "trump-and-mid-atlantic-governors-want-tech-companies-to-pay-for-new-power-plants",
+      "original_link": "https://www.theverge.com/news/863620/data-centers-ai-power-auction-trump",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-16T21:11:59.163541+00:00",
+      "word_count": 73
+    },
+    {
+      "id": "c421fea33fc4",
+      "title": "EPA rules that xAI\u2019s natural gas generators were illegally used",
+      "slug": "epa-rules-that-xais-natural-gas-generators-were-illegally-used",
+      "original_link": "https://techcrunch.com/2026/01/16/epa-rules-that-xais-natural-gas-generators-were-illegally-used/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-16T21:11:58.355470+00:00",
+      "word_count": 34
+    },
+    {
       "id": "29a3b3c293e8",
       "title": "ChatGPT users are about to get hit with targeted ads",
       "slug": "chatgpt-users-are-about-to-get-hit-with-targeted-ads",
@@ -4191,6 +4211,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-16T20:40:54.860132+00:00",
+  "last_updated": "2026-01-16T21:11:59.487152+00:00",
   "version": "1.0.0"
 }
