@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "6fc83a4a872b",
+      "title": "Three technologies that will shape biotech in 2026",
+      "slug": "three-technologies-that-will-shape-biotech-in-2026",
+      "original_link": "https://www.technologyreview.com/2026/01/16/1131363/three-technologies-shape-biotech-in-2026-gene-editing-embryo-scoring/",
+      "original_source": "MIT Technology Review",
+      "topic": "Other",
+      "generated_at": "2026-01-16T10:46:50.650038+00:00",
+      "word_count": 68
+    },
+    {
       "id": "4938c558dc3e",
       "title": "Anthropic taps former Microsoft India MD to lead Bengaluru expansion",
       "slug": "anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion",
@@ -3961,6 +3971,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-16T07:42:54.712254+00:00",
+  "last_updated": "2026-01-16T10:46:51.336909+00:00",
   "version": "1.0.0"
 }
