@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "0e693b4b7044",
+      "title": "TSMC says AI demand is \u201cendless\u201d after record Q4 earnings",
+      "slug": "tsmc-says-ai-demand-is-endless-after-record-q4-earnings",
+      "original_link": "https://arstechnica.com/ai/2026/01/tsmc-says-ai-demand-is-endless-after-record-q4-earnings/",
+      "original_source": "Ars Technica",
+      "topic": "AI",
+      "generated_at": "2026-01-16T17:17:03.492237+00:00",
+      "word_count": 29
+    },
+    {
+      "id": "591b0f009a12",
+      "title": "How a hacking campaign targeted high-profile Gmail and WhatsApp users across the Middle East",
+      "slug": "how-a-hacking-campaign-targeted-high-profile-gmail-and-whatsapp-users-across-the-middle-east",
+      "original_link": "https://techcrunch.com/2026/01/16/how-a-hacking-campaign-targeted-high-profile-gmail-and-whatsapp-users-across-the-middle-east/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-16T17:17:02.668275+00:00",
+      "word_count": 42
+    },
+    {
       "id": "5313f56d7a78",
       "title": "I saw the future of retail, and it\u2019s all AI",
       "slug": "i-saw-the-future-of-retail-and-its-all-ai",
@@ -4081,6 +4101,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-16T16:52:16.454827+00:00",
+  "last_updated": "2026-01-16T17:17:03.859694+00:00",
   "version": "1.0.0"
 }
