@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "a15d4e457559",
+      "title": "Ads Are Coming to ChatGPT. Here\u2019s How They\u2019ll Work",
+      "slug": "ads-are-coming-to-chatgpt-heres-how-theyll-work",
+      "original_link": "https://www.wired.com/story/openai-testing-ads-us/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-16T19:14:20.805035+00:00",
+      "word_count": 29
+    },
+    {
+      "id": "8783ea370527",
+      "title": "The AI healthcare gold rush is here",
+      "slug": "the-ai-healthcare-gold-rush-is-here",
+      "original_link": "https://techcrunch.com/video/the-ai-healthcare-gold-rush-is-here/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-16T19:14:20.049127+00:00",
+      "word_count": 71
+    },
+    {
       "id": "cb556c91010e",
       "title": "Ads are coming soon to ChatGPT, starting with shopping links",
       "slug": "ads-are-coming-soon-to-chatgpt-starting-with-shopping-links",
@@ -4131,6 +4151,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-16T18:53:14.132400+00:00",
+  "last_updated": "2026-01-16T19:14:21.140582+00:00",
   "version": "1.0.0"
 }
