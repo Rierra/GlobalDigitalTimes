@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "47f168237e39",
+      "title": "'They are essential': How smoke detectors are evolving",
+      "slug": "they-are-essential-how-smoke-detectors-are-evolving",
+      "original_link": "https://www.bbc.com/news/articles/cwynxdnj927o?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "AI",
+      "generated_at": "2026-01-16T00:58:16.315393+00:00",
+      "word_count": 26
+    },
+    {
+      "id": "ff29dbed3419",
+      "title": "AI journalism startup Symbolic.ai signs deal with Rupert Murdoch\u2019s News Corp",
+      "slug": "ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp",
+      "original_link": "https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-16T00:58:15.234954+00:00",
+      "word_count": 27
+    },
+    {
       "id": "3176bfeb5b45",
       "title": "Grok undressed the mother of one of Elon Musk\u2019s kids \u2014 and now she\u2019s suing",
       "slug": "grok-undressed-the-mother-of-one-of-elon-musks-kids-and-now-shes-suing",
@@ -3911,6 +3931,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-15T23:40:28.427403+00:00",
+  "last_updated": "2026-01-16T00:58:16.710521+00:00",
   "version": "1.0.0"
 }
