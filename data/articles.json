@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "cb556c91010e",
+      "title": "Ads are coming soon to ChatGPT, starting with shopping links",
+      "slug": "ads-are-coming-soon-to-chatgpt-starting-with-shopping-links",
+      "original_link": "https://www.theverge.com/news/863428/openai-chatgpt-shopping-ads-test",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-16T18:53:13.620291+00:00",
+      "word_count": 70
+    },
+    {
       "id": "375f9d26e4e5",
       "title": "ChatGPT to carry adverts for some users",
       "slug": "chatgpt-to-carry-adverts-for-some-users",
@@ -4121,6 +4131,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-16T18:19:35.534226+00:00",
+  "last_updated": "2026-01-16T18:53:14.132400+00:00",
   "version": "1.0.0"
 }
