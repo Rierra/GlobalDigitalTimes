@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "142ab98b593a",
+      "title": "How Does the Hive Mind Work in \u2018Pluribus?",
+      "slug": "how-does-the-hive-mind-work-in-pluribus",
+      "original_link": "https://www.wired.com/story/how-does-the-hive-mind-work-in-pluribus/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-16T12:23:06.226310+00:00",
+      "word_count": 27
+    },
+    {
+      "id": "a75798b57d38",
+      "title": "Use film-style age ratings to limit teens' social media, say Lib Dems",
+      "slug": "use-film-style-age-ratings-to-limit-teens-social-media-say-lib-dems",
+      "original_link": "https://www.bbc.com/news/articles/c8e5149egl2o?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-16T12:23:05.616308+00:00",
+      "word_count": 39
+    },
+    {
       "id": "6fc83a4a872b",
       "title": "Three technologies that will shape biotech in 2026",
       "slug": "three-technologies-that-will-shape-biotech-in-2026",
@@ -3971,6 +3991,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-16T10:46:51.336909+00:00",
+  "last_updated": "2026-01-16T12:23:06.557964+00:00",
   "version": "1.0.0"
 }
