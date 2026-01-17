@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "30c2fe2d5d29",
+      "title": "US Hackers Reportedly Caused a Blackout in Venezuela",
+      "slug": "us-hackers-reportedly-caused-a-blackout-in-venezuela",
+      "original_link": "https://www.wired.com/story/security-news-this-week-us-hackers-reportedly-caused-a-blackout-in-venezuela/",
+      "original_source": "Wired",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-17T11:35:16.852435+00:00",
+      "word_count": 33
+    },
+    {
       "id": "22e915456e9f",
       "title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
       "slug": "musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune",
@@ -4281,6 +4291,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-17T08:45:32.969605+00:00",
+  "last_updated": "2026-01-17T11:35:17.460225+00:00",
   "version": "1.0.0"
 }
