@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "92c77789643e",
+      "title": "Oshen built the first ocean robot to collect data in a Category 5 hurricane",
+      "slug": "oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane",
+      "original_link": "https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/",
+      "original_source": "TechCrunch",
+      "topic": "Robotics",
+      "generated_at": "2026-01-17T16:12:38.820754+00:00",
+      "word_count": 34
+    },
+    {
       "id": "30c2fe2d5d29",
       "title": "US Hackers Reportedly Caused a Blackout in Venezuela",
       "slug": "us-hackers-reportedly-caused-a-blackout-in-venezuela",
@@ -4291,6 +4301,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-17T11:35:17.460225+00:00",
+  "last_updated": "2026-01-17T16:12:39.287557+00:00",
   "version": "1.0.0"
 }
