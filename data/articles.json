@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "b26c148e06eb",
+      "title": "Google brings its AI videomaker to Workspace users",
+      "slug": "google-brings-its-ai-videomaker-to-workspace-users",
+      "original_link": "https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-17T02:45:43.299607+00:00",
+      "word_count": 68
+    },
+    {
       "id": "0946d6daa5c2",
       "title": "AI cloud startup Runpod hits $120M in ARR \u2014 and it started with a Reddit post",
       "slug": "ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post",
@@ -4251,6 +4261,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-17T00:56:14.086409+00:00",
+  "last_updated": "2026-01-17T02:45:44.046030+00:00",
   "version": "1.0.0"
 }
