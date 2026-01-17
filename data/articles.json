@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "0946d6daa5c2",
+      "title": "AI cloud startup Runpod hits $120M in ARR \u2014 and it started with a Reddit post",
+      "slug": "ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post",
+      "original_link": "https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-17T00:56:13.732979+00:00",
+      "word_count": 42
+    },
+    {
       "id": "26745961b21f",
       "title": "California AG sends Musk\u2019s xAI a cease-and-desist order over sexual deepfakes",
       "slug": "california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes",
@@ -4241,6 +4251,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-16T23:40:06.659895+00:00",
+  "last_updated": "2026-01-17T00:56:14.086409+00:00",
   "version": "1.0.0"
 }
