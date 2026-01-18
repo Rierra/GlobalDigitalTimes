@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "fdb8c712c66a",
+      "title": "Why Coinbase derailed the crypto industry\u2019s political future",
+      "slug": "why-coinbase-derailed-the-crypto-industrys-political-future",
+      "original_link": "https://www.theverge.com/policy/864008/senate-clarity-act-coinbase-crypto-market",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-18T13:44:16.721801+00:00",
+      "word_count": 68
+    },
+    {
       "id": "8e17a70d3010",
       "title": "Under Musk, the Grok disaster was inevitable",
       "slug": "under-musk-the-grok-disaster-was-inevitable",
@@ -4321,6 +4331,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-18T13:04:15.888176+00:00",
+  "last_updated": "2026-01-18T13:44:17.106203+00:00",
   "version": "1.0.0"
 }
