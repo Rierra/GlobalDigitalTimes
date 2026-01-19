@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "65c6c9ac38b9",
+      "title": "Here are the 55 US AI startups that have raised $100M or more in 2025",
+      "slug": "here-are-the-55-us-ai-startups-that-have-raised-100m-or-more-in-2025",
+      "original_link": "https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-19T18:18:25.063398+00:00",
+      "word_count": 35
+    },
+    {
       "id": "5f8725be4816",
       "title": "Rogue agents and shadow AI: Why VCs are betting big on AI security",
       "slug": "rogue-agents-and-shadow-ai-why-vcs-are-betting-big-on-ai-security",
@@ -4461,6 +4471,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-19T16:52:34.521825+00:00",
+  "last_updated": "2026-01-19T18:18:25.552030+00:00",
   "version": "1.0.0"
 }
