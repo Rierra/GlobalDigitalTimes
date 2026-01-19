@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "f665b364ef09",
+      "title": "Biotics AI, Battlefield 2023, gains FDA approval for its AI-powered fetal ultrasound product",
+      "slug": "biotics-ai-battlefield-2023-gains-fda-approval-for-its-ai-powered-fetal-ultrasound-product",
+      "original_link": "https://techcrunch.com/2026/01/19/biotics-ai-battlefield-2023-gains-fda-approval-for-its-ai-powered-fetal-ultrasound-product/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-19T15:16:48.047372+00:00",
+      "word_count": 44
+    },
+    {
       "id": "be56a368a846",
       "title": "The Download: the US digital rights crackdown, and AI companionship",
       "slug": "the-download-the-us-digital-rights-crackdown-and-ai-companionship",
@@ -4421,6 +4431,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-19T14:25:31.064103+00:00",
+  "last_updated": "2026-01-19T15:16:48.599857+00:00",
   "version": "1.0.0"
 }
