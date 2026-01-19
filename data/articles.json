@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "42eccc03ab6f",
+      "title": "Elon Musk accused of making up math to squeeze $134B from OpenAI, Microsoft",
+      "slug": "elon-musk-accused-of-making-up-math-to-squeeze-134b-from-openai-microsoft",
+      "original_link": "https://arstechnica.com/tech-policy/2026/01/elon-musk-accused-of-making-up-math-to-squeeze-134b-from-openai-microsoft/",
+      "original_source": "Ars Technica",
+      "topic": "AI",
+      "generated_at": "2026-01-19T19:12:58.923926+00:00",
+      "word_count": 27
+    },
+    {
       "id": "65c6c9ac38b9",
       "title": "Here are the 55 US AI startups that have raised $100M or more in 2025",
       "slug": "here-are-the-55-us-ai-startups-that-have-raised-100m-or-more-in-2025",
@@ -4471,6 +4481,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-19T18:18:25.552030+00:00",
+  "last_updated": "2026-01-19T19:12:59.567759+00:00",
   "version": "1.0.0"
 }
