@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "eb38381fc602",
+      "title": "UK to consult on social media ban for under 16s",
+      "slug": "uk-to-consult-on-social-media-ban-for-under-16s",
+      "original_link": "https://www.bbc.com/news/articles/cgm4xpyxp7lo?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-19T22:43:25.725193+00:00",
+      "word_count": 31
+    },
+    {
       "id": "a5ca31174d97",
       "title": "OpenAI\u2019s 2026 \u2018focus\u2019 is \u2018practical adoption\u2019",
       "slug": "openais-2026-focus-is-practical-adoption",
@@ -4501,6 +4511,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-19T21:10:58.100606+00:00",
+  "last_updated": "2026-01-19T22:43:26.545886+00:00",
   "version": "1.0.0"
 }
