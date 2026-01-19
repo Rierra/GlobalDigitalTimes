@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "7924b0adc43f",
+      "title": "Gamers love AI in game dev \u2014 they just don&#8217;t know it yet, says Razer&#8217;s CEO",
+      "slug": "gamers-love-ai-in-game-dev-they-just-don-t-know-it-yet-says-razer-s-ceo",
+      "original_link": "https://www.theverge.com/podcast/863361/razer-ceo-min-liang-tan-ces-2026-ai-gaming-project-ava-interview",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-19T15:48:19.800390+00:00",
+      "word_count": 76
+    },
+    {
       "id": "f665b364ef09",
       "title": "Biotics AI, Battlefield 2023, gains FDA approval for its AI-powered fetal ultrasound product",
       "slug": "biotics-ai-battlefield-2023-gains-fda-approval-for-its-ai-powered-fetal-ultrasound-product",
@@ -4431,6 +4441,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-19T15:16:48.599857+00:00",
+  "last_updated": "2026-01-19T15:48:20.113388+00:00",
   "version": "1.0.0"
 }
