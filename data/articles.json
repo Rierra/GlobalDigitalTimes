@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "ba6dd87dae2f",
+      "title": "Asus confirms its smartphone business is on indefinite hiatus",
+      "slug": "asus-confirms-its-smartphone-business-is-on-indefinite-hiatus",
+      "original_link": "https://arstechnica.com/gadgets/2026/01/asus-confirms-its-smartphone-business-is-on-indefinite-hiatus/",
+      "original_source": "Ars Technica",
+      "topic": "AI",
+      "generated_at": "2026-01-19T19:37:31.412593+00:00",
+      "word_count": 27
+    },
+    {
       "id": "42eccc03ab6f",
       "title": "Elon Musk accused of making up math to squeeze $134B from OpenAI, Microsoft",
       "slug": "elon-musk-accused-of-making-up-math-to-squeeze-134b-from-openai-microsoft",
@@ -4481,6 +4491,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-19T19:12:59.567759+00:00",
+  "last_updated": "2026-01-19T19:37:31.926599+00:00",
   "version": "1.0.0"
 }
