@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "dfb74f2ebe6a",
+      "title": "UStrive security lapse exposed personal data of its users, including children",
+      "slug": "ustrive-security-lapse-exposed-personal-data-of-its-users-including-children",
+      "original_link": "https://techcrunch.com/2026/01/20/ustrive-security-lapse-exposed-personal-data-of-its-users-including-children/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-20T21:13:10.357646+00:00",
+      "word_count": 49
+    },
+    {
+      "id": "fabc65c10f95",
+      "title": "Trump administration admits DOGE may have misused Americans\u2019 Social Security data",
+      "slug": "trump-administration-admits-doge-may-have-misused-americans-social-security-data",
+      "original_link": "https://techcrunch.com/2026/01/20/trump-administration-admits-doge-may-have-misused-americans-social-security-data/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-20T21:13:09.419194+00:00",
+      "word_count": 36
+    },
+    {
       "id": "fd4d3b2b17ad",
       "title": "Ethernovia raises $90M as investors rush to fund \u2018Physical AI\u2019",
       "slug": "ethernovia-raises-90m-as-investors-rush-to-fund-physical-ai",
@@ -4631,6 +4651,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-20T20:38:50.383613+00:00",
+  "last_updated": "2026-01-20T21:13:10.658089+00:00",
   "version": "1.0.0"
 }
