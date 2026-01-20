@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "6c8dd2776635",
+      "title": "Are 'tech dense' farms the future of farming?",
+      "slug": "are-tech-dense-farms-the-future-of-farming",
+      "original_link": "https://www.bbc.com/news/articles/c78e4l3rm22o?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "Other",
+      "generated_at": "2026-01-20T00:57:02.354069+00:00",
+      "word_count": 30
+    },
+    {
       "id": "eb38381fc602",
       "title": "UK to consult on social media ban for under 16s",
       "slug": "uk-to-consult-on-social-media-ban-for-under-16s",
@@ -4511,6 +4521,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-19T22:43:26.545886+00:00",
+  "last_updated": "2026-01-20T00:57:02.944638+00:00",
   "version": "1.0.0"
 }
