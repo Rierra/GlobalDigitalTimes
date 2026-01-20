@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "9a3c8eb24a79",
+      "title": "Google temporarily disabled YouTube's advanced captions without warning",
+      "slug": "google-temporarily-disabled-youtube-s-advanced-captions-without-warning",
+      "original_link": "https://arstechnica.com/gadgets/2026/01/google-temporarily-disabled-youtubes-advanced-captions-without-warning/",
+      "original_source": "Ars Technica",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-20T22:42:26.884569+00:00",
+      "word_count": 25
+    },
+    {
+      "id": "6a8af165f113",
+      "title": "FTC says it will appeal Meta antitrust loss",
+      "slug": "ftc-says-it-will-appeal-meta-antitrust-loss",
+      "original_link": "https://www.theverge.com/news/864622/ftc-meta-antitrust-ruling-appeal",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-20T22:42:26.053222+00:00",
+      "word_count": 68
+    },
+    {
       "id": "af4686d8672b",
       "title": "X open sources its algorithm while facing a transparency fine and Grok controversies",
       "slug": "x-open-sources-its-algorithm-while-facing-a-transparency-fine-and-grok-controversies",
@@ -4681,6 +4701,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-20T22:13:41.882309+00:00",
+  "last_updated": "2026-01-20T22:42:27.263310+00:00",
   "version": "1.0.0"
 }
