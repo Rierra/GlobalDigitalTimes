@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "f2497feb4b5e",
+      "title": "The UK government is backing AI scientists that can run their own experiments",
+      "slug": "the-uk-government-is-backing-ai-scientists-that-can-run-their-own-experiments",
+      "original_link": "https://www.technologyreview.com/2026/01/20/1131462/the-uk-government-is-backing-ai-scientists-that-can-run-their-own-experiments/",
+      "original_source": "MIT Technology Review",
+      "topic": "AI",
+      "generated_at": "2026-01-20T14:00:18.558383+00:00",
+      "word_count": 73
+    },
+    {
+      "id": "c38211e40eb5",
+      "title": "Indian vibe-coding startup Emergent raises $70M at $300M valuation from SoftBank, Khosla Ventures",
+      "slug": "indian-vibe-coding-startup-emergent-raises-70m-at-300m-valuation-from-softbank-khosla-ventures",
+      "original_link": "https://techcrunch.com/2026/01/20/indian-vibe-coding-startup-emergent-raises-70m-at-300m-valuation-from-softbank-khosla-ventures/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-20T14:00:17.700973+00:00",
+      "word_count": 38
+    },
+    {
       "id": "b657339eff88",
       "title": "Thousands of Companies Are Driving China\u2019s AI Boom. A Government Registry Tracks Them All",
       "slug": "thousands-of-companies-are-driving-chinas-ai-boom-a-government-registry-tracks-them-all",
@@ -4561,6 +4581,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-20T13:26:06.933023+00:00",
+  "last_updated": "2026-01-20T14:00:18.901300+00:00",
   "version": "1.0.0"
 }
