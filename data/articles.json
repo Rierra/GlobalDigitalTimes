@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "af4686d8672b",
+      "title": "X open sources its algorithm while facing a transparency fine and Grok controversies",
+      "slug": "x-open-sources-its-algorithm-while-facing-a-transparency-fine-and-grok-controversies",
+      "original_link": "https://techcrunch.com/2026/01/20/x-open-sources-its-algorithm-while-facing-a-transparency-fine-and-grok-controversies/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-20T22:13:41.616104+00:00",
+      "word_count": 33
+    },
+    {
+      "id": "836e5787601d",
+      "title": "Elon Musk says Tesla\u2019s restarted Dojo3 will be for \u2018space-based AI compute\u2019",
+      "slug": "elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute",
+      "original_link": "https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-20T22:13:40.918263+00:00",
+      "word_count": 52
+    },
+    {
       "id": "4c75b6fbb701",
       "title": "Why Serve Robotics is acquiring a hospital assistant robot company",
       "slug": "why-serve-robotics-is-acquiring-a-hospital-assistant-robot-company",
@@ -4661,6 +4681,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-20T21:40:57.501522+00:00",
+  "last_updated": "2026-01-20T22:13:41.882309+00:00",
   "version": "1.0.0"
 }
