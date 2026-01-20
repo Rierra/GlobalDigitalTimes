@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "3caec4f24b49",
+      "title": "Your First Humanoid Robot Coworker Will Probably Be Chinese",
+      "slug": "your-first-humanoid-robot-coworker-will-probably-be-chinese",
+      "original_link": "https://www.wired.com/story/china-humanoid-robot-coworkers/",
+      "original_source": "Wired",
+      "topic": "Robotics",
+      "generated_at": "2026-01-20T12:26:39.050353+00:00",
+      "word_count": 28
+    },
+    {
       "id": "88e52bc49a20",
       "title": "Meta\u2019s Oversight Board takes up permanent bans in landmark case",
       "slug": "metas-oversight-board-takes-up-permanent-bans-in-landmark-case",
@@ -4541,6 +4551,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-20T11:42:32.061249+00:00",
+  "last_updated": "2026-01-20T12:26:39.359444+00:00",
   "version": "1.0.0"
 }
