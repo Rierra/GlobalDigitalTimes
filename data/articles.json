@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "651872a082d7",
+      "title": "The era of agentic chaos and how data will save us",
+      "slug": "the-era-of-agentic-chaos-and-how-data-will-save-us",
+      "original_link": "https://www.technologyreview.com/2026/01/20/1130911/the-era-of-agentic-chaos-and-how-data-will-save-us/",
+      "original_source": "MIT Technology Review",
+      "topic": "AI",
+      "generated_at": "2026-01-20T15:20:46.683166+00:00",
+      "word_count": 71
+    },
+    {
       "id": "f2497feb4b5e",
       "title": "The UK government is backing AI scientists that can run their own experiments",
       "slug": "the-uk-government-is-backing-ai-scientists-that-can-run-their-own-experiments",
@@ -4581,6 +4591,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-20T14:00:18.901300+00:00",
+  "last_updated": "2026-01-20T15:20:47.052607+00:00",
   "version": "1.0.0"
 }
