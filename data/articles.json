@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "4c75b6fbb701",
+      "title": "Why Serve Robotics is acquiring a hospital assistant robot company",
+      "slug": "why-serve-robotics-is-acquiring-a-hospital-assistant-robot-company",
+      "original_link": "https://techcrunch.com/2026/01/20/why-serve-robotics-is-acquiring-a-hospital-assistant-robot-company/",
+      "original_source": "TechCrunch",
+      "topic": "Robotics",
+      "generated_at": "2026-01-20T21:40:56.821062+00:00",
+      "word_count": 34
+    },
+    {
       "id": "dfb74f2ebe6a",
       "title": "UStrive security lapse exposed personal data of its users, including children",
       "slug": "ustrive-security-lapse-exposed-personal-data-of-its-users-including-children",
@@ -4651,6 +4661,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-20T21:13:10.658089+00:00",
+  "last_updated": "2026-01-20T21:40:57.501522+00:00",
   "version": "1.0.0"
 }
