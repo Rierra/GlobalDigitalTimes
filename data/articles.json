@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "86afe8b17db4",
+      "title": "China\u2019s AI Boyfriend Business Is Taking On a Life of Its Own",
+      "slug": "chinas-ai-boyfriend-business-is-taking-on-a-life-of-its-own",
+      "original_link": "https://www.wired.com/story/china-ai-boyfriends/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-20T11:16:15.988935+00:00",
+      "word_count": 36
+    },
+    {
       "id": "6c8dd2776635",
       "title": "Are 'tech dense' farms the future of farming?",
       "slug": "are-tech-dense-farms-the-future-of-farming",
@@ -4521,6 +4531,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-20T00:57:02.944638+00:00",
+  "last_updated": "2026-01-20T11:16:16.292829+00:00",
   "version": "1.0.0"
 }
