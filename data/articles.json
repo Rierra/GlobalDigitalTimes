@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "b5473d778d5a",
+      "title": "One of the first alternative app stores in the EU is shutting down",
+      "slug": "one-of-the-first-alternative-app-stores-in-the-eu-is-shutting-down",
+      "original_link": "https://techcrunch.com/2026/01/20/one-of-the-first-alternative-app-stores-in-the-eu-is-shutting-down/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-20T16:57:32.508416+00:00",
+      "word_count": 37
+    },
+    {
+      "id": "75d3576df9bc",
+      "title": "Reimagining ERP for the agentic AI era",
+      "slug": "reimagining-erp-for-the-agentic-ai-era",
+      "original_link": "https://www.technologyreview.com/2026/01/20/1129965/reimagining-erp-for-the-agentic-ai-era/",
+      "original_source": "MIT Technology Review",
+      "topic": "AI",
+      "generated_at": "2026-01-20T16:57:31.495064+00:00",
+      "word_count": 67
+    },
+    {
       "id": "08ff47798b61",
       "title": "Humans&, a \u2018human-centric\u2019 AI startup founded by Anthropic, xAI, Google alums, raised $480M seed round",
       "slug": "humans-a-human-centric-ai-startup-founded-by-anthropic-xai-google-alums-raised-480m-seed-round",
@@ -4601,6 +4621,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-20T16:23:05.208180+00:00",
+  "last_updated": "2026-01-20T16:57:32.868645+00:00",
   "version": "1.0.0"
 }
