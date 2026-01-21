@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "0fe62f1362d4",
+      "title": "OpenAI says its data centers will pay for own energy and limit water usage",
+      "slug": "openai-says-its-data-centers-will-pay-for-own-energy-and-limit-water-usage",
+      "original_link": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-21T11:17:00.582884+00:00",
+      "word_count": 74
+    },
+    {
+      "id": "daea820a1729",
+      "title": "How would a social media ban for under-16s work?",
+      "slug": "how-would-a-social-media-ban-for-under-16s-work",
+      "original_link": "https://www.bbc.com/news/videos/cx2yep7l2j2o?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-21T11:16:59.890576+00:00",
+      "word_count": 19
+    },
+    {
       "id": "d309c06a287b",
       "title": "ChatGPT is using age prediction to restrict what minors see",
       "slug": "chatgpt-is-using-age-prediction-to-restrict-what-minors-see",
@@ -4791,6 +4811,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-21T10:52:36.523179+00:00",
+  "last_updated": "2026-01-21T11:17:00.861849+00:00",
   "version": "1.0.0"
 }
