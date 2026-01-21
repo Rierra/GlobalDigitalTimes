@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "ed45b6ddae2d",
+      "title": "The Download: Trump at Davos, and AI scientists",
+      "slug": "the-download-trump-at-davos-and-ai-scientists",
+      "original_link": "https://www.technologyreview.com/2026/01/21/1131548/the-download-trump-at-davos-and-ai-scientists/",
+      "original_source": "MIT Technology Review",
+      "topic": "AI",
+      "generated_at": "2026-01-21T14:00:01.272621+00:00",
+      "word_count": 70
+    },
+    {
+      "id": "680693bcbc70",
+      "title": "Lemonade launches an insurance product for Tesla Full Self-Driving customers",
+      "slug": "lemonade-launches-an-insurance-product-for-tesla-full-self-driving-customers",
+      "original_link": "https://techcrunch.com/2026/01/21/lemonade-launches-an-insurance-product-for-tesla-full-self-driving-customers/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-21T14:00:00.379770+00:00",
+      "word_count": 32
+    },
+    {
       "id": "ad5aab946f95",
       "title": "Wikipedia volunteers spent years cataloging AI tells. Now there's a plugin to avoid them.",
       "slug": "wikipedia-volunteers-spent-years-cataloging-ai-tells-now-there-s-a-plugin-to-avoid-them",
@@ -4841,6 +4861,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-21T13:24:51.030445+00:00",
+  "last_updated": "2026-01-21T14:00:01.768196+00:00",
   "version": "1.0.0"
 }
