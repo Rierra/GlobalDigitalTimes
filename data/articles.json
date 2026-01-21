@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "a0c9331372c3",
+      "title": "Surveillance and ICE Are Driving Patients Away From Medical Care, Report Warns",
+      "slug": "surveillance-and-ice-are-driving-patients-away-from-medical-care-report-warns",
+      "original_link": "https://www.wired.com/story/surveillance-and-ice-are-driving-patients-away-from-medical-care-report-warns/",
+      "original_source": "Wired",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-21T18:31:19.065700+00:00",
+      "word_count": 47
+    },
+    {
+      "id": "20712119b2e6",
+      "title": "Ubisoft cancels Prince of Persia remake as part of major reorganization",
+      "slug": "ubisoft-cancels-prince-of-persia-remake-as-part-of-major-reorganization",
+      "original_link": "https://www.theverge.com/news/865060/ubisoft-prince-of-persia-sands-of-time-remake-canceled-reorganization",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-21T18:31:18.232954+00:00",
+      "word_count": 71
+    },
+    {
       "id": "23cd65d5934e",
       "title": "YouTube will soon let creators make Shorts with their own AI likeness",
       "slug": "youtube-will-soon-let-creators-make-shorts-with-their-own-ai-likeness",
@@ -4961,6 +4981,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-21T17:34:57.779259+00:00",
+  "last_updated": "2026-01-21T18:31:19.380486+00:00",
   "version": "1.0.0"
 }
