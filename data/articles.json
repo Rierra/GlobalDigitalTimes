@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "3e2a9c5c485e",
+      "title": "OpenAI aims to ship its first device in 2026, and it could be earbuds",
+      "slug": "openai-aims-to-ship-its-first-device-in-2026-and-it-could-be-earbuds",
+      "original_link": "https://techcrunch.com/2026/01/21/openai-aims-to-ship-its-first-device-in-2026-and-it-could-be-earbuds/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-21T15:21:17.854483+00:00",
+      "word_count": 48
+    },
+    {
+      "id": "ba1962260828",
+      "title": "Adobe Acrobat uses AI to turn your PDFs into podcasts",
+      "slug": "adobe-acrobat-uses-ai-to-turn-your-pdfs-into-podcasts",
+      "original_link": "https://www.theverge.com/news/864811/adobe-acrobat-studio-generate-podcast-presentation",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-21T15:21:16.429021+00:00",
+      "word_count": 70
+    },
+    {
       "id": "ff06a748ccbf",
       "title": "PraxisPro raises $6M seed from AlleyCorp to coach medical sales reps",
       "slug": "praxispro-raises-6m-seed-from-alleycorp-to-coach-medical-sales-reps",
@@ -4901,6 +4921,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-21T14:34:15.037727+00:00",
+  "last_updated": "2026-01-21T15:21:18.229944+00:00",
   "version": "1.0.0"
 }
