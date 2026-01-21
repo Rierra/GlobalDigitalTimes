@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "52b0eb402539",
+      "title": "India\u2019s app downloads rebounded to 25.5 billion in 2025, fueled by AI assistants and microdrama boom",
+      "slug": "indias-app-downloads-rebounded-to-25-5-billion-in-2025-fueled-by-ai-assistants-and-microdrama-boom",
+      "original_link": "https://techcrunch.com/2026/01/21/indias-app-downloads-rebounded-to-25-5-billion-in-2025-fueled-by-ai-assistants-and-microdrama-boom/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-21T11:43:18.263045+00:00",
+      "word_count": 32
+    },
+    {
       "id": "0fe62f1362d4",
       "title": "OpenAI says its data centers will pay for own energy and limit water usage",
       "slug": "openai-says-its-data-centers-will-pay-for-own-energy-and-limit-water-usage",
@@ -4811,6 +4821,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-21T11:17:00.861849+00:00",
+  "last_updated": "2026-01-21T11:43:18.778637+00:00",
   "version": "1.0.0"
 }
