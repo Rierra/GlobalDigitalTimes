@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "ad5aab946f95",
+      "title": "Wikipedia volunteers spent years cataloging AI tells. Now there's a plugin to avoid them.",
+      "slug": "wikipedia-volunteers-spent-years-cataloging-ai-tells-now-there-s-a-plugin-to-avoid-them",
+      "original_link": "https://arstechnica.com/ai/2026/01/new-ai-plugin-uses-wikipedias-ai-writing-detection-rules-to-help-it-sound-human/",
+      "original_source": "Ars Technica",
+      "topic": "AI",
+      "generated_at": "2026-01-21T13:24:50.589447+00:00",
+      "word_count": 33
+    },
+    {
       "id": "73d58cdc0207",
       "title": "Pro-AI Super PACs Are Already All In on the Midterms",
       "slug": "pro-ai-super-pacs-are-already-all-in-on-the-midterms",
@@ -4831,6 +4841,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-21T12:26:46.676330+00:00",
+  "last_updated": "2026-01-21T13:24:51.030445+00:00",
   "version": "1.0.0"
 }
