@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "8505ffe7f9bc",
+      "title": "Apple plans to make Siri an AI chatbot, report says",
+      "slug": "apple-plans-to-make-siri-an-ai-chatbot-report-says",
+      "original_link": "https://techcrunch.com/2026/01/21/apple-plans-to-make-siri-an-ai-chatbot-report-says/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-21T22:15:25.804099+00:00",
+      "word_count": 30
+    },
+    {
+      "id": "4a6f3d5723ab",
+      "title": "Anthropic revises Claude\u2019s \u2018Constitution,\u2019 and hints at chatbot consciousness",
+      "slug": "anthropic-revises-claudes-constitution-and-hints-at-chatbot-consciousness",
+      "original_link": "https://techcrunch.com/2026/01/21/anthropic-revises-claudes-constitution-and-hints-at-chatbot-consciousness/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-21T22:15:25.119031+00:00",
+      "word_count": 31
+    },
+    {
       "id": "be8532c1c06c",
       "title": "Apple is reportedly working on an AirTag-sized AI wearable",
       "slug": "apple-is-reportedly-working-on-an-airtag-sized-ai-wearable",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2025-12-25T10:43:30.485466+00:00",
       "word_count": 71
-    },
-    {
-      "id": "bc52d4d41e63",
-      "title": "Nvidia's $1 Billion Bet on AI: Groq Acquisition and CEO Hire",
-      "slug": "nvidia-1-billion-ai-bet-groq-acquisition",
-      "original_link": "https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2025-12-25T01:44:21.811018+00:00",
-      "word_count": 1029
-    },
-    {
-      "id": "d465e7d72906",
-      "title": "Transforming Transportation: Waymo's Gemini AI Assistant Unveiled with 1200+ Capabilities",
-      "slug": "waymo-gemini-ai-transforming-transportation",
-      "original_link": "https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2025-12-24T17:36:32.040542+00:00",
-      "word_count": 969
     }
   ],
-  "last_updated": "2026-01-21T21:49:29.622548+00:00",
+  "last_updated": "2026-01-21T22:15:26.084098+00:00",
   "version": "1.0.0"
 }
