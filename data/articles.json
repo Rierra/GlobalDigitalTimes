@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "9c8ed44c95bc",
+      "title": "The AI Boom Will Increase US Carbon Emissions\u2014but It Doesn\u2019t Have To",
+      "slug": "the-ai-boom-will-increase-us-carbon-emissions-but-it-doesnt-have-to",
+      "original_link": "https://www.wired.com/story/the-ai-boom-will-increase-us-carbon-emissions-but-it-doesnt-have-to/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-21T10:17:03.977030+00:00",
+      "word_count": 45
+    },
+    {
       "id": "c7af6c68ba5c",
       "title": "Bolna nabs $6.3M from General Catalyst for its India-focused voice orchestration platform",
       "slug": "bolna-nabs-6-3m-from-general-catalyst-for-its-india-focused-voice-orchestration-platform",
@@ -4771,6 +4781,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-21T05:00:12.159997+00:00",
+  "last_updated": "2026-01-21T10:17:04.493876+00:00",
   "version": "1.0.0"
 }
