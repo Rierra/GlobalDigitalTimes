@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "a84c39131039",
+      "title": "Todoist\u2019s app now lets you add tasks to your to-do list by speaking to its AI",
+      "slug": "todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai",
+      "original_link": "https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-21T22:49:29.481617+00:00",
+      "word_count": 37
+    },
+    {
       "id": "8505ffe7f9bc",
       "title": "Apple plans to make Siri an AI chatbot, report says",
       "slug": "apple-plans-to-make-siri-an-ai-chatbot-report-says",
@@ -4989,18 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2025-12-25T11:10:39.594095+00:00",
       "word_count": 43
-    },
-    {
-      "id": "91fd04c2eace",
-      "title": "AI Wrapped: The 14 AI terms you couldn\u2019t avoid in 2025",
-      "slug": "ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025",
-      "original_link": "https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/",
-      "original_source": "MIT Technology Review",
-      "topic": "AI",
-      "generated_at": "2025-12-25T10:43:30.485466+00:00",
-      "word_count": 71
     }
   ],
-  "last_updated": "2026-01-21T22:15:26.084098+00:00",
+  "last_updated": "2026-01-21T22:49:30.056183+00:00",
   "version": "1.0.0"
 }
