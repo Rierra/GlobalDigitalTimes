@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "id": "ff06a748ccbf",
+      "title": "PraxisPro raises $6M seed from AlleyCorp to coach medical sales reps",
+      "slug": "praxispro-raises-6m-seed-from-alleycorp-to-coach-medical-sales-reps",
+      "original_link": "https://techcrunch.com/2026/01/21/praxispro-raises-6m-seed-from-alleycorp-to-coach-medical-sales-reps/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-21T14:34:14.749307+00:00",
+      "word_count": 34
+    },
+    {
+      "id": "b6feb2385e67",
+      "title": "Everyone wants AI sovereignty. No one can truly have it.",
+      "slug": "everyone-wants-ai-sovereignty-no-one-can-truly-have-it",
+      "original_link": "https://www.technologyreview.com/2026/01/21/1131513/everyone-wants-ai-sovereignty-no-one-can-truly-have-it/",
+      "original_source": "MIT Technology Review",
+      "topic": "AI",
+      "generated_at": "2026-01-21T14:34:13.910147+00:00",
+      "word_count": 70
+    },
+    {
+      "id": "0c9d9c234e11",
+      "title": "Adobe Acrobat now lets you edit files using prompts, generate podcast summaries",
+      "slug": "adobe-acrobat-now-lets-you-edit-files-using-prompts-generate-podcast-summaries",
+      "original_link": "https://techcrunch.com/2026/01/21/adobe-acrobat-now-lets-you-edit-files-using-prompts-generate-podcast-summaries/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-21T14:34:13.223155+00:00",
+      "word_count": 43
+    },
+    {
+      "id": "b87a0c729a5e",
+      "title": "YouTubers will be able to make Shorts with their own AI likenesses",
+      "slug": "youtubers-will-be-able-to-make-shorts-with-their-own-ai-likenesses",
+      "original_link": "https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-21T14:34:12.515924+00:00",
+      "word_count": 72
+    },
+    {
       "id": "ed45b6ddae2d",
       "title": "The Download: Trump at Davos, and AI scientists",
       "slug": "the-download-trump-at-davos-and-ai-scientists",
@@ -4861,6 +4901,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-21T14:00:01.768196+00:00",
+  "last_updated": "2026-01-21T14:34:15.037727+00:00",
   "version": "1.0.0"
 }
