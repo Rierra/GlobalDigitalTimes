@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "4f8001cd4e4f",
+      "title": "A timeline of the US semiconductor market in 2025",
+      "slug": "a-timeline-of-the-us-semiconductor-market-in-2025",
+      "original_link": "https://techcrunch.com/2026/01/21/a-timeline-of-the-u-s-semiconductor-market-in-2025/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-21T23:15:48.872043+00:00",
+      "word_count": 31
+    },
+    {
       "id": "a84c39131039",
       "title": "Todoist\u2019s app now lets you add tasks to your to-do list by speaking to its AI",
       "slug": "todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2025-12-25T13:06:16.594814+00:00",
       "word_count": 75
-    },
-    {
-      "id": "150a0c763c2a",
-      "title": "The Gloves Are Off in the Fight for Your Right to Repair",
-      "slug": "the-gloves-are-off-in-the-fight-for-your-right-to-repair",
-      "original_link": "https://www.wired.com/story/expired-tired-wired-right-to-repair/",
-      "original_source": "Wired",
-      "topic": "Tech Policy",
-      "generated_at": "2025-12-25T11:10:39.594095+00:00",
-      "word_count": 43
     }
   ],
-  "last_updated": "2026-01-21T22:49:30.056183+00:00",
+  "last_updated": "2026-01-21T23:15:49.274077+00:00",
   "version": "1.0.0"
 }
