@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "b6bcc06b7730",
+      "title": "Anthropic\u2019s CEO stuns Davos with Nvidia criticism",
+      "slug": "anthropics-ceo-stuns-davos-with-nvidia-criticism",
+      "original_link": "https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-21T02:59:31.197536+00:00",
+      "word_count": 48
+    },
+    {
       "id": "1e7565061dd4",
       "title": "Zuck stuck on Trump\u2019s bad side: FTC appeals loss in Meta monopoly case",
       "slug": "zuck-stuck-on-trumps-bad-side-ftc-appeals-loss-in-meta-monopoly-case",
@@ -4741,6 +4751,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-21T00:59:05.995087+00:00",
+  "last_updated": "2026-01-21T02:59:31.578351+00:00",
   "version": "1.0.0"
 }
