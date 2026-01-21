@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "2a1781dd09bf",
+      "title": "Anthropic\u2019s new Claude \u2018constitution\u2019: be helpful and honest, and don\u2019t destroy humanity",
+      "slug": "anthropics-new-claude-constitution-be-helpful-and-honest-and-dont-destroy-humanity",
+      "original_link": "https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-21T20:53:11.324480+00:00",
+      "word_count": 72
+    },
+    {
+      "id": "549277f21505",
+      "title": "Spotify won court order against Anna\u2019s Archive, taking down .org domain",
+      "slug": "spotify-won-court-order-against-annas-archive-taking-down-org-domain",
+      "original_link": "https://arstechnica.com/tech-policy/2026/01/annas-archive-said-spotify-scrape-didnt-cause-domain-suspension-it-was-wrong/",
+      "original_source": "Ars Technica",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-21T20:53:10.472703+00:00",
+      "word_count": 27
+    },
+    {
       "id": "84e32d9cbd62",
       "title": "The US and China Are Collaborating More Closely on AI Than You Think",
       "slug": "the-us-and-china-are-collaborating-more-closely-on-ai-than-you-think",
@@ -4979,28 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2025-12-24T16:27:29.359927+00:00",
       "word_count": 989
-    },
-    {
-      "id": "0557b670b572",
-      "title": "Unlock 10 AI Coding Secrets: Boosting Productivity with Agents",
-      "slug": "unlock-ai-coding-secrets",
-      "original_link": "https://arstechnica.com/information-technology/2025/12/how-do-ai-coding-agents-work-we-look-under-the-hood/",
-      "original_source": "Ars Technica",
-      "topic": "AI",
-      "generated_at": "2025-12-24T14:41:03.501618+00:00",
-      "word_count": 1261
-    },
-    {
-      "id": "f569b05700da",
-      "title": "2025: The Year AI Revolutionized Gaming Forever with 90% Adoption",
-      "slug": "ai-revolutionizes-gaming-2025",
-      "original_link": "https://www.theverge.com/entertainment/848368/gen-ai-video-games-2025",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2025-12-24T14:07:32.970787+00:00",
-      "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-21T19:19:16.064480+00:00",
+  "last_updated": "2026-01-21T20:53:11.749083+00:00",
   "version": "1.0.0"
 }
