@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "71d6faf3f368",
+      "title": "OpenAI\u2019s former sales leader joins VC firm Acrew: OpenAI taught her where startups can build a \u2018moat\u2019",
+      "slug": "openais-former-sales-leader-joins-vc-firm-acrew-openai-taught-her-where-startups-can-build-a-moat",
+      "original_link": "https://techcrunch.com/2026/01/21/openais-former-sales-leader-joins-vc-firm-acrew-openai-taught-her-where-startups-can-build-a-moat/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-21T16:25:03.308982+00:00",
+      "word_count": 46
+    },
+    {
       "id": "2015f74cb058",
       "title": "Has Gemini surpassed ChatGPT? We put the AI models to the test.",
       "slug": "has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test",
@@ -4931,6 +4941,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-21T15:54:52.027662+00:00",
+  "last_updated": "2026-01-21T16:25:03.751023+00:00",
   "version": "1.0.0"
 }
