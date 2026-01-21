@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "be8532c1c06c",
+      "title": "Apple is reportedly working on an AirTag-sized AI wearable",
+      "slug": "apple-is-reportedly-working-on-an-airtag-sized-ai-wearable",
+      "original_link": "https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-21T21:49:28.861974+00:00",
+      "word_count": 69
+    },
+    {
       "id": "af3c46ad749f",
       "title": "Irony alert: Hallucinated citations found in papers from NeurIPS, the prestigious AI conference",
       "slug": "irony-alert-hallucinated-citations-found-in-papers-from-neurips-the-prestigious-ai-conference",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2025-12-24T17:36:32.040542+00:00",
       "word_count": 969
-    },
-    {
-      "id": "7c123c1b4448",
-      "title": "7,000 Dark Stoplights No Match for Waymo's Robotaxis Technology",
-      "slug": "waymo-robotaxis-dark-stoplights",
-      "original_link": "https://techcrunch.com/2025/12/24/waymo-explains-why-its-robotaxis-got-stuck-during-the-sf-blackout/",
-      "original_source": "TechCrunch",
-      "topic": "Robotics",
-      "generated_at": "2025-12-24T17:36:18.593255+00:00",
-      "word_count": 1135
     }
   ],
-  "last_updated": "2026-01-21T21:19:50.429945+00:00",
+  "last_updated": "2026-01-21T21:49:29.622548+00:00",
   "version": "1.0.0"
 }

@@ -7,6 +7,12 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.globaldigitaltimes.com/articles/apple-is-reportedly-working-on-an-airtag-sized-ai-wearable.html</loc>
+    <lastmod>2026-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.globaldigitaltimes.com/articles/irony-alert-hallucinated-citations-found-in-papers-from-neurips-the-prestigious-ai-conference.html</loc>
     <lastmod>2026-01-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -2996,12 +3002,6 @@
   </url>
   <url>
     <loc>https://www.globaldigitaltimes.com/articles/waymo-gemini-ai-transforming-transportation.html</loc>
-    <lastmod>2025-12-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.globaldigitaltimes.com/articles/waymo-robotaxis-dark-stoplights.html</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
