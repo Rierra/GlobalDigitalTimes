@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "1e7565061dd4",
+      "title": "Zuck stuck on Trump\u2019s bad side: FTC appeals loss in Meta monopoly case",
+      "slug": "zuck-stuck-on-trumps-bad-side-ftc-appeals-loss-in-meta-monopoly-case",
+      "original_link": "https://arstechnica.com/tech-policy/2026/01/zuck-stuck-on-trumps-bad-side-ftc-appeals-loss-in-meta-monopoly-case/",
+      "original_source": "Ars Technica",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-21T00:59:05.491647+00:00",
+      "word_count": 30
+    },
+    {
+      "id": "a6cad1392de3",
+      "title": "Snap settles social media addiction lawsuit ahead of trial",
+      "slug": "snap-settles-social-media-addiction-lawsuit-ahead-of-trial",
+      "original_link": "https://www.bbc.com/news/articles/c62ndl2ydzxo?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-21T00:59:04.529993+00:00",
+      "word_count": 30
+    },
+    {
       "id": "02824661b381",
       "title": "In an effort to protect young users, ChatGPT will now predict how old you are",
       "slug": "in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are",
@@ -4721,6 +4741,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-20T23:41:25.637033+00:00",
+  "last_updated": "2026-01-21T00:59:05.995087+00:00",
   "version": "1.0.0"
 }
