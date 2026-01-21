@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "a88448861452",
+      "title": "One year in, Big Tech has out-maneuvered MAGA populists",
+      "slug": "one-year-in-big-tech-has-out-maneuvered-maga-populists",
+      "original_link": "https://www.theverge.com/column/864759/big-tech-trump-one-year-in",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-21T04:06:31.518039+00:00",
+      "word_count": 69
+    },
+    {
       "id": "b6bcc06b7730",
       "title": "Anthropic\u2019s CEO stuns Davos with Nvidia criticism",
       "slug": "anthropics-ceo-stuns-davos-with-nvidia-criticism",
@@ -4751,6 +4761,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-21T02:59:31.578351+00:00",
+  "last_updated": "2026-01-21T04:06:31.914094+00:00",
   "version": "1.0.0"
 }
