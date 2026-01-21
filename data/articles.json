@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "23cd65d5934e",
+      "title": "YouTube will soon let creators make Shorts with their own AI likeness",
+      "slug": "youtube-will-soon-let-creators-make-shorts-with-their-own-ai-likeness",
+      "original_link": "https://techcrunch.com/2026/01/21/youtube-will-soon-let-creators-make-shorts-with-their-own-ai-likeness/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-21T17:34:57.351033+00:00",
+      "word_count": 32
+    },
+    {
+      "id": "db1f2c793958",
+      "title": "ElevenLabs made an AI album to plug its music generator",
+      "slug": "elevenlabs-made-an-ai-album-to-plug-its-music-generator",
+      "original_link": "https://www.theverge.com/news/864843/elevenlabs-ai-music-eleven-album-release",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-21T17:34:56.551578+00:00",
+      "word_count": 70
+    },
+    {
       "id": "71d6faf3f368",
       "title": "OpenAI\u2019s former sales leader joins VC firm Acrew: OpenAI taught her where startups can build a \u2018moat\u2019",
       "slug": "openais-former-sales-leader-joins-vc-firm-acrew-openai-taught-her-where-startups-can-build-a-moat",
@@ -4941,6 +4961,6 @@
       "word_count": 1337
     }
   ],
-  "last_updated": "2026-01-21T16:25:03.751023+00:00",
+  "last_updated": "2026-01-21T17:34:57.779259+00:00",
   "version": "1.0.0"
 }
