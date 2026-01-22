@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "f9214a138ea4",
+      "title": "Yann LeCun\u2019s new venture is a contrarian bet against large language models",
+      "slug": "yann-lecuns-new-venture-is-a-contrarian-bet-against-large-language-models",
+      "original_link": "https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/",
+      "original_source": "MIT Technology Review",
+      "topic": "AI",
+      "generated_at": "2026-01-22T10:17:24.737168+00:00",
+      "word_count": 72
+    },
+    {
       "id": "50420a03de13",
       "title": "Hundreds of creatives warn against an AI slop future",
       "slug": "hundreds-of-creatives-warn-against-an-ai-slop-future",
@@ -4989,18 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2025-12-27T16:13:15.265384+00:00",
       "word_count": 45
-    },
-    {
-      "id": "4e072bd49993",
-      "title": "So Long, GPT-5. Hello, Qwen",
-      "slug": "so-long-gpt-5-hello-qwen",
-      "original_link": "https://www.wired.com/story/expired-tired-wired-gpt-5/",
-      "original_source": "Wired",
-      "topic": "AI",
-      "generated_at": "2025-12-27T11:09:14.774664+00:00",
-      "word_count": 33
     }
   ],
-  "last_updated": "2026-01-22T05:20:39.917538+00:00",
+  "last_updated": "2026-01-22T10:17:25.233015+00:00",
   "version": "1.0.0"
 }
