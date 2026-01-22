@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "727ab8876383",
+      "title": "Sen. Markey questions OpenAI about \u2018deceptive advertising\u2019 in ChatGPT",
+      "slug": "sen-markey-questions-openai-about-deceptive-advertising-in-chatgpt",
+      "original_link": "https://www.theverge.com/news/865854/senator-ed-markey-ai-companies-chatbots-advertising",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-22T21:44:18.589126+00:00",
+      "word_count": 69
+    },
+    {
+      "id": "71767c97cae0",
+      "title": "Asking Grok to delete fake nudes may force victims to sue in Musk's chosen court",
+      "slug": "asking-grok-to-delete-fake-nudes-may-force-victims-to-sue-in-musk-s-chosen-court",
+      "original_link": "https://arstechnica.com/tech-policy/2026/01/asking-grok-to-delete-fake-nudes-may-force-victims-to-sue-in-musks-chosen-court/",
+      "original_source": "Ars Technica",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-22T21:44:18.040857+00:00",
+      "word_count": 30
+    },
+    {
+      "id": "f83fa8b669a2",
+      "title": "Are AI agents ready for the workplace? A new benchmark raises doubts.",
+      "slug": "are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts",
+      "original_link": "https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-22T21:44:17.120554+00:00",
+      "word_count": 40
+    },
+    {
       "id": "eec77c55b536",
       "title": "Elon Musk Sure Made Lots of Predictions at Davos",
       "slug": "elon-musk-sure-made-lots-of-predictions-at-davos",
@@ -4969,38 +4999,8 @@
       "topic": "AI",
       "generated_at": "2025-12-31T11:12:46.377670+00:00",
       "word_count": 34
-    },
-    {
-      "id": "6b378faefbbe",
-      "title": "Fears Mount That US Federal Cybersecurity Is Stagnating\u2014or Worse",
-      "slug": "fears-mount-that-us-federal-cybersecurity-is-stagnating-or-worse",
-      "original_link": "https://www.wired.com/story/expired-tired-wired-federal-cybersecurity/",
-      "original_source": "Wired",
-      "topic": "Tech Policy",
-      "generated_at": "2025-12-31T11:12:34.005932+00:00",
-      "word_count": 31
-    },
-    {
-      "id": "ea16ae6eb62f",
-      "title": "A wave paralysed me but AI could help me walk again",
-      "slug": "a-wave-paralysed-me-but-ai-could-help-me-walk-again",
-      "original_link": "https://www.bbc.com/news/articles/cqjgx1xkjg7o?at_medium=RSS&at_campaign=rss",
-      "original_source": "BBC Technology",
-      "topic": "AI",
-      "generated_at": "2025-12-31T10:13:34.516471+00:00",
-      "word_count": 32
-    },
-    {
-      "id": "d1e5db37465d",
-      "title": "Two cybersecurity employees plead guilty to carrying out ransomware attacks",
-      "slug": "two-cybersecurity-employees-plead-guilty-to-carrying-out-ransomware-attacks",
-      "original_link": "https://www.theverge.com/news/851467/cybersecurity-employees-plead-guilty-alphv-blackcat-ransomware",
-      "original_source": "The Verge",
-      "topic": "Tech Policy",
-      "generated_at": "2025-12-30T18:51:49.877011+00:00",
-      "word_count": 70
     }
   ],
-  "last_updated": "2026-01-22T21:15:29.605119+00:00",
+  "last_updated": "2026-01-22T21:44:18.985884+00:00",
   "version": "1.0.0"
 }
