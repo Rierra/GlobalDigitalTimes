@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "9aafc5c84426",
+      "title": "Tesla is finally doing unsupervised robotaxi rides",
+      "slug": "tesla-is-finally-doing-unsupervised-robotaxi-rides",
+      "original_link": "https://www.theverge.com/transportation/866165/tesla-robotaxi-unsupervised-austin-texas-safety-monitor",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-22T22:14:25.294362+00:00",
+      "word_count": 67
+    },
+    {
       "id": "727ab8876383",
       "title": "Sen. Markey questions OpenAI about \u2018deceptive advertising\u2019 in ChatGPT",
       "slug": "sen-markey-questions-openai-about-deceptive-advertising-in-chatgpt",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2025-12-31T13:07:16.457230+00:00",
       "word_count": 32
-    },
-    {
-      "id": "0b93791f42c9",
-      "title": "AI-Powered Dating Is All Hype. IRL Cruising Is the Future",
-      "slug": "ai-powered-dating-is-all-hype-irl-cruising-is-the-future",
-      "original_link": "https://www.wired.com/story/expired-tired-wired-ai-powered-dating/",
-      "original_source": "Wired",
-      "topic": "AI",
-      "generated_at": "2025-12-31T11:12:46.377670+00:00",
-      "word_count": 34
     }
   ],
-  "last_updated": "2026-01-22T21:44:18.985884+00:00",
+  "last_updated": "2026-01-22T22:14:26.321511+00:00",
   "version": "1.0.0"
 }
