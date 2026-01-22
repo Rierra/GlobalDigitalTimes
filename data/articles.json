@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "7fe561ff19ee",
+      "title": "AI-Powered Disinformation Swarms Are Coming for Democracy",
+      "slug": "ai-powered-disinformation-swarms-are-coming-for-democracy",
+      "original_link": "https://www.wired.com/story/ai-powered-disinformation-swarms-are-coming-for-democracy/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-22T19:20:00.146037+00:00",
+      "word_count": 36
+    },
+    {
+      "id": "72324d49905e",
+      "title": "How Claude Code Is Reshaping Software\u2014and Anthropic",
+      "slug": "how-claude-code-is-reshaping-software-and-anthropic",
+      "original_link": "https://www.wired.com/story/claude-code-success-anthropic-business-model/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-22T19:19:59.147922+00:00",
+      "word_count": 31
+    },
+    {
       "id": "3ceb8a34a362",
       "title": "Meta seeks to limit evidence in child safety case",
       "slug": "meta-seeks-to-limit-evidence-in-child-safety-case",
@@ -4979,28 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2025-12-30T14:13:45.611707+00:00",
       "word_count": 48
-    },
-    {
-      "id": "525b76ece518",
-      "title": "Free speech\u2019s great leap backwards",
-      "slug": "free-speechs-great-leap-backwards",
-      "original_link": "https://www.theverge.com/policy/849841/trump-immigration-social-media-free-speech",
-      "original_source": "The Verge",
-      "topic": "Tech Policy",
-      "generated_at": "2025-12-30T13:10:06.893910+00:00",
-      "word_count": 65
-    },
-    {
-      "id": "e4a7bbc2992e",
-      "title": "The ascent of the AI therapist",
-      "slug": "the-ascent-of-the-ai-therapist",
-      "original_link": "https://www.technologyreview.com/2025/12/30/1129392/book-reviews-ai-therapy-mental-health/",
-      "original_source": "MIT Technology Review",
-      "topic": "AI",
-      "generated_at": "2025-12-30T11:11:27.685940+00:00",
-      "word_count": 66
     }
   ],
-  "last_updated": "2026-01-22T18:56:40.393752+00:00",
+  "last_updated": "2026-01-22T19:20:00.591056+00:00",
   "version": "1.0.0"
 }
