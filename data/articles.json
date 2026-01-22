@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "07c8cbc25681",
+      "title": "Ring claims it&#8217;s not giving ICE access to its cameras",
+      "slug": "ring-claims-it-s-not-giving-ice-access-to-its-cameras",
+      "original_link": "https://www.theverge.com/news/866003/ring-ice-camera-access-flock",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-22T20:47:27.025762+00:00",
+      "word_count": 70
+    },
+    {
       "id": "71dabbbaf9a0",
       "title": "Ring is adding a new content verification feature to videos",
       "slug": "ring-is-adding-a-new-content-verification-feature-to-videos",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2025-12-30T17:42:35.815448+00:00",
       "word_count": 28
-    },
-    {
-      "id": "5fc8526ca385",
-      "title": "The FCC has probably killed a plan to improve smart home security",
-      "slug": "the-fcc-has-probably-killed-a-plan-to-improve-smart-home-security",
-      "original_link": "https://www.theverge.com/news/851271/cyber-trust-mark-program-lead-administrator-withdraws",
-      "original_source": "The Verge",
-      "topic": "Tech Policy",
-      "generated_at": "2025-12-30T16:14:53.908503+00:00",
-      "word_count": 72
     }
   ],
-  "last_updated": "2026-01-22T20:16:11.441894+00:00",
+  "last_updated": "2026-01-22T20:47:28.344171+00:00",
   "version": "1.0.0"
 }
