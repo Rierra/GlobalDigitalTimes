@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "850416638e1e",
+      "title": "Report: Apple plans to launch AI-powered wearable pin device as soon as 2027",
+      "slug": "report-apple-plans-to-launch-ai-powered-wearable-pin-device-as-soon-as-2027",
+      "original_link": "https://arstechnica.com/apple/2026/01/report-apple-plans-to-launch-ai-powered-wearable-pin-device-as-soon-as-2027/",
+      "original_source": "Ars Technica",
+      "topic": "AI",
+      "generated_at": "2026-01-22T23:14:36.432740+00:00",
+      "word_count": 29
+    },
+    {
       "id": "52356e39fd6a",
       "title": "Inference startup Inferact lands $150M to commercialize vLLM",
       "slug": "inference-startup-inferact-lands-150m-to-commercialize-vllm",
@@ -4989,18 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2025-12-31T15:12:15.697948+00:00",
       "word_count": 67
-    },
-    {
-      "id": "8d04d820ae08",
-      "title": "Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025",
-      "slug": "supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025",
-      "original_link": "https://arstechnica.com/security/2025/12/supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025/",
-      "original_source": "Ars Technica",
-      "topic": "AI",
-      "generated_at": "2025-12-31T14:42:20.581688+00:00",
-      "word_count": 35
     }
   ],
-  "last_updated": "2026-01-22T22:45:13.530623+00:00",
+  "last_updated": "2026-01-22T23:14:37.138370+00:00",
   "version": "1.0.0"
 }
