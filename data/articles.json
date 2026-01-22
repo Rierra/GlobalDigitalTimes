@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "6b0cd461c0cf",
+      "title": "Judge orders stop to FBI search of devices seized from Washington Post reporter",
+      "slug": "judge-orders-stop-to-fbi-search-of-devices-seized-from-washington-post-reporter",
+      "original_link": "https://arstechnica.com/tech-policy/2026/01/judge-orders-stop-to-fbi-search-of-devices-seized-from-washington-post-reporter/",
+      "original_source": "Ars Technica",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-22T00:58:14.390459+00:00",
+      "word_count": 29
+    },
+    {
+      "id": "97d02a5bc44d",
+      "title": "Not to be outdone by OpenAI, Apple is reportedly developing an AI wearable",
+      "slug": "not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable",
+      "original_link": "https://techcrunch.com/2026/01/21/not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-22T00:58:13.565155+00:00",
+      "word_count": 35
+    },
+    {
       "id": "15e827a1fca0",
       "title": "Sources: project SGLang spins out as RadixArk with $400M valuation as inference market explodes",
       "slug": "sources-project-sglang-spins-out-as-radixark-with-400m-valuation-as-inference-market-explodes",
@@ -4979,28 +4999,8 @@
       "topic": "Other",
       "generated_at": "2025-12-26T16:44:47.539344+00:00",
       "word_count": 37
-    },
-    {
-      "id": "039505e67b41",
-      "title": "LG teases a new chore-completing home robot",
-      "slug": "lg-teases-a-new-chore-completing-home-robot",
-      "original_link": "https://www.theverge.com/news/850242/lg-cloid-home-robot-chores-ces-2026",
-      "original_source": "The Verge",
-      "topic": "Robotics",
-      "generated_at": "2025-12-26T15:12:10.067112+00:00",
-      "word_count": 67
-    },
-    {
-      "id": "44d95c591293",
-      "title": "These are the cybersecurity stories we were jealous of in 2025",
-      "slug": "these-are-the-cybersecurity-stories-we-were-jealous-of-in-2025",
-      "original_link": "https://techcrunch.com/2025/12/26/these-are-the-cybersecurity-stories-we-were-jealous-of-in-2025/",
-      "original_source": "TechCrunch",
-      "topic": "Tech Policy",
-      "generated_at": "2025-12-26T14:12:09.124981+00:00",
-      "word_count": 27
     }
   ],
-  "last_updated": "2026-01-21T23:44:28.313285+00:00",
+  "last_updated": "2026-01-22T00:58:14.705057+00:00",
   "version": "1.0.0"
 }
