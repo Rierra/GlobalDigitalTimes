@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "cfb472387331",
+      "title": "A Wikipedia Group Made a Guide to Detect AI Writing. Now a Plug-In Uses It to \u2018Humanize\u2019 Chatbots",
+      "slug": "a-wikipedia-group-made-a-guide-to-detect-ai-writing-now-a-plug-in-uses-it-to-humanize-chatbots",
+      "original_link": "https://www.wired.com/story/wikipedia-group-made-guide-to-detect-ai-writing-now-a-plug-in-uses-it-to-humanize-chatbots/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-22T12:26:48.099493+00:00",
+      "word_count": 40
+    },
+    {
+      "id": "3d2abb098d5e",
+      "title": "Google Acquires Top Talent From AI Voice Startup Hume AI in Licensing Deal",
+      "slug": "google-acquires-top-talent-from-ai-voice-startup-hume-ai-in-licensing-deal",
+      "original_link": "https://www.wired.com/story/google-hires-hume-ai-ceo-licensing-deal-gemini/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-22T12:26:47.340438+00:00",
+      "word_count": 37
+    },
+    {
       "id": "fea23471fab4",
       "title": "Former Google trio is building an interactive AI-powered learning app for kids",
       "slug": "former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids",
@@ -4979,28 +4999,8 @@
       "topic": "Robotics",
       "generated_at": "2025-12-28T13:04:50.051817+00:00",
       "word_count": 34
-    },
-    {
-      "id": "3d939e29841a",
-      "title": "Billion-Dollar Data Centers Are Taking Over the World",
-      "slug": "billion-dollar-data-centers-are-taking-over-the-world",
-      "original_link": "https://www.wired.com/story/expired-tired-wired-data-centers/",
-      "original_source": "Wired",
-      "topic": "AI",
-      "generated_at": "2025-12-28T11:09:40.268672+00:00",
-      "word_count": 28
-    },
-    {
-      "id": "d237074d5be7",
-      "title": "Sam Altman is hiring someone to worry about the dangers of AI",
-      "slug": "sam-altman-is-hiring-someone-to-worry-about-the-dangers-of-ai",
-      "original_link": "https://www.theverge.com/news/850537/sam-altman-openai-head-of-preparedness",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2025-12-27T19:08:57.957380+00:00",
-      "word_count": 72
     }
   ],
-  "last_updated": "2026-01-22T11:16:00.939716+00:00",
+  "last_updated": "2026-01-22T12:26:48.492328+00:00",
   "version": "1.0.0"
 }
