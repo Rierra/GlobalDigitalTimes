@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "3d6e88dba586",
+      "title": "Millions of people imperiled through sign-in links sent by SMS",
+      "slug": "millions-of-people-imperiled-through-sign-in-links-sent-by-sms",
+      "original_link": "https://arstechnica.com/security/2026/01/millions-of-people-imperiled-through-sign-in-links-sent-by-sms/",
+      "original_source": "Ars Technica",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-22T04:30:56.969559+00:00",
+      "word_count": 25
+    },
+    {
       "id": "5c6284503925",
       "title": "Apple is turning Siri into an AI bot that&#8217;s more like ChatGPT",
       "slug": "apple-is-turning-siri-into-an-ai-bot-that-s-more-like-chatgpt",
@@ -4989,18 +4999,8 @@
       "topic": "Robotics",
       "generated_at": "2025-12-27T10:11:48.679797+00:00",
       "word_count": 23
-    },
-    {
-      "id": "fc27c1e2c639",
-      "title": "Rodeo is an app for making plans with friends you already have",
-      "slug": "rodeo-is-an-app-for-making-plans-with-friends-you-already-have",
-      "original_link": "https://www.theverge.com/news/850398/rodeo-hinge-social-app-friends",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2025-12-26T19:09:19.630409+00:00",
-      "word_count": 72
     }
   ],
-  "last_updated": "2026-01-22T03:03:33.833917+00:00",
+  "last_updated": "2026-01-22T04:30:57.440997+00:00",
   "version": "1.0.0"
 }
