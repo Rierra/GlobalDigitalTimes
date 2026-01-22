@@ -7,6 +7,12 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.globaldigitaltimes.com/articles/dr-google-had-its-issues-can-chatgpt-health-do-better.html</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.globaldigitaltimes.com/articles/google-adds-your-gmail-and-photos-to-ai-mode-to-enable-personal-intelligence.html</loc>
     <lastmod>2026-01-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -2997,12 +3003,6 @@
   <url>
     <loc>https://www.globaldigitaltimes.com/articles/how-to-tweak-your-online-platform-algorithms.html</loc>
     <lastmod>2025-12-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.globaldigitaltimes.com/articles/researchers-make-neuromorphic-artificial-skin-for-robots.html</loc>
-    <lastmod>2025-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
