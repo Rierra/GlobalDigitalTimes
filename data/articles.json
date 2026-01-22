@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "697813530cbf",
+      "title": "Quadric rides the shift from cloud AI to on-device inference \u2014 and it\u2019s paying off",
+      "slug": "quadric-rides-the-shift-from-cloud-ai-to-on-device-inference-and-its-paying-off",
+      "original_link": "https://techcrunch.com/2026/01/22/quadric-rides-the-shift-from-cloud-ai-to-on-device-inference-and-its-paying-off/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-22T13:26:13.206856+00:00",
+      "word_count": 36
+    },
+    {
       "id": "cfb472387331",
       "title": "A Wikipedia Group Made a Guide to Detect AI Writing. Now a Plug-In Uses It to \u2018Humanize\u2019 Chatbots",
       "slug": "a-wikipedia-group-made-a-guide-to-detect-ai-writing-now-a-plug-in-uses-it-to-humanize-chatbots",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2025-12-28T15:10:44.541724+00:00",
       "word_count": 35
-    },
-    {
-      "id": "cf89133ca956",
-      "title": "10 Best Drones (2025): Flight-Tested and Reviewed",
-      "slug": "10-best-drones-2025-flight-tested-and-reviewed",
-      "original_link": "https://www.wired.com/gallery/best-drones/",
-      "original_source": "Wired",
-      "topic": "Robotics",
-      "generated_at": "2025-12-28T13:04:50.051817+00:00",
-      "word_count": 34
     }
   ],
-  "last_updated": "2026-01-22T12:26:48.492328+00:00",
+  "last_updated": "2026-01-22T13:26:13.843606+00:00",
   "version": "1.0.0"
 }
