@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "52356e39fd6a",
+      "title": "Inference startup Inferact lands $150M to commercialize vLLM",
+      "slug": "inference-startup-inferact-lands-150m-to-commercialize-vllm",
+      "original_link": "https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-22T22:45:13.269044+00:00",
+      "word_count": 22
+    },
+    {
+      "id": "44310b60e0d0",
+      "title": "Voice AI engine and OpenAI partner LiveKit hits $1B valuation",
+      "slug": "voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation",
+      "original_link": "https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-22T22:45:12.631915+00:00",
+      "word_count": 25
+    },
+    {
       "id": "9aafc5c84426",
       "title": "Tesla is finally doing unsupervised robotaxi rides",
       "slug": "tesla-is-finally-doing-unsupervised-robotaxi-rides",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2025-12-31T14:42:20.581688+00:00",
       "word_count": 35
-    },
-    {
-      "id": "063685665534",
-      "title": "The Dreame X40 Ultra robovac is about $700 off, nearly matching its best price",
-      "slug": "the-dreame-x40-ultra-robovac-is-about-700-off-nearly-matching-its-best-price",
-      "original_link": "https://www.theverge.com/gadgets/851325/dreame-x40-ultra-baseus-163w-retractable-car-charger-deal-sale",
-      "original_source": "The Verge",
-      "topic": "Robotics",
-      "generated_at": "2025-12-31T14:42:03.217673+00:00",
-      "word_count": 74
-    },
-    {
-      "id": "26eebf6f8efc",
-      "title": "From prophet to product: How AI came back down to earth in 2025",
-      "slug": "from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025",
-      "original_link": "https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/",
-      "original_source": "Ars Technica",
-      "topic": "AI",
-      "generated_at": "2025-12-31T13:07:16.457230+00:00",
-      "word_count": 32
     }
   ],
-  "last_updated": "2026-01-22T22:14:26.321511+00:00",
+  "last_updated": "2026-01-22T22:45:13.530623+00:00",
   "version": "1.0.0"
 }
