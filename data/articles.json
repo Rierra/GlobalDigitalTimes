@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "25e9306527d7",
+      "title": "Google\u2019s AI Mode can now tap into your Gmail and Photos to provide tailored responses",
+      "slug": "googles-ai-mode-can-now-tap-into-your-gmail-and-photos-to-provide-tailored-responses",
+      "original_link": "https://techcrunch.com/2026/01/22/googles-ai-mode-can-now-tap-into-your-gmail-and-photos-to-provide-tailored-responses/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-22T16:58:14.601795+00:00",
+      "word_count": 45
+    },
+    {
       "id": "71e52c77cd4d",
       "title": "Google Search AI Mode can use Gmail and Photos to get to know you",
       "slug": "google-search-ai-mode-can-use-gmail-and-photos-to-get-to-know-you",
@@ -4989,18 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2025-12-29T18:17:54.194047+00:00",
       "word_count": 28
-    },
-    {
-      "id": "dce051a76bb3",
-      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
-      "slug": "how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others",
-      "original_link": "https://techcrunch.com/2025/12/29/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2025-12-29T17:40:55.713724+00:00",
-      "word_count": 31
     }
   ],
-  "last_updated": "2026-01-22T16:22:06.435109+00:00",
+  "last_updated": "2026-01-22T16:58:15.126420+00:00",
   "version": "1.0.0"
 }
