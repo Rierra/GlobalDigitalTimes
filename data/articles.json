@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "5e39556bbbf5",
+      "title": "From invisibility cloaks to AI chips: Neurophos raises $110M to build tiny optical processors for inferencing",
+      "slug": "from-invisibility-cloaks-to-ai-chips-neurophos-raises-110m-to-build-tiny-optical-processors-for-inferencing",
+      "original_link": "https://techcrunch.com/2026/01/22/from-invisibility-cloaks-to-ai-chips-neurophos-raises-110m-to-build-tiny-optical-processors-for-inferencing/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-22T15:20:53.158574+00:00",
+      "word_count": 50
+    },
+    {
+      "id": "a14ef4c5ab1d",
+      "title": "This plugin uses Wikipedia&#8217;s AI-spotting guide to make AI writing sound more human",
+      "slug": "this-plugin-uses-wikipedia-s-ai-spotting-guide-to-make-ai-writing-sound-more-human",
+      "original_link": "https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-22T15:20:52.539857+00:00",
+      "word_count": 73
+    },
+    {
+      "id": "753e2996e6d9",
+      "title": "Anthropic has to keep revising its technical interview test so you can\u2019t cheat on it with Claude",
+      "slug": "anthropic-has-to-keep-revising-its-technical-interview-test-so-you-cant-cheat-on-it-with-claude",
+      "original_link": "https://techcrunch.com/2026/01/22/anthropic-has-to-keep-revising-its-technical-interview-test-so-you-cant-cheat-on-it-with-claude/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-22T15:20:51.588889+00:00",
+      "word_count": 63
+    },
+    {
       "id": "ffe6f4902398",
       "title": "Adobe is developing \u2018IP-safe\u2019 gen AI models for the entertainment industry",
       "slug": "adobe-is-developing-ip-safe-gen-ai-models-for-the-entertainment-industry",
@@ -4969,38 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2025-12-29T11:38:26.422073+00:00",
       "word_count": 33
-    },
-    {
-      "id": "27f065fcb52e",
-      "title": "3 New Tricks to Try With Google Gemini Live After Its Latest Major Upgrade",
-      "slug": "3-new-tricks-to-try-with-google-gemini-live-after-its-latest-major-upgrade",
-      "original_link": "https://www.wired.com/story/3-tricks-google-gemini-live-latest-major-upgrade/",
-      "original_source": "Wired",
-      "topic": "AI",
-      "generated_at": "2025-12-29T11:11:29.112777+00:00",
-      "word_count": 26
-    },
-    {
-      "id": "9797aec15053",
-      "title": "Many new UK drone users must take theory test before flying outside",
-      "slug": "many-new-uk-drone-users-must-take-theory-test-before-flying-outside",
-      "original_link": "https://www.bbc.com/news/articles/cjrjpzdzeddo?at_medium=RSS&at_campaign=rss",
-      "original_source": "BBC Technology",
-      "topic": "Tech Policy",
-      "generated_at": "2025-12-29T10:46:48.781125+00:00",
-      "word_count": 37
-    },
-    {
-      "id": "87fd3ccf24df",
-      "title": "You\u2019ve been targeted by government spyware. Now what?",
-      "slug": "youve-been-targeted-by-government-spyware-now-what",
-      "original_link": "https://techcrunch.com/2025/12/29/youve-been-targeted-by-government-spyware-now-what/",
-      "original_source": "TechCrunch",
-      "topic": "Tech Policy",
-      "generated_at": "2025-12-29T10:14:46.697833+00:00",
-      "word_count": 43
     }
   ],
-  "last_updated": "2026-01-22T14:33:03.283327+00:00",
+  "last_updated": "2026-01-22T15:20:53.581736+00:00",
   "version": "1.0.0"
 }
