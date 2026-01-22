@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "50420a03de13",
+      "title": "Hundreds of creatives warn against an AI slop future",
+      "slug": "hundreds-of-creatives-warn-against-an-ai-slop-future",
+      "original_link": "https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-22T05:20:39.511556+00:00",
+      "word_count": 69
+    },
+    {
       "id": "3d6e88dba586",
       "title": "Millions of people imperiled through sign-in links sent by SMS",
       "slug": "millions-of-people-imperiled-through-sign-in-links-sent-by-sms",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2025-12-27T11:09:14.774664+00:00",
       "word_count": 33
-    },
-    {
-      "id": "11127a505243",
-      "title": "The US Must Stop Underestimating Drone Warfare",
-      "slug": "the-us-must-stop-underestimating-drone-warfare",
-      "original_link": "https://www.wired.com/story/the-us-must-stop-underestimating-drone-warfare/",
-      "original_source": "Wired",
-      "topic": "Robotics",
-      "generated_at": "2025-12-27T10:11:48.679797+00:00",
-      "word_count": 23
     }
   ],
-  "last_updated": "2026-01-22T04:30:57.440997+00:00",
+  "last_updated": "2026-01-22T05:20:39.917538+00:00",
   "version": "1.0.0"
 }
