@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "3ceb8a34a362",
+      "title": "Meta seeks to limit evidence in child safety case",
+      "slug": "meta-seeks-to-limit-evidence-in-child-safety-case",
+      "original_link": "https://techcrunch.com/2026/01/22/meta-seeks-to-limit-evidence-in-child-safety-case/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-22T18:56:40.113225+00:00",
+      "word_count": 45
+    },
+    {
+      "id": "30f95bd26e7b",
+      "title": "Is this the end of Epic and Google\u2019s feud?",
+      "slug": "is-this-the-end-of-epic-and-googles-feud",
+      "original_link": "https://www.theverge.com/tech/865178/epic-v-google-settlement-before-judge",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-22T18:56:39.442953+00:00",
+      "word_count": 69
+    },
+    {
+      "id": "a110fdbc0c37",
+      "title": "Tesla launches robotaxi rides in Austin with no human safety driver",
+      "slug": "tesla-launches-robotaxi-rides-in-austin-with-no-human-safety-driver",
+      "original_link": "https://techcrunch.com/2026/01/22/tesla-launches-robotaxi-rides-in-austin-with-no-human-safety-driver/",
+      "original_source": "TechCrunch",
+      "topic": "Robotics",
+      "generated_at": "2026-01-22T18:56:38.701289+00:00",
+      "word_count": 40
+    },
+    {
       "id": "ef11a4734383",
       "title": "\u201cDr. Google\u201d had its issues. Can ChatGPT Health do better?",
       "slug": "dr-google-had-its-issues-can-chatgpt-health-do-better",
@@ -4969,38 +4999,8 @@
       "topic": "AI",
       "generated_at": "2025-12-30T11:11:27.685940+00:00",
       "word_count": 66
-    },
-    {
-      "id": "ffc2aa2f5baa",
-      "title": "Meta just bought Manus, an AI startup everyone has been talking about",
-      "slug": "meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about",
-      "original_link": "https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2025-12-30T05:44:15.383349+00:00",
-      "word_count": 42
-    },
-    {
-      "id": "566d545b5a8d",
-      "title": "China plans AI rules to protect children and tackle suicide risks",
-      "slug": "china-plans-ai-rules-to-protect-children-and-tackle-suicide-risks",
-      "original_link": "https://www.bbc.com/news/articles/c8dydlmenvro?at_medium=RSS&at_campaign=rss",
-      "original_source": "BBC Technology",
-      "topic": "AI",
-      "generated_at": "2025-12-30T02:52:07.481362+00:00",
-      "word_count": 33
-    },
-    {
-      "id": "4d0f0d435b04",
-      "title": "How to tweak your online platform algorithms",
-      "slug": "how-to-tweak-your-online-platform-algorithms",
-      "original_link": "https://www.theverge.com/tech/849742/how-to-tune-algorithms-recommendations-online-platforms",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2025-12-30T00:56:34.186944+00:00",
-      "word_count": 67
     }
   ],
-  "last_updated": "2026-01-22T18:19:53.681384+00:00",
+  "last_updated": "2026-01-22T18:56:40.393752+00:00",
   "version": "1.0.0"
 }
