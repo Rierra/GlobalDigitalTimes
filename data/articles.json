@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "ebd151673db9",
+      "title": "Google DeepMind CEO is \u2018surprised\u2019 OpenAI is rushing forward with ads in ChatGPT",
+      "slug": "google-deepmind-ceo-is-surprised-openai-is-rushing-forward-with-ads-in-chatgpt",
+      "original_link": "https://techcrunch.com/2026/01/22/google-deepmind-ceo-is-surprised-openai-is-rushing-forward-with-ads-in-chatgpt/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-22T19:42:46.788230+00:00",
+      "word_count": 36
+    },
+    {
+      "id": "ac5bb0312af6",
+      "title": "Humans& thinks coordination is the next frontier for AI, and they\u2019re building a model to prove it",
+      "slug": "humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it",
+      "original_link": "https://techcrunch.com/2026/01/22/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-22T19:42:45.808316+00:00",
+      "word_count": 47
+    },
+    {
       "id": "7fe561ff19ee",
       "title": "AI-Powered Disinformation Swarms Are Coming for Democracy",
       "slug": "ai-powered-disinformation-swarms-are-coming-for-democracy",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2025-12-30T16:14:41.624416+00:00",
       "word_count": 27
-    },
-    {
-      "id": "fe36edfaf2a4",
-      "title": "VCs predict enterprises will spend more on AI in 2026 \u2014 through fewer vendors",
-      "slug": "vcs-predict-enterprises-will-spend-more-on-ai-in-2026-through-fewer-vendors",
-      "original_link": "https://techcrunch.com/2025/12/30/vcs-predict-enterprises-will-spend-more-on-ai-in-2026-through-fewer-vendors/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2025-12-30T15:42:46.443661+00:00",
-      "word_count": 38
-    },
-    {
-      "id": "320f19e131e4",
-      "title": "Here\u2019s what you should know about the US TikTok deal",
-      "slug": "heres-what-you-should-know-about-the-us-tiktok-deal",
-      "original_link": "https://techcrunch.com/2025/12/30/heres-whats-you-should-know-about-the-us-tiktok-deal/",
-      "original_source": "TechCrunch",
-      "topic": "Tech Policy",
-      "generated_at": "2025-12-30T14:13:45.611707+00:00",
-      "word_count": 48
     }
   ],
-  "last_updated": "2026-01-22T19:20:00.591056+00:00",
+  "last_updated": "2026-01-22T19:42:47.068175+00:00",
   "version": "1.0.0"
 }
