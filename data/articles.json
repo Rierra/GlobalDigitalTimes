@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "eec77c55b536",
+      "title": "Elon Musk Sure Made Lots of Predictions at Davos",
+      "slug": "elon-musk-sure-made-lots-of-predictions-at-davos",
+      "original_link": "https://www.wired.com/story/elon-musk-sure-made-lots-of-predictions-at-davos/",
+      "original_source": "Wired",
+      "topic": "Robotics",
+      "generated_at": "2026-01-22T21:15:28.966377+00:00",
+      "word_count": 47
+    },
+    {
       "id": "07c8cbc25681",
       "title": "Ring claims it&#8217;s not giving ICE access to its cameras",
       "slug": "ring-claims-it-s-not-giving-ice-access-to-its-cameras",
@@ -4989,18 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2025-12-30T18:51:49.877011+00:00",
       "word_count": 70
-    },
-    {
-      "id": "af5ebbe26488",
-      "title": "Meta buys Chinese-founded AI start-up Manus",
-      "slug": "meta-buys-chinese-founded-ai-start-up-manus",
-      "original_link": "https://www.bbc.com/news/articles/ce3k11q9qe1o?at_medium=RSS&at_campaign=rss",
-      "original_source": "BBC Technology",
-      "topic": "AI",
-      "generated_at": "2025-12-30T17:42:35.815448+00:00",
-      "word_count": 28
     }
   ],
-  "last_updated": "2026-01-22T20:47:28.344171+00:00",
+  "last_updated": "2026-01-22T21:15:29.605119+00:00",
   "version": "1.0.0"
 }
