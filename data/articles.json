@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "ffe6f4902398",
+      "title": "Adobe is developing \u2018IP-safe\u2019 gen AI models for the entertainment industry",
+      "slug": "adobe-is-developing-ip-safe-gen-ai-models-for-the-entertainment-industry",
+      "original_link": "https://www.theverge.com/ai-artificial-intelligence/865077/adobe-firefly-foundry-ip-sage-genai-models",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-22T14:33:02.963664+00:00",
+      "word_count": 71
+    },
+    {
+      "id": "5eba84d99e8f",
+      "title": "Spotify brings AI-powered Prompted Playlists to the U.S. and Canada",
+      "slug": "spotify-brings-ai-powered-prompted-playlists-to-the-u-s-and-canada",
+      "original_link": "https://techcrunch.com/2026/01/22/spotify-brings-ai-powered-prompted-playlists-to-the-u-s-and-canada/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-22T14:33:02.032576+00:00",
+      "word_count": 36
+    },
+    {
       "id": "63815fe438b7",
       "title": "The Download: Yann LeCun\u2019s new venture, and lithium\u2019s on the rise",
       "slug": "the-download-yann-lecuns-new-venture-and-lithiums-on-the-rise",
@@ -4979,28 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2025-12-29T10:14:46.697833+00:00",
       "word_count": 43
-    },
-    {
-      "id": "cb23a085f2b6",
-      "title": "LG announces new UltraGear evo gaming monitors with AI upscaling",
-      "slug": "lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling",
-      "original_link": "https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2025-12-28T22:11:36.950722+00:00",
-      "word_count": 70
-    },
-    {
-      "id": "564264856787",
-      "title": "Ubisoft shuts down \u2018Rainbow Six Siege\u2019 servers following hack",
-      "slug": "ubisoft-shuts-down-rainbow-six-siege-servers-following-hack",
-      "original_link": "https://www.theverge.com/news/850551/ubisoft-shuts-down-rainbow-six-siege-servers-following-hack",
-      "original_source": "The Verge",
-      "topic": "Tech Policy",
-      "generated_at": "2025-12-28T16:46:24.905161+00:00",
-      "word_count": 69
     }
   ],
-  "last_updated": "2026-01-22T14:00:26.016785+00:00",
+  "last_updated": "2026-01-22T14:33:03.283327+00:00",
   "version": "1.0.0"
 }
