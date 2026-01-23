@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "72e76eb50608",
+      "title": "The Download: chatbots for health, and US fights over AI regulation",
+      "slug": "the-download-chatbots-for-health-and-us-fights-over-ai-regulation",
+      "original_link": "https://www.technologyreview.com/2026/01/23/1131708/the-download-chatbots-for-health-and-us-fights-over-ai-regulation/",
+      "original_source": "MIT Technology Review",
+      "topic": "AI",
+      "generated_at": "2026-01-23T13:56:39.330161+00:00",
+      "word_count": 71
+    },
+    {
       "id": "23a283363273",
       "title": "Roborock Qrevo Curv 2 Flow Review: The Most Beautiful, Best Robot Vacuum",
       "slug": "roborock-qrevo-curv-2-flow-review-the-most-beautiful-best-robot-vacuum",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-02T16:14:10.174184+00:00",
       "word_count": 36
-    },
-    {
-      "id": "a07fcb1cc154",
-      "title": "Nvidia\u2019s AI empire: A look at its top startup investments",
-      "slug": "nvidias-ai-empire-a-look-at-its-top-startup-investments",
-      "original_link": "https://techcrunch.com/2026/01/02/nvidias-ai-empire-a-look-at-its-top-startup-investments/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-02T16:13:57.902441+00:00",
-      "word_count": 38
     }
   ],
-  "last_updated": "2026-01-23T13:13:50.779179+00:00",
+  "last_updated": "2026-01-23T13:56:39.963426+00:00",
   "version": "1.0.0"
 }
