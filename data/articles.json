@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "fd6ec8b9359d",
+      "title": "America\u2019s coming war over AI regulation",
+      "slug": "americas-coming-war-over-ai-regulation",
+      "original_link": "https://www.technologyreview.com/2026/01/23/1131559/americas-coming-war-over-ai-regulation/",
+      "original_source": "MIT Technology Review",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-23T10:15:56.052358+00:00",
+      "word_count": 66
+    },
+    {
       "id": "5ddcce2c21c5",
       "title": "TikTok closes deal to split US app from global business. Here's what to know",
       "slug": "tiktok-closes-deal-to-split-us-app-from-global-business-here-s-what-to-know",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-01T19:10:16.311412+00:00",
       "word_count": 71
-    },
-    {
-      "id": "1c5452ec78cd",
-      "title": "OpenAI bets big on audio as Silicon Valley declares war on screens",
-      "slug": "openai-bets-big-on-audio-as-silicon-valley-declares-war-on-screens",
-      "original_link": "https://techcrunch.com/2026/01/01/openai-bets-big-on-audio-as-silicon-valley-declares-war-on-screens/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-01T18:49:52.830930+00:00",
-      "word_count": 48
     }
   ],
-  "last_updated": "2026-01-23T05:27:03.478395+00:00",
+  "last_updated": "2026-01-23T10:15:56.445302+00:00",
   "version": "1.0.0"
 }
