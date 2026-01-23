@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "5ddcce2c21c5",
+      "title": "TikTok closes deal to split US app from global business. Here's what to know",
+      "slug": "tiktok-closes-deal-to-split-us-app-from-global-business-here-s-what-to-know",
+      "original_link": "https://www.bbc.com/news/articles/c3edd1l328lo?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-23T05:27:02.750045+00:00",
+      "word_count": 41
+    },
+    {
       "id": "2d66d481e8a8",
       "title": "AI ready: The advantages of being a young entrepreneur",
       "slug": "ai-ready-the-advantages-of-being-a-young-entrepreneur",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-01T18:49:52.830930+00:00",
       "word_count": 48
-    },
-    {
-      "id": "70038d764d77",
-      "title": "Meet the new tech laws of 2026",
-      "slug": "meet-the-new-tech-laws-of-2026",
-      "original_link": "https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair",
-      "original_source": "The Verge",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-01T15:12:04.191774+00:00",
-      "word_count": 67
     }
   ],
-  "last_updated": "2026-01-23T04:58:48.788027+00:00",
+  "last_updated": "2026-01-23T05:27:03.478395+00:00",
   "version": "1.0.0"
 }
