@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "f4a28348a67f",
+      "title": "Microsoft Paint can now make AI coloring books",
+      "slug": "microsoft-paint-can-now-make-ai-coloring-books",
+      "original_link": "https://www.theverge.com/news/866524/microsoft-paint-notepad-ai-coloring-book",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-23T11:14:38.410025+00:00",
+      "word_count": 68
+    },
+    {
+      "id": "15534162a955",
+      "title": "149 Million Usernames and Passwords Exposed by Unsecured Database",
+      "slug": "149-million-usernames-and-passwords-exposed-by-unsecured-database",
+      "original_link": "https://www.wired.com/story/149-million-stolen-usernames-passwords/",
+      "original_source": "Wired",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-23T11:14:37.562441+00:00",
+      "word_count": 39
+    },
+    {
       "id": "fd6ec8b9359d",
       "title": "America\u2019s coming war over AI regulation",
       "slug": "americas-coming-war-over-ai-regulation",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-02T08:17:21.348310+00:00",
       "word_count": 74
-    },
-    {
-      "id": "69e1443b9f07",
-      "title": "European banks plan to cut 200,000 jobs as AI takes hold",
-      "slug": "european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold",
-      "original_link": "https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-01T20:42:23.857324+00:00",
-      "word_count": 26
-    },
-    {
-      "id": "25d813caf29d",
-      "title": "LG\u2019s new karaoke-ready party speaker uses AI to remove song vocals",
-      "slug": "lgs-new-karaoke-ready-party-speaker-uses-ai-to-remove-song-vocals",
-      "original_link": "https://www.theverge.com/news/852362/lg-xboom-stage-501-karaoke-launch-ces-2026",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-01T19:10:16.311412+00:00",
-      "word_count": 71
     }
   ],
-  "last_updated": "2026-01-23T10:15:56.445302+00:00",
+  "last_updated": "2026-01-23T11:14:38.708946+00:00",
   "version": "1.0.0"
 }
