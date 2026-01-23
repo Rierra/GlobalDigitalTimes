@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "17d1e9ca86b1",
+      "title": "Meta is stopping teens from chatting with its AI characters",
+      "slug": "meta-is-stopping-teens-from-chatting-with-its-ai-characters",
+      "original_link": "https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-23T20:45:04.566983+00:00",
+      "word_count": 70
+    },
+    {
+      "id": "2a1c27ee8d59",
+      "title": "Researchers say Russian government hackers were behind attempted Poland power outage",
+      "slug": "researchers-say-russian-government-hackers-were-behind-attempted-poland-power-outage",
+      "original_link": "https://techcrunch.com/2026/01/23/researchers-say-russian-government-hackers-were-behind-attempted-poland-power-outage/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-23T20:45:03.820829+00:00",
+      "word_count": 45
+    },
+    {
       "id": "4bc173ccfe75",
       "title": "How did Davos turn into a tech conference?",
       "slug": "how-did-davos-turn-into-a-tech-conference",
@@ -4979,28 +4999,8 @@
       "topic": "Robotics",
       "generated_at": "2026-01-04T14:39:38.970608+00:00",
       "word_count": 72
-    },
-    {
-      "id": "b6ccebdaf108",
-      "title": "This startup brought WALL-E to life and will also sell you WALL-E&#8217;s weird cousin",
-      "slug": "this-startup-brought-wall-e-to-life-and-will-also-sell-you-wall-e-s-weird-cousin",
-      "original_link": "https://www.theverge.com/tech/852956/zeroth-wall-e-robot-w1-m1-ces-2026",
-      "original_source": "The Verge",
-      "topic": "Robotics",
-      "generated_at": "2026-01-04T14:10:29.839471+00:00",
-      "word_count": 74
-    },
-    {
-      "id": "98e7020a475a",
-      "title": "A New Bridge Links the Strange Math of Infinity to Computer Science",
-      "slug": "a-new-bridge-links-the-strange-math-of-infinity-to-computer-science",
-      "original_link": "https://www.wired.com/story/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science/",
-      "original_source": "Wired",
-      "topic": "Other",
-      "generated_at": "2026-01-04T12:21:06.161554+00:00",
-      "word_count": 39
     }
   ],
-  "last_updated": "2026-01-23T20:14:43.229743+00:00",
+  "last_updated": "2026-01-23T20:45:04.878824+00:00",
   "version": "1.0.0"
 }
