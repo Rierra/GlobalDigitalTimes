@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "06d49a6e6503",
+      "title": "TikTok Is Now Collecting Even More Data About Its Users. Here Are the 3 Biggest Changes",
+      "slug": "tiktok-is-now-collecting-even-more-data-about-its-users-here-are-the-3-biggest-changes",
+      "original_link": "https://www.wired.com/story/tiktok-new-privacy-policy/",
+      "original_source": "Wired",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-23T21:40:32.819299+00:00",
+      "word_count": 49
+    },
+    {
       "id": "41e869318517",
       "title": "DHS keeps trying and failing to unmask anonymous ICE critics online",
       "slug": "dhs-keeps-trying-and-failing-to-unmask-anonymous-ice-critics-online",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-04T17:09:37.899427+00:00",
       "word_count": 31
-    },
-    {
-      "id": "57b7d0aaef42",
-      "title": "Plaud launches a new AI pin and a desktop meeting notetaker",
-      "slug": "plaud-launches-a-new-ai-pin-and-a-desktop-meeting-notetaker",
-      "original_link": "https://techcrunch.com/2026/01/04/plaud-launches-a-new-ai-pin-and-a-desktop-meeting-notetaker/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-04T16:45:42.890850+00:00",
-      "word_count": 31
     }
   ],
-  "last_updated": "2026-01-23T21:12:07.505270+00:00",
+  "last_updated": "2026-01-23T21:40:33.412926+00:00",
   "version": "1.0.0"
 }
