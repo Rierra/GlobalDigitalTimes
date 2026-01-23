@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "09e2e5787ffb",
+      "title": "TikTok deal is done; Trump wants praise while users fear MAGA tweaks",
+      "slug": "tiktok-deal-is-done-trump-wants-praise-while-users-fear-maga-tweaks",
+      "original_link": "https://arstechnica.com/tech-policy/2026/01/tiktok-finalizes-trump-deal-that-allows-bytedance-to-maintain-some-control/",
+      "original_source": "Ars Technica",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-23T18:55:52.040790+00:00",
+      "word_count": 30
+    },
+    {
       "id": "d77f68d164d6",
       "title": "Meta pauses teen access to AI characters ahead of new version",
       "slug": "meta-pauses-teen-access-to-ai-characters-ahead-of-new-version",
@@ -4989,18 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2026-01-03T22:40:48.814156+00:00",
       "word_count": 38
-    },
-    {
-      "id": "1cd41c8c16ee",
-      "title": "Disinformation Floods Social Media After Nicol\u00e1s Maduro's Capture",
-      "slug": "disinformation-floods-social-media-after-nicolas-maduro-s-capture",
-      "original_link": "https://www.wired.com/story/disinformation-floods-social-media-after-nicolas-maduros-capture/",
-      "original_source": "Wired",
-      "topic": "AI",
-      "generated_at": "2026-01-03T18:47:53.554875+00:00",
-      "word_count": 41
     }
   ],
-  "last_updated": "2026-01-23T18:20:10.116524+00:00",
+  "last_updated": "2026-01-23T18:55:52.615767+00:00",
   "version": "1.0.0"
 }
