@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "090f14dff425",
+      "title": "Tesla finally kills Autopilot in a bid to boost FSD subscriptions",
+      "slug": "tesla-finally-kills-autopilot-in-a-bid-to-boost-fsd-subscriptions",
+      "original_link": "https://www.theverge.com/transportation/866586/tesla-kills-autopilot-autosteer-fsd-subscription",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-23T14:49:29.182761+00:00",
+      "word_count": 71
+    },
+    {
+      "id": "aa31f854e74a",
+      "title": "What does a new US TikTok deal mean for users?",
+      "slug": "what-does-a-new-us-tiktok-deal-mean-for-users",
+      "original_link": "https://www.bbc.com/news/articles/cq5yynydvgzo?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-23T14:49:28.389929+00:00",
+      "word_count": 33
+    },
+    {
       "id": "72e76eb50608",
       "title": "The Download: chatbots for health, and US fights over AI regulation",
       "slug": "the-download-chatbots-for-health-and-us-fights-over-ai-regulation",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-02T18:50:33.116174+00:00",
       "word_count": 27
-    },
-    {
-      "id": "cdcc43195be0",
-      "title": "xAI silent after Grok sexualized images of kids; dril mocks Grok\u2019s \u201capology\u201d",
-      "slug": "xai-silent-after-grok-sexualized-images-of-kids-dril-mocks-groks-apology",
-      "original_link": "https://arstechnica.com/tech-policy/2026/01/xai-silent-after-grok-sexualized-images-of-kids-dril-mocks-groks-apology/",
-      "original_source": "Ars Technica",
-      "topic": "AI",
-      "generated_at": "2026-01-02T17:39:54.151862+00:00",
-      "word_count": 25
-    },
-    {
-      "id": "008fe6c4d8ae",
-      "title": "Elon Musk's Grok AI alters images of women to digitally remove their clothes",
-      "slug": "elon-musk-s-grok-ai-alters-images-of-women-to-digitally-remove-their-clothes",
-      "original_link": "https://www.bbc.com/news/articles/c98p1r4e6m8o?at_medium=RSS&at_campaign=rss",
-      "original_source": "BBC Technology",
-      "topic": "AI",
-      "generated_at": "2026-01-02T16:14:10.174184+00:00",
-      "word_count": 36
     }
   ],
-  "last_updated": "2026-01-23T13:56:39.963426+00:00",
+  "last_updated": "2026-01-23T14:49:29.543169+00:00",
   "version": "1.0.0"
 }
