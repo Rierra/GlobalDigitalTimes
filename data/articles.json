@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "5d4e164a25e1",
+      "title": "OpenAI is coming for those sweet enterprise dollars in 2026",
+      "slug": "openai-is-coming-for-those-sweet-enterprise-dollars-in-2026",
+      "original_link": "https://techcrunch.com/2026/01/22/openai-is-coming-for-those-sweet-enterprise-dollars-in-2026/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-23T00:59:20.325059+00:00",
+      "word_count": 33
+    },
+    {
+      "id": "cb0a6ba1ad83",
+      "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
+      "slug": "overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health",
+      "original_link": "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/",
+      "original_source": "Ars Technica",
+      "topic": "AI",
+      "generated_at": "2026-01-23T00:59:19.250810+00:00",
+      "word_count": 29
+    },
+    {
       "id": "2baeeab0a227",
       "title": "Legislators Push to Make Companies Tell Customers When Their Products Will Die",
       "slug": "legislators-push-to-make-companies-tell-customers-when-their-products-will-die",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2025-12-31T23:11:57.906021+00:00",
       "word_count": 76
-    },
-    {
-      "id": "1ce45597ef38",
-      "title": "Investors predict AI is coming for labor in 2026",
-      "slug": "investors-predict-ai-is-coming-for-labor-in-2026",
-      "original_link": "https://techcrunch.com/2025/12/31/investors-predict-ai-is-coming-for-labor-in-2026/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2025-12-31T16:46:24.413729+00:00",
-      "word_count": 35
-    },
-    {
-      "id": "c846ca515e69",
-      "title": "These are the best gadgets for your pet right now",
-      "slug": "these-are-the-best-gadgets-for-your-pet-right-now",
-      "original_link": "https://techcrunch.com/2025/12/31/these-are-the-best-gadgets-for-your-pet-right-now/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2025-12-31T16:14:46.526558+00:00",
-      "word_count": 42
     }
   ],
-  "last_updated": "2026-01-22T23:41:53.861612+00:00",
+  "last_updated": "2026-01-23T00:59:20.863656+00:00",
   "version": "1.0.0"
 }
