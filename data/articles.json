@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "11a57e51031a",
+      "title": "Meta pauses teen access to AI characters as it develops a specially tailored version",
+      "slug": "meta-pauses-teen-access-to-ai-characters-as-it-develops-a-specially-tailored-version",
+      "original_link": "https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-as-it-develops-a-specially-tailored-version/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-23T17:19:37.002809+00:00",
+      "word_count": 30
+    },
+    {
+      "id": "f286e1929694",
+      "title": "Here\u2019s what you should know about the US TikTok deal",
+      "slug": "heres-what-you-should-know-about-the-us-tiktok-deal",
+      "original_link": "https://techcrunch.com/2026/01/23/heres-whats-you-should-know-about-the-us-tiktok-deal/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-23T17:19:36.240342+00:00",
+      "word_count": 48
+    },
+    {
       "id": "1215fab6bd90",
       "title": "The Math on AI Agents Doesn\u2019t Add Up",
       "slug": "the-math-on-ai-agents-doesnt-add-up",
@@ -4979,28 +4999,8 @@
       "topic": "Other",
       "generated_at": "2026-01-03T13:04:24.606786+00:00",
       "word_count": 73
-    },
-    {
-      "id": "4568d06b4445",
-      "title": "Stop Using Your Keyboard and Start Using Handy, a Free Speech-to-Text App",
-      "slug": "stop-using-your-keyboard-and-start-using-handy-a-free-speech-to-text-app",
-      "original_link": "https://www.wired.com/story/handy-free-speech-to-text-app/",
-      "original_source": "Wired",
-      "topic": "AI",
-      "generated_at": "2026-01-03T12:21:01.163556+00:00",
-      "word_count": 33
-    },
-    {
-      "id": "e3d74d8972a6",
-      "title": "How to Protect Your iPhone or Android Device From Spyware",
-      "slug": "how-to-protect-your-iphone-or-android-device-from-spyware",
-      "original_link": "https://www.wired.com/story/how-to-protect-your-iphone-or-android-device-from-spyware/",
-      "original_source": "Wired",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-03T10:12:01.445971+00:00",
-      "word_count": 38
     }
   ],
-  "last_updated": "2026-01-23T16:54:01.075927+00:00",
+  "last_updated": "2026-01-23T17:19:37.344395+00:00",
   "version": "1.0.0"
 }
