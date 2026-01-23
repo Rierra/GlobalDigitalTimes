@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "23a283363273",
+      "title": "Roborock Qrevo Curv 2 Flow Review: The Most Beautiful, Best Robot Vacuum",
+      "slug": "roborock-qrevo-curv-2-flow-review-the-most-beautiful-best-robot-vacuum",
+      "original_link": "https://www.wired.com/review/roborock-qrevo-curv-2-flow/",
+      "original_source": "Wired",
+      "topic": "Robotics",
+      "generated_at": "2026-01-23T13:13:50.382541+00:00",
+      "word_count": 31
+    },
+    {
+      "id": "f593ecafa93d",
+      "title": "Tesla discontinues Autopilot in bid to boost adoption of its Full Self-Driving software",
+      "slug": "tesla-discontinues-autopilot-in-bid-to-boost-adoption-of-its-full-self-driving-software",
+      "original_link": "https://techcrunch.com/2026/01/23/tesla-discontinues-autopilot-in-bid-to-boost-adoption-of-its-full-self-driving-software/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-23T13:13:49.614282+00:00",
+      "word_count": 39
+    },
+    {
       "id": "2aea79232312",
       "title": "Google won\u2019t stop replacing our news headlines with terrible AI",
       "slug": "google-wont-stop-replacing-our-news-headlines-with-terrible-ai",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-02T16:13:57.902441+00:00",
       "word_count": 38
-    },
-    {
-      "id": "aa5afc86bae4",
-      "title": "Microsoft CEO Satya Nadella is now blogging about AI slop",
-      "slug": "microsoft-ceo-satya-nadella-is-now-blogging-about-ai-slop",
-      "original_link": "https://www.theverge.com/news/852630/microsoft-ceo-satya-nadella-scratchpad-blog-ai-slop-comments",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-02T15:42:00.580440+00:00",
-      "word_count": 70
-    },
-    {
-      "id": "be888c8c540a",
-      "title": "What to expect at CES 2026",
-      "slug": "what-to-expect-at-ces-2026",
-      "original_link": "https://www.theverge.com/tech/851165/ces-2026-what-to-expect",
-      "original_source": "The Verge",
-      "topic": "Other",
-      "generated_at": "2026-01-02T13:07:35.097038+00:00",
-      "word_count": 66
     }
   ],
-  "last_updated": "2026-01-23T12:25:31.163448+00:00",
+  "last_updated": "2026-01-23T13:13:50.779179+00:00",
   "version": "1.0.0"
 }
