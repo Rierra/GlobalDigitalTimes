@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "bca51004e5f7",
+      "title": "CBP Wants AI-Powered \u2018Quantum Sensors\u2019 for Finding Fentanyl in Cars",
+      "slug": "cbp-wants-ai-powered-quantum-sensors-for-finding-fentanyl-in-cars",
+      "original_link": "https://www.wired.com/story/cbp-wants-ai-powered-quantum-sensors-for-finding-fentanyl-in-cars/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-23T17:45:00.710660+00:00",
+      "word_count": 40
+    },
+    {
       "id": "11a57e51031a",
       "title": "Meta pauses teen access to AI characters as it develops a specially tailored version",
       "slug": "meta-pauses-teen-access-to-ai-characters-as-it-develops-a-specially-tailored-version",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-03T16:13:36.442943+00:00",
       "word_count": 27
-    },
-    {
-      "id": "8a4d8d2c2ea5",
-      "title": "CES 2026: all the news, gadgets, and innovations from the biggest tech show",
-      "slug": "ces-2026-all-the-news-gadgets-and-innovations-from-the-biggest-tech-show",
-      "original_link": "https://www.theverge.com/tech/836627/ces-2026-news-gadgets-announcements",
-      "original_source": "The Verge",
-      "topic": "Other",
-      "generated_at": "2026-01-03T13:04:24.606786+00:00",
-      "word_count": 73
     }
   ],
-  "last_updated": "2026-01-23T17:19:37.344395+00:00",
+  "last_updated": "2026-01-23T17:45:01.199608+00:00",
   "version": "1.0.0"
 }
