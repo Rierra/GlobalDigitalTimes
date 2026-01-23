@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "41e869318517",
+      "title": "DHS keeps trying and failing to unmask anonymous ICE critics online",
+      "slug": "dhs-keeps-trying-and-failing-to-unmask-anonymous-ice-critics-online",
+      "original_link": "https://arstechnica.com/tech-policy/2026/01/instagram-ice-critic-wins-fight-to-stay-anonymous-as-dhs-backs-down/",
+      "original_source": "Ars Technica",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-23T21:12:07.075335+00:00",
+      "word_count": 28
+    },
+    {
       "id": "17d1e9ca86b1",
       "title": "Meta is stopping teens from chatting with its AI characters",
       "slug": "meta-is-stopping-teens-from-chatting-with-its-ai-characters",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-04T16:45:42.890850+00:00",
       "word_count": 31
-    },
-    {
-      "id": "1a74d946559a",
-      "title": "Narwal\u2019s Flow 2 robovac might help you find that earring you lost",
-      "slug": "narwals-flow-2-robovac-might-help-you-find-that-earring-you-lost",
-      "original_link": "https://www.theverge.com/news/850787/narwal-flow-2-robovac-ai-object-recognition-ces-2026",
-      "original_source": "The Verge",
-      "topic": "Robotics",
-      "generated_at": "2026-01-04T14:39:38.970608+00:00",
-      "word_count": 72
     }
   ],
-  "last_updated": "2026-01-23T20:45:04.878824+00:00",
+  "last_updated": "2026-01-23T21:12:07.505270+00:00",
   "version": "1.0.0"
 }
