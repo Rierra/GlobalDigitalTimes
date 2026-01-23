@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "1215fab6bd90",
+      "title": "The Math on AI Agents Doesn\u2019t Add Up",
+      "slug": "the-math-on-ai-agents-doesnt-add-up",
+      "original_link": "https://www.wired.com/story/ai-agents-math-doesnt-add-up/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-23T16:54:00.679143+00:00",
+      "word_count": 26
+    },
+    {
       "id": "a113c57f45bb",
       "title": "Giving your healthcare info to a chatbot is, unsurprisingly, a terrible idea",
       "slug": "giving-your-healthcare-info-to-a-chatbot-is-unsurprisingly-a-terrible-idea",
@@ -4989,18 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2026-01-03T10:12:01.445971+00:00",
       "word_count": 38
-    },
-    {
-      "id": "47febd3494ae",
-      "title": "In 2026, AI will move from hype to pragmatism",
-      "slug": "in-2026-ai-will-move-from-hype-to-pragmatism",
-      "original_link": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-03T02:45:54.430529+00:00",
-      "word_count": 39
     }
   ],
-  "last_updated": "2026-01-23T16:17:39.077178+00:00",
+  "last_updated": "2026-01-23T16:54:01.075927+00:00",
   "version": "1.0.0"
 }
