@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "1fd5ccbdad18",
+      "title": "Congress doesn\u2019t seem to know if the TikTok deal complies with its law",
+      "slug": "congress-doesnt-seem-to-know-if-the-tiktok-deal-complies-with-its-law",
+      "original_link": "https://www.theverge.com/news/866977/tiktok-deal-congress-china",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-23T22:10:38.522815+00:00",
+      "word_count": 73
+    },
+    {
+      "id": "623df58176e1",
+      "title": "Waymo probed by National Transportation Safety Board over illegal school bus behavior",
+      "slug": "waymo-probed-by-national-transportation-safety-board-over-illegal-school-bus-behavior",
+      "original_link": "https://techcrunch.com/2026/01/23/waymo-probed-by-national-transportation-safety-board-over-illegal-school-bus-behavior/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-23T22:10:37.093758+00:00",
+      "word_count": 33
+    },
+    {
       "id": "06d49a6e6503",
       "title": "TikTok Is Now Collecting Even More Data About Its Users. Here Are the 3 Biggest Changes",
       "slug": "tiktok-is-now-collecting-even-more-data-about-its-users-here-are-the-3-biggest-changes",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-04T18:17:26.953301+00:00",
       "word_count": 67
-    },
-    {
-      "id": "218a8b4133f2",
-      "title": "SwitchBot says its humanoid household robot can do your laundry",
-      "slug": "switchbot-says-its-humanoid-household-robot-can-do-your-laundry",
-      "original_link": "https://www.theverge.com/news/852741/switchbot-onero-h1-humanoid-household-robot-ces-2026",
-      "original_source": "The Verge",
-      "topic": "Robotics",
-      "generated_at": "2026-01-04T17:39:01.570166+00:00",
-      "word_count": 70
-    },
-    {
-      "id": "74ed19530eac",
-      "title": "French and Malaysian authorities are investigating Grok for generating sexualized deepfakes",
-      "slug": "french-and-malaysian-authorities-are-investigating-grok-for-generating-sexualized-deepfakes",
-      "original_link": "https://techcrunch.com/2026/01/04/french-and-malaysian-authorities-are-investigating-grok-for-generating-sexualized-deepfakes/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-04T17:09:37.899427+00:00",
-      "word_count": 31
     }
   ],
-  "last_updated": "2026-01-23T21:40:33.412926+00:00",
+  "last_updated": "2026-01-23T22:10:38.929191+00:00",
   "version": "1.0.0"
 }
