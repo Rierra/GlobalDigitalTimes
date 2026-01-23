@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "4bc173ccfe75",
+      "title": "How did Davos turn into a tech conference?",
+      "slug": "how-did-davos-turn-into-a-tech-conference",
+      "original_link": "https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-23T20:14:42.598079+00:00",
+      "word_count": 67
+    },
+    {
       "id": "09e2e5787ffb",
       "title": "TikTok deal is done; Trump wants praise while users fear MAGA tweaks",
       "slug": "tiktok-deal-is-done-trump-wants-praise-while-users-fear-maga-tweaks",
@@ -4989,18 +4999,8 @@
       "topic": "Other",
       "generated_at": "2026-01-04T12:21:06.161554+00:00",
       "word_count": 39
-    },
-    {
-      "id": "64630b9ad100",
-      "title": "California residents can use new tool to demand brokers delete their personal data",
-      "slug": "california-residents-can-use-new-tool-to-demand-brokers-delete-their-personal-data",
-      "original_link": "https://techcrunch.com/2026/01/03/california-residents-can-use-new-tool-to-demand-brokers-delete-their-personal-data/",
-      "original_source": "TechCrunch",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-03T22:40:48.814156+00:00",
-      "word_count": 38
     }
   ],
-  "last_updated": "2026-01-23T18:55:52.615767+00:00",
+  "last_updated": "2026-01-23T20:14:43.229743+00:00",
   "version": "1.0.0"
 }
