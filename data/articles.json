@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "f548b8e5e10d",
+      "title": "AI labs wage a reputational knife fight at Davos",
+      "slug": "ai-labs-wage-a-reputational-knife-fight-at-davos",
+      "original_link": "https://www.theverge.com/column/866573/ai-labs-wage-a-reputational-knife-fight-at-davos",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-23T15:16:42.016114+00:00",
+      "word_count": 69
+    },
+    {
       "id": "090f14dff425",
       "title": "Tesla finally kills Autopilot in a bid to boost FSD subscriptions",
       "slug": "tesla-finally-kills-autopilot-in-a-bid-to-boost-fsd-subscriptions",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-02T20:13:39.890645+00:00",
       "word_count": 66
-    },
-    {
-      "id": "ba29c20d1b93",
-      "title": "India orders Musk\u2019s X to fix Grok over \u201cobscene\u201d AI content",
-      "slug": "india-orders-musks-x-to-fix-grok-over-obscene-ai-content",
-      "original_link": "https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-02T18:50:33.116174+00:00",
-      "word_count": 27
     }
   ],
-  "last_updated": "2026-01-23T14:49:29.543169+00:00",
+  "last_updated": "2026-01-23T15:16:42.636111+00:00",
   "version": "1.0.0"
 }
