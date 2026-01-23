@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "2aea79232312",
+      "title": "Google won\u2019t stop replacing our news headlines with terrible AI",
+      "slug": "google-wont-stop-replacing-our-news-headlines-with-terrible-ai",
+      "original_link": "https://www.theverge.com/tech/865168/google-says-ai-news-headlines-are-feature-not-experiment",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-23T12:25:30.544967+00:00",
+      "word_count": 70
+    },
+    {
       "id": "f4a28348a67f",
       "title": "Microsoft Paint can now make AI coloring books",
       "slug": "microsoft-paint-can-now-make-ai-coloring-books",
@@ -4989,18 +4999,8 @@
       "topic": "Other",
       "generated_at": "2026-01-02T13:07:35.097038+00:00",
       "word_count": 66
-    },
-    {
-      "id": "9321dcf990ea",
-      "title": "Petkit\u2019s first automatic wet food feeder keeps track of how much your pet eats",
-      "slug": "petkits-first-automatic-wet-food-feeder-keeps-track-of-how-much-your-pet-eats",
-      "original_link": "https://www.theverge.com/news/850992/petkit-ai-camera-yumshare-daily-feast-automatic-wet-food-feeder-eversweet-ultra-fountain",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-02T08:17:21.348310+00:00",
-      "word_count": 74
     }
   ],
-  "last_updated": "2026-01-23T11:14:38.708946+00:00",
+  "last_updated": "2026-01-23T12:25:31.163448+00:00",
   "version": "1.0.0"
 }
