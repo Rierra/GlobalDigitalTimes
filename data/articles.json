@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "566902f3449b",
+      "title": "\u2018Uncanny Valley\u2019: Donald Trump\u2019s Davos Drama, AI Midterms, and ChatGPT\u2019s Last Resort",
+      "slug": "uncanny-valley-donald-trumps-davos-drama-ai-midterms-and-chatgpts-last-resort",
+      "original_link": "https://www.wired.com/story/uncanny-valley-podcast-trump-davos-ice-ai-midterms-chatgpt-ads/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-23T22:42:13.277512+00:00",
+      "word_count": 42
+    },
+    {
       "id": "1fd5ccbdad18",
       "title": "Congress doesn\u2019t seem to know if the TikTok deal complies with its law",
       "slug": "congress-doesnt-seem-to-know-if-the-tiktok-deal-complies-with-its-law",
@@ -4989,18 +4999,8 @@
       "topic": "Robotics",
       "generated_at": "2026-01-04T19:33:20.794288+00:00",
       "word_count": 75
-    },
-    {
-      "id": "51ce1fa6a30c",
-      "title": "Plaud updates the NotePin with a button",
-      "slug": "plaud-updates-the-notepin-with-a-button",
-      "original_link": "https://www.theverge.com/tech/851393/plaud-notepin-s-desktop-app-ces",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-04T18:17:26.953301+00:00",
-      "word_count": 67
     }
   ],
-  "last_updated": "2026-01-23T22:10:38.929191+00:00",
+  "last_updated": "2026-01-23T22:42:13.936180+00:00",
   "version": "1.0.0"
 }
