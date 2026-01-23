@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "65f265a0570d",
+      "title": "OpenAI chief Sam Altman plans India visit as AI leaders converge in New Delhi: sources",
+      "slug": "openai-chief-sam-altman-plans-india-visit-as-ai-leaders-converge-in-new-delhi-sources",
+      "original_link": "https://techcrunch.com/2026/01/23/openai-chief-sam-altman-plans-india-visit-as-ai-leaders-converge-in-new-delhi-sources/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-23T15:46:28.900986+00:00",
+      "word_count": 31
+    },
+    {
+      "id": "97252d3c76ed",
+      "title": "TikTok finalizes deal to create new US entity and avoid ban",
+      "slug": "tiktok-finalizes-deal-to-create-new-us-entity-and-avoid-ban",
+      "original_link": "https://techcrunch.com/2026/01/23/tiktok-finalizes-deal-to-create-new-us-entity-and-avoid-ban/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-23T15:46:28.000334+00:00",
+      "word_count": 44
+    },
+    {
       "id": "f548b8e5e10d",
       "title": "AI labs wage a reputational knife fight at Davos",
       "slug": "ai-labs-wage-a-reputational-knife-fight-at-davos",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-02T22:42:29.251789+00:00",
       "word_count": 30
-    },
-    {
-      "id": "f240d2ff423b",
-      "title": "OpenAI plans new voice model in early 2026, audio-based hardware in 2027",
-      "slug": "openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027",
-      "original_link": "https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/",
-      "original_source": "Ars Technica",
-      "topic": "AI",
-      "generated_at": "2026-01-02T21:35:22.287843+00:00",
-      "word_count": 28
-    },
-    {
-      "id": "18df960031a3",
-      "title": "Grok is undressing anyone, including minors",
-      "slug": "grok-is-undressing-anyone-including-minors",
-      "original_link": "https://www.theverge.com/news/853191/grok-explicit-bikini-pictures-minors",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-02T20:13:39.890645+00:00",
-      "word_count": 66
     }
   ],
-  "last_updated": "2026-01-23T15:16:42.636111+00:00",
+  "last_updated": "2026-01-23T15:46:29.235234+00:00",
   "version": "1.0.0"
 }
