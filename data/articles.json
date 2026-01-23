@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "f3cabcf56791",
+      "title": "Ring can verify videos now, but that might not help you with most AI fakes",
+      "slug": "ring-can-verify-videos-now-but-that-might-not-help-you-with-most-ai-fakes",
+      "original_link": "https://www.theverge.com/news/866441/ring-verify-security-camera-ai-fakes-video-verification",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-23T04:04:45.786165+00:00",
+      "word_count": 75
+    },
+    {
       "id": "4a052a6bcb87",
       "title": "Former Sequoia partner\u2019s new startup uses AI to negotiate your calendar for you",
       "slug": "former-sequoia-partners-new-startup-uses-ai-to-negotiate-your-calendar-for-you",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-01T11:10:43.371412+00:00",
       "word_count": 34
-    },
-    {
-      "id": "34a0c24524cb",
-      "title": "Crypto users forced to share account details with tax officials",
-      "slug": "crypto-users-forced-to-share-account-details-with-tax-officials",
-      "original_link": "https://www.bbc.com/news/articles/ckgl2je65klo?at_medium=RSS&at_campaign=rss",
-      "original_source": "BBC Technology",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-01T10:13:20.774985+00:00",
-      "word_count": 30
     }
   ],
-  "last_updated": "2026-01-23T02:59:23.494524+00:00",
+  "last_updated": "2026-01-23T04:04:46.226914+00:00",
   "version": "1.0.0"
 }
