@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "2d66d481e8a8",
+      "title": "AI ready: The advantages of being a young entrepreneur",
+      "slug": "ai-ready-the-advantages-of-being-a-young-entrepreneur",
+      "original_link": "https://www.bbc.com/news/articles/c058d4nvz1go?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "AI",
+      "generated_at": "2026-01-23T04:58:48.405330+00:00",
+      "word_count": 28
+    },
+    {
       "id": "f3cabcf56791",
       "title": "Ring can verify videos now, but that might not help you with most AI fakes",
       "slug": "ring-can-verify-videos-now-but-that-might-not-help-you-with-most-ai-fakes",
@@ -4989,18 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2026-01-01T15:12:04.191774+00:00",
       "word_count": 67
-    },
-    {
-      "id": "a27265e78b01",
-      "title": "AI Labor Is Boring. AI Lust Is Big Business",
-      "slug": "ai-labor-is-boring-ai-lust-is-big-business",
-      "original_link": "https://www.wired.com/story/expired-tired-wired-sexy-chatbots/",
-      "original_source": "Wired",
-      "topic": "AI",
-      "generated_at": "2026-01-01T11:10:43.371412+00:00",
-      "word_count": 34
     }
   ],
-  "last_updated": "2026-01-23T04:04:46.226914+00:00",
+  "last_updated": "2026-01-23T04:58:48.788027+00:00",
   "version": "1.0.0"
 }
