@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "214d18b5b3c3",
+      "title": "A new test for AI labs: Are you even trying to make money?",
+      "slug": "a-new-test-for-ai-labs-are-you-even-trying-to-make-money",
+      "original_link": "https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-24T17:10:16.638716+00:00",
+      "word_count": 40
+    },
+    {
       "id": "3a71d4367884",
       "title": "Get ready for the AI ad-pocalypse",
       "slug": "get-ready-for-the-ai-ad-pocalypse",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-05T12:25:44.163905+00:00",
       "word_count": 66
-    },
-    {
-      "id": "4918dee8c3d3",
-      "title": "Teradar reveals its first terahertz-band vision sensor for cars",
-      "slug": "teradar-reveals-its-first-terahertz-band-vision-sensor-for-cars",
-      "original_link": "https://techcrunch.com/2026/01/05/teradar-reveals-its-first-terahertz-band-vision-sensor-for-cars/",
-      "original_source": "TechCrunch",
-      "topic": "Robotics",
-      "generated_at": "2026-01-05T12:25:26.399262+00:00",
-      "word_count": 36
     }
   ],
-  "last_updated": "2026-01-24T15:11:29.489759+00:00",
+  "last_updated": "2026-01-24T17:10:17.272491+00:00",
   "version": "1.0.0"
 }
