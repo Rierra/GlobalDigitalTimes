@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "35f8f9c8b155",
+      "title": "Gemini with Personal Intelligence is awfully familiar",
+      "slug": "gemini-with-personal-intelligence-is-awfully-familiar",
+      "original_link": "https://www.theverge.com/tech/866931/gemini-personal-intelligence-ai",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-24T13:06:00.872622+00:00",
+      "word_count": 67
+    },
+    {
       "id": "9c78cb4a060c",
       "title": "DOGE May Have Misused Social Security Data, DOJ Admits",
       "slug": "doge-may-have-misused-social-security-data-doj-admits",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-05T11:39:14.733588+00:00",
       "word_count": 35
-    },
-    {
-      "id": "70468c6fcc3d",
-      "title": "At CES 2026, Everything Is AI. What Matters Is How You Use It",
-      "slug": "at-ces-2026-everything-is-ai-what-matters-is-how-you-use-it",
-      "original_link": "https://www.wired.com/story/ces-2026-what-to-expect/",
-      "original_source": "Wired",
-      "topic": "AI",
-      "generated_at": "2026-01-05T11:13:12.487102+00:00",
-      "word_count": 46
     }
   ],
-  "last_updated": "2026-01-24T11:36:05.048201+00:00",
+  "last_updated": "2026-01-24T13:06:01.316644+00:00",
   "version": "1.0.0"
 }
