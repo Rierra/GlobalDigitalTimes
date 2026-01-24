@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "3a71d4367884",
+      "title": "Get ready for the AI ad-pocalypse",
+      "slug": "get-ready-for-the-ai-ad-pocalypse",
+      "original_link": "https://www.theverge.com/report/866775/ai-generated-ads-slop-human-creativity",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-24T15:11:29.124506+00:00",
+      "word_count": 66
+    },
+    {
       "id": "35f8f9c8b155",
       "title": "Gemini with Personal Intelligence is awfully familiar",
       "slug": "gemini-with-personal-intelligence-is-awfully-familiar",
@@ -4989,18 +4999,8 @@
       "topic": "Robotics",
       "generated_at": "2026-01-05T12:25:26.399262+00:00",
       "word_count": 36
-    },
-    {
-      "id": "f19e4e9c5597",
-      "title": "AI Deepfakes Are Impersonating Pastors to Try to Scam Their Congregations",
-      "slug": "ai-deepfakes-are-impersonating-pastors-to-try-to-scam-their-congregations",
-      "original_link": "https://www.wired.com/story/ai-deepfakes-are-impersonating-pastors-to-try-and-scam-their-congregations/",
-      "original_source": "Wired",
-      "topic": "AI",
-      "generated_at": "2026-01-05T11:39:14.733588+00:00",
-      "word_count": 35
     }
   ],
-  "last_updated": "2026-01-24T13:06:01.316644+00:00",
+  "last_updated": "2026-01-24T15:11:29.489759+00:00",
   "version": "1.0.0"
 }
