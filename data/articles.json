@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "55d284e9fac8",
+      "title": "Gear News of the Week: Apple\u2019s AI Wearable and a Phone That Can Boot Android, Linux, and Windows",
+      "slug": "gear-news-of-the-week-apples-ai-wearable-and-a-phone-that-can-boot-android-linux-and-windows",
+      "original_link": "https://www.wired.com/story/gear-news-of-the-week-apples-ai-wearable-and-a-phone-that-can-boot-android-linux-and-windows/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-24T11:10:21.254205+00:00",
+      "word_count": 34
+    },
+    {
       "id": "afe1876ec6fe",
       "title": "This Autonomous Aquatic Robot Is Smaller Than a Grain of Salt",
       "slug": "this-autonomous-aquatic-robot-is-smaller-than-a-grain-of-salt",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-05T10:15:39.599832+00:00",
       "word_count": 36
-    },
-    {
-      "id": "f5200e8962db",
-      "title": "This robot companion is a cameraman for your pet",
-      "slug": "this-robot-companion-is-a-cameraman-for-your-pet",
-      "original_link": "https://www.theverge.com/tech/854457/frontierx-vex-aura-robots-companions-pets",
-      "original_source": "The Verge",
-      "topic": "Robotics",
-      "generated_at": "2026-01-05T07:21:22.385425+00:00",
-      "word_count": 69
     }
   ],
-  "last_updated": "2026-01-24T10:12:05.816356+00:00",
+  "last_updated": "2026-01-24T11:10:21.636128+00:00",
   "version": "1.0.0"
 }
