@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "b81148a12674",
+      "title": "Who\u2019s behind AMI Labs, Yann LeCun\u2019s \u2018world model\u2019 startup",
+      "slug": "whos-behind-ami-labs-yann-lecuns-world-model-startup",
+      "original_link": "https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-24T00:55:59.000808+00:00",
+      "word_count": 31
+    },
+    {
       "id": "46703532cf80",
       "title": "Is China quietly winning the AI race?",
       "slug": "is-china-quietly-winning-the-ai-race",
@@ -4989,18 +4999,8 @@
       "topic": "Robotics",
       "generated_at": "2026-01-05T01:02:05.137045+00:00",
       "word_count": 71
-    },
-    {
-      "id": "f84ab66bdcef",
-      "title": "DoorDash says it banned driver who seemingly faked a delivery using AI",
-      "slug": "doordash-says-it-banned-driver-who-seemingly-faked-a-delivery-using-ai",
-      "original_link": "https://techcrunch.com/2026/01/04/doordash-says-it-banned-driver-who-seemingly-faked-a-delivery-using-ai/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-04T21:38:05.089204+00:00",
-      "word_count": 36
     }
   ],
-  "last_updated": "2026-01-23T23:12:45.805464+00:00",
+  "last_updated": "2026-01-24T00:55:59.828956+00:00",
   "version": "1.0.0"
 }

@@ -7,6 +7,12 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.globaldigitaltimes.com/articles/whos-behind-ami-labs-yann-lecuns-world-model-startup.html</loc>
+    <lastmod>2026-01-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.globaldigitaltimes.com/articles/is-china-quietly-winning-the-ai-race.html</loc>
     <lastmod>2026-01-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -2997,12 +3003,6 @@
   <url>
     <loc>https://www.globaldigitaltimes.com/articles/mammotions-flagship-robot-lawnmower-now-uses-lidar-to-map-your-yard.html</loc>
     <lastmod>2026-01-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.globaldigitaltimes.com/articles/doordash-says-it-banned-driver-who-seemingly-faked-a-delivery-using-ai.html</loc>
-    <lastmod>2026-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
