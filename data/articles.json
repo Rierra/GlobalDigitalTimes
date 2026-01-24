@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "6893fdda355e",
+      "title": "TikTok users freak out over app\u2019s \u2018immigration status\u2019 collection \u2014 here\u2019s what it means",
+      "slug": "tiktok-users-freak-out-over-apps-immigration-status-collection-heres-what-it-means",
+      "original_link": "https://techcrunch.com/2026/01/23/tiktok-users-freak-out-over-apps-immigration-status-collection-heres-what-it-means/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-24T04:54:25.864667+00:00",
+      "word_count": 41
+    },
+    {
       "id": "8d607abab676",
       "title": "Chromebooks train schoolkids to be loyal customers, internal Google document suggests",
       "slug": "chromebooks-train-schoolkids-to-be-loyal-customers-internal-google-document-suggests",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-05T03:25:22.297893+00:00",
       "word_count": 76
-    },
-    {
-      "id": "a6e779c22cdc",
-      "title": "Shut the fridge door!",
-      "slug": "shut-the-fridge-door",
-      "original_link": "https://www.theverge.com/tech/853758/shut-the-fridge-door",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-05T03:25:09.596722+00:00",
-      "word_count": 64
     }
   ],
-  "last_updated": "2026-01-24T02:51:21.726878+00:00",
+  "last_updated": "2026-01-24T04:54:26.466968+00:00",
   "version": "1.0.0"
 }
