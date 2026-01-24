@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "07014cd4821e",
+      "title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech",
+      "slug": "legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech",
+      "original_link": "https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-24T05:42:25.598367+00:00",
+      "word_count": 57
+    },
+    {
       "id": "6893fdda355e",
       "title": "TikTok users freak out over app\u2019s \u2018immigration status\u2019 collection \u2014 here\u2019s what it means",
       "slug": "tiktok-users-freak-out-over-apps-immigration-status-collection-heres-what-it-means",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-05T04:38:48.572044+00:00",
       "word_count": 32
-    },
-    {
-      "id": "d40056582cdb",
-      "title": "The new Ultraloq smart lock uses both your face and your palm to let you in",
-      "slug": "the-new-ultraloq-smart-lock-uses-both-your-face-and-your-palm-to-let-you-in",
-      "original_link": "https://www.theverge.com/tech/853844/ultraloq-ces-smart-lock-face-palm-reading",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-05T03:25:22.297893+00:00",
-      "word_count": 76
     }
   ],
-  "last_updated": "2026-01-24T04:54:26.466968+00:00",
+  "last_updated": "2026-01-24T05:42:26.199900+00:00",
   "version": "1.0.0"
 }
