@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "63240f2a9a05",
+      "title": "Gmail is having issues with spam and misclassification",
+      "slug": "gmail-is-having-issues-with-spam-and-misclassification",
+      "original_link": "https://techcrunch.com/2026/01/24/gmail-is-having-issues-with-spam-and-misclassification/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-24T23:11:37.861120+00:00",
+      "word_count": 25
+    },
+    {
       "id": "4c7ab5793f50",
       "title": "ICE Asks Companies About \u2018Ad Tech and Big Data\u2019 Tools It Could Use in Investigations",
       "slug": "ice-asks-companies-about-ad-tech-and-big-data-tools-it-could-use-in-investigations",
@@ -4989,18 +4999,8 @@
       "topic": "Robotics",
       "generated_at": "2026-01-05T16:17:56.484963+00:00",
       "word_count": 72
-    },
-    {
-      "id": "497261ce2c3a",
-      "title": "Keep your home warm with the Google Nest Learning Thermostat, now only $230",
-      "slug": "keep-your-home-warm-with-the-google-nest-learning-thermostat-now-only-230",
-      "original_link": "https://www.theverge.com/gadgets/854979/google-nest-thermometer-8bitdo-everboom-deals-sale",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-05T16:17:44.155660+00:00",
-      "word_count": 73
     }
   ],
-  "last_updated": "2026-01-24T22:41:24.881024+00:00",
+  "last_updated": "2026-01-24T23:11:38.319418+00:00",
   "version": "1.0.0"
 }
