@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "35df45355b14",
+      "title": "Gmail\u2019s spam filter and automatic sorting are broken",
+      "slug": "gmails-spam-filter-and-automatic-sorting-are-broken",
+      "original_link": "https://www.theverge.com/tech/867247/gmails-spam-filter-broken",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-24T18:16:55.765880+00:00",
+      "word_count": 68
+    },
+    {
+      "id": "7888e158ee46",
+      "title": "SEC drops lawsuit against Winklevoss twins\u2019 Gemini crypto exchange",
+      "slug": "sec-drops-lawsuit-against-winklevoss-twins-gemini-crypto-exchange",
+      "original_link": "https://techcrunch.com/2026/01/24/sec-drops-lawsuit-against-winklevoss-twins-gemini-crypto-exchange/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-24T18:16:54.768674+00:00",
+      "word_count": 34
+    },
+    {
       "id": "214d18b5b3c3",
       "title": "A new test for AI labs: Are you even trying to make money?",
       "slug": "a-new-test-for-ai-labs-are-you-even-trying-to-make-money",
@@ -4979,28 +4999,8 @@
       "topic": "Other",
       "generated_at": "2026-01-05T14:48:44.226080+00:00",
       "word_count": 69
-    },
-    {
-      "id": "d5be75fd48dd",
-      "title": "Google previews new Gemini features for TV at CES 2026",
-      "slug": "google-previews-new-gemini-features-for-tv-at-ces-2026",
-      "original_link": "https://techcrunch.com/2026/01/05/google-previews-new-gemini-features-for-tv-at-ces-2026/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-05T14:15:44.645746+00:00",
-      "word_count": 32
-    },
-    {
-      "id": "8bdc2f5ab58f",
-      "title": "What\u2019s next for AI in 2026",
-      "slug": "whats-next-for-ai-in-2026",
-      "original_link": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
-      "original_source": "MIT Technology Review",
-      "topic": "AI",
-      "generated_at": "2026-01-05T12:25:44.163905+00:00",
-      "word_count": 66
     }
   ],
-  "last_updated": "2026-01-24T17:10:17.272491+00:00",
+  "last_updated": "2026-01-24T18:16:56.128795+00:00",
   "version": "1.0.0"
 }
