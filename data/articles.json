@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "3d8d49b18af4",
+      "title": "Google says it\u2019s fixed Gmail issues with spam and misclassification",
+      "slug": "google-says-its-fixed-gmail-issues-with-spam-and-misclassification",
+      "original_link": "https://techcrunch.com/2026/01/25/gmail-is-having-issues-with-spam-and-misclassification/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-25T16:46:40.697079+00:00",
+      "word_count": 27
+    },
+    {
       "id": "63240f2a9a05",
       "title": "Gmail is having issues with spam and misclassification",
       "slug": "gmail-is-having-issues-with-spam-and-misclassification",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-05T17:15:42.704923+00:00",
       "word_count": 70
-    },
-    {
-      "id": "bbe435ad28b7",
-      "title": "Anker\u2019s powerful new Eufy S2 robot vacuum doubles as an aromatherapy diffuser",
-      "slug": "ankers-powerful-new-eufy-s2-robot-vacuum-doubles-as-an-aromatherapy-diffuser",
-      "original_link": "https://www.theverge.com/gadgets/850483/eufy-robot-vacuum-omni-s2-ces-2026",
-      "original_source": "The Verge",
-      "topic": "Robotics",
-      "generated_at": "2026-01-05T16:17:56.484963+00:00",
-      "word_count": 72
     }
   ],
-  "last_updated": "2026-01-24T23:11:38.319418+00:00",
+  "last_updated": "2026-01-25T16:46:41.234009+00:00",
   "version": "1.0.0"
 }
