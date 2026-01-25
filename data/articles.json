@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "58426c062444",
+      "title": "Science fiction writers, Comic-Con say goodbye to AI",
+      "slug": "science-fiction-writers-comic-con-say-goodbye-to-ai",
+      "original_link": "https://techcrunch.com/2026/01/25/science-fiction-writers-comic-con-say-goodbye-to-ai/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-25T23:12:21.107917+00:00",
+      "word_count": 29
+    },
+    {
       "id": "58a51c2fe634",
       "title": "ChatGPT is pulling answers from Elon Musk\u2019s Grokipedia",
       "slug": "chatgpt-is-pulling-answers-from-elon-musks-grokipedia",
@@ -4989,18 +4999,8 @@
       "topic": "Robotics",
       "generated_at": "2026-01-05T19:15:11.368690+00:00",
       "word_count": 71
-    },
-    {
-      "id": "183d7b24fbb8",
-      "title": "That viral Reddit post about food delivery apps was an AI scam",
-      "slug": "that-viral-reddit-post-about-food-delivery-apps-was-an-ai-scam",
-      "original_link": "https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-05T18:53:21.322445+00:00",
-      "word_count": 72
     }
   ],
-  "last_updated": "2026-01-25T22:42:38.862219+00:00",
+  "last_updated": "2026-01-25T23:12:21.536421+00:00",
   "version": "1.0.0"
 }
