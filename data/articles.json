@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "4133d8d45270",
+      "title": "Humans& thinks coordination is the next frontier for AI, and they\u2019re building a model to prove it",
+      "slug": "humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it",
+      "original_link": "https://techcrunch.com/2026/01/25/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-25T22:12:34.911519+00:00",
+      "word_count": 47
+    },
+    {
       "id": "129aa9c7fc61",
       "title": "TechCrunch Mobility: RIP, Tesla Autopilot, and the NTSB investigates Waymo",
       "slug": "techcrunch-mobility-rip-tesla-autopilot-and-the-ntsb-investigates-waymo",
@@ -4989,18 +4999,8 @@
       "topic": "Robotics",
       "generated_at": "2026-01-05T18:20:51.713853+00:00",
       "word_count": 70
-    },
-    {
-      "id": "6be81edc5f7a",
-      "title": "China\u2019s Hesai will double production as lidar sensor industry shakes out",
-      "slug": "chinas-hesai-will-double-production-as-lidar-sensor-industry-shakes-out",
-      "original_link": "https://techcrunch.com/2026/01/05/chinas-hesai-will-double-production-as-lidar-sensor-industry-shakes-out/",
-      "original_source": "TechCrunch",
-      "topic": "Robotics",
-      "generated_at": "2026-01-05T18:20:39.213805+00:00",
-      "word_count": 48
     }
   ],
-  "last_updated": "2026-01-25T17:40:25.769513+00:00",
+  "last_updated": "2026-01-25T22:12:35.520358+00:00",
   "version": "1.0.0"
 }
