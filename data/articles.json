@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "eec12141e1e9",
+      "title": "Apple will reportedly unveil its Gemini-powered Siri assistant in February",
+      "slug": "apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february",
+      "original_link": "https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-25T17:11:02.688448+00:00",
+      "word_count": 34
+    },
+    {
       "id": "3d8d49b18af4",
       "title": "Google says it\u2019s fixed Gmail issues with spam and misclassification",
       "slug": "google-says-its-fixed-gmail-issues-with-spam-and-misclassification",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-05T17:44:24.906823+00:00",
       "word_count": 68
-    },
-    {
-      "id": "ad253b3cb163",
-      "title": "The 2026 BMW iX3 voice assistant will be powered by Alexa+",
-      "slug": "the-2026-bmw-ix3-voice-assistant-will-be-powered-by-alexa",
-      "original_link": "https://techcrunch.com/2026/01/05/the-2026-bmw-ix3-voice-assistant-will-be-powered-by-alexa/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-05T17:15:42.704923+00:00",
-      "word_count": 70
     }
   ],
-  "last_updated": "2026-01-25T16:46:41.234009+00:00",
+  "last_updated": "2026-01-25T17:11:03.167271+00:00",
   "version": "1.0.0"
 }
