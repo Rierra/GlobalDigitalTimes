@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "58a51c2fe634",
+      "title": "ChatGPT is pulling answers from Elon Musk\u2019s Grokipedia",
+      "slug": "chatgpt-is-pulling-answers-from-elon-musks-grokipedia",
+      "original_link": "https://techcrunch.com/2026/01/25/chatgpt-is-pulling-answers-from-elon-musks-grokipedia/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-25T22:42:38.216314+00:00",
+      "word_count": 30
+    },
+    {
       "id": "4133d8d45270",
       "title": "Humans& thinks coordination is the next frontier for AI, and they\u2019re building a model to prove it",
       "slug": "humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-05T18:53:21.322445+00:00",
       "word_count": 72
-    },
-    {
-      "id": "de551f4c05dc",
-      "title": "LG&#8217;s CLOiD robot can load the washer for you, slowly",
-      "slug": "lg-s-cloid-robot-can-load-the-washer-for-you-slowly",
-      "original_link": "https://www.theverge.com/tech/855233/lg-cloid-robot-laundry-ces-2026-keynote",
-      "original_source": "The Verge",
-      "topic": "Robotics",
-      "generated_at": "2026-01-05T18:20:51.713853+00:00",
-      "word_count": 70
     }
   ],
-  "last_updated": "2026-01-25T22:12:35.520358+00:00",
+  "last_updated": "2026-01-25T22:42:38.862219+00:00",
   "version": "1.0.0"
 }
