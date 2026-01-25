@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "129aa9c7fc61",
+      "title": "TechCrunch Mobility: RIP, Tesla Autopilot, and the NTSB investigates Waymo",
+      "slug": "techcrunch-mobility-rip-tesla-autopilot-and-the-ntsb-investigates-waymo",
+      "original_link": "https://techcrunch.com/2026/01/25/techcrunch-mobility-rip-tesla-autopilot-and-the-ntsb-investigates-waymo/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-25T17:40:25.371456+00:00",
+      "word_count": 31
+    },
+    {
       "id": "eec12141e1e9",
       "title": "Apple will reportedly unveil its Gemini-powered Siri assistant in February",
       "slug": "apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february",
@@ -4989,18 +4999,8 @@
       "topic": "Robotics",
       "generated_at": "2026-01-05T18:20:39.213805+00:00",
       "word_count": 48
-    },
-    {
-      "id": "9b931a53f36a",
-      "title": "Bosch\u2019s fancy coffee machine is getting Alexa Plus",
-      "slug": "boschs-fancy-coffee-machine-is-getting-alexa-plus",
-      "original_link": "https://www.theverge.com/tech/853818/bosch-smart-coffee-machine-alexa-plus-upgrade",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-05T17:44:24.906823+00:00",
-      "word_count": 68
     }
   ],
-  "last_updated": "2026-01-25T17:11:03.167271+00:00",
+  "last_updated": "2026-01-25T17:40:25.769513+00:00",
   "version": "1.0.0"
 }
