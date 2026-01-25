@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "4982f5f29e33",
+      "title": "This founder cracked firefighting \u2014 now he\u2019s creating an AI gold mine",
+      "slug": "this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine",
+      "original_link": "https://techcrunch.com/2026/01/25/this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-25T23:39:29.133003+00:00",
+      "word_count": 33
+    },
+    {
       "id": "58426c062444",
       "title": "Science fiction writers, Comic-Con say goodbye to AI",
       "slug": "science-fiction-writers-comic-con-say-goodbye-to-ai",
@@ -4989,18 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2026-01-05T19:15:29.038402+00:00",
       "word_count": 44
-    },
-    {
-      "id": "fa0f9cc8ce28",
-      "title": "Lego announces Smart Brick, the &#8216;most significant evolution&#8217; in 50 years",
-      "slug": "lego-announces-smart-brick-the-most-significant-evolution-in-50-years",
-      "original_link": "https://www.theverge.com/tech/854556/lego-announces-smart-brick-the-most-significant-evolution-in-50-years",
-      "original_source": "The Verge",
-      "topic": "Robotics",
-      "generated_at": "2026-01-05T19:15:11.368690+00:00",
-      "word_count": 71
     }
   ],
-  "last_updated": "2026-01-25T23:12:21.536421+00:00",
+  "last_updated": "2026-01-25T23:39:29.710190+00:00",
   "version": "1.0.0"
 }
