@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "c0d59296a2cd",
+      "title": "Payment processors were against CSAM until Grok started making it",
+      "slug": "payment-processors-were-against-csam-until-grok-started-making-it",
+      "original_link": "https://www.theverge.com/ai-artificial-intelligence/867874/stripe-visa-mastercard-amex-csam-grok",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-26T17:28:05.128053+00:00",
+      "word_count": 70
+    },
+    {
+      "id": "69428418c1a8",
+      "title": "Saudi satirist hacked with Pegasus spyware wins damages in court battle",
+      "slug": "saudi-satirist-hacked-with-pegasus-spyware-wins-damages-in-court-battle",
+      "original_link": "https://techcrunch.com/2026/01/26/saudi-satirist-hacked-with-pegasus-spyware-wins-damages-in-court-battle/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-26T17:28:04.247787+00:00",
+      "word_count": 51
+    },
+    {
       "id": "3386d764d751",
       "title": "OpenAI is working out how much to charge for ChatGPT ads",
       "slug": "openai-is-working-out-how-much-to-charge-for-chatgpt-ads",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-06T03:58:33.398670+00:00",
       "word_count": 39
-    },
-    {
-      "id": "bbeb231a0123",
-      "title": "The nation\u2019s strictest privacy law just took effect, to data brokers\u2019 chagrin",
-      "slug": "the-nations-strictest-privacy-law-just-took-effect-to-data-brokers-chagrin",
-      "original_link": "https://arstechnica.com/tech-policy/2026/01/data-broker-hoarding-is-rampant-new-law-lets-consumers-fight-back/",
-      "original_source": "Ars Technica",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-06T02:55:01.570334+00:00",
-      "word_count": 28
-    },
-    {
-      "id": "c8389da8c0b3",
-      "title": "Ecovacs adds a mop cover to its flagship robot vacuum",
-      "slug": "ecovacs-adds-a-mop-cover-to-its-flagship-robot-vacuum",
-      "original_link": "https://www.theverge.com/tech/853777/ecovacs-deebot-x12-omnicyclone-robot-vacuum-mop-cover",
-      "original_source": "The Verge",
-      "topic": "Robotics",
-      "generated_at": "2026-01-06T00:57:32.894563+00:00",
-      "word_count": 70
     }
   ],
-  "last_updated": "2026-01-26T16:58:31.915073+00:00",
+  "last_updated": "2026-01-26T17:28:05.483762+00:00",
   "version": "1.0.0"
 }
