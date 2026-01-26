@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "25fd467db316",
+      "title": "X faces EU investigation over Grok\u2019s sexualized deepfakes",
+      "slug": "x-faces-eu-investigation-over-groks-sexualized-deepfakes",
+      "original_link": "https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-26T23:13:34.839749+00:00",
+      "word_count": 68
+    },
+    {
       "id": "b6d270fe5c26",
       "title": "Palantir Defends Work With ICE to Staff Following Killing of Alex Pretti",
       "slug": "palantir-defends-work-with-ice-to-staff-following-killing-of-alex-pretti",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-06T13:53:13.111541+00:00",
       "word_count": 72
-    },
-    {
-      "id": "39783ec6b685",
-      "title": "TP-Link brings an AI assistant to its smart home and home networking apps",
-      "slug": "tp-link-brings-an-ai-assistant-to-its-smart-home-and-home-networking-apps",
-      "original_link": "https://www.theverge.com/tech/854017/tp-link-brings-an-ai-assistant-to-its-smart-home-and-home-networking-apps",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-06T13:53:12.348697+00:00",
-      "word_count": 73
     }
   ],
-  "last_updated": "2026-01-26T22:45:02.697951+00:00",
+  "last_updated": "2026-01-26T23:13:35.270966+00:00",
   "version": "1.0.0"
 }
