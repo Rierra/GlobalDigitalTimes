@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "5a60998487d7",
+      "title": "Microsoft\u2019s latest AI chip goes head-to-head with Amazon and Google",
+      "slug": "microsofts-latest-ai-chip-goes-head-to-head-with-amazon-and-google",
+      "original_link": "https://www.theverge.com/news/867670/microsoft-maia-200-ai-chip-announcement",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-26T16:21:12.528264+00:00",
+      "word_count": 70
+    },
+    {
+      "id": "450f4184f7b9",
+      "title": "Microsoft announces powerful new chip for AI inference",
+      "slug": "microsoft-announces-powerful-new-chip-for-ai-inference",
+      "original_link": "https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-26T16:21:11.714776+00:00",
+      "word_count": 67
+    },
+    {
       "id": "f664b56d2b54",
       "title": "2026 is the year of social media\u2019s legal reckoning",
       "slug": "2026-is-the-year-of-social-medias-legal-reckoning",
@@ -4979,28 +4999,8 @@
       "topic": "Robotics",
       "generated_at": "2026-01-05T23:39:22.049267+00:00",
       "word_count": 37
-    },
-    {
-      "id": "c94a69b04c59",
-      "title": "Microsoft\u2019s Nadella wants us to stop thinking of AI as \u2018slop\u2019",
-      "slug": "microsofts-nadella-wants-us-to-stop-thinking-of-ai-as-slop",
-      "original_link": "https://techcrunch.com/2026/01/05/microsofts-nadella-wants-us-to-stop-thinking-of-ai-as-slop/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-05T23:12:12.536019+00:00",
-      "word_count": 40
-    },
-    {
-      "id": "308803a8101a",
-      "title": "Jensen Huang Says Nvidia\u2019s New Vera Rubin Chips Are in \u2018Full Production\u2019",
-      "slug": "jensen-huang-says-nvidias-new-vera-rubin-chips-are-in-full-production",
-      "original_link": "https://www.wired.com/story/nvidias-rubin-chips-are-going-into-production/",
-      "original_source": "Wired",
-      "topic": "AI",
-      "generated_at": "2026-01-05T23:12:00.238568+00:00",
-      "word_count": 40
     }
   ],
-  "last_updated": "2026-01-26T15:50:54.841477+00:00",
+  "last_updated": "2026-01-26T16:21:12.928509+00:00",
   "version": "1.0.0"
 }

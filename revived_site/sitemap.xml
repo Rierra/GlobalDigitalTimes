@@ -7,6 +7,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.globaldigitaltimes.com/articles/microsofts-latest-ai-chip-goes-head-to-head-with-amazon-and-google.html</loc>
+    <lastmod>2026-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.globaldigitaltimes.com/articles/microsoft-announces-powerful-new-chip-for-ai-inference.html</loc>
+    <lastmod>2026-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.globaldigitaltimes.com/articles/2026-is-the-year-of-social-medias-legal-reckoning.html</loc>
     <lastmod>2026-01-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -2990,18 +3002,6 @@
   </url>
   <url>
     <loc>https://www.globaldigitaltimes.com/articles/nvidia-wants-to-be-the-android-of-generalist-robotics.html</loc>
-    <lastmod>2026-01-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.globaldigitaltimes.com/articles/microsofts-nadella-wants-us-to-stop-thinking-of-ai-as-slop.html</loc>
-    <lastmod>2026-01-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.globaldigitaltimes.com/articles/jensen-huang-says-nvidias-new-vera-rubin-chips-are-in-full-production.html</loc>
     <lastmod>2026-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
