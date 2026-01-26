@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "3386d764d751",
+      "title": "OpenAI is working out how much to charge for ChatGPT ads",
+      "slug": "openai-is-working-out-how-much-to-charge-for-chatgpt-ads",
+      "original_link": "https://www.theverge.com/news/867898/openai-chatgpt-ad-pricing",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-26T16:58:31.510942+00:00",
+      "word_count": 71
+    },
+    {
+      "id": "f00ffcbbe7d3",
+      "title": "Internal chats show how social media companies discussed teen engagement",
+      "slug": "internal-chats-show-how-social-media-companies-discussed-teen-engagement",
+      "original_link": "https://www.theverge.com/policy/867845/meta-youtube-snap-tiktok-social-media-trials-documents",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-26T16:58:30.838320+00:00",
+      "word_count": 70
+    },
+    {
       "id": "5a60998487d7",
       "title": "Microsoft\u2019s latest AI chip goes head-to-head with Amazon and Google",
       "slug": "microsofts-latest-ai-chip-goes-head-to-head-with-amazon-and-google",
@@ -4979,28 +4999,8 @@
       "topic": "Robotics",
       "generated_at": "2026-01-06T00:57:32.894563+00:00",
       "word_count": 70
-    },
-    {
-      "id": "8ed1e83a6f2b",
-      "title": "This is Uber\u2019s new robotaxi from Lucid and Nuro",
-      "slug": "this-is-ubers-new-robotaxi-from-lucid-and-nuro",
-      "original_link": "https://techcrunch.com/2026/01/05/this-is-ubers-new-robotaxi-from-lucid-and-nuro/",
-      "original_source": "TechCrunch",
-      "topic": "Robotics",
-      "generated_at": "2026-01-05T23:39:34.328087+00:00",
-      "word_count": 35
-    },
-    {
-      "id": "8508386bf812",
-      "title": "Nvidia wants to be the Android of generalist robotics",
-      "slug": "nvidia-wants-to-be-the-android-of-generalist-robotics",
-      "original_link": "https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/",
-      "original_source": "TechCrunch",
-      "topic": "Robotics",
-      "generated_at": "2026-01-05T23:39:22.049267+00:00",
-      "word_count": 37
     }
   ],
-  "last_updated": "2026-01-26T16:21:12.928509+00:00",
+  "last_updated": "2026-01-26T16:58:31.915073+00:00",
   "version": "1.0.0"
 }

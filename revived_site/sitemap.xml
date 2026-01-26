@@ -7,6 +7,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.globaldigitaltimes.com/articles/openai-is-working-out-how-much-to-charge-for-chatgpt-ads.html</loc>
+    <lastmod>2026-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.globaldigitaltimes.com/articles/internal-chats-show-how-social-media-companies-discussed-teen-engagement.html</loc>
+    <lastmod>2026-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.globaldigitaltimes.com/articles/microsofts-latest-ai-chip-goes-head-to-head-with-amazon-and-google.html</loc>
     <lastmod>2026-01-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -2991,18 +3003,6 @@
   <url>
     <loc>https://www.globaldigitaltimes.com/articles/ecovacs-adds-a-mop-cover-to-its-flagship-robot-vacuum.html</loc>
     <lastmod>2026-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.globaldigitaltimes.com/articles/this-is-ubers-new-robotaxi-from-lucid-and-nuro.html</loc>
-    <lastmod>2026-01-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.globaldigitaltimes.com/articles/nvidia-wants-to-be-the-android-of-generalist-robotics.html</loc>
-    <lastmod>2026-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
