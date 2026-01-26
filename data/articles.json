@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "01b7674e0b62",
+      "title": "Why chatbots are starting to check your age",
+      "slug": "why-chatbots-are-starting-to-check-your-age",
+      "original_link": "https://www.technologyreview.com/2026/01/26/1131726/why-chatbots-are-starting-to-check-your-age/",
+      "original_source": "MIT Technology Review",
+      "topic": "AI",
+      "generated_at": "2026-01-26T17:52:57.651300+00:00",
+      "word_count": 69
+    },
+    {
       "id": "c0d59296a2cd",
       "title": "Payment processors were against CSAM until Grok started making it",
       "slug": "payment-processors-were-against-csam-until-grok-started-making-it",
@@ -4989,18 +4999,8 @@
       "topic": "Robotics",
       "generated_at": "2026-01-06T03:58:45.636417+00:00",
       "word_count": 70
-    },
-    {
-      "id": "71008efe7134",
-      "title": "AMD unveils new AI PC processors for general use and gaming at CES",
-      "slug": "amd-unveils-new-ai-pc-processors-for-general-use-and-gaming-at-ces",
-      "original_link": "https://techcrunch.com/2026/01/05/amd-unveils-new-ai-pc-processors-for-general-use-and-gaming-at-ces/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-06T03:58:33.398670+00:00",
-      "word_count": 39
     }
   ],
-  "last_updated": "2026-01-26T17:28:05.483762+00:00",
+  "last_updated": "2026-01-26T17:52:58.219963+00:00",
   "version": "1.0.0"
 }
