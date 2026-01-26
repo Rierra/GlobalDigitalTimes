@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "f664b56d2b54",
+      "title": "2026 is the year of social media\u2019s legal reckoning",
+      "slug": "2026-is-the-year-of-social-medias-legal-reckoning",
+      "original_link": "https://www.theverge.com/policy/867830/social-media-trials-product-liability-school-districts",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-26T15:50:54.254609+00:00",
+      "word_count": 69
+    },
+    {
       "id": "1d012f0589c5",
       "title": "Nvidia\u2019s new AI weather models probably saw this storm coming weeks ago",
       "slug": "nvidias-new-ai-weather-models-probably-saw-this-storm-coming-weeks-ago",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-05T23:12:00.238568+00:00",
       "word_count": 40
-    },
-    {
-      "id": "4ce92c534026",
-      "title": "Boston Dynamics\u2019s next-gen humanoid robot will have Google DeepMind DNA",
-      "slug": "boston-dynamicss-next-gen-humanoid-robot-will-have-google-deepmind-dna",
-      "original_link": "https://techcrunch.com/2026/01/05/boston-dynamicss-next-gen-humanoid-robot-will-have-google-deepmind-dna/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-05T22:43:54.673117+00:00",
-      "word_count": 30
     }
   ],
-  "last_updated": "2026-01-26T14:26:15.725227+00:00",
+  "last_updated": "2026-01-26T15:50:54.841477+00:00",
   "version": "1.0.0"
 }
