@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "28920f8a19f8",
+      "title": "EU investigates Elon Musk's X over Grok AI sexual deepfakes",
+      "slug": "eu-investigates-elon-musk-s-x-over-grok-ai-sexual-deepfakes",
+      "original_link": "https://www.bbc.com/news/articles/clye99wg0y8o?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "AI",
+      "generated_at": "2026-01-26T12:27:04.363367+00:00",
+      "word_count": 31
+    },
+    {
       "id": "a229a273187e",
       "title": "People Are Protesting Data Centers\u2014but Embracing the Factories That Supply Them",
       "slug": "people-are-protesting-data-centers-but-embracing-the-factories-that-supply-them",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-05T22:13:08.273228+00:00",
       "word_count": 47
-    },
-    {
-      "id": "5cd0c816963e",
-      "title": "Boston Dynamics\u2019 Tesla Bot rival Atlas will start building Hyundai cars in 2028",
-      "slug": "boston-dynamics-tesla-bot-rival-atlas-will-start-building-hyundai-cars-in-2028",
-      "original_link": "https://www.theverge.com/news/853973/hyundai-boston-dynamics-atlas-robot-factory-2028",
-      "original_source": "The Verge",
-      "topic": "Robotics",
-      "generated_at": "2026-01-05T21:40:26.768893+00:00",
-      "word_count": 73
     }
   ],
-  "last_updated": "2026-01-26T11:14:08.392931+00:00",
+  "last_updated": "2026-01-26T12:27:04.790587+00:00",
   "version": "1.0.0"
 }
