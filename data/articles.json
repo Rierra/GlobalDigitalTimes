@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "a99f1ee84c0c",
+      "title": "How to encrypt your PC's disk without giving the keys to Microsoft",
+      "slug": "how-to-encrypt-your-pc-s-disk-without-giving-the-keys-to-microsoft",
+      "original_link": "https://arstechnica.com/gadgets/2026/01/how-to-encrypt-your-pcs-disk-without-giving-the-keys-to-microsoft/",
+      "original_source": "Ars Technica",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-26T18:58:23.103687+00:00",
+      "word_count": 28
+    },
+    {
+      "id": "87897c123e4b",
+      "title": "Google to pay $68m to settle lawsuit claiming it recorded private conversations",
+      "slug": "google-to-pay-68m-to-settle-lawsuit-claiming-it-recorded-private-conversations",
+      "original_link": "https://www.bbc.com/news/articles/c4g38jv8zzwo?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-26T18:58:22.249014+00:00",
+      "word_count": 27
+    },
+    {
       "id": "3fc33a78c602",
       "title": "MCP unites Claude chat with apps like Slack, Figma, and Canva",
       "slug": "mcp-unites-claude-chat-with-apps-like-slack-figma-and-canva",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-06T05:17:35.310617+00:00",
       "word_count": 71
-    },
-    {
-      "id": "b7a4c375cde9",
-      "title": "Nvidia announces DLSS 4.5 with 6x Frame Generation and improved image quality",
-      "slug": "nvidia-announces-dlss-4-5-with-6x-frame-generation-and-improved-image-quality",
-      "original_link": "https://www.theverge.com/tech/854610/nvidia-dlss-4-5-announcement-multi-frame-generation-6x-specs",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-06T05:17:23.289446+00:00",
-      "word_count": 72
-    },
-    {
-      "id": "83b76b489260",
-      "title": "Car giant Hyundai to use human-like robots in factories",
-      "slug": "car-giant-hyundai-to-use-human-like-robots-in-factories",
-      "original_link": "https://www.bbc.com/news/articles/cvgjm5x54ldo?at_medium=RSS&at_campaign=rss",
-      "original_source": "BBC Technology",
-      "topic": "Robotics",
-      "generated_at": "2026-01-06T04:39:12.279111+00:00",
-      "word_count": 34
     }
   ],
-  "last_updated": "2026-01-26T18:21:08.496716+00:00",
+  "last_updated": "2026-01-26T18:58:23.534223+00:00",
   "version": "1.0.0"
 }
