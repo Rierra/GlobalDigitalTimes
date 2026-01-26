@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "3fc33a78c602",
+      "title": "MCP unites Claude chat with apps like Slack, Figma, and Canva",
+      "slug": "mcp-unites-claude-chat-with-apps-like-slack-figma-and-canva",
+      "original_link": "https://www.theverge.com/news/867673/claude-mcp-app-interactive-slack-figma-canva",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-26T18:21:08.165890+00:00",
+      "word_count": 71
+    },
+    {
+      "id": "933b0a36c934",
+      "title": "Anthropic launches interactive Claude apps, including Slack and other workplace tools",
+      "slug": "anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools",
+      "original_link": "https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-26T18:21:07.413133+00:00",
+      "word_count": 34
+    },
+    {
       "id": "01b7674e0b62",
       "title": "Why chatbots are starting to check your age",
       "slug": "why-chatbots-are-starting-to-check-your-age",
@@ -4979,28 +4999,8 @@
       "topic": "Robotics",
       "generated_at": "2026-01-06T04:39:12.279111+00:00",
       "word_count": 34
-    },
-    {
-      "id": "00e9736cf0c9",
-      "title": "AMD Ryzen AI 400 official: Will these laptop chips maintain AMD\u2019s lead?",
-      "slug": "amd-ryzen-ai-400-official-will-these-laptop-chips-maintain-amds-lead",
-      "original_link": "https://www.theverge.com/tech/855343/amd-ryzen-ai-400-release-date",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-06T03:58:57.648072+00:00",
-      "word_count": 72
-    },
-    {
-      "id": "62e2e3306e56",
-      "title": "This $300 hybrid robovac comes with a self-empyting docking station",
-      "slug": "this-300-hybrid-robovac-comes-with-a-self-empyting-docking-station",
-      "original_link": "https://www.theverge.com/news/850979/eureka-e10-evo-plus-docking-station-ces-2026",
-      "original_source": "The Verge",
-      "topic": "Robotics",
-      "generated_at": "2026-01-06T03:58:45.636417+00:00",
-      "word_count": 70
     }
   ],
-  "last_updated": "2026-01-26T17:52:58.219963+00:00",
+  "last_updated": "2026-01-26T18:21:08.496716+00:00",
   "version": "1.0.0"
 }
