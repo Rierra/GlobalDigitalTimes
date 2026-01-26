@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "c9f799c0c8ec",
+      "title": "Synthesia hits $4B valuation, lets employees cash out",
+      "slug": "synthesia-hits-4b-valuation-lets-employees-cash-out",
+      "original_link": "https://techcrunch.com/2026/01/26/synthesia-hits-4b-valuation-lets-employees-cash-in/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-26T09:24:58.241358+00:00",
+      "word_count": 49
+    },
+    {
       "id": "4982f5f29e33",
       "title": "This founder cracked firefighting \u2014 now he\u2019s creating an AI gold mine",
       "slug": "this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine",
@@ -4989,18 +4999,8 @@
       "topic": "Robotics",
       "generated_at": "2026-01-05T21:12:09.023077+00:00",
       "word_count": 32
-    },
-    {
-      "id": "d61a4691f8b5",
-      "title": "Hacktivist deletes white supremacist websites live on stage during hacker conference",
-      "slug": "hacktivist-deletes-white-supremacist-websites-live-on-stage-during-hacker-conference",
-      "original_link": "https://techcrunch.com/2026/01/05/hacktivist-deletes-white-supremacist-websites-live-on-stage-during-hacker-conference/",
-      "original_source": "TechCrunch",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-05T19:15:29.038402+00:00",
-      "word_count": 44
     }
   ],
-  "last_updated": "2026-01-25T23:39:29.710190+00:00",
+  "last_updated": "2026-01-26T09:24:58.695386+00:00",
   "version": "1.0.0"
 }
