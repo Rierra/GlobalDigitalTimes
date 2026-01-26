@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "20f626e0b58b",
+      "title": "OpenAI\u2019s president is a Trump mega-donor",
+      "slug": "openais-president-is-a-trump-mega-donor",
+      "original_link": "https://www.theverge.com/ai-artificial-intelligence/867947/openai-president-greg-brockman-trump-super-pac",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-26T20:15:10.025163+00:00",
+      "word_count": 66
+    },
+    {
+      "id": "3f65e3a2b562",
+      "title": "Google will settle its Assistant spying lawsuit for $68 million",
+      "slug": "google-will-settle-its-assistant-spying-lawsuit-for-68-million",
+      "original_link": "https://www.theverge.com/news/868078/google-assistant-lawsuit-settlement",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-26T20:15:09.014692+00:00",
+      "word_count": 70
+    },
+    {
       "id": "8d740ca68856",
       "title": "Inside OpenAI\u2019s big play for science",
       "slug": "inside-openais-big-play-for-science",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-06T10:14:06.795368+00:00",
       "word_count": 67
-    },
-    {
-      "id": "b573af3e3cfb",
-      "title": "This desktop charger turns your iPhone into a robotic AI assistant",
-      "slug": "this-desktop-charger-turns-your-iphone-into-a-robotic-ai-assistant",
-      "original_link": "https://www.theverge.com/tech/856077/yoona-deskmate-iphone-robot-companion-ai-assistant",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-06T08:52:32.409161+00:00",
-      "word_count": 71
-    },
-    {
-      "id": "e2137ec569d8",
-      "title": "CES Live Blog, Day 2: More of the Coolest Tech From Las Vegas",
-      "slug": "ces-live-blog-day-2-more-of-the-coolest-tech-from-las-vegas",
-      "original_link": "https://www.wired.com/live/ces-2026-live-blog/",
-      "original_source": "Wired",
-      "topic": "AI",
-      "generated_at": "2026-01-06T08:18:06.161311+00:00",
-      "word_count": 37
     }
   ],
-  "last_updated": "2026-01-26T19:22:05.320086+00:00",
+  "last_updated": "2026-01-26T20:15:10.536761+00:00",
   "version": "1.0.0"
 }
