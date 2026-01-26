@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "a229a273187e",
+      "title": "People Are Protesting Data Centers\u2014but Embracing the Factories That Supply Them",
+      "slug": "people-are-protesting-data-centers-but-embracing-the-factories-that-supply-them",
+      "original_link": "https://www.wired.com/story/data-center-criticism-factories-supply-us/",
+      "original_source": "Wired",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-26T11:14:08.056483+00:00",
+      "word_count": 35
+    },
+    {
       "id": "c9f799c0c8ec",
       "title": "Synthesia hits $4B valuation, lets employees cash out",
       "slug": "synthesia-hits-4b-valuation-lets-employees-cash-out",
@@ -4989,18 +4999,8 @@
       "topic": "Robotics",
       "generated_at": "2026-01-05T21:40:26.768893+00:00",
       "word_count": 73
-    },
-    {
-      "id": "f382ae95b9fa",
-      "title": "Google Gemini Is Taking Control of Humanoid Robots on Auto Factory Floors",
-      "slug": "google-gemini-is-taking-control-of-humanoid-robots-on-auto-factory-floors",
-      "original_link": "https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/",
-      "original_source": "Wired",
-      "topic": "Robotics",
-      "generated_at": "2026-01-05T21:12:09.023077+00:00",
-      "word_count": 32
     }
   ],
-  "last_updated": "2026-01-26T09:24:58.695386+00:00",
+  "last_updated": "2026-01-26T11:14:08.392931+00:00",
   "version": "1.0.0"
 }
