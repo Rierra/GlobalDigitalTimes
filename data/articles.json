@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "16013ea73589",
+      "title": "We Strapped on Exoskeletons and Raced. There\u2019s One Clear Winner",
+      "slug": "we-strapped-on-exoskeletons-and-raced-theres-one-clear-winner",
+      "original_link": "https://www.wired.com/story/story/we-raced-exoskeletons-and-theres-one-clear-winner/",
+      "original_source": "Wired",
+      "topic": "Robotics",
+      "generated_at": "2026-01-26T13:24:02.893473+00:00",
+      "word_count": 36
+    },
+    {
       "id": "28920f8a19f8",
       "title": "EU investigates Elon Musk's X over Grok AI sexual deepfakes",
       "slug": "eu-investigates-elon-musk-s-x-over-grok-ai-sexual-deepfakes",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-05T22:13:20.787270+00:00",
       "word_count": 27
-    },
-    {
-      "id": "ec854b291250",
-      "title": "Nvidia launches Alpamayo, open AI models that allow autonomous vehicles to \u2018think like a human\u2019",
-      "slug": "nvidia-launches-alpamayo-open-ai-models-that-allow-autonomous-vehicles-to-think-like-a-human",
-      "original_link": "https://techcrunch.com/2026/01/05/nvidia-launches-alpamayo-open-ai-models-that-allow-autonomous-vehicles-to-think-like-a-human/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-05T22:13:08.273228+00:00",
-      "word_count": 47
     }
   ],
-  "last_updated": "2026-01-26T12:27:04.790587+00:00",
+  "last_updated": "2026-01-26T13:24:03.389619+00:00",
   "version": "1.0.0"
 }
