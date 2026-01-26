@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "8d740ca68856",
+      "title": "Inside OpenAI\u2019s big play for science",
+      "slug": "inside-openais-big-play-for-science",
+      "original_link": "https://www.technologyreview.com/2026/01/26/1131728/inside-openais-big-play-for-science/",
+      "original_source": "MIT Technology Review",
+      "topic": "AI",
+      "generated_at": "2026-01-26T19:22:04.974895+00:00",
+      "word_count": 66
+    },
+    {
+      "id": "8162f166876a",
+      "title": "AI startup CVector raises $5M for its industrial \u2018nervous system\u2019",
+      "slug": "ai-startup-cvector-raises-5m-for-its-industrial-nervous-system",
+      "original_link": "https://techcrunch.com/2026/01/26/ai-startup-cvector-raises-5m-for-its-industrial-nervous-system/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-26T19:22:04.211011+00:00",
+      "word_count": 69
+    },
+    {
       "id": "a99f1ee84c0c",
       "title": "How to encrypt your PC's disk without giving the keys to Microsoft",
       "slug": "how-to-encrypt-your-pc-s-disk-without-giving-the-keys-to-microsoft",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-06T08:18:06.161311+00:00",
       "word_count": 37
-    },
-    {
-      "id": "0dbfaae77343",
-      "title": "Narwal adds AI to its vacuum cleaners to monitor pets and find jewelry",
-      "slug": "narwal-adds-ai-to-its-vacuum-cleaners-to-monitor-pets-and-find-jewelry",
-      "original_link": "https://techcrunch.com/2026/01/05/narwal-adds-ai-to-its-vacuum-cleaners-to-monitor-pets-and-find-jewelry/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-06T07:19:09.708920+00:00",
-      "word_count": 29
-    },
-    {
-      "id": "3c4b56035b26",
-      "title": "Emerson\u2019s SmartVoice devices follow verbal instructions without Wi-Fi or a hub",
-      "slug": "emersons-smartvoice-devices-follow-verbal-instructions-without-wi-fi-or-a-hub",
-      "original_link": "https://www.theverge.com/tech/850919/smart-appliance-emerson-smartvoice-ces",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-06T05:17:35.310617+00:00",
-      "word_count": 71
     }
   ],
-  "last_updated": "2026-01-26T18:58:23.534223+00:00",
+  "last_updated": "2026-01-26T19:22:05.320086+00:00",
   "version": "1.0.0"
 }
