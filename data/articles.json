@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "9cf37d9d177b",
+      "title": "If you live in the UK, you probably won\u2019t be able to visit Pornhub anymore",
+      "slug": "if-you-live-in-the-uk-you-probably-wont-be-able-to-visit-pornhub-anymore",
+      "original_link": "https://techcrunch.com/2026/01/27/if-you-live-in-the-uk-you-probably-wont-be-able-to-visit-pornhub-anymore/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-27T17:50:50.529531+00:00",
+      "word_count": 48
+    },
+    {
+      "id": "625aaab1198c",
+      "title": "WhatsApp is rolling out a new stricter security setting to protect users from cyber attacts",
+      "slug": "whatsapp-is-rolling-out-a-new-stricter-security-setting-to-protect-users-from-cyber-attacts",
+      "original_link": "https://techcrunch.com/2026/01/27/whatsapp-is-rolling-out-a-new-stricter-security-setting-to-protect-users-from-cyber-attacts/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-27T17:50:49.594796+00:00",
+      "word_count": 76
+    },
+    {
       "id": "ed17ffb14a28",
       "title": "Google now lets users jump from AI Overviews into AI Mode conversations",
       "slug": "google-now-lets-users-jump-from-ai-overviews-into-ai-mode-conversations",
@@ -4979,28 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2026-01-07T13:11:36.268476+00:00",
       "word_count": 40
-    },
-    {
-      "id": "0ba59559ed19",
-      "title": "LLMs contain a LOT of parameters. But what\u2019s a parameter?",
-      "slug": "llms-contain-a-lot-of-parameters-but-whats-a-parameter",
-      "original_link": "https://www.technologyreview.com/2026/01/07/1130795/what-even-is-a-parameter/",
-      "original_source": "MIT Technology Review",
-      "topic": "AI",
-      "generated_at": "2026-01-07T12:24:51.106644+00:00",
-      "word_count": 70
-    },
-    {
-      "id": "8d40c3ac60be",
-      "title": "The man who made India digital isn\u2019t done yet",
-      "slug": "the-man-who-made-india-digital-isnt-done-yet",
-      "original_link": "https://www.technologyreview.com/2026/01/07/1129748/aadhaar-nandan-nilekani-india-digital-biometric-identity-data/",
-      "original_source": "MIT Technology Review",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-07T11:39:33.383773+00:00",
-      "word_count": 69
     }
   ],
-  "last_updated": "2026-01-27T17:20:45.636618+00:00",
+  "last_updated": "2026-01-27T17:50:50.819987+00:00",
   "version": "1.0.0"
 }
