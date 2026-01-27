@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "4945cb4789a7",
+      "title": "China\u2019s Moonshot releases a new open-source model Kimi K2.5 and a coding agent",
+      "slug": "chinas-moonshot-releases-a-new-open-source-model-kimi-k2-5-and-a-coding-agent",
+      "original_link": "https://techcrunch.com/2026/01/27/chinas-moonshot-releases-a-new-open-source-model-kimi-k2-5-and-a-coding-agent/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-27T14:55:32.471274+00:00",
+      "word_count": 32
+    },
+    {
+      "id": "f08d46516625",
+      "title": "Luminar receives a larger $33 million bid for its lidar business",
+      "slug": "luminar-receives-a-larger-33-million-bid-for-its-lidar-business",
+      "original_link": "https://techcrunch.com/2026/01/27/luminar-receives-a-larger-33-million-bid-for-its-lidar-business/",
+      "original_source": "TechCrunch",
+      "topic": "Robotics",
+      "generated_at": "2026-01-27T14:55:31.745094+00:00",
+      "word_count": 38
+    },
+    {
+      "id": "49997553c523",
+      "title": "Pinterest cuts workforce by around 15 percent to focus on AI",
+      "slug": "pinterest-cuts-workforce-by-around-15-percent-to-focus-on-ai",
+      "original_link": "https://www.theverge.com/news/868531/pinterest-layoffs-cuts-15-percent-ai-transformation",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-27T14:55:31.015392+00:00",
+      "word_count": 71
+    },
+    {
       "id": "e6b083b420c4",
       "title": "This Humanoid Is Ready to Bring You a Toothbrush",
       "slug": "this-humanoid-is-ready-to-bring-you-a-toothbrush",
@@ -4969,38 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-06T23:12:22.372838+00:00",
       "word_count": 74
-    },
-    {
-      "id": "2f38a12a7228",
-      "title": "Grok Is Pushing AI \u2018Undressing\u2019 Mainstream",
-      "slug": "grok-is-pushing-ai-undressing-mainstream",
-      "original_link": "https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/",
-      "original_source": "Wired",
-      "topic": "AI",
-      "generated_at": "2026-01-06T22:44:13.422387+00:00",
-      "word_count": 41
-    },
-    {
-      "id": "95a2e6a0d029",
-      "title": "A viral Reddit post alleging fraud from a food delivery app turned out to be AI-generated",
-      "slug": "a-viral-reddit-post-alleging-fraud-from-a-food-delivery-app-turned-out-to-be-ai-generated",
-      "original_link": "https://techcrunch.com/2026/01/06/a-viral-reddit-post-alleging-fraud-from-a-food-delivery-app-turned-out-to-be-ai-generated/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-06T22:44:12.463805+00:00",
-      "word_count": 36
-    },
-    {
-      "id": "572082de5e57",
-      "title": "Letting prisons jam contraband phones is a bad idea, phone companies tell FCC",
-      "slug": "letting-prisons-jam-contraband-phones-is-a-bad-idea-phone-companies-tell-fcc",
-      "original_link": "https://arstechnica.com/tech-policy/2026/01/letting-prisons-jam-contraband-phones-is-a-bad-idea-phone-companies-tell-fcc/",
-      "original_source": "Ars Technica",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-06T21:40:27.843488+00:00",
-      "word_count": 28
     }
   ],
-  "last_updated": "2026-01-27T14:01:08.011922+00:00",
+  "last_updated": "2026-01-27T14:55:32.708580+00:00",
   "version": "1.0.0"
 }
