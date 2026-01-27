@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "4357a9e0f443",
+      "title": "Tesla\u2019s robotaxis are cheaper than Waymo, but the wait times are longer",
+      "slug": "teslas-robotaxis-are-cheaper-than-waymo-but-the-wait-times-are-longer",
+      "original_link": "https://www.theverge.com/news/867934/tesla-waymo-robotaxi-price-comparison-uber-lyft-obi",
+      "original_source": "The Verge",
+      "topic": "Robotics",
+      "generated_at": "2026-01-27T15:21:16.743595+00:00",
+      "word_count": 72
+    },
+    {
       "id": "4945cb4789a7",
       "title": "China\u2019s Moonshot releases a new open-source model Kimi K2.5 and a coding agent",
       "slug": "chinas-moonshot-releases-a-new-open-source-model-kimi-k2-5-and-a-coding-agent",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-06T23:12:23.070865+00:00",
       "word_count": 71
-    },
-    {
-      "id": "7a7932357744",
-      "title": "CES 2026: Everything revealed, from Nvidia\u2019s debuts to AMD\u2019s new chips to Razer\u2019s AI oddities",
-      "slug": "ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities",
-      "original_link": "https://techcrunch.com/2026/01/06/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-06T23:12:22.372838+00:00",
-      "word_count": 74
     }
   ],
-  "last_updated": "2026-01-27T14:55:32.708580+00:00",
+  "last_updated": "2026-01-27T15:21:17.233287+00:00",
   "version": "1.0.0"
 }
