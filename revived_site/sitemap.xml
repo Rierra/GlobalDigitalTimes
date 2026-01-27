@@ -7,6 +7,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.globaldigitaltimes.com/articles/airtable-gets-into-the-ai-agent-game-with-superagent.html</loc>
+    <lastmod>2026-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.globaldigitaltimes.com/articles/risotto-raises-10m-seed-to-use-ai-to-make-ticketing-systems-easier-to-use.html</loc>
+    <lastmod>2026-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.globaldigitaltimes.com/articles/teslas-robotaxis-are-cheaper-than-waymo-but-the-wait-times-are-longer.html</loc>
     <lastmod>2026-01-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -2991,18 +3003,6 @@
   <url>
     <loc>https://www.globaldigitaltimes.com/articles/metas-manus-news-is-getting-different-receptions-in-washington-and-beijing.html</loc>
     <lastmod>2026-01-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.globaldigitaltimes.com/articles/listening-to-battery-failure.html</loc>
-    <lastmod>2026-01-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.globaldigitaltimes.com/articles/jake-sullivan-is-furious-that-trump-destroyed-his-ai-foreign-policy.html</loc>
-    <lastmod>2026-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

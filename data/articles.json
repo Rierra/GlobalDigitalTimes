@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "4b4600e5515c",
+      "title": "Airtable gets into the AI agent game with Superagent",
+      "slug": "airtable-gets-into-the-ai-agent-game-with-superagent",
+      "original_link": "https://techcrunch.com/2026/01/27/airtables-valuation-fell-by-7-million-its-founder-thinks-that-was-just-the-warm-up/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-27T15:49:15.041643+00:00",
+      "word_count": 49
+    },
+    {
+      "id": "e54af86b812e",
+      "title": "Risotto raises $10M seed to use AI to make ticketing systems easier to use",
+      "slug": "risotto-raises-10m-seed-to-use-ai-to-make-ticketing-systems-easier-to-use",
+      "original_link": "https://techcrunch.com/2026/01/27/risotto-raises-10m-seed-to-use-ai-to-make-ticketing-systems-easier-to-use/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-27T15:49:14.191841+00:00",
+      "word_count": 39
+    },
+    {
       "id": "4357a9e0f443",
       "title": "Tesla\u2019s robotaxis are cheaper than Waymo, but the wait times are longer",
       "slug": "teslas-robotaxis-are-cheaper-than-waymo-but-the-wait-times-are-longer",
@@ -4979,28 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2026-01-07T02:56:17.067009+00:00",
       "word_count": 37
-    },
-    {
-      "id": "763bcf0a317e",
-      "title": "Listening to battery failure",
-      "slug": "listening-to-battery-failure",
-      "original_link": "https://www.technologyreview.com/2026/01/06/1129007/listening-to-battery-failure/",
-      "original_source": "MIT Technology Review",
-      "topic": "Other",
-      "generated_at": "2026-01-07T00:58:01.836192+00:00",
-      "word_count": 64
-    },
-    {
-      "id": "f78d66b89432",
-      "title": "Jake Sullivan is furious that Trump destroyed his AI foreign policy",
-      "slug": "jake-sullivan-is-furious-that-trump-destroyed-his-ai-foreign-policy",
-      "original_link": "https://www.theverge.com/policy/856815/jake-sullivan-interview-ai-chips-nvidia-trump",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-06T23:12:23.070865+00:00",
-      "word_count": 71
     }
   ],
-  "last_updated": "2026-01-27T15:21:17.233287+00:00",
+  "last_updated": "2026-01-27T15:49:15.310550+00:00",
   "version": "1.0.0"
 }
