@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "72860e758dce",
+      "title": "California probes US TikTok over claims it censors anti-Trump content",
+      "slug": "california-probes-us-tiktok-over-claims-it-censors-anti-trump-content",
+      "original_link": "https://www.bbc.com/news/articles/ckgjedpn8p8o?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-27T12:26:08.250166+00:00",
+      "word_count": 39
+    },
+    {
       "id": "cf28c0e46a9b",
       "title": "All rise for JudgeGPT",
       "slug": "all-rise-for-judgegpt",
@@ -4989,18 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2026-01-06T20:44:25.667344+00:00",
       "word_count": 49
-    },
-    {
-      "id": "77ce4ab9823e",
-      "title": "Grok is undressing children \u2014 can the law stop it?",
-      "slug": "grok-is-undressing-children-can-the-law-stop-it",
-      "original_link": "https://www.theverge.com/ai-artificial-intelligence/855832/grok-undressing-children-csam-law-x-elon-musk",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-06T20:13:50.443247+00:00",
-      "word_count": 70
     }
   ],
-  "last_updated": "2026-01-27T11:42:31.185560+00:00",
+  "last_updated": "2026-01-27T12:26:08.566900+00:00",
   "version": "1.0.0"
 }
