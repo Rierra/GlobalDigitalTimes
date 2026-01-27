@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "84789800875e",
+      "title": "\u2018Among the worst we\u2019ve seen\u2019: report slams xAI\u2019s Grok over child safety failures",
+      "slug": "among-the-worst-weve-seen-report-slams-xais-grok-over-child-safety-failures",
+      "original_link": "https://techcrunch.com/2026/01/27/among-the-worst-weve-seen-report-slams-xais-grok-over-child-safety-failures/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-27T10:17:20.613447+00:00",
+      "word_count": 47
+    },
+    {
       "id": "3a541b1ef2c0",
       "title": "Can India be a player in the computer chip industry?",
       "slug": "can-india-be-a-player-in-the-computer-chip-industry",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-06T19:36:24.825191+00:00",
       "word_count": 36
-    },
-    {
-      "id": "66ffc06a3cbd",
-      "title": "News orgs want OpenAI to dig up millions of deleted ChatGPT logs",
-      "slug": "news-orgs-want-openai-to-dig-up-millions-of-deleted-chatgpt-logs",
-      "original_link": "https://arstechnica.com/ai/2026/01/news-orgs-want-openai-to-dig-up-millions-of-deleted-chatgpt-logs/",
-      "original_source": "Ars Technica",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-06T19:09:44.439949+00:00",
-      "word_count": 29
     }
   ],
-  "last_updated": "2026-01-27T05:02:09.141366+00:00",
+  "last_updated": "2026-01-27T10:17:21.025999+00:00",
   "version": "1.0.0"
 }
