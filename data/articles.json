@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "7ea5bb114d93",
+      "title": "Pornhub will block new users in the UK next month",
+      "slug": "pornhub-will-block-new-users-in-the-uk-next-month",
+      "original_link": "https://www.theverge.com/news/868640/pornhub-uk-block-age-verification-online-safety-act",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-27T16:54:38.128727+00:00",
+      "word_count": 70
+    },
+    {
+      "id": "692324fb4154",
+      "title": "Dozens of nudify apps found on Google and Apple\u2019s app stores",
+      "slug": "dozens-of-nudify-apps-found-on-google-and-apples-app-stores",
+      "original_link": "https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-27T16:54:37.367630+00:00",
+      "word_count": 71
+    },
+    {
       "id": "49a312ba4287",
       "title": "Pornhub Will Block New UK Users Starting Next Week to Protest \u2018Flawed\u2019 ID Law",
       "slug": "pornhub-will-block-new-uk-users-starting-next-week-to-protest-flawed-id-law",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-07T03:59:12.920579+00:00",
       "word_count": 35
-    },
-    {
-      "id": "38c767d7d1c8",
-      "title": "Lenovo\u2019s joining the bandwagon with concept AI glasses",
-      "slug": "lenovos-joining-the-bandwagon-with-concept-ai-glasses",
-      "original_link": "https://www.theverge.com/tech/853434/ces-2026-lenovo-concept-ai-glasses-wearables",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-07T02:56:18.464481+00:00",
-      "word_count": 68
-    },
-    {
-      "id": "998965d49952",
-      "title": "Lenovo is building an AI assistant that \u2018can act on your behalf\u2019",
-      "slug": "lenovo-is-building-an-ai-assistant-that-can-act-on-your-behalf",
-      "original_link": "https://www.theverge.com/column/857053/lenovo-ai-assistant-qira",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-07T02:56:17.916546+00:00",
-      "word_count": 72
     }
   ],
-  "last_updated": "2026-01-27T16:18:14.389308+00:00",
+  "last_updated": "2026-01-27T16:54:38.497476+00:00",
   "version": "1.0.0"
 }
