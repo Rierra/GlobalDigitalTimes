@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "92286a57ae3b",
+      "title": "Google pays $68M to settle claims its voice assistant spied on users",
+      "slug": "google-pays-68m-to-settle-claims-its-voice-assistant-spied-on-users",
+      "original_link": "https://techcrunch.com/2026/01/26/google-pays-68-million-to-settle-claims-its-voice-assistant-spied-on-users/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-27T03:19:11.139814+00:00",
+      "word_count": 55
+    },
+    {
+      "id": "915b58e7ecf3",
+      "title": "Qualcomm backs SpotDraft to scale on-device contract AI with valuation doubling toward $400M",
+      "slug": "qualcomm-backs-spotdraft-to-scale-on-device-contract-ai-with-valuation-doubling-toward-400m",
+      "original_link": "https://techcrunch.com/2026/01/26/qualcomm-backs-spotdraft-to-scale-on-device-contract-ai-with-valuation-doubling-toward-400m/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-27T03:19:10.357905+00:00",
+      "word_count": 34
+    },
+    {
       "id": "363ff94e3772",
       "title": "AI chip startup Ricursive hits $4B valuation two months after launch",
       "slug": "ai-chip-startup-ricursive-hits-4b-valuation-two-months-after-launch",
@@ -4979,28 +4999,8 @@
       "topic": "Robotics",
       "generated_at": "2026-01-06T17:16:21.567564+00:00",
       "word_count": 68
-    },
-    {
-      "id": "cb4625a0b24b",
-      "title": "Roborock launches its first robot lawn mower in the US",
-      "slug": "roborock-launches-its-first-robot-lawn-mower-in-the-us",
-      "original_link": "https://www.theverge.com/news/851696/roborock-launches-its-first-robot-lawnmower-in-the-us",
-      "original_source": "The Verge",
-      "topic": "Robotics",
-      "generated_at": "2026-01-06T17:16:20.833738+00:00",
-      "word_count": 70
-    },
-    {
-      "id": "40498a329738",
-      "title": "Meta is adding a teleprompter and virtual writing to its Ray-Ban Display glasses",
-      "slug": "meta-is-adding-a-teleprompter-and-virtual-writing-to-its-ray-ban-display-glasses",
-      "original_link": "https://www.theverge.com/news/856422/meta-ray-ban-display-emg-handwriting-teleprompter",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-06T15:13:34.482636+00:00",
-      "word_count": 73
     }
   ],
-  "last_updated": "2026-01-27T01:01:30.919057+00:00",
+  "last_updated": "2026-01-27T03:19:11.486359+00:00",
   "version": "1.0.0"
 }
