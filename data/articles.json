@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "a510d467daad",
+      "title": "Tech giants face landmark trial over social media addiction claims",
+      "slug": "tech-giants-face-landmark-trial-over-social-media-addiction-claims",
+      "original_link": "https://www.bbc.com/news/articles/c24g8v6qr1mo?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-27T04:29:40.023738+00:00",
+      "word_count": 29
+    },
+    {
       "id": "92286a57ae3b",
       "title": "Google pays $68M to settle claims its voice assistant spied on users",
       "slug": "google-pays-68m-to-settle-claims-its-voice-assistant-spied-on-users",
@@ -4989,18 +4999,8 @@
       "topic": "Other",
       "generated_at": "2026-01-06T18:51:45.807267+00:00",
       "word_count": 68
-    },
-    {
-      "id": "28b46423c3db",
-      "title": "Roborock\u2019s Rover walks, jumps, and vacuums your stairs",
-      "slug": "roborocks-rover-walks-jumps-and-vacuums-your-stairs",
-      "original_link": "https://www.theverge.com/tech/852121/roborock-saros-rover-stair-climbing-robot-vacuum-ces-2026",
-      "original_source": "The Verge",
-      "topic": "Robotics",
-      "generated_at": "2026-01-06T17:16:21.567564+00:00",
-      "word_count": 68
     }
   ],
-  "last_updated": "2026-01-27T03:19:11.486359+00:00",
+  "last_updated": "2026-01-27T04:29:40.597463+00:00",
   "version": "1.0.0"
 }
