@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "5165f65cbc7e",
+      "title": "Anthropic reportedly upped its latest raise to $20B",
+      "slug": "anthropic-reportedly-upped-its-latest-raise-to-20b",
+      "original_link": "https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-27T21:39:31.179290+00:00",
+      "word_count": 26
+    },
+    {
       "id": "c85686b1bcb2",
       "title": "Amazon agrees to pay consumers $309M in returns policy settlement",
       "slug": "amazon-agrees-to-pay-consumers-309m-in-returns-policy-settlement",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-07T19:39:36.286661+00:00",
       "word_count": 71
-    },
-    {
-      "id": "58bd791a39ab",
-      "title": "AI Models Are Starting to Learn by Asking Themselves Questions",
-      "slug": "ai-models-are-starting-to-learn-by-asking-themselves-questions",
-      "original_link": "https://www.wired.com/story/ai-models-keep-learning-after-training-research/",
-      "original_source": "Wired",
-      "topic": "AI",
-      "generated_at": "2026-01-07T19:14:07.325950+00:00",
-      "word_count": 31
     }
   ],
-  "last_updated": "2026-01-27T20:44:26.864717+00:00",
+  "last_updated": "2026-01-27T21:39:31.695926+00:00",
   "version": "1.0.0"
 }
