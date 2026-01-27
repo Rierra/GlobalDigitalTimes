@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "49a312ba4287",
+      "title": "Pornhub Will Block New UK Users Starting Next Week to Protest \u2018Flawed\u2019 ID Law",
+      "slug": "pornhub-will-block-new-uk-users-starting-next-week-to-protest-flawed-id-law",
+      "original_link": "https://www.wired.com/story/pornhub-will-block-new-uk-users-starting-next-week-to-protest-flawed-id-law/",
+      "original_source": "Wired",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-27T16:18:13.767542+00:00",
+      "word_count": 37
+    },
+    {
       "id": "4b4600e5515c",
       "title": "Airtable gets into the AI agent game with Superagent",
       "slug": "airtable-gets-into-the-ai-agent-game-with-superagent",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-07T02:56:17.916546+00:00",
       "word_count": 72
-    },
-    {
-      "id": "6b10952ba6cb",
-      "title": "Meta\u2019s Manus news is getting different receptions in Washington and Beijing",
-      "slug": "metas-manus-news-is-getting-different-receptions-in-washington-and-beijing",
-      "original_link": "https://techcrunch.com/2026/01/06/metas-manus-news-is-getting-different-receptions-in-washington-and-beijing/",
-      "original_source": "TechCrunch",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-07T02:56:17.067009+00:00",
-      "word_count": 37
     }
   ],
-  "last_updated": "2026-01-27T15:49:15.310550+00:00",
+  "last_updated": "2026-01-27T16:18:14.389308+00:00",
   "version": "1.0.0"
 }
