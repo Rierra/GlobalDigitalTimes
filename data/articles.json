@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "34442ea637b3",
+      "title": "New Data Shows Robotaxis Competing on Price\u2014and Speed",
+      "slug": "new-data-shows-robotaxis-competing-on-price-and-speed",
+      "original_link": "https://www.wired.com/story/new-data-shows-robotaxis-competing-on-price-and-speed/",
+      "original_source": "Wired",
+      "topic": "Robotics",
+      "generated_at": "2026-01-27T19:01:23.712808+00:00",
+      "word_count": 45
+    },
+    {
       "id": "644cdfa4085a",
       "title": "Anthropic and OpenAI CEOs condemn ICE violence, praise Trump",
       "slug": "anthropic-and-openai-ceos-condemn-ice-violence-praise-trump",
@@ -4989,18 +4999,8 @@
       "topic": "Other",
       "generated_at": "2026-01-07T17:48:31.874359+00:00",
       "word_count": 67
-    },
-    {
-      "id": "974ba45d7970",
-      "title": "Caterpillar taps Nvidia to bring AI to its construction equipment",
-      "slug": "caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment",
-      "original_link": "https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-07T17:18:11.012472+00:00",
-      "word_count": 34
     }
   ],
-  "last_updated": "2026-01-27T18:25:49.873023+00:00",
+  "last_updated": "2026-01-27T19:01:24.244019+00:00",
   "version": "1.0.0"
 }
