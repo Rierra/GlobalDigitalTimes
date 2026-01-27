@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "bc8e6651f37b",
+      "title": "Pornhub to restrict access for UK users from February",
+      "slug": "pornhub-to-restrict-access-for-uk-users-from-february",
+      "original_link": "https://www.bbc.com/news/articles/czr428rxg57o?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-27T20:14:10.166049+00:00",
+      "word_count": 38
+    },
+    {
       "id": "24f96c6336d5",
       "title": "The State-Led Crackdown on Grok and xAI Has Begun",
       "slug": "the-state-led-crackdown-on-grok-and-xai-has-begun",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-07T18:54:20.742922+00:00",
       "word_count": 72
-    },
-    {
-      "id": "08aaf4efb417",
-      "title": "Anthropic reportedly raising $10B at $350B valuation",
-      "slug": "anthropic-reportedly-raising-10b-at-350b-valuation",
-      "original_link": "https://techcrunch.com/2026/01/07/anthropic-reportedly-raising-10b-at-350b-valuation/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-07T18:54:19.967065+00:00",
-      "word_count": 31
     }
   ],
-  "last_updated": "2026-01-27T19:45:33.230653+00:00",
+  "last_updated": "2026-01-27T20:14:10.652849+00:00",
   "version": "1.0.0"
 }
