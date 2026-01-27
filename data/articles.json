@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "644cdfa4085a",
+      "title": "Anthropic and OpenAI CEOs condemn ICE violence, praise Trump",
+      "slug": "anthropic-and-openai-ceos-condemn-ice-violence-praise-trump",
+      "original_link": "https://techcrunch.com/2026/01/27/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-27T18:25:49.513514+00:00",
+      "word_count": 40
+    },
+    {
+      "id": "338c0fdfcef0",
+      "title": "WhatsApp&#8217;s new &#8216;lockdown&#8217; settings add another layer of protection against cyberattacks",
+      "slug": "whatsapp-s-new-lockdown-settings-add-another-layer-of-protection-against-cyberattacks",
+      "original_link": "https://www.theverge.com/news/868722/whatsapp-strict-account-settings-cyberattacks",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-27T18:25:48.890190+00:00",
+      "word_count": 71
+    },
+    {
+      "id": "bcef289b5a64",
+      "title": "OpenAI launches Prism, a new AI workspace for scientists",
+      "slug": "openai-launches-prism-a-new-ai-workspace-for-scientists",
+      "original_link": "https://techcrunch.com/2026/01/27/openai-launches-prism-a-new-ai-workspace-for-scientists/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-27T18:25:48.221496+00:00",
+      "word_count": 32
+    },
+    {
       "id": "9cf37d9d177b",
       "title": "If you live in the UK, you probably won\u2019t be able to visit Pornhub anymore",
       "slug": "if-you-live-in-the-uk-you-probably-wont-be-able-to-visit-pornhub-anymore",
@@ -4969,38 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-07T17:18:11.012472+00:00",
       "word_count": 34
-    },
-    {
-      "id": "7fda5255b00a",
-      "title": "Deploying a hybrid approach to Web3 in the AI era",
-      "slug": "deploying-a-hybrid-approach-to-web3-in-the-ai-era",
-      "original_link": "https://www.technologyreview.com/2026/01/07/1129490/deploying-a-hybrid-approach-to-web3-in-the-ai-era/",
-      "original_source": "MIT Technology Review",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-07T14:47:37.944093+00:00",
-      "word_count": 70
-    },
-    {
-      "id": "df6cb3d8545f",
-      "title": "The Download: war in Europe, and the company that wants to cool the planet",
-      "slug": "the-download-war-in-europe-and-the-company-that-wants-to-cool-the-planet",
-      "original_link": "https://www.technologyreview.com/2026/01/07/1130806/the-download-war-in-europe-and-the-company-that-wants-to-cool-the-planet/",
-      "original_source": "MIT Technology Review",
-      "topic": "AI",
-      "generated_at": "2026-01-07T13:55:28.164221+00:00",
-      "word_count": 76
-    },
-    {
-      "id": "88dfb358324a",
-      "title": "Roblox now requires all users globally to complete age checks to access chat",
-      "slug": "roblox-now-requires-all-users-globally-to-complete-age-checks-to-access-chat",
-      "original_link": "https://techcrunch.com/2026/01/07/roblox-now-requires-all-users-globally-to-complete-age-checks-to-access-chat/",
-      "original_source": "TechCrunch",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-07T13:11:36.268476+00:00",
-      "word_count": 40
     }
   ],
-  "last_updated": "2026-01-27T17:50:50.819987+00:00",
+  "last_updated": "2026-01-27T18:25:49.873023+00:00",
   "version": "1.0.0"
 }
