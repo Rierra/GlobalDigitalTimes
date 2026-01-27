@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "c85686b1bcb2",
+      "title": "Amazon agrees to pay consumers $309M in returns policy settlement",
+      "slug": "amazon-agrees-to-pay-consumers-309m-in-returns-policy-settlement",
+      "original_link": "https://techcrunch.com/2026/01/27/amazon-agrees-to-pay-consumers-309m-in-returns-policy-settlement/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-27T20:44:26.343801+00:00",
+      "word_count": 38
+    },
+    {
       "id": "bc8e6651f37b",
       "title": "Pornhub to restrict access for UK users from February",
       "slug": "pornhub-to-restrict-access-for-uk-users-from-february",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-07T19:14:07.325950+00:00",
       "word_count": 31
-    },
-    {
-      "id": "28d719d82ce6",
-      "title": "Where VCs think AI startups can win, even with OpenAI in the game",
-      "slug": "where-vcs-think-ai-startups-can-win-even-with-openai-in-the-game",
-      "original_link": "https://techcrunch.com/video/where-vcs-think-ai-startups-can-win-even-with-openai-in-the-game/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-07T18:54:20.742922+00:00",
-      "word_count": 72
     }
   ],
-  "last_updated": "2026-01-27T20:14:10.652849+00:00",
+  "last_updated": "2026-01-27T20:44:26.864717+00:00",
   "version": "1.0.0"
 }
