@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "cf28c0e46a9b",
+      "title": "All rise for JudgeGPT",
+      "slug": "all-rise-for-judgegpt",
+      "original_link": "https://www.theverge.com/policy/868151/ai-judges-arbitration",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-27T11:42:30.706080+00:00",
+      "word_count": 64
+    },
+    {
       "id": "635f0add6a90",
       "title": "Instagram, Facebook, and WhatsApp will test premium subscriptions",
       "slug": "instagram-facebook-and-whatsapp-will-test-premium-subscriptions",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-06T20:13:50.443247+00:00",
       "word_count": 70
-    },
-    {
-      "id": "66d0b2147836",
-      "title": "Universal Music signs a new AI deal with Nvidia",
-      "slug": "universal-music-signs-a-new-ai-deal-with-nvidia",
-      "original_link": "https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-06T20:13:49.689900+00:00",
-      "word_count": 69
     }
   ],
-  "last_updated": "2026-01-27T10:52:41.065540+00:00",
+  "last_updated": "2026-01-27T11:42:31.185560+00:00",
   "version": "1.0.0"
 }
