@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "24f96c6336d5",
+      "title": "The State-Led Crackdown on Grok and xAI Has Begun",
+      "slug": "the-state-led-crackdown-on-grok-and-xai-has-begun",
+      "original_link": "https://www.wired.com/story/the-state-led-crackdown-on-grok-and-xai-has-begun/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-27T19:45:32.725951+00:00",
+      "word_count": 40
+    },
+    {
+      "id": "ef9eebae113a",
+      "title": "Amazon Alexa+ Is Now Available to Everyone. Here\u2019s How to Turn It Off (2026)",
+      "slug": "amazon-alexa-is-now-available-to-everyone-heres-how-to-turn-it-off-2026",
+      "original_link": "https://www.wired.com/story/alexa-plus-early-access-rollout-2026/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-27T19:45:31.567217+00:00",
+      "word_count": 41
+    },
+    {
       "id": "34442ea637b3",
       "title": "New Data Shows Robotaxis Competing on Price\u2014and Speed",
       "slug": "new-data-shows-robotaxis-competing-on-price-and-speed",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-07T18:54:19.967065+00:00",
       "word_count": 31
-    },
-    {
-      "id": "71ffec5a08aa",
-      "title": "Google Classroom\u2019s new tool uses Gemini to transform lessons into podcast episodes",
-      "slug": "google-classrooms-new-tool-uses-gemini-to-transform-lessons-into-podcast-episodes",
-      "original_link": "https://techcrunch.com/2026/01/07/google-classrooms-new-tool-uses-gemini-to-transform-lessons-into-podcast-episodes/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-07T18:19:07.146196+00:00",
-      "word_count": 34
-    },
-    {
-      "id": "3ecce6a9b1f8",
-      "title": "CES 2026 tech you can already buy",
-      "slug": "ces-2026-tech-you-can-already-buy",
-      "original_link": "https://www.theverge.com/gadgets/856494/ces-2026-tech-you-can-already-buy",
-      "original_source": "The Verge",
-      "topic": "Other",
-      "generated_at": "2026-01-07T17:48:31.874359+00:00",
-      "word_count": 67
     }
   ],
-  "last_updated": "2026-01-27T19:01:24.244019+00:00",
+  "last_updated": "2026-01-27T19:45:33.230653+00:00",
   "version": "1.0.0"
 }
