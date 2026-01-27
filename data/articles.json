@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "635f0add6a90",
+      "title": "Instagram, Facebook, and WhatsApp will test premium subscriptions",
+      "slug": "instagram-facebook-and-whatsapp-will-test-premium-subscriptions",
+      "original_link": "https://www.theverge.com/news/868439/meta-premium-subscription-ai-facebook-instagram-whatsapp",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-27T10:52:40.781952+00:00",
+      "word_count": 68
+    },
+    {
+      "id": "ee0c7b158793",
+      "title": "Legal action over 'unfair' Steam game store prices given go ahead",
+      "slug": "legal-action-over-unfair-steam-game-store-prices-given-go-ahead",
+      "original_link": "https://www.bbc.com/news/articles/cx2g1md0l23o?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-27T10:52:40.214190+00:00",
+      "word_count": 34
+    },
+    {
       "id": "84789800875e",
       "title": "\u2018Among the worst we\u2019ve seen\u2019: report slams xAI\u2019s Grok over child safety failures",
       "slug": "among-the-worst-weve-seen-report-slams-xais-grok-over-child-safety-failures",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-06T20:13:49.689900+00:00",
       "word_count": 69
-    },
-    {
-      "id": "d7963d823f9b",
-      "title": "The biggest Nvidia announcements at CES 2026",
-      "slug": "the-biggest-nvidia-announcements-at-ces-2026",
-      "original_link": "https://www.theverge.com/tech/856439/nvidia-ces-2026-announcements-roundup",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-06T19:36:25.673536+00:00",
-      "word_count": 67
-    },
-    {
-      "id": "13d470287c6f",
-      "title": "LMArena lands $1.7B valuation four months after launching its product",
-      "slug": "lmarena-lands-1-7b-valuation-four-months-after-launching-its-product",
-      "original_link": "https://techcrunch.com/2026/01/06/lmarena-lands-1-7b-valuation-four-months-after-launching-its-product/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-06T19:36:24.825191+00:00",
-      "word_count": 36
     }
   ],
-  "last_updated": "2026-01-27T10:17:21.025999+00:00",
+  "last_updated": "2026-01-27T10:52:41.065540+00:00",
   "version": "1.0.0"
 }
