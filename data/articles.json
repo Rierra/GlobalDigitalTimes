@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "ee0fc531ae84",
+      "title": "Google Photos now lets you describe how to transform images into video",
+      "slug": "google-photos-now-lets-you-describe-how-to-transform-images-into-video",
+      "original_link": "https://www.theverge.com/news/868510/google-photos-image-to-video-text-prompt-support",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-27T13:26:12.688371+00:00",
+      "word_count": 72
+    },
+    {
+      "id": "e55c48f88dc9",
+      "title": "Uber launches an \u2018AV Labs\u2019 division to gather driving data for robotaxi partners",
+      "slug": "uber-launches-an-av-labs-division-to-gather-driving-data-for-robotaxi-partners",
+      "original_link": "https://techcrunch.com/2026/01/27/uber-launches-an-av-labs-division-to-gather-driving-data-for-robotaxi-partners/",
+      "original_source": "TechCrunch",
+      "topic": "Robotics",
+      "generated_at": "2026-01-27T13:26:11.434576+00:00",
+      "word_count": 48
+    },
+    {
       "id": "72860e758dce",
       "title": "California probes US TikTok over claims it censors anti-Trump content",
       "slug": "california-probes-us-tiktok-over-claims-it-censors-anti-trump-content",
@@ -4979,28 +4999,8 @@
       "topic": "Robotics",
       "generated_at": "2026-01-06T21:12:25.898252+00:00",
       "word_count": 21
-    },
-    {
-      "id": "21d8c0c2df7c",
-      "title": "At CES, EVs take a backseat to robotaxis and AI",
-      "slug": "at-ces-evs-take-a-backseat-to-robotaxis-and-ai",
-      "original_link": "https://www.theverge.com/tech/856503/ces-2026-robotaxi-ai-ev-car-concepts",
-      "original_source": "The Verge",
-      "topic": "Robotics",
-      "generated_at": "2026-01-06T20:44:26.427197+00:00",
-      "word_count": 70
-    },
-    {
-      "id": "6d9eea432c5a",
-      "title": "California lawmaker proposes a four-year ban on AI chatbots in kid\u2019s toys",
-      "slug": "california-lawmaker-proposes-a-four-year-ban-on-ai-chatbots-in-kids-toys",
-      "original_link": "https://techcrunch.com/2026/01/06/california-lawmaker-proposes-a-four-year-ban-on-ai-chatbots-in-kids-toys/",
-      "original_source": "TechCrunch",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-06T20:44:25.667344+00:00",
-      "word_count": 49
     }
   ],
-  "last_updated": "2026-01-27T12:26:08.566900+00:00",
+  "last_updated": "2026-01-27T13:26:13.104929+00:00",
   "version": "1.0.0"
 }
