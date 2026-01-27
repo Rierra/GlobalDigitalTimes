@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "ca9f1ac67938",
+      "title": "The best budget robot vacuums",
+      "slug": "the-best-budget-robot-vacuums",
+      "original_link": "https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop",
+      "original_source": "The Verge",
+      "topic": "Robotics",
+      "generated_at": "2026-01-27T23:41:53.189553+00:00",
+      "word_count": 65
+    },
+    {
+      "id": "d78c256f3901",
+      "title": "Moltbot, the AI agent that &#8216;actually does things,&#8217; is tech\u2019s new obsession",
+      "slug": "moltbot-the-ai-agent-that-actually-does-things-is-techs-new-obsession",
+      "original_link": "https://www.theverge.com/report/869004/moltbot-clawdbot-local-ai-agent",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-27T23:41:52.540907+00:00",
+      "word_count": 72
+    },
+    {
       "id": "26e5282ce3e3",
       "title": "There's a rash of scam spam coming from a real Microsoft address",
       "slug": "there-s-a-rash-of-scam-spam-coming-from-a-real-microsoft-address",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-07T22:12:04.678695+00:00",
       "word_count": 44
-    },
-    {
-      "id": "78079e46dfd1",
-      "title": "Yes, LinkedIn banned AI agent startup Artisan, but now it\u2019s back",
-      "slug": "yes-linkedin-banned-ai-agent-startup-artisan-but-now-its-back",
-      "original_link": "https://techcrunch.com/2026/01/07/yes-linkedin-banned-ai-agent-startup-artisan-but-now-its-back/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-07T22:12:03.951622+00:00",
-      "word_count": 34
-    },
-    {
-      "id": "4c5d12aa7939",
-      "title": "X\u2019s deepfake machine is infuriating policymakers around the globe",
-      "slug": "xs-deepfake-machine-is-infuriating-policymakers-around-the-globe",
-      "original_link": "https://www.theverge.com/policy/857924/x-grok-ai-chatbot-bikini-images-regulators-congress",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-07T21:11:49.496481+00:00",
-      "word_count": 69
     }
   ],
-  "last_updated": "2026-01-27T23:13:52.182058+00:00",
+  "last_updated": "2026-01-27T23:41:53.566922+00:00",
   "version": "1.0.0"
 }
