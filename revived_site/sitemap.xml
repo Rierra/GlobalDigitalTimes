@@ -7,6 +7,12 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.globaldigitaltimes.com/articles/can-india-be-a-player-in-the-computer-chip-industry.html</loc>
+    <lastmod>2026-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.globaldigitaltimes.com/articles/tech-giants-face-landmark-trial-over-social-media-addiction-claims.html</loc>
     <lastmod>2026-01-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -2996,12 +3002,6 @@
   </url>
   <url>
     <loc>https://www.globaldigitaltimes.com/articles/news-orgs-want-openai-to-dig-up-millions-of-deleted-chatgpt-logs.html</loc>
-    <lastmod>2026-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.globaldigitaltimes.com/articles/nvidia-to-accelerate-siemens-chip-design-tools-using-its-gpus.html</loc>
     <lastmod>2026-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
