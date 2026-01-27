@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "ed17ffb14a28",
+      "title": "Google now lets users jump from AI Overviews into AI Mode conversations",
+      "slug": "google-now-lets-users-jump-from-ai-overviews-into-ai-mode-conversations",
+      "original_link": "https://techcrunch.com/2026/01/27/google-now-lets-users-jump-from-ai-overviews-into-ai-mode-conversations/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-27T17:20:45.280413+00:00",
+      "word_count": 33
+    },
+    {
+      "id": "7cc879ae6d4c",
+      "title": "Google Search now lets you ask AI Overviews follow-up questions",
+      "slug": "google-search-now-lets-you-ask-ai-overviews-follow-up-questions",
+      "original_link": "https://www.theverge.com/news/868497/google-ai-search-follow-up-questions-gemini-3",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-27T17:20:44.559735+00:00",
+      "word_count": 70
+    },
+    {
       "id": "7ea5bb114d93",
       "title": "Pornhub will block new users in the UK next month",
       "slug": "pornhub-will-block-new-users-in-the-uk-next-month",
@@ -4979,28 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2026-01-07T11:39:33.383773+00:00",
       "word_count": 69
-    },
-    {
-      "id": "a178401a668b",
-      "title": "Lenovo\u2019s Auto Twist laptop is going from concept to real product",
-      "slug": "lenovos-auto-twist-laptop-is-going-from-concept-to-real-product",
-      "original_link": "https://www.theverge.com/news/852251/lenovos-auto-twist-laptop-is-going-from-concept-to-real-product",
-      "original_source": "The Verge",
-      "topic": "Robotics",
-      "generated_at": "2026-01-07T05:18:19.674697+00:00",
-      "word_count": 71
-    },
-    {
-      "id": "8025fb57286e",
-      "title": "McKinsey and General Catalyst execs say the era of \u2018learn once, work forever\u2019 is over",
-      "slug": "mckinsey-and-general-catalyst-execs-say-the-era-of-learn-once-work-forever-is-over",
-      "original_link": "https://techcrunch.com/2026/01/06/mckinsey-and-general-catalyst-execs-say-the-era-of-learn-once-work-forever-is-over/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-07T03:59:12.920579+00:00",
-      "word_count": 35
     }
   ],
-  "last_updated": "2026-01-27T16:54:38.497476+00:00",
+  "last_updated": "2026-01-27T17:20:45.636618+00:00",
   "version": "1.0.0"
 }
