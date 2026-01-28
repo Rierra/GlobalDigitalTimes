@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "85e1e7dfd10a",
+      "title": "I used Claude to vibe-code my wildly overcomplicated smart home",
+      "slug": "i-used-claude-to-vibe-code-my-wildly-overcomplicated-smart-home",
+      "original_link": "https://www.theverge.com/report/869318/claude-vibe-coding-home-assistant-smart-home",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-28T20:18:30.685137+00:00",
+      "word_count": 70
+    },
+    {
+      "id": "d7a2c0676702",
+      "title": "US cyber defense chief accidentally uploaded secret government info to ChatGPT",
+      "slug": "us-cyber-defense-chief-accidentally-uploaded-secret-government-info-to-chatgpt",
+      "original_link": "https://arstechnica.com/tech-policy/2026/01/us-cyber-defense-chief-accidentally-uploaded-secret-government-info-to-chatgpt/",
+      "original_source": "Ars Technica",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-28T20:18:29.856282+00:00",
+      "word_count": 28
+    },
+    {
       "id": "6c8c72d5c5c5",
       "title": "WhatsApp will now charge AI chatbots to operate in Italy",
       "slug": "whatsapp-will-now-charge-ai-chatbots-to-operate-in-italy",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-08T23:37:09.132651+00:00",
       "word_count": 72
-    },
-    {
-      "id": "63be1ef0df75",
-      "title": "Wi-Fi advocates get win from FCC with vote to allow higher-power devices",
-      "slug": "wi-fi-advocates-get-win-from-fcc-with-vote-to-allow-higher-power-devices",
-      "original_link": "https://arstechnica.com/tech-policy/2026/01/fcc-to-authorize-more-powerful-wireless-devices-in-6-ghz-wi-fi-band/",
-      "original_source": "Ars Technica",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-08T22:44:00.249606+00:00",
-      "word_count": 29
-    },
-    {
-      "id": "7cf3d8847847",
-      "title": "Michigan man learns the hard way that \u201ccatch a cheater\u201d spyware apps aren\u2019t legal",
-      "slug": "michigan-man-learns-the-hard-way-that-catch-a-cheater-spyware-apps-arent-legal",
-      "original_link": "https://arstechnica.com/security/2026/01/michigan-man-learns-the-hard-way-that-catch-a-cheater-spyware-apps-arent-legal/",
-      "original_source": "Ars Technica",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-08T22:43:59.321335+00:00",
-      "word_count": 28
     }
   ],
-  "last_updated": "2026-01-28T19:50:24.243337+00:00",
+  "last_updated": "2026-01-28T20:18:31.198926+00:00",
   "version": "1.0.0"
 }
