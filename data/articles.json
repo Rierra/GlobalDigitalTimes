@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "abce590d1a5d",
+      "title": "Government offers UK adults free AI training for work",
+      "slug": "government-offers-uk-adults-free-ai-training-for-work",
+      "original_link": "https://www.bbc.com/news/articles/cp37prvp072o?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "AI",
+      "generated_at": "2026-01-28T13:28:17.873906+00:00",
+      "word_count": 30
+    },
+    {
+      "id": "555e1d9aa738",
+      "title": "Users flock to open source Moltbot for always-on AI, despite major risks",
+      "slug": "users-flock-to-open-source-moltbot-for-always-on-ai-despite-major-risks",
+      "original_link": "https://arstechnica.com/ai/2026/01/viral-ai-assistant-moltbot-rapidly-gains-popularity-but-poses-security-risks/",
+      "original_source": "Ars Technica",
+      "topic": "AI",
+      "generated_at": "2026-01-28T13:28:17.064620+00:00",
+      "word_count": 31
+    },
+    {
       "id": "5c263f3205c4",
       "title": "Google\u2019s Smart Glasses Will Have the Best Software. But They\u2019ll Have to Win on Style Too",
       "slug": "googles-smart-glasses-will-have-the-best-software-but-theyll-have-to-win-on-style-too",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-08T15:16:12.961958+00:00",
       "word_count": 68
-    },
-    {
-      "id": "331a279eae45",
-      "title": "ChatGPT falls to new data-pilfering attack as a vicious cycle in AI continues",
-      "slug": "chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues",
-      "original_link": "https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/",
-      "original_source": "Ars Technica",
-      "topic": "AI",
-      "generated_at": "2026-01-08T14:49:17.657212+00:00",
-      "word_count": 33
-    },
-    {
-      "id": "3194a326d7c0",
-      "title": "Government accused of dragging its heels on deepfake law over Grok AI",
-      "slug": "government-accused-of-dragging-its-heels-on-deepfake-law-over-grok-ai",
-      "original_link": "https://www.bbc.com/news/articles/cp9jxvx0zjmo?at_medium=RSS&at_campaign=rss",
-      "original_source": "BBC Technology",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-08T14:16:44.238382+00:00",
-      "word_count": 34
     }
   ],
-  "last_updated": "2026-01-28T12:27:18.095822+00:00",
+  "last_updated": "2026-01-28T13:28:18.185732+00:00",
   "version": "1.0.0"
 }
