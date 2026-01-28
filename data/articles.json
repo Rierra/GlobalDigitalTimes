@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "4dbf80420312",
+      "title": "Google begins rolling out Chrome's \"Auto Browse\" AI agent today",
+      "slug": "google-begins-rolling-out-chrome-s-auto-browse-ai-agent-today",
+      "original_link": "https://arstechnica.com/google/2026/01/google-begins-rolling-out-chromes-auto-browse-ai-agent-today/",
+      "original_source": "Ars Technica",
+      "topic": "AI",
+      "generated_at": "2026-01-28T18:58:22.687815+00:00",
+      "word_count": 32
+    },
+    {
       "id": "af2105a0f3aa",
       "title": "Chrome takes on AI browsers with tighter Gemini integration, agentic features for autonomous tasks",
       "slug": "chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-08T21:13:27.683546+00:00",
       "word_count": 31
-    },
-    {
-      "id": "19e28dfc0842",
-      "title": "Why Are Grok and X Still Available in App Stores?",
-      "slug": "why-are-grok-and-x-still-available-in-app-stores",
-      "original_link": "https://www.wired.com/story/x-grok-app-store-nudify-csam-apple-google-content-moderation/",
-      "original_source": "Wired",
-      "topic": "AI",
-      "generated_at": "2026-01-08T20:44:23.172735+00:00",
-      "word_count": 44
     }
   ],
-  "last_updated": "2026-01-28T18:24:45.695799+00:00",
+  "last_updated": "2026-01-28T18:58:22.955043+00:00",
   "version": "1.0.0"
 }
