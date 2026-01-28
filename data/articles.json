@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "89e54668a518",
+      "title": "Astronomers used AI to find 1,400 \u2018anomalous objects\u2019 from Hubble archives",
+      "slug": "astronomers-used-ai-to-find-1400-anomalous-objects-from-hubble-archives",
+      "original_link": "https://www.theverge.com/news/869182/astronomers-ai-discover-cosmic-anomalies-hubble-archives",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-28T11:42:35.970597+00:00",
+      "word_count": 71
+    },
+    {
       "id": "92afdc8881b2",
       "title": "Self-driving truck startup Waabi is teaming up with Uber on robotaxis",
       "slug": "self-driving-truck-startup-waabi-is-teaming-up-with-uber-on-robotaxis",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-08T13:13:07.291889+00:00",
       "word_count": 39
-    },
-    {
-      "id": "cff5e87bf16e",
-      "title": "Former Bolt CEO Maju Kuruvilla\u2019s startup triples to $100M valuation",
-      "slug": "former-bolt-ceo-maju-kuruvillas-startup-triples-to-100m-valuation",
-      "original_link": "https://techcrunch.com/2026/01/08/former-bolt-ceo-maju-kuruvillas-startup-triples-to-100m-valuation/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-08T13:13:06.584503+00:00",
-      "word_count": 29
     }
   ],
-  "last_updated": "2026-01-28T11:15:47.325248+00:00",
+  "last_updated": "2026-01-28T11:42:36.387634+00:00",
   "version": "1.0.0"
 }
