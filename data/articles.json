@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "5c263f3205c4",
+      "title": "Google\u2019s Smart Glasses Will Have the Best Software. But They\u2019ll Have to Win on Style Too",
+      "slug": "googles-smart-glasses-will-have-the-best-software-but-theyll-have-to-win-on-style-too",
+      "original_link": "https://www.wired.com/story/google-smart-glasses-software-style/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-28T12:27:17.821567+00:00",
+      "word_count": 53
+    },
+    {
+      "id": "f0af541a8e90",
+      "title": "Grok is the most antisemitic chatbot according to the ADL",
+      "slug": "grok-is-the-most-antisemitic-chatbot-according-to-the-adl",
+      "original_link": "https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-28T12:27:17.192365+00:00",
+      "word_count": 70
+    },
+    {
       "id": "89e54668a518",
       "title": "Astronomers used AI to find 1,400 \u2018anomalous objects\u2019 from Hubble archives",
       "slug": "astronomers-used-ai-to-find-1400-anomalous-objects-from-hubble-archives",
@@ -4979,28 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2026-01-08T14:16:44.238382+00:00",
       "word_count": 34
-    },
-    {
-      "id": "3ab3203c7761",
-      "title": "Google is taking over your Gmail inbox with AI",
-      "slug": "google-is-taking-over-your-gmail-inbox-with-ai",
-      "original_link": "https://www.theverge.com/news/857883/google-gmail-ai-inbox-overviews",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-08T13:55:16.308947+00:00",
-      "word_count": 69
-    },
-    {
-      "id": "27377e21363b",
-      "title": "Google Is Adding an \u2018AI Inbox\u2019 to Gmail That Summarizes Emails",
-      "slug": "google-is-adding-an-ai-inbox-to-gmail-that-summarizes-emails",
-      "original_link": "https://www.wired.com/story/google-ai-inbox-gmail/",
-      "original_source": "Wired",
-      "topic": "AI",
-      "generated_at": "2026-01-08T13:13:07.291889+00:00",
-      "word_count": 39
     }
   ],
-  "last_updated": "2026-01-28T11:42:36.387634+00:00",
+  "last_updated": "2026-01-28T12:27:18.095822+00:00",
   "version": "1.0.0"
 }

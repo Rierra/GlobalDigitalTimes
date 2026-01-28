@@ -7,6 +7,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.globaldigitaltimes.com/articles/googles-smart-glasses-will-have-the-best-software-but-theyll-have-to-win-on-style-too.html</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.globaldigitaltimes.com/articles/grok-is-the-most-antisemitic-chatbot-according-to-the-adl.html</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.globaldigitaltimes.com/articles/astronomers-used-ai-to-find-1400-anomalous-objects-from-hubble-archives.html</loc>
     <lastmod>2026-01-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -2990,18 +3002,6 @@
   </url>
   <url>
     <loc>https://www.globaldigitaltimes.com/articles/government-accused-of-dragging-its-heels-on-deepfake-law-over-grok-ai.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.globaldigitaltimes.com/articles/google-is-taking-over-your-gmail-inbox-with-ai.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.globaldigitaltimes.com/articles/google-is-adding-an-ai-inbox-to-gmail-that-summarizes-emails.html</loc>
     <lastmod>2026-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
