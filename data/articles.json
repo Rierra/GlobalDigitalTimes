@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "36cc3233e692",
+      "title": "Trump\u2019s acting cybersecurity chief uploaded sensitive government docs to ChatGPT",
+      "slug": "trumps-acting-cybersecurity-chief-uploaded-sensitive-government-docs-to-chatgpt",
+      "original_link": "https://techcrunch.com/2026/01/28/trumps-acting-cybersecurity-chief-uploaded-sensitive-government-docs-to-chatgpt/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-28T15:56:49.086820+00:00",
+      "word_count": 39
+    },
+    {
       "id": "4b813c93bb83",
       "title": "Standard Nuclear raises $140M as nuclear power enters its gold rush era",
       "slug": "standard-nuclear-raises-140m-as-nuclear-power-enters-its-gold-rush-era",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-08T17:49:13.935027+00:00",
       "word_count": 43
-    },
-    {
-      "id": "8bb0f0ec1be7",
-      "title": "Snowflake announces its intent to buy observability platform Observe",
-      "slug": "snowflake-announces-its-intent-to-buy-observability-platform-observe",
-      "original_link": "https://techcrunch.com/2026/01/08/snowflake-announces-its-intent-to-buy-observability-platform-observe/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-08T17:19:48.734000+00:00",
-      "word_count": 34
     }
   ],
-  "last_updated": "2026-01-28T15:21:52.202464+00:00",
+  "last_updated": "2026-01-28T15:56:49.892928+00:00",
   "version": "1.0.0"
 }
