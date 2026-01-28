@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "371739113e2e",
+      "title": "Anthropic, Apple, OpenAI CEOs condemn ICE violence, praise Trump",
+      "slug": "anthropic-apple-openai-ceos-condemn-ice-violence-praise-trump",
+      "original_link": "https://techcrunch.com/2026/01/28/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-28T14:54:46.127851+00:00",
+      "word_count": 40
+    },
+    {
+      "id": "a2225af0b24e",
+      "title": "Rules fail at the prompt, succeed at the boundary",
+      "slug": "rules-fail-at-the-prompt-succeed-at-the-boundary",
+      "original_link": "https://www.technologyreview.com/2026/01/28/1131003/rules-fail-at-the-prompt-succeed-at-the-boundary/",
+      "original_source": "MIT Technology Review",
+      "topic": "AI",
+      "generated_at": "2026-01-28T14:54:45.448245+00:00",
+      "word_count": 69
+    },
+    {
       "id": "a1c701ce3aff",
       "title": "Snap is turning its smart glasses team into its own company",
       "slug": "snap-is-turning-its-smart-glasses-team-into-its-own-company",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-08T17:19:47.010408+00:00",
       "word_count": 29
-    },
-    {
-      "id": "252ab550ea80",
-      "title": "People Are Using AI to Falsely Identify the Federal Agent Who Shot Renee Good",
-      "slug": "people-are-using-ai-to-falsely-identify-the-federal-agent-who-shot-renee-good",
-      "original_link": "https://www.wired.com/story/people-are-using-ai-to-falsely-identify-the-federal-agent-who-shot-renee-good/",
-      "original_source": "Wired",
-      "topic": "AI",
-      "generated_at": "2026-01-08T16:54:00.305315+00:00",
-      "word_count": 41
-    },
-    {
-      "id": "4d3aa56b915d",
-      "title": "Elon Musk\u2019s lawsuit against OpenAI will face a jury in March",
-      "slug": "elon-musks-lawsuit-against-openai-will-face-a-jury-in-march",
-      "original_link": "https://techcrunch.com/2026/01/08/elon-musks-lawsuit-against-openai-will-face-a-jury-in-march/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-08T16:53:59.027428+00:00",
-      "word_count": 44
     }
   ],
-  "last_updated": "2026-01-28T14:01:22.943734+00:00",
+  "last_updated": "2026-01-28T14:54:46.454404+00:00",
   "version": "1.0.0"
 }
