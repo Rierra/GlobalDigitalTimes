@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "5e546a852d9e",
+      "title": "This soft humanoid robot is designed to be \u2018physically safe and socially approachable\u2019",
+      "slug": "this-soft-humanoid-robot-is-designed-to-be-physically-safe-and-socially-approachable",
+      "original_link": "https://www.theverge.com/tech/869293/fauna-robotics-sprout-humanoid-robot-research",
+      "original_source": "The Verge",
+      "topic": "Robotics",
+      "generated_at": "2026-01-28T16:26:03.499809+00:00",
+      "word_count": 73
+    },
+    {
       "id": "36cc3233e692",
       "title": "Trump\u2019s acting cybersecurity chief uploaded sensitive government docs to ChatGPT",
       "slug": "trumps-acting-cybersecurity-chief-uploaded-sensitive-government-docs-to-chatgpt",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-08T18:16:41.666282+00:00",
       "word_count": 35
-    },
-    {
-      "id": "d751e5b2a942",
-      "title": "Nvidia\u2019s reportedly asking Chinese customers to pay upfront for its H200 AI chips",
-      "slug": "nvidias-reportedly-asking-chinese-customers-to-pay-upfront-for-its-h200-ai-chips",
-      "original_link": "https://techcrunch.com/2026/01/08/nvidias-reportedly-asking-chinese-customers-to-pay-upfront-its-for-h200-ai-chips/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-08T17:49:13.935027+00:00",
-      "word_count": 43
     }
   ],
-  "last_updated": "2026-01-28T15:56:49.892928+00:00",
+  "last_updated": "2026-01-28T16:26:04.449119+00:00",
   "version": "1.0.0"
 }
