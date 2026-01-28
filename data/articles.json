@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "a1775e53c054",
+      "title": "Give Your Problems (and Passwords) to Moltbot, Then Watch It Go",
+      "slug": "give-your-problems-and-passwords-to-moltbot-then-watch-it-go",
+      "original_link": "https://www.wired.com/story/clawdbot-moltbot-viral-ai-assistant/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-28T19:26:53.513800+00:00",
+      "word_count": 38
+    },
+    {
+      "id": "ccf92ecfafc6",
+      "title": "AI data labeler Handshake buys Cleanlab, an acquisition target of multiple others",
+      "slug": "ai-data-labeler-handshake-buys-cleanlab-an-acquisition-target-of-multiple-others",
+      "original_link": "https://techcrunch.com/2026/01/28/ai-data-labeler-handshake-buys-cleanlab-an-acquisition-target-of-multiple-others/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-28T19:26:52.938680+00:00",
+      "word_count": 27
+    },
+    {
       "id": "4dbf80420312",
       "title": "Google begins rolling out Chrome's \"Auto Browse\" AI agent today",
       "slug": "google-begins-rolling-out-chrome-s-auto-browse-ai-agent-today",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-08T22:13:00.907022+00:00",
       "word_count": 44
-    },
-    {
-      "id": "a136797a27dc",
-      "title": "Why a Chinese Robot Vacuum Company Spun Off Two EV Brands",
-      "slug": "why-a-chinese-robot-vacuum-company-spun-off-two-ev-brands",
-      "original_link": "https://www.wired.com/story/made-in-china-what-chinese-companies-showed-off-at-ces/",
-      "original_source": "Wired",
-      "topic": "Robotics",
-      "generated_at": "2026-01-08T21:40:34.745860+00:00",
-      "word_count": 36
-    },
-    {
-      "id": "a4384c47c872",
-      "title": "High RAM prices mean record-setting profits for Samsung and other memory makers",
-      "slug": "high-ram-prices-mean-record-setting-profits-for-samsung-and-other-memory-makers",
-      "original_link": "https://arstechnica.com/gadgets/2026/01/high-ram-prices-mean-record-setting-profits-for-samsung-and-other-memory-makers/",
-      "original_source": "Ars Technica",
-      "topic": "AI",
-      "generated_at": "2026-01-08T21:13:27.683546+00:00",
-      "word_count": 31
     }
   ],
-  "last_updated": "2026-01-28T18:58:22.955043+00:00",
+  "last_updated": "2026-01-28T19:26:53.842140+00:00",
   "version": "1.0.0"
 }
