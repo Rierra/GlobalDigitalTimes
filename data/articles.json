@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "a1c701ce3aff",
+      "title": "Snap is turning its smart glasses team into its own company",
+      "slug": "snap-is-turning-its-smart-glasses-team-into-its-own-company",
+      "original_link": "https://www.theverge.com/news/869210/snap-specs-smart-ar-glasses-new-subsidiary",
+      "original_source": "The Verge",
+      "topic": "Other",
+      "generated_at": "2026-01-28T14:01:22.628709+00:00",
+      "word_count": 71
+    },
+    {
+      "id": "0a090c687e7e",
+      "title": "Snap gets serious about Specs, spins AR glasses into standalone company",
+      "slug": "snap-gets-serious-about-specs-spins-ar-glasses-into-standalone-company",
+      "original_link": "https://techcrunch.com/2026/01/28/snap-gets-serious-about-specs-spins-ar-glasses-into-standalone-company/",
+      "original_source": "TechCrunch",
+      "topic": "Other",
+      "generated_at": "2026-01-28T14:01:22.050177+00:00",
+      "word_count": 30
+    },
+    {
       "id": "abce590d1a5d",
       "title": "Government offers UK adults free AI training for work",
       "slug": "government-offers-uk-adults-free-ai-training-for-work",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-08T16:53:59.027428+00:00",
       "word_count": 44
-    },
-    {
-      "id": "a27d435dfbee",
-      "title": "Why this VC thinks 2026 will be \u2018the year of the consumer\u2019",
-      "slug": "why-this-vc-thinks-2026-will-be-the-year-of-the-consumer",
-      "original_link": "https://techcrunch.com/2026/01/08/why-this-vc-thinks-2026-will-be-the-year-of-the-consumer/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-08T15:47:53.783189+00:00",
-      "word_count": 42
-    },
-    {
-      "id": "8715a46cfc97",
-      "title": "The PC market braces for an AI-driven storm",
-      "slug": "the-pc-market-braces-for-an-ai-driven-storm",
-      "original_link": "https://www.theverge.com/tech/858505/pc-market-ram-nand-ssd-gpu-pricing-notepad",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-08T15:16:12.961958+00:00",
-      "word_count": 68
     }
   ],
-  "last_updated": "2026-01-28T13:28:18.185732+00:00",
+  "last_updated": "2026-01-28T14:01:22.943734+00:00",
   "version": "1.0.0"
 }
