@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "bca64bb21a56",
+      "title": "AI boom will produce victors and carnage, tech boss warns",
+      "slug": "ai-boom-will-produce-victors-and-carnage-tech-boss-warns",
+      "original_link": "https://www.bbc.com/news/articles/cr57p2ve8glo?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "AI",
+      "generated_at": "2026-01-28T00:58:06.477127+00:00",
+      "word_count": 29
+    },
+    {
+      "id": "5c1b7f07192b",
+      "title": "Everything you need to know about viral personal AI assistant Clawdbot (now Moltbot)",
+      "slug": "everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot",
+      "original_link": "https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-28T00:58:05.873947+00:00",
+      "word_count": 42
+    },
+    {
       "id": "ca9f1ac67938",
       "title": "The best budget robot vacuums",
       "slug": "the-best-budget-robot-vacuums",
@@ -4979,28 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2026-01-07T23:13:24.307543+00:00",
       "word_count": 36
-    },
-    {
-      "id": "f6fcb93e7285",
-      "title": "Character.AI and Google settle teen suicide and self-harm suits",
-      "slug": "character-ai-and-google-settle-teen-suicide-and-self-harm-suits",
-      "original_link": "https://www.theverge.com/news/858102/characterai-google-teen-suicide-settlement",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-07T22:43:09.770286+00:00",
-      "word_count": 69
-    },
-    {
-      "id": "5d991b338f1d",
-      "title": "Grok Is Generating Sexual Content Far More Graphic Than What's on X",
-      "slug": "grok-is-generating-sexual-content-far-more-graphic-than-what-s-on-x",
-      "original_link": "https://www.wired.com/story/grok-is-generating-sexual-content-far-more-graphic-than-whats-on-x/",
-      "original_source": "Wired",
-      "topic": "AI",
-      "generated_at": "2026-01-07T22:12:04.678695+00:00",
-      "word_count": 44
     }
   ],
-  "last_updated": "2026-01-27T23:41:53.566922+00:00",
+  "last_updated": "2026-01-28T00:58:06.825563+00:00",
   "version": "1.0.0"
 }
