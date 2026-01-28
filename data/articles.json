@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "993e17ef5514",
+      "title": "YouTube&#8217;s top AI slop channels are disappearing",
+      "slug": "youtube-s-top-ai-slop-channels-are-disappearing",
+      "original_link": "https://www.theverge.com/news/869684/youtube-top-ai-channels-removed-kapwing",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-28T20:54:07.108766+00:00",
+      "word_count": 67
+    },
+    {
       "id": "85e1e7dfd10a",
       "title": "I used Claude to vibe-code my wildly overcomplicated smart home",
       "slug": "i-used-claude-to-vibe-code-my-wildly-overcomplicated-smart-home",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-09T00:57:43.399554+00:00",
       "word_count": 59
-    },
-    {
-      "id": "a34eb419c694",
-      "title": "UK Prime Minister says &#8216;we will take action&#8217; on Grok&#8217;s disgusting deepfakes",
-      "slug": "uk-prime-minister-says-we-will-take-action-on-grok-s-disgusting-deepfakes",
-      "original_link": "https://www.theverge.com/news/859107/uk-prime-minister-x-ai-grok-deepfakes",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-08T23:37:09.132651+00:00",
-      "word_count": 72
     }
   ],
-  "last_updated": "2026-01-28T20:18:31.198926+00:00",
+  "last_updated": "2026-01-28T20:54:07.574955+00:00",
   "version": "1.0.0"
 }
