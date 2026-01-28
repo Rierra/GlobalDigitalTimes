@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "6c8c72d5c5c5",
+      "title": "WhatsApp will now charge AI chatbots to operate in Italy",
+      "slug": "whatsapp-will-now-charge-ai-chatbots-to-operate-in-italy",
+      "original_link": "https://techcrunch.com/2026/01/28/whatsapp-will-now-charge-ai-chatbots-to-operate-in-italy/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-28T19:50:23.772588+00:00",
+      "word_count": 23
+    },
+    {
       "id": "a1775e53c054",
       "title": "Give Your Problems (and Passwords) to Moltbot, Then Watch It Go",
       "slug": "give-your-problems-and-passwords-to-moltbot-then-watch-it-go",
@@ -4989,18 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2026-01-08T22:43:59.321335+00:00",
       "word_count": 28
-    },
-    {
-      "id": "0de9ad8c725e",
-      "title": "Governments grapple with the flood of non-consensual nudity on X",
-      "slug": "governments-grapple-with-the-flood-of-non-consensual-nudity-on-x",
-      "original_link": "https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-08T22:13:00.907022+00:00",
-      "word_count": 44
     }
   ],
-  "last_updated": "2026-01-28T19:26:53.842140+00:00",
+  "last_updated": "2026-01-28T19:50:24.243337+00:00",
   "version": "1.0.0"
 }
