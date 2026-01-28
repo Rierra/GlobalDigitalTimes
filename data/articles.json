@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "id": "6fb20326570a",
+      "title": "Modelence raises $3 million to smooth out the vibe-coding stack",
+      "slug": "modelence-raises-3-million-to-smooth-out-the-vibe-coding-stack",
+      "original_link": "https://techcrunch.com/2026/01/28/modelence-raises-13-million-to-smooth-out-the-vibe-coding-stack/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-28T17:54:22.844039+00:00",
+      "word_count": 31
+    },
+    {
+      "id": "c2748b09e92c",
+      "title": "With Apple\u2019s new Creator Studio Pro, AI is a tool to aid creation, not replace it",
+      "slug": "with-apples-new-creator-studio-pro-ai-is-a-tool-to-aid-creation-not-replace-it",
+      "original_link": "https://techcrunch.com/2026/01/28/with-apples-new-creator-studio-pro-ai-is-a-tool-to-aid-creation-not-replace-it/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-28T17:54:22.292685+00:00",
+      "word_count": 43
+    },
+    {
+      "id": "a39db775e5ad",
+      "title": "San Francisco Police Department investigating Zoox collision with a parked car",
+      "slug": "san-francisco-police-department-investigating-zoox-collision-with-a-parked-car",
+      "original_link": "https://techcrunch.com/2026/01/28/san-francisco-police-department-investigating-zoox-collision-with-a-parked-car/",
+      "original_source": "TechCrunch",
+      "topic": "Robotics",
+      "generated_at": "2026-01-28T17:54:21.663958+00:00",
+      "word_count": 42
+    },
+    {
+      "id": "007b979c976e",
+      "title": "Tiny startup Arcee AI built a 400B open source LLM from scratch to best Meta\u2019s Llama",
+      "slug": "tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama",
+      "original_link": "https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-28T17:54:20.803807+00:00",
+      "word_count": 46
+    },
+    {
       "id": "5e546a852d9e",
       "title": "This soft humanoid robot is designed to be \u2018physically safe and socially approachable\u2019",
       "slug": "this-soft-humanoid-robot-is-designed-to-be-physically-safe-and-socially-approachable",
@@ -4959,48 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2026-01-08T19:38:08.168438+00:00",
       "word_count": 47
-    },
-    {
-      "id": "52e617c3b607",
-      "title": "AI Devices Are Coming. Will Your Favorite Apps Be Along for the Ride?",
-      "slug": "ai-devices-are-coming-will-your-favorite-apps-be-along-for-the-ride",
-      "original_link": "https://www.wired.com/story/openai-amazon-operating-system-ai-apps-ads/",
-      "original_source": "Wired",
-      "topic": "AI",
-      "generated_at": "2026-01-08T19:13:03.328530+00:00",
-      "word_count": 39
-    },
-    {
-      "id": "72c20e8e726f",
-      "title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
-      "slug": "chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up",
-      "original_link": "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/",
-      "original_source": "Ars Technica",
-      "topic": "AI",
-      "generated_at": "2026-01-08T18:51:08.930405+00:00",
-      "word_count": 32
-    },
-    {
-      "id": "5286710d3719",
-      "title": "Most dubious uses of AI at CES 2026",
-      "slug": "most-dubious-uses-of-ai-at-ces-2026",
-      "original_link": "https://www.theverge.com/tech/858315/most-dubious-ai-tech-ces-2026",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-08T18:16:42.412320+00:00",
-      "word_count": 68
-    },
-    {
-      "id": "5845d7831707",
-      "title": "OpenAI to acquire the team behind executive coaching AI tool Convogo",
-      "slug": "openai-to-acquire-the-team-behind-executive-coaching-ai-tool-convogo",
-      "original_link": "https://techcrunch.com/2026/01/08/openai-to-acquire-the-team-behind-executive-coaching-ai-tool-convogo/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-08T18:16:41.666282+00:00",
-      "word_count": 35
     }
   ],
-  "last_updated": "2026-01-28T16:26:04.449119+00:00",
+  "last_updated": "2026-01-28T17:54:23.163952+00:00",
   "version": "1.0.0"
 }
