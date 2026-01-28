@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "af2105a0f3aa",
+      "title": "Chrome takes on AI browsers with tighter Gemini integration, agentic features for autonomous tasks",
+      "slug": "chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks",
+      "original_link": "https://techcrunch.com/2026/01/28/chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-28T18:24:45.370794+00:00",
+      "word_count": 37
+    },
+    {
+      "id": "1a09853e7355",
+      "title": "Apple tells Patreon to move creators to in-app purchase for subscriptions by November",
+      "slug": "apple-tells-patreon-to-move-creators-to-in-app-purchase-for-subscriptions-by-november",
+      "original_link": "https://techcrunch.com/2026/01/28/apple-tells-patreon-to-move-creators-to-in-app-purchase-for-subscriptions-by-november/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-28T18:24:44.759981+00:00",
+      "word_count": 33
+    },
+    {
+      "id": "5cd5505f0031",
+      "title": "A \u2018rogue Waymo\u2019 that crashed into a parked car was being manually driven.",
+      "slug": "a-rogue-waymo-that-crashed-into-a-parked-car-was-being-manually-driven",
+      "original_link": "https://www.theverge.com/transportation/869544/a-rogue-waymo-that-crashed-into-a-parked-car-was-being-manually-driven",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-28T18:24:44.075893+00:00",
+      "word_count": 73
+    },
+    {
       "id": "6fb20326570a",
       "title": "Modelence raises $3 million to smooth out the vibe-coding stack",
       "slug": "modelence-raises-3-million-to-smooth-out-the-vibe-coding-stack",
@@ -4969,38 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-08T20:44:23.172735+00:00",
       "word_count": 44
-    },
-    {
-      "id": "3b2e4da0d9ac",
-      "title": "GTMfund has rewritten the distribution playbook for the AI era",
-      "slug": "gtmfund-has-rewritten-the-distribution-playbook-for-the-ai-era",
-      "original_link": "https://techcrunch.com/2026/01/08/gtmfund-has-rewritten-the-distribution-playbook-for-the-ai-era/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-08T20:13:45.077630+00:00",
-      "word_count": 71
-    },
-    {
-      "id": "5a68ce35a238",
-      "title": "Is it even worth mentioning that Elon Musk blew past his own Full Self-Driving goals again?",
-      "slug": "is-it-even-worth-mentioning-that-elon-musk-blew-past-his-own-full-self-driving-goals-again",
-      "original_link": "https://www.theverge.com/news/858782/elon-musk-tesla-fsd-unsupervised-missed-goals",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-08T19:38:08.920704+00:00",
-      "word_count": 76
-    },
-    {
-      "id": "fe1196bbc806",
-      "title": "Critics pan spyware maker NSO\u2019s transparency claims amid its push to enter US market",
-      "slug": "critics-pan-spyware-maker-nsos-transparency-claims-amid-its-push-to-enter-us-market",
-      "original_link": "https://techcrunch.com/2026/01/08/critics-pan-spyware-maker-nsos-transparency-claims-amid-its-push-to-enter-us-market/",
-      "original_source": "TechCrunch",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-08T19:38:08.168438+00:00",
-      "word_count": 47
     }
   ],
-  "last_updated": "2026-01-28T17:54:23.163952+00:00",
+  "last_updated": "2026-01-28T18:24:45.695799+00:00",
   "version": "1.0.0"
 }
