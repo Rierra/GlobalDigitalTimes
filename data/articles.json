@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "e91e95c1751d",
+      "title": "ServiceNow inks another AI partnership, this time with Anthropic",
+      "slug": "servicenow-inks-another-ai-partnership-this-time-with-anthropic",
+      "original_link": "https://techcrunch.com/2026/01/28/servicenow-inks-another-ai-partnership-this-time-with-anthropic/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-28T21:20:57.411977+00:00",
+      "word_count": 32
+    },
+    {
+      "id": "a3e90e2a59ba",
+      "title": "AI security startup Outtake raises $40M from Iconiq, Satya Nadella, Bill Ackman and other big names",
+      "slug": "ai-security-startup-outtake-raises-40m-from-iconiq-satya-nadella-bill-ackman-and-other-big-names",
+      "original_link": "https://techcrunch.com/2026/01/28/ai-security-startup-outtake-raises-40m-from-iconiq-satya-nadella-bill-ackman-and-other-big-names/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-28T21:20:56.717706+00:00",
+      "word_count": 38
+    },
+    {
       "id": "993e17ef5514",
       "title": "YouTube&#8217;s top AI slop channels are disappearing",
       "slug": "youtube-s-top-ai-slop-channels-are-disappearing",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-09T09:18:52.499567+00:00",
       "word_count": 32
-    },
-    {
-      "id": "571709e3e171",
-      "title": "I watched LG\u2019s new home robot CLOid do laundry but I have questions",
-      "slug": "i-watched-lgs-new-home-robot-cloid-do-laundry-but-i-have-questions",
-      "original_link": "https://techcrunch.com/2026/01/08/i-watched-lgs-new-home-robot-cloid-do-laundry-but-i-have-questions/",
-      "original_source": "TechCrunch",
-      "topic": "Robotics",
-      "generated_at": "2026-01-09T02:55:55.761438+00:00",
-      "word_count": 50
-    },
-    {
-      "id": "bb1620397c03",
-      "title": "CES 2026: Everything revealed, from Nvidia\u2019s debuts to AMD\u2019s new chips to Razer\u2019s AI oddities",
-      "slug": "ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities",
-      "original_link": "https://techcrunch.com/2026/01/08/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-09T00:57:43.399554+00:00",
-      "word_count": 59
     }
   ],
-  "last_updated": "2026-01-28T20:54:07.574955+00:00",
+  "last_updated": "2026-01-28T21:20:57.711018+00:00",
   "version": "1.0.0"
 }
