@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "c0caef310280",
+      "title": "Microsoft gained $7.6B from OpenAI last quarter",
+      "slug": "microsoft-gained-7-6b-from-openai-last-quarter",
+      "original_link": "https://techcrunch.com/2026/01/28/microsoft-earnings-7-6-billion-openai/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-28T23:18:13.449827+00:00",
+      "word_count": 24
+    },
+    {
       "id": "2d92ecc5b003",
       "title": "Tesla discontinuing Model S and Model X to make room for robots",
       "slug": "tesla-discontinuing-model-s-and-model-x-to-make-room-for-robots",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-09T14:15:18.976782+00:00",
       "word_count": 54
-    },
-    {
-      "id": "5693948914be",
-      "title": "All the tech trends we saw at CES 2026",
-      "slug": "all-the-tech-trends-we-saw-at-ces-2026",
-      "original_link": "https://www.theverge.com/tech/859244/ces-2026-highlights-trends",
-      "original_source": "The Verge",
-      "topic": "Other",
-      "generated_at": "2026-01-09T13:52:45.920446+00:00",
-      "word_count": 69
     }
   ],
-  "last_updated": "2026-01-28T22:51:42.324288+00:00",
+  "last_updated": "2026-01-28T23:18:13.902175+00:00",
   "version": "1.0.0"
 }
