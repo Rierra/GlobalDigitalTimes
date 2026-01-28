@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "2d92ecc5b003",
+      "title": "Tesla discontinuing Model S and Model X to make room for robots",
+      "slug": "tesla-discontinuing-model-s-and-model-x-to-make-room-for-robots",
+      "original_link": "https://www.theverge.com/transportation/869872/tesla-model-s-model-x-discontinue-optimus-robot-factory",
+      "original_source": "The Verge",
+      "topic": "Robotics",
+      "generated_at": "2026-01-28T22:51:41.911767+00:00",
+      "word_count": 72
+    },
+    {
       "id": "3ab0f4a5a57b",
       "title": "Tesla invested $2B in Elon Musk\u2019s xAI",
       "slug": "tesla-invested-2b-in-elon-musks-xai",
@@ -4989,18 +4999,8 @@
       "topic": "Other",
       "generated_at": "2026-01-09T13:52:45.920446+00:00",
       "word_count": 69
-    },
-    {
-      "id": "2866684fc952",
-      "title": "No, Grok hasn&#8217;t paywalled its deepfake image feature",
-      "slug": "no-grok-hasn-t-paywalled-its-deepfake-image-feature",
-      "original_link": "https://www.theverge.com/news/859309/grok-undressing-limit-access-gaslighting",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-09T13:11:56.952497+00:00",
-      "word_count": 68
     }
   ],
-  "last_updated": "2026-01-28T22:18:20.714139+00:00",
+  "last_updated": "2026-01-28T22:51:42.324288+00:00",
   "version": "1.0.0"
 }
