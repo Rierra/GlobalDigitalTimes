@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "48a8ddd2eb7f",
+      "title": "Meta is spending millions to convince people that data centers are cool and you like them",
+      "slug": "meta-is-spending-millions-to-convince-people-that-data-centers-are-cool-and-you-like-them",
+      "original_link": "https://www.theverge.com/news/869008/meta-data-centers-ad-campaign",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-28T05:49:12.357276+00:00",
+      "word_count": 76
+    },
+    {
       "id": "7cac04ddb0c7",
       "title": "What you should know about the owners of US TikTok",
       "slug": "what-you-should-know-about-the-owners-of-us-tiktok",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-08T03:58:58.166890+00:00",
       "word_count": 26
-    },
-    {
-      "id": "3f47f28d8b1c",
-      "title": "Waymo is rebranding its Zeekr robotaxi",
-      "slug": "waymo-is-rebranding-its-zeekr-robotaxi",
-      "original_link": "https://techcrunch.com/2026/01/07/waymo-is-rebranding-its-zeekr-robotaxi/",
-      "original_source": "TechCrunch",
-      "topic": "Robotics",
-      "generated_at": "2026-01-08T02:54:51.888924+00:00",
-      "word_count": 14
     }
   ],
-  "last_updated": "2026-01-28T04:28:40.708125+00:00",
+  "last_updated": "2026-01-28T05:49:12.686204+00:00",
   "version": "1.0.0"
 }
