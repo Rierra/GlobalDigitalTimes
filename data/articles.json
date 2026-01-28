@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "025fd53d02db",
+      "title": "Mark Zuckerberg is all in on AI as the new social media",
+      "slug": "mark-zuckerberg-is-all-in-on-ai-as-the-new-social-media",
+      "original_link": "https://www.theverge.com/news/869882/mark-zuckerberg-meta-earnings-q4-2025",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-28T23:46:11.229202+00:00",
+      "word_count": 72
+    },
+    {
       "id": "c0caef310280",
       "title": "Microsoft gained $7.6B from OpenAI last quarter",
       "slug": "microsoft-gained-7-6b-from-openai-last-quarter",
@@ -4989,18 +4999,8 @@
       "topic": "Robotics",
       "generated_at": "2026-01-09T14:47:28.512702+00:00",
       "word_count": 76
-    },
-    {
-      "id": "60ea0b0cbb9c",
-      "title": "X restricts Grok\u2019s image generation to paying subscribers only after drawing the world\u2019s ire",
-      "slug": "x-restricts-groks-image-generation-to-paying-subscribers-only-after-drawing-the-worlds-ire",
-      "original_link": "https://techcrunch.com/2026/01/09/x-restricts-groks-image-generation-to-paying-subscribers-only-after-drawing-the-worlds-ire/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-09T14:15:18.976782+00:00",
-      "word_count": 54
     }
   ],
-  "last_updated": "2026-01-28T23:18:13.902175+00:00",
+  "last_updated": "2026-01-28T23:46:11.810229+00:00",
   "version": "1.0.0"
 }
