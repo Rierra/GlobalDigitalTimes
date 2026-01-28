@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "a23eb17d2bb6",
+      "title": "Google Photos brings its prompt-based editing feature to India, Australia and Japan",
+      "slug": "google-photos-brings-its-prompt-based-editing-feature-to-india-australia-and-japan",
+      "original_link": "https://techcrunch.com/2026/01/27/google-photos-brings-its-prompt-based-editing-feature-to-india-australia-and-japan/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-28T06:23:10.178304+00:00",
+      "word_count": 27
+    },
+    {
       "id": "48a8ddd2eb7f",
       "title": "Meta is spending millions to convince people that data centers are cool and you like them",
       "slug": "meta-is-spending-millions-to-convince-people-that-data-centers-are-cool-and-you-like-them",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-08T04:38:12.993161+00:00",
       "word_count": 73
-    },
-    {
-      "id": "5f3962113f3f",
-      "title": "Ford is getting ready to put AI assistants in its cars",
-      "slug": "ford-is-getting-ready-to-put-ai-assistants-in-its-cars",
-      "original_link": "https://arstechnica.com/cars/2026/01/in-car-ai-assistant-coming-to-fords-and-lincolns-in-2027/",
-      "original_source": "Ars Technica",
-      "topic": "AI",
-      "generated_at": "2026-01-08T03:58:58.166890+00:00",
-      "word_count": 26
     }
   ],
-  "last_updated": "2026-01-28T05:49:12.686204+00:00",
+  "last_updated": "2026-01-28T06:23:10.609238+00:00",
   "version": "1.0.0"
 }
