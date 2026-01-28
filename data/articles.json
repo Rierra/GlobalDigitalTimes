@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "3ab0f4a5a57b",
+      "title": "Tesla invested $2B in Elon Musk\u2019s xAI",
+      "slug": "tesla-invested-2b-in-elon-musks-xai",
+      "original_link": "https://techcrunch.com/2026/01/28/tesla-invested-2b-in-elon-musks-xai/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-28T22:18:20.412085+00:00",
+      "word_count": 24
+    },
+    {
+      "id": "a20fa8ae3692",
+      "title": "Angry Norfolk residents lose lawsuit to stop Flock license plate scanners",
+      "slug": "angry-norfolk-residents-lose-lawsuit-to-stop-flock-license-plate-scanners",
+      "original_link": "https://arstechnica.com/tech-policy/2026/01/angry-norfolk-residents-lose-lawsuit-to-stop-flock-license-plate-scanners/",
+      "original_source": "Ars Technica",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-28T22:18:19.596202+00:00",
+      "word_count": 23
+    },
+    {
       "id": "7b93d8fadb74",
       "title": "Google adds Gemini AI-powered \u2018auto browse\u2019 to Chrome",
       "slug": "google-adds-gemini-ai-powered-auto-browse-to-chrome",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-09T13:11:56.952497+00:00",
       "word_count": 68
-    },
-    {
-      "id": "e7945daffb79",
-      "title": "The Verge Awards at CES 2026",
-      "slug": "the-verge-awards-at-ces-2026",
-      "original_link": "https://www.theverge.com/tech/858494/ces-2026-best-new-tech-tv-car-wearable",
-      "original_source": "The Verge",
-      "topic": "Other",
-      "generated_at": "2026-01-09T12:23:26.691762+00:00",
-      "word_count": 66
-    },
-    {
-      "id": "17d831bddacf",
-      "title": "\u2018Physical AI\u2019 Is Coming for Your Car",
-      "slug": "physical-ai-is-coming-for-your-car",
-      "original_link": "https://www.wired.com/story/physical-ai-is-coming-for-your-car/",
-      "original_source": "Wired",
-      "topic": "AI",
-      "generated_at": "2026-01-09T11:38:39.926201+00:00",
-      "word_count": 23
     }
   ],
-  "last_updated": "2026-01-28T21:51:48.040076+00:00",
+  "last_updated": "2026-01-28T22:18:20.714139+00:00",
   "version": "1.0.0"
 }
