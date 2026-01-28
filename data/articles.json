@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "4b813c93bb83",
+      "title": "Standard Nuclear raises $140M as nuclear power enters its gold rush era",
+      "slug": "standard-nuclear-raises-140m-as-nuclear-power-enters-its-gold-rush-era",
+      "original_link": "https://techcrunch.com/2026/01/28/standard-nuclear-raises-140m-as-nuclear-power-enters-its-gold-rush-era/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-28T15:21:51.925205+00:00",
+      "word_count": 35
+    },
+    {
+      "id": "3fe53c8df1a0",
+      "title": "The AI infrastructure boom shows no sign of slowing down",
+      "slug": "the-ai-infrastructure-boom-shows-no-sign-of-slowing-down",
+      "original_link": "https://techcrunch.com/2026/01/28/the-ai-infrastructure-boom-shows-no-sign-of-slowing-down/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-28T15:21:51.279462+00:00",
+      "word_count": 26
+    },
+    {
       "id": "371739113e2e",
       "title": "Anthropic, Apple, OpenAI CEOs condemn ICE violence, praise Trump",
       "slug": "anthropic-apple-openai-ceos-condemn-ice-violence-praise-trump",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-08T17:19:48.734000+00:00",
       "word_count": 34
-    },
-    {
-      "id": "ad9ed04fa6fc",
-      "title": "Microsoft will put buy buttons directly in Copilot",
-      "slug": "microsoft-will-put-buy-buttons-directly-in-copilot",
-      "original_link": "https://www.theverge.com/news/858664/microsoft-copilot-ai-checkout-buy-products",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-08T17:19:48.005145+00:00",
-      "word_count": 68
-    },
-    {
-      "id": "5e11e47e1468",
-      "title": "OpenAI launches ChatGPT Health to review your medical records",
-      "slug": "openai-launches-chatgpt-health-to-review-your-medical-records",
-      "original_link": "https://www.bbc.com/news/articles/cpqy29d0yjgo?at_medium=RSS&at_campaign=rss",
-      "original_source": "BBC Technology",
-      "topic": "AI",
-      "generated_at": "2026-01-08T17:19:47.010408+00:00",
-      "word_count": 29
     }
   ],
-  "last_updated": "2026-01-28T14:54:46.454404+00:00",
+  "last_updated": "2026-01-28T15:21:52.202464+00:00",
   "version": "1.0.0"
 }
