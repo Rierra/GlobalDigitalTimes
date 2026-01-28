@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "7b93d8fadb74",
+      "title": "Google adds Gemini AI-powered \u2018auto browse\u2019 to Chrome",
+      "slug": "google-adds-gemini-ai-powered-auto-browse-to-chrome",
+      "original_link": "https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-28T21:51:47.681906+00:00",
+      "word_count": 68
+    },
+    {
+      "id": "c24ac9fbd48a",
+      "title": "ICE Is Using Palantir\u2019s AI Tools to Sort Through Tips",
+      "slug": "ice-is-using-palantirs-ai-tools-to-sort-through-tips",
+      "original_link": "https://www.wired.com/story/ice-is-using-palantirs-ai-tools-to-sort-through-tips/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-28T21:51:47.046347+00:00",
+      "word_count": 39
+    },
+    {
       "id": "e91e95c1751d",
       "title": "ServiceNow inks another AI partnership, this time with Anthropic",
       "slug": "servicenow-inks-another-ai-partnership-this-time-with-anthropic",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-09T11:38:39.926201+00:00",
       "word_count": 23
-    },
-    {
-      "id": "d40a04bc6e63",
-      "title": "Elon Musk's Grok AI image editing limited to paid users after deepfakes",
-      "slug": "elon-musk-s-grok-ai-image-editing-limited-to-paid-users-after-deepfakes",
-      "original_link": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
-      "original_source": "BBC Technology",
-      "topic": "AI",
-      "generated_at": "2026-01-09T09:18:53.264684+00:00",
-      "word_count": 38
-    },
-    {
-      "id": "7c96940739c9",
-      "title": "Anthropic adds Allianz to growing list of enterprise wins",
-      "slug": "anthropic-adds-allianz-to-growing-list-of-enterprise-wins",
-      "original_link": "https://techcrunch.com/2026/01/09/anthropic-adds-allianz-to-growing-list-of-enterprise-wins/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-09T09:18:52.499567+00:00",
-      "word_count": 32
     }
   ],
-  "last_updated": "2026-01-28T21:20:57.711018+00:00",
+  "last_updated": "2026-01-28T21:51:48.040076+00:00",
   "version": "1.0.0"
 }
