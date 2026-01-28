@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "ba923683eb58",
+      "title": "The crypto bill is falling apart in Congress",
+      "slug": "the-crypto-bill-is-falling-apart-in-congress",
+      "original_link": "https://www.theverge.com/column/868941/clarity-act-congress-shutdown",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-28T03:01:20.068840+00:00",
+      "word_count": 68
+    },
+    {
+      "id": "e77e95ad51e5",
+      "title": "TikTok users \u201cabsolutely justified\u201d for fearing MAGA makeover, experts say",
+      "slug": "tiktok-users-absolutely-justified-for-fearing-maga-makeover-experts-say",
+      "original_link": "https://arstechnica.com/tech-policy/2026/01/tiktok-claimed-bugs-blocked-anti-ice-videos-epstein-mentions-experts-call-bs/",
+      "original_source": "Ars Technica",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-28T03:01:19.499767+00:00",
+      "word_count": 26
+    },
+    {
       "id": "bca64bb21a56",
       "title": "AI boom will produce victors and carnage, tech boss warns",
       "slug": "ai-boom-will-produce-victors-and-carnage-tech-boss-warns",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-08T02:54:51.016757+00:00",
       "word_count": 30
-    },
-    {
-      "id": "8e9aed0bf940",
-      "title": "Inside the sub-zero lair of the world's most powerful computer",
-      "slug": "inside-the-sub-zero-lair-of-the-world-s-most-powerful-computer",
-      "original_link": "https://www.bbc.com/news/articles/c62r6dvpl5ro?at_medium=RSS&at_campaign=rss",
-      "original_source": "BBC Technology",
-      "topic": "AI",
-      "generated_at": "2026-01-08T00:58:26.106911+00:00",
-      "word_count": 25
-    },
-    {
-      "id": "fe73df594fba",
-      "title": "IWF finds sexual imagery of children which 'appears to have been' made by Grok",
-      "slug": "iwf-finds-sexual-imagery-of-children-which-appears-to-have-been-made-by-grok",
-      "original_link": "https://www.bbc.com/news/articles/cvg1mzlryxeo?at_medium=RSS&at_campaign=rss",
-      "original_source": "BBC Technology",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-07T23:13:24.307543+00:00",
-      "word_count": 36
     }
   ],
-  "last_updated": "2026-01-28T00:58:06.825563+00:00",
+  "last_updated": "2026-01-28T03:01:20.364974+00:00",
   "version": "1.0.0"
 }
