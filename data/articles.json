@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "id": "71d4ad0c6b05",
+      "title": "AI-Generated Anti-ICE Videos Are Getting the Fanfic Treatment",
+      "slug": "ai-generated-anti-ice-videos-are-getting-the-fanfic-treatment",
+      "original_link": "https://www.wired.com/story/anti-ice-videos-are-getting-the-ai-fanfic-treatment-online/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-29T19:49:05.007075+00:00",
+      "word_count": 38
+    },
+    {
+      "id": "30e4e6d6be61",
+      "title": "Elon Musk\u2019s SpaceX and xAI might merge into one company",
+      "slug": "elon-musks-spacex-and-xai-might-merge-into-one-company",
+      "original_link": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-29T19:49:04.147913+00:00",
+      "word_count": 70
+    },
+    {
+      "id": "1362e70fc2cf",
+      "title": "Elon Musk\u2019s SpaceX and xAI in talks to merge, report says",
+      "slug": "elon-musks-spacex-and-xai-in-talks-to-merge-report-says",
+      "original_link": "https://techcrunch.com/2026/01/29/elon-musk-spacex-xai-merger-talks-ipo-reuters/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-29T19:49:03.414903+00:00",
+      "word_count": 30
+    },
+    {
+      "id": "9e01b66a471e",
+      "title": "Apple\u2019s second biggest acquisition ever is an AI company that listens to \u2018silent speech\u2019",
+      "slug": "apples-second-biggest-acquisition-ever-is-an-ai-company-that-listens-to-silent-speech",
+      "original_link": "https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-29T19:49:02.665716+00:00",
+      "word_count": 74
+    },
+    {
       "id": "5d0bb34b3df1",
       "title": "New OpenAI tool renews fears that \u201cAI slop\u201d will overwhelm scientific research",
       "slug": "new-openai-tool-renews-fears-that-ai-slop-will-overwhelm-scientific-research",
@@ -4959,48 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2026-01-11T11:35:27.165205+00:00",
       "word_count": 33
-    },
-    {
-      "id": "39dcf8e0d217",
-      "title": "SpaceX gets FCC approval to launch 7,500 more Starlink satellites",
-      "slug": "spacex-gets-fcc-approval-to-launch-7500-more-starlink-satellites",
-      "original_link": "https://techcrunch.com/2026/01/10/spacex-gets-fcc-approval-to-launch-7500-more-starlink-satellites/",
-      "original_source": "TechCrunch",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-10T22:41:58.021490+00:00",
-      "word_count": 31
-    },
-    {
-      "id": "59fd0bb6ff27",
-      "title": "Musk says he&#8217;s going to open-source the new X algorithm next week",
-      "slug": "musk-says-he-s-going-to-open-source-the-new-x-algorithm-next-week",
-      "original_link": "https://www.theverge.com/news/860294/elon-musk-open-source-x-algorithm",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-10T22:11:08.307390+00:00",
-      "word_count": 72
-    },
-    {
-      "id": "af581abff509",
-      "title": "OpenAI is reportedly asking contractors to upload real work from past jobs",
-      "slug": "openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs",
-      "original_link": "https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-10T21:37:18.218411+00:00",
-      "word_count": 30
-    },
-    {
-      "id": "b95f7bb65504",
-      "title": "These smart home devices impressed me at CES 2026",
-      "slug": "these-smart-home-devices-impressed-me-at-ces-2026",
-      "original_link": "https://www.theverge.com/tech/860241/best-smart-home-devices-ces-2026-matter-ikea-aqara-amazon",
-      "original_source": "The Verge",
-      "topic": "Robotics",
-      "generated_at": "2026-01-10T21:37:17.494773+00:00",
-      "word_count": 69
     }
   ],
-  "last_updated": "2026-01-29T19:08:17.291482+00:00",
+  "last_updated": "2026-01-29T19:49:05.378961+00:00",
   "version": "1.0.0"
 }
