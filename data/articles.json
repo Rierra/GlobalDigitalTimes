@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "6af5e0a23766",
+      "title": "Driverless taxis set to launch in UK as soon as September",
+      "slug": "driverless-taxis-set-to-launch-in-uk-as-soon-as-september",
+      "original_link": "https://www.bbc.com/news/articles/czej9n578k9o?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "Robotics",
+      "generated_at": "2026-01-29T01:06:55.804012+00:00",
+      "word_count": 35
+    },
+    {
+      "id": "7513cb9c9e62",
+      "title": "Meta to 'dramatically change' with AI, Zuckerberg says",
+      "slug": "meta-to-dramatically-change-with-ai-zuckerberg-says",
+      "original_link": "https://www.bbc.com/news/articles/cn8jkyk78gno?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "AI",
+      "generated_at": "2026-01-29T01:06:55.001327+00:00",
+      "word_count": 28
+    },
+    {
       "id": "025fd53d02db",
       "title": "Mark Zuckerberg is all in on AI as the new social media",
       "slug": "mark-zuckerberg-is-all-in-on-ai-as-the-new-social-media",
@@ -4979,28 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2026-01-09T17:15:57.888987+00:00",
       "word_count": 74
-    },
-    {
-      "id": "cfde5c341033",
-      "title": "X Didn't Fix Grok's \u2018Undressing\u2019 Problem. It Just Makes People Pay for It",
-      "slug": "x-didn-t-fix-grok-s-undressing-problem-it-just-makes-people-pay-for-it",
-      "original_link": "https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/",
-      "original_source": "Wired",
-      "topic": "AI",
-      "generated_at": "2026-01-09T15:45:00.522537+00:00",
-      "word_count": 45
-    },
-    {
-      "id": "e45c6e472eb6",
-      "title": "The Vergecast Live at CES 2026: What is the point of a robot that falls over?",
-      "slug": "the-vergecast-live-at-ces-2026-what-is-the-point-of-a-robot-that-falls-over",
-      "original_link": "https://www.theverge.com/podcast/859370/ces-2026-best-tech-vergecast",
-      "original_source": "The Verge",
-      "topic": "Robotics",
-      "generated_at": "2026-01-09T14:47:28.512702+00:00",
-      "word_count": 76
     }
   ],
-  "last_updated": "2026-01-28T23:46:11.810229+00:00",
+  "last_updated": "2026-01-29T01:06:56.147089+00:00",
   "version": "1.0.0"
 }
