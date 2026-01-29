@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "5d0bb34b3df1",
+      "title": "New OpenAI tool renews fears that \u201cAI slop\u201d will overwhelm scientific research",
+      "slug": "new-openai-tool-renews-fears-that-ai-slop-will-overwhelm-scientific-research",
+      "original_link": "https://arstechnica.com/ai/2026/01/new-openai-tool-renews-fears-that-ai-slop-will-overwhelm-scientific-research/",
+      "original_source": "Ars Technica",
+      "topic": "AI",
+      "generated_at": "2026-01-29T19:08:16.894491+00:00",
+      "word_count": 32
+    },
+    {
+      "id": "9a8080eff042",
+      "title": "Apple buys Israeli startup QAI as the AI race heats up",
+      "slug": "apple-buys-israeli-startup-qai-as-the-ai-race-heats-up",
+      "original_link": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-29T19:08:15.978589+00:00",
+      "word_count": 34
+    },
+    {
       "id": "58fa4f115a55",
       "title": "Waymo robotaxis are now giving rides to and from San Francisco International Airport",
       "slug": "waymo-robotaxis-are-now-giving-rides-to-and-from-san-francisco-international-airport",
@@ -4979,28 +4999,8 @@
       "topic": "Robotics",
       "generated_at": "2026-01-10T21:37:17.494773+00:00",
       "word_count": 69
-    },
-    {
-      "id": "8a1ffd87729e",
-      "title": "The FCC is letting SpaceX launch 7,500 more Starlink satellites",
-      "slug": "the-fcc-is-letting-spacex-launch-7500-more-starlink-satellites",
-      "original_link": "https://www.theverge.com/news/860210/fcc-spacex-7500-more-starlink-satellites",
-      "original_source": "The Verge",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-10T21:10:22.438874+00:00",
-      "word_count": 70
-    },
-    {
-      "id": "4b72cad440c3",
-      "title": "Indonesia blocks Grok over non-consensual, sexualized deepfakes",
-      "slug": "indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes",
-      "original_link": "https://techcrunch.com/2026/01/10/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-10T20:12:23.508362+00:00",
-      "word_count": 24
     }
   ],
-  "last_updated": "2026-01-29T18:02:07.445929+00:00",
+  "last_updated": "2026-01-29T19:08:17.291482+00:00",
   "version": "1.0.0"
 }
