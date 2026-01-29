@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "eb4e7a2178ca",
+      "title": "Deezer makes it easier for rival platforms to take a stance against AI-generated music",
+      "slug": "deezer-makes-it-easier-for-rival-platforms-to-take-a-stance-against-ai-generated-music",
+      "original_link": "https://techcrunch.com/2026/01/29/deezer-makes-it-easier-for-rival-platforms-to-take-a-stance-against-ai-generated-music/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-29T08:35:51.869007+00:00",
+      "word_count": 73
+    },
+    {
       "id": "247d78d3ea1f",
       "title": "Zuckerberg teases agentic commerce tools and major AI rollout in 2026",
       "slug": "zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-09T20:14:06.431455+00:00",
       "word_count": 31
-    },
-    {
-      "id": "fca4830f84c0",
-      "title": "The latest on Grok&#8217;s gross AI deepfakes problem",
-      "slug": "the-latest-on-grok-s-gross-ai-deepfakes-problem",
-      "original_link": "https://www.theverge.com/news/859715/x-grok-ai-deepfakes",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-09T19:37:45.586237+00:00",
-      "word_count": 68
     }
   ],
-  "last_updated": "2026-01-29T05:00:48.412814+00:00",
+  "last_updated": "2026-01-29T08:35:52.246704+00:00",
   "version": "1.0.0"
 }
