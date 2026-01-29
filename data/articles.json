@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "21fe1c78fa6d",
+      "title": "Microsoft won\u2019t stop buying AI chips from Nvidia, AMD, even after launching its own, Nadella says",
+      "slug": "microsoft-wont-stop-buying-ai-chips-from-nvidia-amd-even-after-launching-its-own-nadella-says",
+      "original_link": "https://techcrunch.com/2026/01/29/microsoft-wont-stop-buying-ai-chips-from-nvidia-amd-even-after-launching-its-own-nadella-says/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-29T21:48:46.255176+00:00",
+      "word_count": 39
+    },
+    {
       "id": "8ff1ee9780bc",
       "title": "The AI Hype Index: Grok makes porn, and Claude Code nails your job",
       "slug": "the-ai-hype-index-grok-makes-porn-and-claude-code-nails-your-job",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-11T15:38:36.594270+00:00",
       "word_count": 70
-    },
-    {
-      "id": "745db865b4c2",
-      "title": "Indonesia and Malaysia block Grok over non-consensual, sexualized deepfakes",
-      "slug": "indonesia-and-malaysia-block-grok-over-non-consensual-sexualized-deepfakes",
-      "original_link": "https://techcrunch.com/2026/01/11/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-11T15:11:26.987646+00:00",
-      "word_count": 26
     }
   ],
-  "last_updated": "2026-01-29T21:17:42.241289+00:00",
+  "last_updated": "2026-01-29T21:48:46.669449+00:00",
   "version": "1.0.0"
 }
