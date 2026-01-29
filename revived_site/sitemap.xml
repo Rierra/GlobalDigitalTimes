@@ -7,6 +7,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.globaldigitaltimes.com/articles/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica.html</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.globaldigitaltimes.com/articles/waymo-robotaxi-hits-a-child-near-a-school-causing-minor-injuries.html</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.globaldigitaltimes.com/articles/this-chinese-startup-wants-to-build-a-new-brain-computer-interface-no-implant-required.html</loc>
     <lastmod>2026-01-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -2990,18 +3002,6 @@
   </url>
   <url>
     <loc>https://www.globaldigitaltimes.com/articles/x-accuses-music-publishers-of-weaponizing-dmca-takedowns.html</loc>
-    <lastmod>2026-01-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.globaldigitaltimes.com/articles/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities.html</loc>
-    <lastmod>2026-01-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.globaldigitaltimes.com/articles/tim-cook-and-sundar-pichai-are-cowards.html</loc>
     <lastmod>2026-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>

@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "94377593e9ed",
+      "title": "Waymo robotaxi hits a child near an elementary school in Santa Monica",
+      "slug": "waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica",
+      "original_link": "https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/",
+      "original_source": "TechCrunch",
+      "topic": "Robotics",
+      "generated_at": "2026-01-29T13:53:25.415168+00:00",
+      "word_count": 36
+    },
+    {
+      "id": "fdd8ff5469f5",
+      "title": "Waymo robotaxi hits a child near a school, causing minor injuries",
+      "slug": "waymo-robotaxi-hits-a-child-near-a-school-causing-minor-injuries",
+      "original_link": "https://www.theverge.com/transportation/869994/waymo-robotaxi-hits-child-school-santa-monica-nhtsa",
+      "original_source": "The Verge",
+      "topic": "Robotics",
+      "generated_at": "2026-01-29T13:53:24.626460+00:00",
+      "word_count": 71
+    },
+    {
       "id": "77148eb1206a",
       "title": "This Chinese Startup Wants to Build a New Brain-Computer Interface\u2014No Implant Required",
       "slug": "this-chinese-startup-wants-to-build-a-new-brain-computer-interface-no-implant-required",
@@ -4979,28 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2026-01-09T23:12:59.837254+00:00",
       "word_count": 68
-    },
-    {
-      "id": "62443e6d24a7",
-      "title": "CES 2026: Everything revealed, from Nvidia\u2019s debuts to AMD\u2019s new chips to Razer\u2019s AI oddities",
-      "slug": "ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities",
-      "original_link": "https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-09T22:42:54.074939+00:00",
-      "word_count": 59
-    },
-    {
-      "id": "46a647d8cb19",
-      "title": "Tim Cook and Sundar Pichai are cowards",
-      "slug": "tim-cook-and-sundar-pichai-are-cowards",
-      "original_link": "https://www.theverge.com/policy/859902/apple-google-run-by-cowards",
-      "original_source": "The Verge",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-09T21:39:37.368086+00:00",
-      "word_count": 67
     }
   ],
-  "last_updated": "2026-01-29T11:50:12.513669+00:00",
+  "last_updated": "2026-01-29T13:53:25.723891+00:00",
   "version": "1.0.0"
 }
