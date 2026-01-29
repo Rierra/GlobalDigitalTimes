@@ -7,6 +7,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.globaldigitaltimes.com/articles/googles-ai-helped-me-make-bad-nintendo-knockoffs.html</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.globaldigitaltimes.com/articles/i-built-marshmallow-castles-in-googles-new-ai-world-generator.html</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.globaldigitaltimes.com/articles/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think.html</loc>
     <lastmod>2026-01-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -2990,18 +3002,6 @@
   </url>
   <url>
     <loc>https://www.globaldigitaltimes.com/articles/we-tried-to-get-humanoid-robots-to-do-the-laundry.html</loc>
-    <lastmod>2026-01-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.globaldigitaltimes.com/articles/security-news-this-week-ice-can-now-spy-on-every-phone-in-your-neighborhood.html</loc>
-    <lastmod>2026-01-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.globaldigitaltimes.com/articles/spacex-gets-fcc-permission-to-launch-another-7500-starlink-satellites.html</loc>
     <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>

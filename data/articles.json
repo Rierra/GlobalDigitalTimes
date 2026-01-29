@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "9cda4d3519bf",
+      "title": "Google\u2019s AI helped me make bad Nintendo knockoffs",
+      "slug": "googles-ai-helped-me-make-bad-nintendo-knockoffs",
+      "original_link": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-29T17:29:49.029336+00:00",
+      "word_count": 68
+    },
+    {
+      "id": "664b87b36ed9",
+      "title": "I built marshmallow castles in Google\u2019s new AI world generator",
+      "slug": "i-built-marshmallow-castles-in-googles-new-ai-world-generator",
+      "original_link": "https://techcrunch.com/2026/01/29/i-built-marshmallow-castles-in-googles-new-ai-world-generator-project-genie/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-29T17:29:48.292813+00:00",
+      "word_count": 50
+    },
+    {
       "id": "49b290306899",
       "title": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?",
       "slug": "does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think",
@@ -4979,28 +4999,8 @@
       "topic": "Robotics",
       "generated_at": "2026-01-10T15:10:42.911209+00:00",
       "word_count": 70
-    },
-    {
-      "id": "5dead23e3b26",
-      "title": "Security News This Week: ICE Can Now Spy on Every Phone in Your Neighborhood",
-      "slug": "security-news-this-week-ice-can-now-spy-on-every-phone-in-your-neighborhood",
-      "original_link": "https://www.wired.com/story/security-news-this-week-ice-can-now-spy-on-every-phone-in-your-neighborhood/",
-      "original_source": "Wired",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-10T12:20:51.049468+00:00",
-      "word_count": 36
-    },
-    {
-      "id": "274ac2228a57",
-      "title": "SpaceX gets FCC permission to launch another 7,500 Starlink satellites",
-      "slug": "spacex-gets-fcc-permission-to-launch-another-7500-starlink-satellites",
-      "original_link": "https://arstechnica.com/tech-policy/2026/01/spacex-gets-fcc-permission-to-launch-another-7500-starlink-satellites/",
-      "original_source": "Ars Technica",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-10T04:52:08.947836+00:00",
-      "word_count": 24
     }
   ],
-  "last_updated": "2026-01-29T16:42:24.540059+00:00",
+  "last_updated": "2026-01-29T17:29:49.364416+00:00",
   "version": "1.0.0"
 }
