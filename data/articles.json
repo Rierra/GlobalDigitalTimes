@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "6ce5fb18223d",
+      "title": "Amazon is reportedly in talks to invest $50 billion in OpenAI",
+      "slug": "amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai",
+      "original_link": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-29T22:17:29.106666+00:00",
+      "word_count": 32
+    },
+    {
       "id": "21fe1c78fa6d",
       "title": "Microsoft won\u2019t stop buying AI chips from Nvidia, AMD, even after launching its own, Nadella says",
       "slug": "microsoft-wont-stop-buying-ai-chips-from-nvidia-amd-even-after-launching-its-own-nadella-says",
@@ -4989,18 +4999,8 @@
       "topic": "Robotics",
       "generated_at": "2026-01-11T16:13:30.426303+00:00",
       "word_count": 29
-    },
-    {
-      "id": "1bfdf897f0b5",
-      "title": "Google\u2019s AI Inbox could be a glimpse of Gmail\u2019s future",
-      "slug": "googles-ai-inbox-could-be-a-glimpse-of-gmails-future",
-      "original_link": "https://www.theverge.com/tech/859864/google-gmail-ai-inbox-hands-on",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-11T15:38:36.594270+00:00",
-      "word_count": 70
     }
   ],
-  "last_updated": "2026-01-29T21:48:46.669449+00:00",
+  "last_updated": "2026-01-29T22:17:29.549783+00:00",
   "version": "1.0.0"
 }
