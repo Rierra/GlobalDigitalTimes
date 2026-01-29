@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "11771d7002c2",
+      "title": "Sen. Warren pushes Altman for guarantee OpenAI isn\u2019t seeking government bailout",
+      "slug": "sen-warren-pushes-altman-for-guarantee-openai-isnt-seeking-government-bailout",
+      "original_link": "https://www.theverge.com/news/869983/elizabeth-warren-openai-sam-altman-bailout-letter",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-29T15:25:47.803158+00:00",
+      "word_count": 71
+    },
+    {
       "id": "6274faa649f5",
       "title": "Google Maps now lets you access Gemini while walking and cycling",
       "slug": "google-maps-now-lets-you-access-gemini-while-walking-and-cycling",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-10T00:55:35.513030+00:00",
       "word_count": 30
-    },
-    {
-      "id": "8844480850dc",
-      "title": "Google moonshot spinout SandboxAQ claims an ex-exec is attempting \u2018extortion\u2019",
-      "slug": "google-moonshot-spinout-sandboxaq-claims-an-ex-exec-is-attempting-extortion",
-      "original_link": "https://techcrunch.com/2026/01/09/google-moonshot-spinout-sandboxaq-claims-an-ex-exec-is-attempting-extortion/",
-      "original_source": "TechCrunch",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-10T00:55:34.794199+00:00",
-      "word_count": 32
     }
   ],
-  "last_updated": "2026-01-29T14:32:08.627924+00:00",
+  "last_updated": "2026-01-29T15:25:48.456916+00:00",
   "version": "1.0.0"
 }
