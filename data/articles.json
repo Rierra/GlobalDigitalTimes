@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "58fa4f115a55",
+      "title": "Waymo robotaxis are now giving rides to and from San Francisco International Airport",
+      "slug": "waymo-robotaxis-are-now-giving-rides-to-and-from-san-francisco-international-airport",
+      "original_link": "https://techcrunch.com/2026/01/29/waymo-sfo-airport-robotaxis/",
+      "original_source": "TechCrunch",
+      "topic": "Robotics",
+      "generated_at": "2026-01-29T18:02:06.951873+00:00",
+      "word_count": 26
+    },
+    {
       "id": "9cda4d3519bf",
       "title": "Google\u2019s AI helped me make bad Nintendo knockoffs",
       "slug": "googles-ai-helped-me-make-bad-nintendo-knockoffs",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-10T20:12:23.508362+00:00",
       "word_count": 24
-    },
-    {
-      "id": "22299e4d3804",
-      "title": "We tried to get humanoid robots to do the laundry",
-      "slug": "we-tried-to-get-humanoid-robots-to-do-the-laundry",
-      "original_link": "https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry",
-      "original_source": "The Verge",
-      "topic": "Robotics",
-      "generated_at": "2026-01-10T15:10:42.911209+00:00",
-      "word_count": 70
     }
   ],
-  "last_updated": "2026-01-29T17:29:49.364416+00:00",
+  "last_updated": "2026-01-29T18:02:07.445929+00:00",
   "version": "1.0.0"
 }
