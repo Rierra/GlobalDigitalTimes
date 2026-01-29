@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "77148eb1206a",
+      "title": "This Chinese Startup Wants to Build a New Brain-Computer Interface\u2014No Implant Required",
+      "slug": "this-chinese-startup-wants-to-build-a-new-brain-computer-interface-no-implant-required",
+      "original_link": "https://www.wired.com/story/this-chinese-startup-wants-to-build-a-new-brain-computer-interface-no-implant-required-gestalta/",
+      "original_source": "Wired",
+      "topic": "Other",
+      "generated_at": "2026-01-29T11:50:12.187519+00:00",
+      "word_count": 38
+    },
+    {
+      "id": "6177caaae7b0",
+      "title": "UK bans Coinbase ads implying crypto can ease cost of living concerns",
+      "slug": "uk-bans-coinbase-ads-implying-crypto-can-ease-cost-of-living-concerns",
+      "original_link": "https://www.bbc.com/news/articles/cx2yv31482vo?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-29T11:50:11.579928+00:00",
+      "word_count": 30
+    },
+    {
       "id": "eb4e7a2178ca",
       "title": "Deezer makes it easier for rival platforms to take a stance against AI-generated music",
       "slug": "deezer-makes-it-easier-for-rival-platforms-to-take-a-stance-against-ai-generated-music",
@@ -4979,28 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2026-01-09T21:39:37.368086+00:00",
       "word_count": 67
-    },
-    {
-      "id": "e4049fda810e",
-      "title": "Cloudflare defies Italy\u2019s Piracy Shield, won\u2019t block websites on 1.1.1.1 DNS",
-      "slug": "cloudflare-defies-italys-piracy-shield-wont-block-websites-on-1-1-1-1-dns",
-      "original_link": "https://arstechnica.com/tech-policy/2026/01/cloudflare-may-pull-servers-out-of-italy-over-order-that-it-block-pirate-sites/",
-      "original_source": "Ars Technica",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-09T20:44:31.442520+00:00",
-      "word_count": 29
-    },
-    {
-      "id": "166b26c8548f",
-      "title": "How the Sleepbuds maker, Ozlo, is building a platform for sleep data",
-      "slug": "how-the-sleepbuds-maker-ozlo-is-building-a-platform-for-sleep-data",
-      "original_link": "https://techcrunch.com/2026/01/09/how-the-sleepbuds-maker-ozlo-is-building-a-platform-for-sleep-data/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-09T20:14:06.431455+00:00",
-      "word_count": 31
     }
   ],
-  "last_updated": "2026-01-29T08:35:52.246704+00:00",
+  "last_updated": "2026-01-29T11:50:12.513669+00:00",
   "version": "1.0.0"
 }
