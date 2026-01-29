@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "49b290306899",
+      "title": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?",
+      "slug": "does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think",
+      "original_link": "https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/",
+      "original_source": "Ars Technica",
+      "topic": "AI",
+      "generated_at": "2026-01-29T16:42:24.211489+00:00",
+      "word_count": 38
+    },
+    {
+      "id": "7815c1d515a6",
+      "title": "Deezer opens its AI music detection tool to other platforms",
+      "slug": "deezer-opens-its-ai-music-detection-tool-to-other-platforms",
+      "original_link": "https://www.theverge.com/news/870186/deezer-ai-music-detection-commercially-available",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-29T16:42:23.551897+00:00",
+      "word_count": 70
+    },
+    {
+      "id": "c475207b48ff",
+      "title": "Music publishers sue Anthropic for $3B over \u2018flagrant piracy\u2019 of 20,000 works",
+      "slug": "music-publishers-sue-anthropic-for-3b-over-flagrant-piracy-of-20000-works",
+      "original_link": "https://techcrunch.com/2026/01/29/music-publishers-sue-anthropic-for-3b-over-flagrant-piracy-of-20000-works/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-29T16:42:22.744314+00:00",
+      "word_count": 33
+    },
+    {
       "id": "904324d998b5",
       "title": "India is teaching Google how AI in education can scale",
       "slug": "india-is-teaching-google-how-ai-in-education-can-scale",
@@ -4969,38 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2026-01-10T04:52:08.947836+00:00",
       "word_count": 24
-    },
-    {
-      "id": "578665fc0313",
-      "title": "I met a lot of weird robots at CES \u2014 here are the most memorable",
-      "slug": "i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable",
-      "original_link": "https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/",
-      "original_source": "TechCrunch",
-      "topic": "Robotics",
-      "generated_at": "2026-01-10T04:26:07.890655+00:00",
-      "word_count": 50
-    },
-    {
-      "id": "c2b232316560",
-      "title": "Grok Is Being Used to Mock and Strip Women in Hijabs and Saris",
-      "slug": "grok-is-being-used-to-mock-and-strip-women-in-hijabs-and-saris",
-      "original_link": "https://www.wired.com/story/grok-is-being-used-to-mock-and-strip-women-in-hijabs-and-sarees/",
-      "original_source": "Wired",
-      "topic": "AI",
-      "generated_at": "2026-01-10T03:52:42.893581+00:00",
-      "word_count": 35
-    },
-    {
-      "id": "b380d6eb9fd7",
-      "title": "OpenAI Is Asking Contractors to Upload Work From Past Jobs to Evaluate the Performance of AI Agents",
-      "slug": "openai-is-asking-contractors-to-upload-work-from-past-jobs-to-evaluate-the-performance-of-ai-agents",
-      "original_link": "https://www.wired.com/story/openai-contractor-upload-real-work-documents-ai-agents/",
-      "original_source": "Wired",
-      "topic": "AI",
-      "generated_at": "2026-01-10T02:47:30.265529+00:00",
-      "word_count": 50
     }
   ],
-  "last_updated": "2026-01-29T15:58:37.717588+00:00",
+  "last_updated": "2026-01-29T16:42:24.540059+00:00",
   "version": "1.0.0"
 }
