@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "1a5c0e67f101",
+      "title": "Satya Nadella insists people are using Microsoft\u2019s Copilot AI a lot",
+      "slug": "satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot",
+      "original_link": "https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-29T20:51:43.929149+00:00",
+      "word_count": 38
+    },
+    {
       "id": "3ba5bb182159",
       "title": "Tesla kills Models S and X to build humanoid robots instead",
       "slug": "tesla-kills-models-s-and-x-to-build-humanoid-robots-instead",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-11T15:11:26.137646+00:00",
       "word_count": 29
-    },
-    {
-      "id": "301bafb1ffa5",
-      "title": "Will you have to show your ID at the app store?",
-      "slug": "will-you-have-to-show-your-id-at-the-app-store",
-      "original_link": "https://www.theverge.com/column/859351/age-verification-app-stores",
-      "original_source": "The Verge",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-11T13:05:31.038661+00:00",
-      "word_count": 71
     }
   ],
-  "last_updated": "2026-01-29T20:19:42.576574+00:00",
+  "last_updated": "2026-01-29T20:51:44.361750+00:00",
   "version": "1.0.0"
 }
