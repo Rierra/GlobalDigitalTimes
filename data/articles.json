@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "247d78d3ea1f",
+      "title": "Zuckerberg teases agentic commerce tools and major AI rollout in 2026",
+      "slug": "zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026",
+      "original_link": "https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-29T05:00:47.990799+00:00",
+      "word_count": 28
+    },
+    {
       "id": "b194d992ed2b",
       "title": "Tesla profit tanked 46% in 2025",
       "slug": "tesla-profit-tanked-46-in-2025",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-09T19:37:45.586237+00:00",
       "word_count": 68
-    },
-    {
-      "id": "db9a1bf7d732",
-      "title": "Meta expands nuclear power ambitions to include Bill Gates&#8217; startup",
-      "slug": "meta-expands-nuclear-power-ambitions-to-include-bill-gates-startup",
-      "original_link": "https://www.theverge.com/news/859751/meta-nuclear-energy-plant-agreements-ai-data-centers",
-      "original_source": "The Verge",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-09T19:14:46.762374+00:00",
-      "word_count": 70
     }
   ],
-  "last_updated": "2026-01-29T03:37:56.750429+00:00",
+  "last_updated": "2026-01-29T05:00:48.412814+00:00",
   "version": "1.0.0"
 }
