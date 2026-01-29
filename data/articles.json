@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "id": "b194d992ed2b",
+      "title": "Tesla profit tanked 46% in 2025",
+      "slug": "tesla-profit-tanked-46-in-2025",
+      "original_link": "https://techcrunch.com/2026/01/28/tesla-earnings-profit-q4-2025/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-29T03:37:56.491002+00:00",
+      "word_count": 39
+    },
+    {
+      "id": "a82cfbced0af",
+      "title": "Tesla sees first annual revenue drop as it shifts to AI and robots",
+      "slug": "tesla-sees-first-annual-revenue-drop-as-it-shifts-to-ai-and-robots",
+      "original_link": "https://www.bbc.com/news/articles/c620177qdg5o?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "AI",
+      "generated_at": "2026-01-29T03:37:55.962614+00:00",
+      "word_count": 34
+    },
+    {
+      "id": "73feedc88fc1",
+      "title": "Tesla says production-ready Optimus robot is coming soon",
+      "slug": "tesla-says-production-ready-optimus-robot-is-coming-soon",
+      "original_link": "https://www.theverge.com/transportation/869746/tesla-optimus-gen-3-q1-2026-earnings",
+      "original_source": "The Verge",
+      "topic": "Robotics",
+      "generated_at": "2026-01-29T03:37:55.204913+00:00",
+      "word_count": 68
+    },
+    {
+      "id": "e1cfd90a9f5d",
+      "title": "SpaceX sends list of demands to US states giving broadband grants to Starlink",
+      "slug": "spacex-sends-list-of-demands-to-us-states-giving-broadband-grants-to-starlink",
+      "original_link": "https://arstechnica.com/tech-policy/2026/01/starlink-demands-grant-money-from-states-even-when-residents-dont-buy-service/",
+      "original_source": "Ars Technica",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-29T03:37:54.517886+00:00",
+      "word_count": 28
+    },
+    {
       "id": "6af5e0a23766",
       "title": "Driverless taxis set to launch in UK as soon as September",
       "slug": "driverless-taxis-set-to-launch-in-uk-as-soon-as-september",
@@ -4959,48 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2026-01-09T19:14:46.762374+00:00",
       "word_count": 70
-    },
-    {
-      "id": "2a21fbe1d2db",
-      "title": "Baldur&#8217;s Gate 3 studio says it won&#8217;t use AI for concept art or writing",
-      "slug": "baldur-s-gate-3-studio-says-it-won-t-use-ai-for-concept-art-or-writing",
-      "original_link": "https://www.theverge.com/games/859551/baldurs-gate-3-larian-studios-gen-ai-concept-art-reddit-ama",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-09T18:52:50.449835+00:00",
-      "word_count": 74
-    },
-    {
-      "id": "0ab2178ad54d",
-      "title": "Black Mirror has been renewed for another season",
-      "slug": "black-mirror-has-been-renewed-for-another-season",
-      "original_link": "https://www.theverge.com/streaming/859699/netflix-black-mirror-season-8",
-      "original_source": "The Verge",
-      "topic": "Other",
-      "generated_at": "2026-01-09T18:18:37.902730+00:00",
-      "word_count": 68
-    },
-    {
-      "id": "9a2ea034162b",
-      "title": "Watch: Backlash against Musk's Grok AI explained",
-      "slug": "watch-backlash-against-musk-s-grok-ai-explained",
-      "original_link": "https://www.bbc.com/news/videos/c8x94zr8yxvo?at_medium=RSS&at_campaign=rss",
-      "original_source": "BBC Technology",
-      "topic": "AI",
-      "generated_at": "2026-01-09T17:45:41.416308+00:00",
-      "word_count": 36
-    },
-    {
-      "id": "9b38d78a056b",
-      "title": "Democrats ask Apple and Google to remove X\u2019s undressing bot from their app stores",
-      "slug": "democrats-ask-apple-and-google-to-remove-xs-undressing-bot-from-their-app-stores",
-      "original_link": "https://www.theverge.com/news/859631/democrats-x-grok-apple-google-app-store",
-      "original_source": "The Verge",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-09T17:15:57.888987+00:00",
-      "word_count": 74
     }
   ],
-  "last_updated": "2026-01-29T01:06:56.147089+00:00",
+  "last_updated": "2026-01-29T03:37:56.750429+00:00",
   "version": "1.0.0"
 }
