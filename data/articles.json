@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "6274faa649f5",
+      "title": "Google Maps now lets you access Gemini while walking and cycling",
+      "slug": "google-maps-now-lets-you-access-gemini-while-walking-and-cycling",
+      "original_link": "https://techcrunch.com/2026/01/29/google-maps-now-lets-you-access-gemini-while-walking-and-cycling/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-29T14:32:08.273730+00:00",
+      "word_count": 40
+    },
+    {
+      "id": "30522e57805a",
+      "title": "Google agrees to $135 million settlement for collecting Android users\u2019 data",
+      "slug": "google-agrees-to-135-million-settlement-for-collecting-android-users-data",
+      "original_link": "https://www.theverge.com/tech/870056/google-cellular-data-lawsuit-settlement",
+      "original_source": "The Verge",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-29T14:32:07.551854+00:00",
+      "word_count": 71
+    },
+    {
       "id": "94377593e9ed",
       "title": "Waymo robotaxi hits a child near an elementary school in Santa Monica",
       "slug": "waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica",
@@ -4979,28 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2026-01-10T00:55:34.794199+00:00",
       "word_count": 32
-    },
-    {
-      "id": "2fb033e952de",
-      "title": "AI is coming for collectibles next",
-      "slug": "ai-is-coming-for-collectibles-next",
-      "original_link": "https://www.theverge.com/tech/859994/ai-collectibles-funko-pops-amiibo-buddyo-heymates-ces-2026",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-09T23:38:48.757567+00:00",
-      "word_count": 66
-    },
-    {
-      "id": "297116866324",
-      "title": "X accuses music publishers of &#8216;weaponizing&#8217; DMCA takedowns",
-      "slug": "x-accuses-music-publishers-of-weaponizing-dmca-takedowns",
-      "original_link": "https://www.theverge.com/news/860013/x-nmpa-music-publishers-dmca-antitrust-lawsuit",
-      "original_source": "The Verge",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-09T23:12:59.837254+00:00",
-      "word_count": 68
     }
   ],
-  "last_updated": "2026-01-29T13:53:25.723891+00:00",
+  "last_updated": "2026-01-29T14:32:08.627924+00:00",
   "version": "1.0.0"
 }

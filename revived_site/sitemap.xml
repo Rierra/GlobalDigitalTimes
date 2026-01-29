@@ -7,6 +7,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.globaldigitaltimes.com/articles/google-maps-now-lets-you-access-gemini-while-walking-and-cycling.html</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.globaldigitaltimes.com/articles/google-agrees-to-135-million-settlement-for-collecting-android-users-data.html</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.globaldigitaltimes.com/articles/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica.html</loc>
     <lastmod>2026-01-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -2991,18 +3003,6 @@
   <url>
     <loc>https://www.globaldigitaltimes.com/articles/google-moonshot-spinout-sandboxaq-claims-an-ex-exec-is-attempting-extortion.html</loc>
     <lastmod>2026-01-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.globaldigitaltimes.com/articles/ai-is-coming-for-collectibles-next.html</loc>
-    <lastmod>2026-01-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.globaldigitaltimes.com/articles/x-accuses-music-publishers-of-weaponizing-dmca-takedowns.html</loc>
-    <lastmod>2026-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
