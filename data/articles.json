@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "904324d998b5",
+      "title": "India is teaching Google how AI in education can scale",
+      "slug": "india-is-teaching-google-how-ai-in-education-can-scale",
+      "original_link": "https://techcrunch.com/2026/01/29/india-is-teaching-google-how-ai-in-education-can-scale/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-29T15:58:37.382970+00:00",
+      "word_count": 36
+    },
+    {
       "id": "11771d7002c2",
       "title": "Sen. Warren pushes Altman for guarantee OpenAI isn\u2019t seeking government bailout",
       "slug": "sen-warren-pushes-altman-for-guarantee-openai-isnt-seeking-government-bailout",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-10T02:47:30.265529+00:00",
       "word_count": 50
-    },
-    {
-      "id": "f2fc705b8d6d",
-      "title": "Google: Don\u2019t make \u201cbite-sized\u201d content for LLMs if you care about search rank",
-      "slug": "google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank",
-      "original_link": "https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/",
-      "original_source": "Ars Technica",
-      "topic": "AI",
-      "generated_at": "2026-01-10T00:55:35.513030+00:00",
-      "word_count": 30
     }
   ],
-  "last_updated": "2026-01-29T15:25:48.456916+00:00",
+  "last_updated": "2026-01-29T15:58:37.717588+00:00",
   "version": "1.0.0"
 }
