@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "3ba5bb182159",
+      "title": "Tesla kills Models S and X to build humanoid robots instead",
+      "slug": "tesla-kills-models-s-and-x-to-build-humanoid-robots-instead",
+      "original_link": "https://arstechnica.com/cars/2026/01/tesla-kills-models-s-and-x-to-build-humanoid-robots-instead/",
+      "original_source": "Ars Technica",
+      "topic": "Robotics",
+      "generated_at": "2026-01-29T20:19:42.141556+00:00",
+      "word_count": 26
+    },
+    {
       "id": "71d4ad0c6b05",
       "title": "AI-Generated Anti-ICE Videos Are Getting the Fanfic Treatment",
       "slug": "ai-generated-anti-ice-videos-are-getting-the-fanfic-treatment",
@@ -4989,18 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2026-01-11T13:05:31.038661+00:00",
       "word_count": 71
-    },
-    {
-      "id": "daedc6819bec",
-      "title": "Google employee made redundant after reporting sexual harassment, court hears",
-      "slug": "google-employee-made-redundant-after-reporting-sexual-harassment-court-hears",
-      "original_link": "https://www.bbc.com/news/articles/c62v51d1ry2o?at_medium=RSS&at_campaign=rss",
-      "original_source": "BBC Technology",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-11T11:35:27.165205+00:00",
-      "word_count": 33
     }
   ],
-  "last_updated": "2026-01-29T19:49:05.378961+00:00",
+  "last_updated": "2026-01-29T20:19:42.576574+00:00",
   "version": "1.0.0"
 }
