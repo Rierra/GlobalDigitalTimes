@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "19aba800d1cf",
+      "title": "He calls me sweetheart and winks at me - but he's not my boyfriend, he's AI",
+      "slug": "he-calls-me-sweetheart-and-winks-at-me-but-he-s-not-my-boyfriend-he-s-ai",
+      "original_link": "https://www.bbc.com/news/articles/c62njv82n0wo?at_medium=RSS&at_campaign=rss",
+      "original_source": "BBC Technology",
+      "topic": "AI",
+      "generated_at": "2026-01-30T10:01:57.903451+00:00",
+      "word_count": 35
+    },
+    {
       "id": "432c89d00a25",
       "title": "DHS is using Google and Adobe AI to make videos",
       "slug": "dhs-is-using-google-and-adobe-ai-to-make-videos",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-12T11:40:44.165742+00:00",
       "word_count": 32
-    },
-    {
-      "id": "ece729d08ad6",
-      "title": "Grok banned over explicit deepfakes today",
-      "slug": "grok-banned-over-explicit-deepfakes-today",
-      "original_link": "https://www.bbc.com/news/articles/cg7y10xm4x2o?at_medium=RSS&at_campaign=rss",
-      "original_source": "BBC Technology",
-      "topic": "AI",
-      "generated_at": "2026-01-12T03:08:11.105732+00:00",
-      "word_count": 25
     }
   ],
-  "last_updated": "2026-01-30T03:38:39.806412+00:00",
+  "last_updated": "2026-01-30T10:01:58.288897+00:00",
   "version": "1.0.0"
 }
