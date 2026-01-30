@@ -7,6 +7,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.globaldigitaltimes.com/articles/uber-is-literally-in-the-drivers-seat-when-it-comes-to-av-bets.html</loc>
+    <lastmod>2026-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.globaldigitaltimes.com/articles/theres-a-social-network-for-ai-agents-and-its-getting-weird.html</loc>
+    <lastmod>2026-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.globaldigitaltimes.com/articles/anthropic-brings-agentic-plugins-to-cowork.html</loc>
     <lastmod>2026-01-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -2990,18 +3002,6 @@
   </url>
   <url>
     <loc>https://www.globaldigitaltimes.com/articles/democrats-should-reject-tech-influence-to-win-elections-warren-says.html</loc>
-    <lastmod>2026-01-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.globaldigitaltimes.com/articles/uk-to-bring-into-force-law-this-week-to-tackle-grok-ai-deepfakes.html</loc>
-    <lastmod>2026-01-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.globaldigitaltimes.com/articles/googles-gemini-to-power-apples-ai-features-like-siri.html</loc>
     <lastmod>2026-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>

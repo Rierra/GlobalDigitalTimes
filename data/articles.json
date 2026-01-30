@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "a77ef39ae322",
+      "title": "Uber is literally in the driver\u2019s seat when it comes to AV bets",
+      "slug": "uber-is-literally-in-the-drivers-seat-when-it-comes-to-av-bets",
+      "original_link": "https://techcrunch.com/video/uber-is-literally-in-the-drivers-seat-when-it-comes-to-av-bets/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-30T19:25:01.626126+00:00",
+      "word_count": 72
+    },
+    {
+      "id": "a26315f34d98",
+      "title": "There\u2019s a social network for AI agents, and it\u2019s getting weird",
+      "slug": "theres-a-social-network-for-ai-agents-and-its-getting-weird",
+      "original_link": "https://www.theverge.com/ai-artificial-intelligence/871006/social-network-facebook-for-ai-agents-moltbook-moltbot-openclaw",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-30T19:25:00.959162+00:00",
+      "word_count": 71
+    },
+    {
       "id": "ccdb51f82bd1",
       "title": "Anthropic brings agentic plugins to Cowork",
       "slug": "anthropic-brings-agentic-plugins-to-cowork",
@@ -4979,28 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2026-01-12T18:54:07.124694+00:00",
       "word_count": 70
-    },
-    {
-      "id": "b9941802873e",
-      "title": "UK to bring into force law this week to tackle Grok AI deepfakes",
-      "slug": "uk-to-bring-into-force-law-this-week-to-tackle-grok-ai-deepfakes",
-      "original_link": "https://www.bbc.com/news/articles/cq845glnvl1o?at_medium=RSS&at_campaign=rss",
-      "original_source": "BBC Technology",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-12T17:42:47.961993+00:00",
-      "word_count": 35
-    },
-    {
-      "id": "3d226d70d4e3",
-      "title": "Google\u2019s Gemini to power Apple\u2019s AI features like Siri",
-      "slug": "googles-gemini-to-power-apples-ai-features-like-siri",
-      "original_link": "https://techcrunch.com/2026/01/12/googles-gemini-to-power-apples-ai-features-like-siri/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-12T17:16:35.338122+00:00",
-      "word_count": 37
     }
   ],
-  "last_updated": "2026-01-30T18:32:39.633424+00:00",
+  "last_updated": "2026-01-30T19:25:02.050335+00:00",
   "version": "1.0.0"
 }
