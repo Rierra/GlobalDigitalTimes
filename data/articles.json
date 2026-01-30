@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "cb43ed623960",
+      "title": "Silicon Valley Tech Workers Are Campaigning to Get ICE Out of US Cities",
+      "slug": "silicon-valley-tech-workers-are-campaigning-to-get-ice-out-of-us-cities",
+      "original_link": "https://www.wired.com/story/the-big-interview-podcast-ice-out-tech/",
+      "original_source": "Wired",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-30T11:50:54.794498+00:00",
+      "word_count": 44
+    },
+    {
       "id": "19aba800d1cf",
       "title": "He calls me sweetheart and winks at me - but he's not my boyfriend, he's AI",
       "slug": "he-calls-me-sweetheart-and-winks-at-me-but-he-s-not-my-boyfriend-he-s-ai",
@@ -4989,18 +4999,8 @@
       "topic": "Other",
       "generated_at": "2026-01-12T12:25:50.570851+00:00",
       "word_count": 9
-    },
-    {
-      "id": "7081d5722881",
-      "title": "Ofcom investigates Elon Musk's X over Grok AI sexual deepfakes",
-      "slug": "ofcom-investigates-elon-musk-s-x-over-grok-ai-sexual-deepfakes",
-      "original_link": "https://www.bbc.com/news/articles/cwy875j28k0o?at_medium=RSS&at_campaign=rss",
-      "original_source": "BBC Technology",
-      "topic": "AI",
-      "generated_at": "2026-01-12T11:40:44.165742+00:00",
-      "word_count": 32
     }
   ],
-  "last_updated": "2026-01-30T10:01:58.288897+00:00",
+  "last_updated": "2026-01-30T11:50:55.153529+00:00",
   "version": "1.0.0"
 }
