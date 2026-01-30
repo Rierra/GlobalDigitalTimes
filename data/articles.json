@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "f0a5e7a4b8f2",
+      "title": "The best robot vacuum and mop to buy right now",
+      "slug": "the-best-robot-vacuum-and-mop-to-buy-right-now",
+      "original_link": "https://www.theverge.com/tech/625409/best-robot-vacuum-mops",
+      "original_source": "The Verge",
+      "topic": "Robotics",
+      "generated_at": "2026-01-30T16:28:10.151625+00:00",
+      "word_count": 70
+    },
+    {
       "id": "1aae0573f845",
       "title": "Tesla throws in the towel on car sales",
       "slug": "tesla-throws-in-the-towel-on-car-sales",
@@ -4989,18 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2026-01-12T14:18:53.965116+00:00",
       "word_count": 67
-    },
-    {
-      "id": "dae3c3589bd7",
-      "title": "Harmattan AI raises $200M Series B led by Dassault Aviation, becomes defense unicorn",
-      "slug": "harmattan-ai-raises-200m-series-b-led-by-dassault-aviation-becomes-defense-unicorn",
-      "original_link": "https://techcrunch.com/2026/01/12/harmattan-ai-raises-200m-series-b-led-by-dassault-aviation-becomes-defense-unicorn/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-12T14:18:53.206483+00:00",
-      "word_count": 50
     }
   ],
-  "last_updated": "2026-01-30T15:55:57.935830+00:00",
+  "last_updated": "2026-01-30T16:28:10.772173+00:00",
   "version": "1.0.0"
 }
