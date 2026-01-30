@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "8728d710f9cb",
+      "title": "Dyson\u2019s powerful 360 Vis Nav robot vacuum is nearly 75 percent off today",
+      "slug": "dysons-powerful-360-vis-nav-robot-vacuum-is-nearly-75-percent-off-today",
+      "original_link": "https://www.theverge.com/gadgets/870256/dyson-360-vis-nav-robot-vacuum-lego-lotr-balrog-deal-sale",
+      "original_source": "The Verge",
+      "topic": "Robotics",
+      "generated_at": "2026-01-30T20:18:08.632615+00:00",
+      "word_count": 73
+    },
+    {
       "id": "a77ef39ae322",
       "title": "Uber is literally in the driver\u2019s seat when it comes to AV bets",
       "slug": "uber-is-literally-in-the-drivers-seat-when-it-comes-to-av-bets",
@@ -4989,18 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2026-01-12T19:14:05.664375+00:00",
       "word_count": 48
-    },
-    {
-      "id": "f2224fbe9b50",
-      "title": "Democrats should reject tech influence to win elections, Warren says",
-      "slug": "democrats-should-reject-tech-influence-to-win-elections-warren-says",
-      "original_link": "https://www.theverge.com/news/860706/democrats-elections-big-tech-influence-senator-warren",
-      "original_source": "The Verge",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-12T18:54:07.124694+00:00",
-      "word_count": 70
     }
   ],
-  "last_updated": "2026-01-30T19:25:02.050335+00:00",
+  "last_updated": "2026-01-30T20:18:09.246620+00:00",
   "version": "1.0.0"
 }
