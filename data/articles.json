@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "5764aaa50aa7",
+      "title": "The Download: US immigration agencies\u2019 AI videos, and inside the Vitalism movement",
+      "slug": "the-download-us-immigration-agencies-ai-videos-and-inside-the-vitalism-movement",
+      "original_link": "https://www.technologyreview.com/2026/01/30/1132022/the-download-us-immigration-agencies-ai-videos-and-inside-the-vitalism-movement/",
+      "original_source": "MIT Technology Review",
+      "topic": "AI",
+      "generated_at": "2026-01-30T13:46:58.579751+00:00",
+      "word_count": 74
+    },
+    {
       "id": "cb43ed623960",
       "title": "Silicon Valley Tech Workers Are Campaigning to Get ICE Out of US Cities",
       "slug": "silicon-valley-tech-workers-are-campaigning-to-get-ice-out-of-us-cities",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-12T13:13:57.825178+00:00",
       "word_count": 69
-    },
-    {
-      "id": "9c767a967928",
-      "title": "10 Breakthrough Technologies 2026",
-      "slug": "10-breakthrough-technologies-2026",
-      "original_link": "https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026/",
-      "original_source": "MIT Technology Review",
-      "topic": "Other",
-      "generated_at": "2026-01-12T12:25:50.570851+00:00",
-      "word_count": 9
     }
   ],
-  "last_updated": "2026-01-30T11:50:55.153529+00:00",
+  "last_updated": "2026-01-30T13:46:59.585536+00:00",
   "version": "1.0.0"
 }
