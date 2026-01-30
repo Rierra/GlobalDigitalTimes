@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "1aae0573f845",
+      "title": "Tesla throws in the towel on car sales",
+      "slug": "tesla-throws-in-the-towel-on-car-sales",
+      "original_link": "https://www.theverge.com/transportation/870332/tesla-throws-in-the-towel-on-car-sales",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-30T15:55:57.446040+00:00",
+      "word_count": 68
+    },
+    {
       "id": "d8b8bd41ce1d",
       "title": "I wear lots of technology for a living, ask me anything",
       "slug": "i-wear-lots-of-technology-for-a-living-ask-me-anything",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-12T14:18:53.206483+00:00",
       "word_count": 50
-    },
-    {
-      "id": "8d58b3755dbd",
-      "title": "The Download: introducing this year\u2019s 10 Breakthrough Technologies",
-      "slug": "the-download-introducing-this-years-10-breakthrough-technologies",
-      "original_link": "https://www.technologyreview.com/2026/01/12/1131176/the-download-introducing-this-years-10-breakthrough-technologies/",
-      "original_source": "MIT Technology Review",
-      "topic": "Other",
-      "generated_at": "2026-01-12T13:56:26.837775+00:00",
-      "word_count": 68
     }
   ],
-  "last_updated": "2026-01-30T14:27:04.886385+00:00",
+  "last_updated": "2026-01-30T15:55:57.935830+00:00",
   "version": "1.0.0"
 }
