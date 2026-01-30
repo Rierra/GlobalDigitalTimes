@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "f21d75d9d543",
+      "title": "After Minneapolis, Tech CEOs Are Struggling to Stay Silent",
+      "slug": "after-minneapolis-tech-ceos-are-struggling-to-stay-silent",
+      "original_link": "https://www.wired.com/story/after-minneapolis-tech-ceos-are-struggling-to-stay-silent/",
+      "original_source": "Wired",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-30T17:56:31.109365+00:00",
+      "word_count": 38
+    },
+    {
+      "id": "00def0c4f591",
+      "title": "Bluesky issues its first transparency report, noting rise in user reports and legal demands",
+      "slug": "bluesky-issues-its-first-transparency-report-noting-rise-in-user-reports-and-legal-demands",
+      "original_link": "https://techcrunch.com/2026/01/30/bluesky-issues-its-first-transparency-report-noting-rise-in-user-reports-and-legal-demands/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-30T17:56:30.360679+00:00",
+      "word_count": 38
+    },
+    {
       "id": "10f31883a878",
       "title": "Russian hackers breached Polish power grid thanks to bad security, report says",
       "slug": "russian-hackers-breached-polish-power-grid-thanks-to-bad-security-report-says",
@@ -4979,28 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2026-01-12T16:51:12.331366+00:00",
       "word_count": 72
-    },
-    {
-      "id": "d8c3c1edd587",
-      "title": "Amazon has started automatically upgrading Prime members to Alexa Plus",
-      "slug": "amazon-has-started-automatically-upgrading-prime-members-to-alexa-plus",
-      "original_link": "https://www.theverge.com/news/860581/amazon-prime-alexa-plus-automatic-upgrade",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-12T16:51:11.003190+00:00",
-      "word_count": 70
-    },
-    {
-      "id": "f8cff1cc5f8d",
-      "title": "Luminar lines up $22 million bidder for its lidar business",
-      "slug": "luminar-lines-up-22-million-bidder-for-its-lidar-business",
-      "original_link": "https://techcrunch.com/2026/01/12/luminar-lines-up-22-million-bidder-for-its-lidar-business/",
-      "original_source": "TechCrunch",
-      "topic": "Robotics",
-      "generated_at": "2026-01-12T15:47:42.283862+00:00",
-      "word_count": 37
     }
   ],
-  "last_updated": "2026-01-30T17:06:14.627790+00:00",
+  "last_updated": "2026-01-30T17:56:31.512705+00:00",
   "version": "1.0.0"
 }
