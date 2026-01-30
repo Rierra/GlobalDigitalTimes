@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "d8b8bd41ce1d",
+      "title": "I wear lots of technology for a living, ask me anything",
+      "slug": "i-wear-lots-of-technology-for-a-living-ask-me-anything",
+      "original_link": "https://www.theverge.com/column/870394/i-wear-lots-of-technology-for-a-living-ask-me-anything",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-30T14:27:04.396340+00:00",
+      "word_count": 71
+    },
+    {
       "id": "5764aaa50aa7",
       "title": "The Download: US immigration agencies\u2019 AI videos, and inside the Vitalism movement",
       "slug": "the-download-us-immigration-agencies-ai-videos-and-inside-the-vitalism-movement",
@@ -4989,18 +4999,8 @@
       "topic": "Other",
       "generated_at": "2026-01-12T13:56:26.837775+00:00",
       "word_count": 68
-    },
-    {
-      "id": "865073813275",
-      "title": "Google brings buy buttons to Gemini and AI search",
-      "slug": "google-brings-buy-buttons-to-gemini-and-ai-search",
-      "original_link": "https://www.theverge.com/news/860446/google-ai-shopping-standard-buy-button-gemini",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-12T13:13:57.825178+00:00",
-      "word_count": 69
     }
   ],
-  "last_updated": "2026-01-30T13:46:59.585536+00:00",
+  "last_updated": "2026-01-30T14:27:04.886385+00:00",
   "version": "1.0.0"
 }
