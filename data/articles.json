@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "432c89d00a25",
+      "title": "DHS is using Google and Adobe AI to make videos",
+      "slug": "dhs-is-using-google-and-adobe-ai-to-make-videos",
+      "original_link": "https://www.technologyreview.com/2026/01/29/1131938/dhs-is-using-google-and-adobe-ai-to-make-videos/",
+      "original_source": "MIT Technology Review",
+      "topic": "AI",
+      "generated_at": "2026-01-30T03:38:39.354499+00:00",
+      "word_count": 70
+    },
+    {
+      "id": "ad4a0dcc184d",
+      "title": "Google Project Genie lets you create interactive worlds from a photo or prompt",
+      "slug": "google-project-genie-lets-you-create-interactive-worlds-from-a-photo-or-prompt",
+      "original_link": "https://arstechnica.com/google/2026/01/google-project-genie-lets-you-create-interactive-worlds-from-a-photo-or-prompt/",
+      "original_source": "Ars Technica",
+      "topic": "AI",
+      "generated_at": "2026-01-30T03:38:38.413777+00:00",
+      "word_count": 37
+    },
+    {
       "id": "618b34ae3aca",
       "title": "How often do AI chatbots lead users down a harmful path?",
       "slug": "how-often-do-ai-chatbots-lead-users-down-a-harmful-path",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-12T03:08:11.105732+00:00",
       "word_count": 25
-    },
-    {
-      "id": "bf615d203336",
-      "title": "Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service",
-      "slug": "motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service",
-      "original_link": "https://techcrunch.com/2026/01/11/motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-12T01:00:21.947436+00:00",
-      "word_count": 35
-    },
-    {
-      "id": "9a66dc0dbf63",
-      "title": "Google pulls AI overviews for some medical searches",
-      "slug": "google-pulls-ai-overviews-for-some-medical-searches",
-      "original_link": "https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-11T19:34:19.695415+00:00",
-      "word_count": 68
     }
   ],
-  "last_updated": "2026-01-30T01:06:20.489188+00:00",
+  "last_updated": "2026-01-30T03:38:39.806412+00:00",
   "version": "1.0.0"
 }
