@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "d875752dccd9",
+      "title": "I Let Google's \u2018Auto Browse\u2019 AI Agent Take Over Chrome. It Didn't Quite Click",
+      "slug": "i-let-google-s-auto-browse-ai-agent-take-over-chrome-it-didn-t-quite-click",
+      "original_link": "https://www.wired.com/story/google-chrome-auto-browse-hands-on/",
+      "original_source": "Wired",
+      "topic": "AI",
+      "generated_at": "2026-01-30T20:52:28.380887+00:00",
+      "word_count": 37
+    },
+    {
       "id": "8728d710f9cb",
       "title": "Dyson\u2019s powerful 360 Vis Nav robot vacuum is nearly 75 percent off today",
       "slug": "dysons-powerful-360-vis-nav-robot-vacuum-is-nearly-75-percent-off-today",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-12T19:38:31.959179+00:00",
       "word_count": 73
-    },
-    {
-      "id": "bb4a26666710",
-      "title": "GoFundMe Ignores Own Rules by Hosting a Legal-Defense Fund for the ICE Agent Who Killed Renee Good",
-      "slug": "gofundme-ignores-own-rules-by-hosting-a-legal-defense-fund-for-the-ice-agent-who-killed-renee-good",
-      "original_link": "https://www.wired.com/story/gofundme-ice-jonathan-ross-renee-good-fundraiser/",
-      "original_source": "Wired",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-12T19:14:05.664375+00:00",
-      "word_count": 48
     }
   ],
-  "last_updated": "2026-01-30T20:18:09.246620+00:00",
+  "last_updated": "2026-01-30T20:52:29.033169+00:00",
   "version": "1.0.0"
 }
