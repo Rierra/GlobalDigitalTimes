@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "10f31883a878",
+      "title": "Russian hackers breached Polish power grid thanks to bad security, report says",
+      "slug": "russian-hackers-breached-polish-power-grid-thanks-to-bad-security-report-says",
+      "original_link": "https://techcrunch.com/2026/01/30/russian-hackers-breached-polish-power-grid-thanks-to-bad-security-report-says/",
+      "original_source": "TechCrunch",
+      "topic": "Tech Policy",
+      "generated_at": "2026-01-30T17:06:14.227550+00:00",
+      "word_count": 36
+    },
+    {
+      "id": "e213f1f0b45b",
+      "title": "Inside the marketplace powering bespoke AI deepfakes of real women",
+      "slug": "inside-the-marketplace-powering-bespoke-ai-deepfakes-of-real-women",
+      "original_link": "https://www.technologyreview.com/2026/01/30/1131945/inside-the-marketplace-powering-bespoke-ai-deepfakes-of-real-women/",
+      "original_source": "MIT Technology Review",
+      "topic": "AI",
+      "generated_at": "2026-01-30T17:06:13.604935+00:00",
+      "word_count": 70
+    },
+    {
       "id": "f0a5e7a4b8f2",
       "title": "The best robot vacuum and mop to buy right now",
       "slug": "the-best-robot-vacuum-and-mop-to-buy-right-now",
@@ -4979,28 +4999,8 @@
       "topic": "Robotics",
       "generated_at": "2026-01-12T15:47:42.283862+00:00",
       "word_count": 37
-    },
-    {
-      "id": "7db9cda93b11",
-      "title": "Apple picks Google\u2019s Gemini AI for its big Siri upgrade",
-      "slug": "apple-picks-googles-gemini-ai-for-its-big-siri-upgrade",
-      "original_link": "https://www.theverge.com/news/860521/apple-siri-google-gemini-ai-personalization",
-      "original_source": "The Verge",
-      "topic": "AI",
-      "generated_at": "2026-01-12T15:47:41.620815+00:00",
-      "word_count": 70
-    },
-    {
-      "id": "cda2af2dbe82",
-      "title": "Securing digital assets as crypto crime surges",
-      "slug": "securing-digital-assets-as-crypto-crime-surges",
-      "original_link": "https://www.technologyreview.com/2026/01/12/1129479/securing-digital-assets-as-crypto-crime-surges/",
-      "original_source": "MIT Technology Review",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-12T14:18:53.965116+00:00",
-      "word_count": 67
     }
   ],
-  "last_updated": "2026-01-30T16:28:10.772173+00:00",
+  "last_updated": "2026-01-30T17:06:14.627790+00:00",
   "version": "1.0.0"
 }
