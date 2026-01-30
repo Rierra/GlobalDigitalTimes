@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "1d09a0621d61",
+      "title": "OpenClaw\u2019s AI assistants are now building their own social network",
+      "slug": "openclaws-ai-assistants-are-now-building-their-own-social-network",
+      "original_link": "https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-30T23:45:57.124832+00:00",
+      "word_count": 42
+    },
+    {
       "id": "c6e1d1fe92f4",
       "title": "Video game company stock prices dip after Google introduces an AI world-generation tool",
       "slug": "video-game-company-stock-prices-dip-after-google-introduces-an-ai-world-generation-tool",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-12T19:38:33.653312+00:00",
       "word_count": 42
-    },
-    {
-      "id": "74b3344c92f5",
-      "title": "Apps like Grok are explicitly banned under Google\u2019s rules\u2014why is it still in the Play Store?",
-      "slug": "apps-like-grok-are-explicitly-banned-under-googles-rules-why-is-it-still-in-the-play-store",
-      "original_link": "https://arstechnica.com/google/2026/01/apps-like-grok-are-explicitly-banned-under-googles-rules-why-is-it-still-in-the-play-store/",
-      "original_source": "Ars Technica",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-12T19:38:32.915263+00:00",
-      "word_count": 34
     }
   ],
-  "last_updated": "2026-01-30T22:50:00.743484+00:00",
+  "last_updated": "2026-01-30T23:45:57.664028+00:00",
   "version": "1.0.0"
 }
