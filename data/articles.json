@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "ccdb51f82bd1",
+      "title": "Anthropic brings agentic plugins to Cowork",
+      "slug": "anthropic-brings-agentic-plugins-to-cowork",
+      "original_link": "https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-30T18:32:39.206678+00:00",
+      "word_count": 49
+    },
+    {
       "id": "f21d75d9d543",
       "title": "After Minneapolis, Tech CEOs Are Struggling to Stay Silent",
       "slug": "after-minneapolis-tech-ceos-are-struggling-to-stay-silent",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-12T17:16:35.338122+00:00",
       "word_count": 37
-    },
-    {
-      "id": "57fec8b95ce6",
-      "title": "A New Jersey lawsuit shows how hard it is to fight deepfake porn",
-      "slug": "a-new-jersey-lawsuit-shows-how-hard-it-is-to-fight-deepfake-porn",
-      "original_link": "https://techcrunch.com/2026/01/12/a-new-jersey-lawsuit-shows-how-hard-it-is-to-fight-deepfake-porn/",
-      "original_source": "TechCrunch",
-      "topic": "Tech Policy",
-      "generated_at": "2026-01-12T16:51:12.331366+00:00",
-      "word_count": 72
     }
   ],
-  "last_updated": "2026-01-30T17:56:31.512705+00:00",
+  "last_updated": "2026-01-30T18:32:39.633424+00:00",
   "version": "1.0.0"
 }
