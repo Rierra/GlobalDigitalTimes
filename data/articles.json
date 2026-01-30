@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "618b34ae3aca",
+      "title": "How often do AI chatbots lead users down a harmful path?",
+      "slug": "how-often-do-ai-chatbots-lead-users-down-a-harmful-path",
+      "original_link": "https://arstechnica.com/ai/2026/01/how-often-do-ai-chatbots-lead-users-down-a-harmful-path/",
+      "original_source": "Ars Technica",
+      "topic": "AI",
+      "generated_at": "2026-01-30T01:06:19.955498+00:00",
+      "word_count": 25
+    },
+    {
+      "id": "480fa6dd21f7",
+      "title": "Guys, I don\u2019t think Tim Cook knows how to monetize AI",
+      "slug": "guys-i-dont-think-tim-cook-knows-how-to-monetize-ai",
+      "original_link": "https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/",
+      "original_source": "TechCrunch",
+      "topic": "AI",
+      "generated_at": "2026-01-30T01:06:19.070334+00:00",
+      "word_count": 37
+    },
+    {
       "id": "8f0eea186e84",
       "title": "Elon Musk\u2019s SpaceX, Tesla, and xAI in talks to merge, according to reports",
       "slug": "elon-musks-spacex-tesla-and-xai-in-talks-to-merge-according-to-reports",
@@ -4979,28 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-11T19:34:19.695415+00:00",
       "word_count": 68
-    },
-    {
-      "id": "01a97c6a708d",
-      "title": "Google removes AI Overviews for certain medical queries",
-      "slug": "google-removes-ai-overviews-for-certain-medical-queries",
-      "original_link": "https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-11T18:17:11.107537+00:00",
-      "word_count": 32
-    },
-    {
-      "id": "703787a49803",
-      "title": "Wing\u2019s drone delivery is coming to 150 more Walmarts",
-      "slug": "wings-drone-delivery-is-coming-to-150-more-walmarts",
-      "original_link": "https://www.theverge.com/tech/859724/wing-walmart-drone-delivery-expansion-2027",
-      "original_source": "The Verge",
-      "topic": "Robotics",
-      "generated_at": "2026-01-11T16:45:10.779199+00:00",
-      "word_count": 69
     }
   ],
-  "last_updated": "2026-01-29T22:52:06.099163+00:00",
+  "last_updated": "2026-01-30T01:06:20.489188+00:00",
   "version": "1.0.0"
 }
