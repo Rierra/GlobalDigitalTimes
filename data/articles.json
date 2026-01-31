@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "0206aedfdc70",
+      "title": "Physical Intelligence, Stripe veteran Lachy Groom\u2019s latest bet, is building Silicon Valley\u2019s buzziest robot brains",
+      "slug": "physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains",
+      "original_link": "https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/",
+      "original_source": "TechCrunch",
+      "topic": "Robotics",
+      "generated_at": "2026-01-31T01:03:26.482432+00:00",
+      "word_count": 56
+    },
+    {
       "id": "1d09a0621d61",
       "title": "OpenClaw\u2019s AI assistants are now building their own social network",
       "slug": "openclaws-ai-assistants-are-now-building-their-own-social-network",
@@ -4989,18 +4999,8 @@
       "topic": "AI",
       "generated_at": "2026-01-12T20:14:52.906589+00:00",
       "word_count": 35
-    },
-    {
-      "id": "01810619a384",
-      "title": "Anthropic\u2019s new Cowork tool offers Claude Code without the code",
-      "slug": "anthropics-new-cowork-tool-offers-claude-code-without-the-code",
-      "original_link": "https://techcrunch.com/2026/01/12/anthropics-new-cowork-tool-offers-claude-code-without-the-code/",
-      "original_source": "TechCrunch",
-      "topic": "AI",
-      "generated_at": "2026-01-12T19:38:33.653312+00:00",
-      "word_count": 42
     }
   ],
-  "last_updated": "2026-01-30T23:45:57.664028+00:00",
+  "last_updated": "2026-01-31T01:03:26.936732+00:00",
   "version": "1.0.0"
 }
