@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "f3e0bc60a817",
+      "title": "ChatGPT isn\u2019t the only chatbot pulling answers from Elon Musk\u2019s Grokipedia",
+      "slug": "chatgpt-isnt-the-only-chatbot-pulling-answers-from-elon-musks-grokipedia",
+      "original_link": "https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia",
+      "original_source": "The Verge",
+      "topic": "AI",
+      "generated_at": "2026-01-31T13:14:07.520813+00:00",
+      "word_count": 71
+    },
+    {
       "id": "0206aedfdc70",
       "title": "Physical Intelligence, Stripe veteran Lachy Groom\u2019s latest bet, is building Silicon Valley\u2019s buzziest robot brains",
       "slug": "physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains",
@@ -4989,18 +4999,8 @@
       "topic": "Tech Policy",
       "generated_at": "2026-01-12T20:14:53.747406+00:00",
       "word_count": 72
-    },
-    {
-      "id": "711b779e2068",
-      "title": "What a new law and an investigation could mean for Grok AI deepfakes",
-      "slug": "what-a-new-law-and-an-investigation-could-mean-for-grok-ai-deepfakes",
-      "original_link": "https://www.bbc.com/news/articles/ckgvx88md4do?at_medium=RSS&at_campaign=rss",
-      "original_source": "BBC Technology",
-      "topic": "AI",
-      "generated_at": "2026-01-12T20:14:52.906589+00:00",
-      "word_count": 35
     }
   ],
-  "last_updated": "2026-01-31T01:03:26.936732+00:00",
+  "last_updated": "2026-01-31T13:14:07.936157+00:00",
   "version": "1.0.0"
 }
